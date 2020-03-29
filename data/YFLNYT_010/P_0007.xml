@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Dr. Sandra Weber, president of the American Association of Clinical Endocrinologists, said the coronavirus outbreak had made it immediately clear how much Americans rely on medical specialists.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="86~90" text="said" category="VBD" />
+<VERB id="V1" spans="120~124" text="made" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="made" />
+</TAGS>
+</TemporalRelationTask>

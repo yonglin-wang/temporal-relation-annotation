@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Sanders, the runner-up in the 2016 primaries, may loom largest over the next Democratic race. He is already planning his first return trip to early-voting Iowa in July, and plans to be the keynote speaker at the convention of a social justice organization that works closely with his political group, Our Revolution.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="54~58" text="loom" category="VB" />
+<VERB id="V1" spans="101~103" text="is" category="VBZ" />
+<VERB id="V2" spans="112~120" text="planning" category="VBG" />
+<VERB id="V3" spans="186~188" text="be" category="VB" />
+<VERB id="V4" spans="265~270" text="works" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="loom" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="loom" toID="V2" toText="planning" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="loom" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="loom" toID="V4" toText="works" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="is" toID="V2" toText="planning" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="is" toID="V3" toText="be" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V4" toText="works" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="planning" toID="V3" toText="be" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="planning" toID="V4" toText="works" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="be" toID="V4" toText="works" />
+</TAGS>
+</TemporalRelationTask>

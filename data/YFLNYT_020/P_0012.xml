@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Afghan officials, who were left out of preliminary peace talks between the Taliban and American negotiators, are similarly flummoxed about the embassy’s plans for the future, given the uncertainty of what the negotiations will yield.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~31" text="left" category="VBN" />
+<VERB id="V1" spans="109~112" text="are" category="VBP" />
+<VERB id="V2" spans="123~132" text="flummoxed" category="VBN" />
+<VERB id="V3" spans="175~180" text="given" category="VBN" />
+<VERB id="V4" spans="227~232" text="yield" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="left" toID="V1" toText="are" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="left" toID="V2" toText="flummoxed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="left" toID="V3" toText="given" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="left" toID="V4" toText="yield" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="are" toID="V2" toText="flummoxed" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="are" toID="V3" toText="given" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="are" toID="V4" toText="yield" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="flummoxed" toID="V3" toText="given" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="flummoxed" toID="V4" toText="yield" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="given" toID="V4" toText="yield" />
+</TAGS>
+</TemporalRelationTask>

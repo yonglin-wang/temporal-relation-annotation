@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The future role of the American Embassy in Kabul is tied to the fate of the peace process and a military withdrawal, even as violence continues.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="52~56" text="tied" category="VBN" />
+<VERB id="V1" spans="134~143" text="continues" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="tied" toID="V1" toText="continues" />
+</TAGS>
+</TemporalRelationTask>

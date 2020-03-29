@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Within the Democratic Party, the generational tension has played out most vividly through the contest between Mr. Biden and Mr. Sanders. But it is fundamentally about young voters’ sense that they are living in an entirely different world than their parents, and that politicians — or at least the ones winning elections — aren’t acknowledging it.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="58~64" text="played" category="VBN" />
+<VERB id="V1" spans="144~146" text="is" category="VBZ" />
+<VERB id="V2" spans="179~180" text="’" category="VBP" />
+<VERB id="V3" spans="201~207" text="living" category="VBG" />
+<VERB id="V4" spans="280~281" text="—" category="VBP" />
+<VERB id="V5" spans="303~310" text="winning" category="VBG" />
+<VERB id="V6" spans="321~322" text="—" category="VBP" />
+<VERB id="V7" spans="330~343" text="acknowledging" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="played" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="played" toID="V2" toText="’" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="played" toID="V3" toText="living" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="played" toID="V4" toText="—" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="played" toID="V5" toText="winning" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="played" toID="V6" toText="—" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="played" toID="V7" toText="acknowledging" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V2" toText="’" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V3" toText="living" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V4" toText="—" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V5" toText="winning" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V6" toText="—" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="is" toID="V7" toText="acknowledging" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="’" toID="V3" toText="living" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="’" toID="V4" toText="—" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="’" toID="V5" toText="winning" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="’" toID="V6" toText="—" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="’" toID="V7" toText="acknowledging" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="living" toID="V4" toText="—" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="living" toID="V5" toText="winning" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="living" toID="V6" toText="—" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="living" toID="V7" toText="acknowledging" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="—" toID="V5" toText="winning" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="—" toID="V6" toText="—" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="—" toID="V7" toText="acknowledging" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="winning" toID="V6" toText="—" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="winning" toID="V7" toText="acknowledging" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="—" toID="V7" toText="acknowledging" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Washing your hands with hot soap and water, 20 seconds, is just as good as any lotion you can buy,” Mr. Pence said at a briefing this month, the kind of direction he often gave with a paternally calm presence.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="57~59" text="is" category="VBZ" />
+<VERB id="V1" spans="95~98" text="buy" category="VB" />
+<VERB id="V2" spans="111~115" text="said" category="VBD" />
+<VERB id="V3" spans="173~177" text="gave" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="buy" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="gave" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="buy" toID="V2" toText="said" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="buy" toID="V3" toText="gave" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="gave" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Politically, Mr. Brinkley said, the new posture made sense. “He can claim credit for the curve flattening at some point,” he said, “and hope people will be afraid to push a leader out of office if the crisis pushes into the fall.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="26~30" text="said" category="VBD" />
+<VERB id="V1" spans="48~52" text="made" category="VBN" />
+<VERB id="V2" spans="68~73" text="claim" category="VB" />
+<VERB id="V3" spans="125~129" text="said" category="VBD" />
+<VERB id="V4" spans="136~140" text="hope" category="VBP" />
+<VERB id="V5" spans="153~155" text="be" category="VB" />
+<VERB id="V6" spans="166~170" text="push" category="VB" />
+<VERB id="V7" spans="208~214" text="pushes" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="made" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="claim" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="hope" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="be" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="push" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="pushes" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="made" toID="V2" toText="claim" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="made" toID="V3" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="made" toID="V4" toText="hope" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="made" toID="V5" toText="be" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="made" toID="V6" toText="push" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="made" toID="V7" toText="pushes" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="claim" toID="V3" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="claim" toID="V4" toText="hope" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="claim" toID="V5" toText="be" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="claim" toID="V6" toText="push" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="claim" toID="V7" toText="pushes" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="said" toID="V4" toText="hope" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="said" toID="V5" toText="be" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="said" toID="V6" toText="push" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V7" toText="pushes" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="hope" toID="V5" toText="be" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="hope" toID="V6" toText="push" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="hope" toID="V7" toText="pushes" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="be" toID="V6" toText="push" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="be" toID="V7" toText="pushes" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="push" toID="V7" toText="pushes" />
+</TAGS>
+</TemporalRelationTask>

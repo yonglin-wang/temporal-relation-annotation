@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As Democratic leaders reassess their party’s mission and long-term strategy after the election of Donald J. Trump to the White House, Mr. Cuomo seems eager to quickly position himself as a different sort of Northeast liberal, one capable of building things beyond a social agenda — and remaking a persona that has long rubbed some of his colleagues and voters the wrong way.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~30" text="reassess" category="VBP" />
+<VERB id="V1" spans="144~149" text="seems" category="VBZ" />
+<VERB id="V2" spans="286~294" text="remaking" category="VBG" />
+<VERB id="V3" spans="310~313" text="has" category="VBZ" />
+<VERB id="V4" spans="319~325" text="rubbed" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="reassess" toID="V1" toText="seems" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="reassess" toID="V2" toText="remaking" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="reassess" toID="V3" toText="has" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="reassess" toID="V4" toText="rubbed" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="seems" toID="V2" toText="remaking" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="seems" toID="V3" toText="has" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="seems" toID="V4" toText="rubbed" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="remaking" toID="V3" toText="has" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="remaking" toID="V4" toText="rubbed" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="has" toID="V4" toText="rubbed" />
+</TAGS>
+</TemporalRelationTask>

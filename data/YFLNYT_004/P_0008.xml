@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[He wanted officials to immediately ban large public gatherings, stop shutting off delinquent electric and water accounts, establish more protections for city workers, and find out who had lawful emergency powers.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~9" text="wanted" category="VBD" />
+<VERB id="V1" spans="35~38" text="ban" category="VB" />
+<VERB id="V2" spans="64~68" text="stop" category="VB" />
+<VERB id="V3" spans="69~77" text="shutting" category="VBG" />
+<VERB id="V4" spans="122~131" text="establish" category="VB" />
+<VERB id="V5" spans="171~175" text="find" category="VB" />
+<VERB id="V6" spans="184~187" text="had" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="wanted" toID="V1" toText="ban" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="wanted" toID="V2" toText="stop" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="wanted" toID="V3" toText="shutting" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="wanted" toID="V4" toText="establish" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="wanted" toID="V5" toText="find" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="wanted" toID="V6" toText="had" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="ban" toID="V2" toText="stop" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="ban" toID="V3" toText="shutting" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="ban" toID="V4" toText="establish" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="ban" toID="V5" toText="find" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="ban" toID="V6" toText="had" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="stop" toID="V3" toText="shutting" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="stop" toID="V4" toText="establish" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="stop" toID="V5" toText="find" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="stop" toID="V6" toText="had" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="shutting" toID="V4" toText="establish" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="shutting" toID="V5" toText="find" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="shutting" toID="V6" toText="had" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="establish" toID="V5" toText="find" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="establish" toID="V6" toText="had" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="find" toID="V6" toText="had" />
+</TAGS>
+</TemporalRelationTask>

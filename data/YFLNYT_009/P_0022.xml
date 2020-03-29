@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Only one Democrat, Senator Doug Jones of Alabama, joined Republicans in voting to advance the package.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="50~56" text="joined" category="VBD" />
+<VERB id="V1" spans="72~78" text="voting" category="VBG" />
+<VERB id="V2" spans="82~89" text="advance" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="joined" toID="V1" toText="voting" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="joined" toID="V2" toText="advance" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="voting" toID="V2" toText="advance" />
+</TAGS>
+</TemporalRelationTask>

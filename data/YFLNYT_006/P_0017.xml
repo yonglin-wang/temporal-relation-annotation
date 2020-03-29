@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Paul continues to be “asymptomatic,” his statement said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~18" text="continues" category="VBZ" />
+<VERB id="V1" spans="22~24" text="be" category="VB" />
+<VERB id="V2" spans="39~40" text="”" category="VB" />
+<VERB id="V3" spans="55~59" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="continues" toID="V1" toText="be" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="continues" toID="V2" toText="”" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="continues" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="be" toID="V2" toText="”" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="be" toID="V3" toText="said" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="”" toID="V3" toText="said" />
+</TAGS>
+</TemporalRelationTask>

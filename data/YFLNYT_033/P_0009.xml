@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Prominent Democratic activists, officials and leaders have been vocal with their desires that the ticket include a woman, after the demise of the last major female candidate, Ms. Warren, who ended her campaign two weeks ago.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="59~63" text="been" category="VBN" />
+<VERB id="V1" spans="105~112" text="include" category="VBP" />
+<VERB id="V2" spans="191~196" text="ended" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="include" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="ended" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="include" toID="V2" toText="ended" />
+</TAGS>
+</TemporalRelationTask>

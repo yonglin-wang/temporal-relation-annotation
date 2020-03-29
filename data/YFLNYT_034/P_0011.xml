@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For context, the initial phase of crisis response in the fall of 2008 increased the size of the Fed’s balance sheet by $1.3 trillion. Analysts at Evercore ISI estimated Monday that the increase in this episode could end up being in the ballpark of $5 trillion.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="70~79" text="increased" category="VBD" />
+<VERB id="V1" spans="84~85" text="s" category="VBD" />
+<VERB id="V2" spans="159~168" text="estimated" category="VBD" />
+<VERB id="V3" spans="216~219" text="end" category="VB" />
+<VERB id="V4" spans="223~228" text="being" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="increased" toID="V1" toText="s" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="increased" toID="V2" toText="estimated" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="increased" toID="V3" toText="end" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="increased" toID="V4" toText="being" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="s" toID="V2" toText="estimated" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="s" toID="V3" toText="end" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="s" toID="V4" toText="being" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="estimated" toID="V3" toText="end" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="estimated" toID="V4" toText="being" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="end" toID="V4" toText="being" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Pier Luigi Lopalco, an epidemiologist at the University of Siena, estimated that the total number of infected is “10 times higher” than the one reported to the country every evening at 6 p.m.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="66~75" text="estimated" category="VBD" />
+<VERB id="V1" spans="110~112" text="is" category="VBZ" />
+<VERB id="V2" spans="144~152" text="reported" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="estimated" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="estimated" toID="V2" toText="reported" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="is" toID="V2" toText="reported" />
+</TAGS>
+</TemporalRelationTask>

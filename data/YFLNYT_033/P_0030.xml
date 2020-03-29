@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In an interview earlier this month, Mr. Biden cited his close relationship with Mr. Obama as a model for his selection process, saying the president was able to trust him with key pieces of his agenda.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~51" text="cited" category="VBD" />
+<VERB id="V1" spans="128~134" text="saying" category="VBG" />
+<VERB id="V2" spans="149~152" text="was" category="VBD" />
+<VERB id="V3" spans="161~166" text="trust" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="cited" toID="V1" toText="saying" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="cited" toID="V2" toText="was" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="cited" toID="V3" toText="trust" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="saying" toID="V2" toText="was" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="saying" toID="V3" toText="trust" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="was" toID="V3" toText="trust" />
+</TAGS>
+</TemporalRelationTask>

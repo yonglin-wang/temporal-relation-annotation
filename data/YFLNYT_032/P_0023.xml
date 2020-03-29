@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Bridging the gap between the hard-right wing of the party and the pragmatists is the House speaker and convention chairman, Paul D. Ryan, whom many Republicans tried to lure into challenging Mr. Trump at the convention.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~8" text="Bridging" category="VBG" />
+<VERB id="V1" spans="73~75" text="is" category="VBZ" />
+<VERB id="V2" spans="160~165" text="tried" category="VBD" />
+<VERB id="V3" spans="169~173" text="lure" category="VB" />
+<VERB id="V4" spans="179~190" text="challenging" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Bridging" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Bridging" toID="V2" toText="tried" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Bridging" toID="V3" toText="lure" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="Bridging" toID="V4" toText="challenging" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="is" toID="V2" toText="tried" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="is" toID="V3" toText="lure" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V4" toText="challenging" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="tried" toID="V3" toText="lure" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="tried" toID="V4" toText="challenging" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="lure" toID="V4" toText="challenging" />
+</TAGS>
+</TemporalRelationTask>

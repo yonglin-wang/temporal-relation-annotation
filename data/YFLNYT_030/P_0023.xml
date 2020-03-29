@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Maggie Thomas, who was Mr. Inslee’s deputy climate change director before joining Senator Warren’s campaign, has not yet thrown her support behind either Mr. Sanders or Mr. Biden. But she said if Mr. Biden does become the Democratic nominee, “He really needs to show that this is a priority for his campaign.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~22" text="was" category="VBD" />
+<VERB id="V1" spans="29~30" text="s" category="VBD" />
+<VERB id="V2" spans="74~81" text="joining" category="VBG" />
+<VERB id="V3" spans="109~112" text="has" category="VBZ" />
+<VERB id="V4" spans="188~192" text="said" category="VBD" />
+<VERB id="V5" spans="211~217" text="become" category="VB" />
+<VERB id="V6" spans="253~258" text="needs" category="VBZ" />
+<VERB id="V7" spans="262~266" text="show" category="VB" />
+<VERB id="V8" spans="274~276" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="s" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="joining" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="has" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="become" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="needs" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="show" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="was" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="s" toID="V2" toText="joining" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="s" toID="V3" toText="has" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="s" toID="V4" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="s" toID="V5" toText="become" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="s" toID="V6" toText="needs" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="s" toID="V7" toText="show" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="s" toID="V8" toText="is" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="joining" toID="V3" toText="has" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="joining" toID="V4" toText="said" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="joining" toID="V5" toText="become" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="joining" toID="V6" toText="needs" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="joining" toID="V7" toText="show" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="joining" toID="V8" toText="is" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="has" toID="V4" toText="said" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="has" toID="V5" toText="become" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="has" toID="V6" toText="needs" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="has" toID="V7" toText="show" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="has" toID="V8" toText="is" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="said" toID="V5" toText="become" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="said" toID="V6" toText="needs" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="said" toID="V7" toText="show" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="said" toID="V8" toText="is" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="become" toID="V6" toText="needs" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="become" toID="V7" toText="show" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="become" toID="V8" toText="is" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="needs" toID="V7" toText="show" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="needs" toID="V8" toText="is" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="show" toID="V8" toText="is" />
+</TAGS>
+</TemporalRelationTask>

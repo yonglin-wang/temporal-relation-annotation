@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Even with the chancellor in isolation, officials said, the government will continue operating as planned, with the cabinet preparing on Monday to make 150 billion euros — more than $160 billion — available to help the country weather the fallout.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="49~53" text="said" category="VBD" />
+<VERB id="V1" spans="75~83" text="continue" category="VB" />
+<VERB id="V2" spans="97~104" text="planned" category="VBN" />
+<VERB id="V3" spans="123~132" text="preparing" category="VBG" />
+<VERB id="V4" spans="146~150" text="make" category="VB" />
+<VERB id="V5" spans="209~213" text="help" category="VB" />
+<VERB id="V6" spans="226~233" text="weather" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="continue" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="planned" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="preparing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="make" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="help" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="weather" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="continue" toID="V2" toText="planned" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="continue" toID="V3" toText="preparing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="continue" toID="V4" toText="make" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="continue" toID="V5" toText="help" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="continue" toID="V6" toText="weather" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="planned" toID="V3" toText="preparing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="planned" toID="V4" toText="make" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="planned" toID="V5" toText="help" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="planned" toID="V6" toText="weather" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="preparing" toID="V4" toText="make" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="preparing" toID="V5" toText="help" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="preparing" toID="V6" toText="weather" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="make" toID="V5" toText="help" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="make" toID="V6" toText="weather" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="help" toID="V6" toText="weather" />
+</TAGS>
+</TemporalRelationTask>

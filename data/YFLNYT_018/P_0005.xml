@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[His appearance in New Hampshire, with its crucial early primary, brought into the open some of the maneuvering among Democrats that has already gone on for months behind the scenes. The list of candidates may ultimately be the largest since 1976, when Democrats lined up after Watergate for a nomination seen as offering a short path to the White House.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="65~72" text="brought" category="VBD" />
+<VERB id="V1" spans="132~135" text="has" category="VBZ" />
+<VERB id="V2" spans="144~148" text="gone" category="VBN" />
+<VERB id="V3" spans="163~165" text="be" category="VB" />
+<VERB id="V4" spans="262~267" text="lined" category="VBD" />
+<VERB id="V5" spans="304~308" text="seen" category="VBN" />
+<VERB id="V6" spans="312~320" text="offering" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="brought" toID="V1" toText="has" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="brought" toID="V2" toText="gone" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="brought" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="brought" toID="V4" toText="lined" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="brought" toID="V5" toText="seen" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="brought" toID="V6" toText="offering" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="has" toID="V2" toText="gone" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="has" toID="V3" toText="be" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="has" toID="V4" toText="lined" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="has" toID="V5" toText="seen" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="has" toID="V6" toText="offering" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="gone" toID="V3" toText="be" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="gone" toID="V4" toText="lined" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="gone" toID="V5" toText="seen" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="gone" toID="V6" toText="offering" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="be" toID="V4" toText="lined" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="be" toID="V5" toText="seen" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="be" toID="V6" toText="offering" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="lined" toID="V5" toText="seen" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="lined" toID="V6" toText="offering" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="seen" toID="V6" toText="offering" />
+</TAGS>
+</TemporalRelationTask>

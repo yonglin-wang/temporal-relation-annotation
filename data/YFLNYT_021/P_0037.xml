@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“You can see the contrast between the steady, assured, informed and strong leadership that Vice President Biden has shown and the bungling, chaotic and dishonest start-stop approach that Mr. Trump has shown us since the beginning of this crisis,” said Gilberto Hinojosa, chairman of the Texas Democratic Party.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~12" text="see" category="VB" />
+<VERB id="V1" spans="46~53" text="assured" category="VBD" />
+<VERB id="V2" spans="55~63" text="informed" category="VBN" />
+<VERB id="V3" spans="116~121" text="shown" category="VBN" />
+<VERB id="V4" spans="201~206" text="shown" category="VBN" />
+<VERB id="V5" spans="247~251" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="see" toID="V1" toText="assured" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="see" toID="V2" toText="informed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="see" toID="V3" toText="shown" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="see" toID="V4" toText="shown" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="see" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="assured" toID="V2" toText="informed" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="assured" toID="V3" toText="shown" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="assured" toID="V4" toText="shown" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="assured" toID="V5" toText="said" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="informed" toID="V3" toText="shown" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="informed" toID="V4" toText="shown" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="informed" toID="V5" toText="said" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="shown" toID="V4" toText="shown" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="shown" toID="V5" toText="said" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="shown" toID="V5" toText="said" />
+</TAGS>
+</TemporalRelationTask>

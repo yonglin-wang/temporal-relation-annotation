@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Although I may not agree with the vice president on every issue, I know that he has a good heart and is motivated by his love for our country and the American people,” she said. “I’m confident that he will lead our country guided by the spirit of aloha — respect and compassion — and thus help heal the divisiveness that has been tearing our country apart."]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="20~25" text="agree" category="VB" />
+<VERB id="V1" spans="68~72" text="know" category="VBP" />
+<VERB id="V2" spans="81~84" text="has" category="VBZ" />
+<VERB id="V3" spans="105~114" text="motivated" category="VBN" />
+<VERB id="V4" spans="173~177" text="said" category="VBD" />
+<VERB id="V5" spans="181~182" text="’" category="VBP" />
+<VERB id="V6" spans="207~211" text="lead" category="VB" />
+<VERB id="V7" spans="224~230" text="guided" category="VBN" />
+<VERB id="V8" spans="290~294" text="help" category="VB" />
+<VERB id="V9" spans="295~299" text="heal" category="VB" />
+<VERB id="V10" spans="331~338" text="tearing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="agree" toID="V1" toText="know" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="agree" toID="V2" toText="has" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="agree" toID="V3" toText="motivated" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="agree" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="agree" toID="V5" toText="’" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="agree" toID="V6" toText="lead" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="agree" toID="V7" toText="guided" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="agree" toID="V8" toText="help" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="agree" toID="V9" toText="heal" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="agree" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="know" toID="V2" toText="has" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="know" toID="V3" toText="motivated" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="know" toID="V4" toText="said" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="know" toID="V5" toText="’" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="know" toID="V6" toText="lead" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="know" toID="V7" toText="guided" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="know" toID="V8" toText="help" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="know" toID="V9" toText="heal" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="know" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="has" toID="V3" toText="motivated" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="has" toID="V4" toText="said" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="has" toID="V5" toText="’" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="has" toID="V6" toText="lead" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="has" toID="V7" toText="guided" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="has" toID="V8" toText="help" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="has" toID="V9" toText="heal" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="has" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="motivated" toID="V4" toText="said" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="motivated" toID="V5" toText="’" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="motivated" toID="V6" toText="lead" />
+<EVENT_ORDER id="E30" fromID="V3" fromText="motivated" toID="V7" toText="guided" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="motivated" toID="V8" toText="help" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="motivated" toID="V9" toText="heal" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="motivated" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="said" toID="V5" toText="’" />
+<EVENT_ORDER id="E35" fromID="V4" fromText="said" toID="V6" toText="lead" />
+<EVENT_ORDER id="E36" fromID="V4" fromText="said" toID="V7" toText="guided" />
+<EVENT_ORDER id="E37" fromID="V4" fromText="said" toID="V8" toText="help" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="said" toID="V9" toText="heal" />
+<EVENT_ORDER id="E39" fromID="V4" fromText="said" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="’" toID="V6" toText="lead" />
+<EVENT_ORDER id="E41" fromID="V5" fromText="’" toID="V7" toText="guided" />
+<EVENT_ORDER id="E42" fromID="V5" fromText="’" toID="V8" toText="help" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="’" toID="V9" toText="heal" />
+<EVENT_ORDER id="E44" fromID="V5" fromText="’" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E45" fromID="V6" fromText="lead" toID="V7" toText="guided" />
+<EVENT_ORDER id="E46" fromID="V6" fromText="lead" toID="V8" toText="help" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="lead" toID="V9" toText="heal" />
+<EVENT_ORDER id="E48" fromID="V6" fromText="lead" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E49" fromID="V7" fromText="guided" toID="V8" toText="help" />
+<EVENT_ORDER id="E50" fromID="V7" fromText="guided" toID="V9" toText="heal" />
+<EVENT_ORDER id="E51" fromID="V7" fromText="guided" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E52" fromID="V8" fromText="help" toID="V9" toText="heal" />
+<EVENT_ORDER id="E53" fromID="V8" fromText="help" toID="V10" toText="tearing" />
+<EVENT_ORDER id="E54" fromID="V9" fromText="heal" toID="V10" toText="tearing" />
+</TAGS>
+</TemporalRelationTask>

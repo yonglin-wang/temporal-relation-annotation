@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In a statement last week about the 2020 campaign migrating increasingly online, Brad Parscale, Mr. Trump’s campaign manager, claimed a “huge advantage” over the Democrats.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="49~58" text="migrating" category="VBG" />
+<VERB id="V1" spans="65~66" text="s" category="VBP" />
+<VERB id="V2" spans="125~132" text="claimed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="migrating" toID="V1" toText="s" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="migrating" toID="V2" toText="claimed" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="s" toID="V2" toText="claimed" />
+</TAGS>
+</TemporalRelationTask>

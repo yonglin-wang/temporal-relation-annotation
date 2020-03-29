@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Aides said Mr. Trump viewed the iconic room, with its blue seats and imposing White House seal behind the podium, as his best stage, one that gives him an imprimatur that cannot be replicated by any of his Democratic presidential opponents or governors like Andrew Cuomo of New York.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="6~10" text="said" category="VBD" />
+<VERB id="V1" spans="21~27" text="viewed" category="VBD" />
+<VERB id="V2" spans="69~77" text="imposing" category="VBG" />
+<VERB id="V3" spans="142~147" text="gives" category="VBZ" />
+<VERB id="V4" spans="181~191" text="replicated" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="viewed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="imposing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="gives" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="replicated" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="viewed" toID="V2" toText="imposing" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="viewed" toID="V3" toText="gives" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="viewed" toID="V4" toText="replicated" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="imposing" toID="V3" toText="gives" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="imposing" toID="V4" toText="replicated" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="gives" toID="V4" toText="replicated" />
+</TAGS>
+</TemporalRelationTask>

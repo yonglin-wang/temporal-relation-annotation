@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The next day, the governor was at it again. Surrounded by more bunting, he announced a $10 billion overhaul of Kennedy International Airport, the latest “think big” project that he has initiated or completed, including the recently opened Second Avenue subway, a new Tappan Zee Bridge and a revamped Penn Station.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~30" text="was" category="VBD" />
+<VERB id="V1" spans="44~54" text="Surrounded" category="VBN" />
+<VERB id="V2" spans="75~84" text="announced" category="VBD" />
+<VERB id="V3" spans="154~159" text="think" category="VBP" />
+<VERB id="V4" spans="185~194" text="initiated" category="VBN" />
+<VERB id="V5" spans="198~207" text="completed" category="VBN" />
+<VERB id="V6" spans="209~218" text="including" category="VBG" />
+<VERB id="V7" spans="232~238" text="opened" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="Surrounded" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="announced" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="think" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="initiated" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="completed" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="including" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="opened" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="Surrounded" toID="V2" toText="announced" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="Surrounded" toID="V3" toText="think" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="Surrounded" toID="V4" toText="initiated" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="Surrounded" toID="V5" toText="completed" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="Surrounded" toID="V6" toText="including" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="Surrounded" toID="V7" toText="opened" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="announced" toID="V3" toText="think" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="announced" toID="V4" toText="initiated" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="announced" toID="V5" toText="completed" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="announced" toID="V6" toText="including" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="announced" toID="V7" toText="opened" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="think" toID="V4" toText="initiated" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="think" toID="V5" toText="completed" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="think" toID="V6" toText="including" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="think" toID="V7" toText="opened" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="initiated" toID="V5" toText="completed" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="initiated" toID="V6" toText="including" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="initiated" toID="V7" toText="opened" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="completed" toID="V6" toText="including" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="completed" toID="V7" toText="opened" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="including" toID="V7" toText="opened" />
+</TAGS>
+</TemporalRelationTask>

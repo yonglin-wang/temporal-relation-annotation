@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Younger Democratic hopefuls are unlikely to share Ms. Buell’s reservations. In the Senate, Mr. Booker, Ms. Gillibrand and Ms. Klobuchar have been reaching out to national donors and planning travel beyond their home states. Ms. Klobuchar is scheduled to address a Democratic Party dinner in Iowa next weekend.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="28~31" text="are" category="VBP" />
+<VERB id="V1" spans="146~154" text="reaching" category="VBG" />
+<VERB id="V2" spans="182~190" text="planning" category="VBG" />
+<VERB id="V3" spans="241~250" text="scheduled" category="VBN" />
+<VERB id="V4" spans="254~261" text="address" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="reaching" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="planning" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="scheduled" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="address" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="reaching" toID="V2" toText="planning" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="reaching" toID="V3" toText="scheduled" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="reaching" toID="V4" toText="address" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="planning" toID="V3" toText="scheduled" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="planning" toID="V4" toText="address" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="scheduled" toID="V4" toText="address" />
+</TAGS>
+</TemporalRelationTask>

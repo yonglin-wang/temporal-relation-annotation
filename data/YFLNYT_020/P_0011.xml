@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[If that happens, Mr. Feldman said, the embassy itself could wind up “just there to carry the flag of any ongoing U.S. commitment.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="8~15" text="happens" category="VBZ" />
+<VERB id="V1" spans="29~33" text="said" category="VBD" />
+<VERB id="V2" spans="60~64" text="wind" category="VB" />
+<VERB id="V3" spans="83~88" text="carry" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="happens" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="happens" toID="V2" toText="wind" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="happens" toID="V3" toText="carry" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="said" toID="V2" toText="wind" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="said" toID="V3" toText="carry" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="wind" toID="V3" toText="carry" />
+</TAGS>
+</TemporalRelationTask>

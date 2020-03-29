@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[All three are fiery speakers inclined toward economic populism, and they have urged the Democratic Party to shift in that direction since its defeat in November.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~13" text="are" category="VBP" />
+<VERB id="V1" spans="29~37" text="inclined" category="VBD" />
+<VERB id="V2" spans="78~83" text="urged" category="VBN" />
+<VERB id="V3" spans="108~113" text="shift" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="inclined" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="urged" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="shift" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="inclined" toID="V2" toText="urged" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="inclined" toID="V3" toText="shift" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="urged" toID="V3" toText="shift" />
+</TAGS>
+</TemporalRelationTask>

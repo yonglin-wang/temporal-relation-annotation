@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[A memo sent Friday from the leaders of the D.N.C.’s Rules and Bylaws Committee said 18 states and Democrats Abroad had proposed changing delegate selection plans previously submitted to and approved by the D.N.C.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="7~11" text="sent" category="VBN" />
+<VERB id="V1" spans="79~83" text="said" category="VBD" />
+<VERB id="V2" spans="119~127" text="proposed" category="VBN" />
+<VERB id="V3" spans="128~136" text="changing" category="VBG" />
+<VERB id="V4" spans="156~161" text="plans" category="VBZ" />
+<VERB id="V5" spans="173~182" text="submitted" category="VBN" />
+<VERB id="V6" spans="190~198" text="approved" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="sent" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="sent" toID="V2" toText="proposed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="sent" toID="V3" toText="changing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="sent" toID="V4" toText="plans" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="sent" toID="V5" toText="submitted" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="sent" toID="V6" toText="approved" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V2" toText="proposed" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V3" toText="changing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V4" toText="plans" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V5" toText="submitted" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V6" toText="approved" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="proposed" toID="V3" toText="changing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="proposed" toID="V4" toText="plans" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="proposed" toID="V5" toText="submitted" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="proposed" toID="V6" toText="approved" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="changing" toID="V4" toText="plans" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="changing" toID="V5" toText="submitted" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="changing" toID="V6" toText="approved" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="plans" toID="V5" toText="submitted" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="plans" toID="V6" toText="approved" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="submitted" toID="V6" toText="approved" />
+</TAGS>
+</TemporalRelationTask>

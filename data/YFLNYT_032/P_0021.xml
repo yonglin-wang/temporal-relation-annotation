@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For his part, Mr. Kasich is making the most of his home-state convention, though he is not scheduled to speak. With the governor under attack by Mr. Trump’s campaign for not endorsing the party’s standard-bearer, allies of Mr. Kasich struck back aggressively in a way that could well position him for the future with the many Trump skeptics in the party’s ranks.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="28~34" text="making" category="VBG" />
+<VERB id="V1" spans="48~50" text="is" category="VBZ" />
+<VERB id="V2" spans="91~100" text="scheduled" category="VBN" />
+<VERB id="V3" spans="104~109" text="speak" category="VB" />
+<VERB id="V4" spans="155~156" text="s" category="VBP" />
+<VERB id="V5" spans="174~183" text="endorsing" category="VBG" />
+<VERB id="V6" spans="234~240" text="struck" category="VBD" />
+<VERB id="V7" spans="279~283" text="well" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="making" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="making" toID="V2" toText="scheduled" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="making" toID="V3" toText="speak" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="making" toID="V4" toText="s" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="making" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="making" toID="V6" toText="struck" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="making" toID="V7" toText="well" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V2" toText="scheduled" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V3" toText="speak" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V4" toText="s" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V6" toText="struck" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="is" toID="V7" toText="well" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="scheduled" toID="V3" toText="speak" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="scheduled" toID="V4" toText="s" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="scheduled" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="scheduled" toID="V6" toText="struck" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="scheduled" toID="V7" toText="well" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="speak" toID="V4" toText="s" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="speak" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="speak" toID="V6" toText="struck" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="speak" toID="V7" toText="well" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="s" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="s" toID="V6" toText="struck" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="s" toID="V7" toText="well" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="endorsing" toID="V6" toText="struck" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="endorsing" toID="V7" toText="well" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="struck" toID="V7" toText="well" />
+</TAGS>
+</TemporalRelationTask>

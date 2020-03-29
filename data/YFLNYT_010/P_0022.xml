@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Dr. Jain’s days are now filled with all sorts of new precautions: designating clothing just for work, removing his scrubs before coming home, hand sanitizing more often than he already did. It’s an adjustment, he said, to his routine life as a gastrointestinal specialist.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~19" text="are" category="VBP" />
+<VERB id="V1" spans="24~30" text="filled" category="VBN" />
+<VERB id="V2" spans="66~77" text="designating" category="VBG" />
+<VERB id="V3" spans="102~110" text="removing" category="VBG" />
+<VERB id="V4" spans="147~157" text="sanitizing" category="VBG" />
+<VERB id="V5" spans="185~188" text="did" category="VBD" />
+<VERB id="V6" spans="192~193" text="’" category="VBZ" />
+<VERB id="V7" spans="213~217" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="filled" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="designating" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="removing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="sanitizing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="did" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="are" toID="V6" toText="’" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="are" toID="V7" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="filled" toID="V2" toText="designating" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="filled" toID="V3" toText="removing" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="filled" toID="V4" toText="sanitizing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="filled" toID="V5" toText="did" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="filled" toID="V6" toText="’" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="filled" toID="V7" toText="said" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="designating" toID="V3" toText="removing" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="designating" toID="V4" toText="sanitizing" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="designating" toID="V5" toText="did" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="designating" toID="V6" toText="’" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="designating" toID="V7" toText="said" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="removing" toID="V4" toText="sanitizing" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="removing" toID="V5" toText="did" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="removing" toID="V6" toText="’" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="removing" toID="V7" toText="said" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="sanitizing" toID="V5" toText="did" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="sanitizing" toID="V6" toText="’" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="sanitizing" toID="V7" toText="said" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="did" toID="V6" toText="’" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="did" toID="V7" toText="said" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="’" toID="V7" toText="said" />
+</TAGS>
+</TemporalRelationTask>

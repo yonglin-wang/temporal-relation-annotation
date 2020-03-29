@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[One question is whether a military withdrawal would put the American Embassy in charge of security agreements with Afghanistan. “Then that is still something to be discussed, for both sides,” said Ambassador Roya Rahmani, the Afghan government’s top envoy to the United States.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~15" text="is" category="VBZ" />
+<VERB id="V1" spans="52~55" text="put" category="VB" />
+<VERB id="V2" spans="121~123" text="is" category="VBZ" />
+<VERB id="V3" spans="164~173" text="discussed" category="VBN" />
+<VERB id="V4" spans="192~196" text="said" category="VBD" />
+<VERB id="V5" spans="201~202" text="s" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="put" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="discussed" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="s" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="put" toID="V2" toText="is" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="put" toID="V3" toText="discussed" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="put" toID="V4" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="put" toID="V5" toText="s" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="is" toID="V3" toText="discussed" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="is" toID="V4" toText="said" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="is" toID="V5" toText="s" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="discussed" toID="V4" toText="said" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="discussed" toID="V5" toText="s" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="said" toID="V5" toText="s" />
+</TAGS>
+</TemporalRelationTask>

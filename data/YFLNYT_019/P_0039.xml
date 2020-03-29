@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[He said doctors in the country’s hot zone of infections were already focusing on the needs of the total community, a recommendation made in the New England Journal of Medicine paper by the Bergamo doctors.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~7" text="said" category="VBD" />
+<VERB id="V1" spans="14~15" text="s" category="VBZ" />
+<VERB id="V2" spans="56~60" text="were" category="VBD" />
+<VERB id="V3" spans="69~77" text="focusing" category="VBG" />
+<VERB id="V4" spans="132~136" text="made" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="s" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="were" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="focusing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="made" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="s" toID="V2" toText="were" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="s" toID="V3" toText="focusing" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="s" toID="V4" toText="made" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="were" toID="V3" toText="focusing" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="were" toID="V4" toText="made" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="focusing" toID="V4" toText="made" />
+</TAGS>
+</TemporalRelationTask>

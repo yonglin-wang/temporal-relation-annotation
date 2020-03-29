@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But that is not stopping a conventional array of aspirants from lining up once again. The roster of potential 2020 candidates includes several of this year’s primary losers, including Senators Ted Cruz of Texas and Marco Rubio of Florida, Gov. John Kasich of Ohio and Mr. Walker, as well as younger hopefuls like Mr. Cotton.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~11" text="is" category="VBZ" />
+<VERB id="V1" spans="16~24" text="stopping" category="VBG" />
+<VERB id="V2" spans="64~70" text="lining" category="VBG" />
+<VERB id="V3" spans="126~134" text="includes" category="VBZ" />
+<VERB id="V4" spans="155~156" text="’" category="VBZ" />
+<VERB id="V5" spans="174~183" text="including" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="stopping" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="lining" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="includes" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="’" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="including" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="stopping" toID="V2" toText="lining" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="stopping" toID="V3" toText="includes" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="stopping" toID="V4" toText="’" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="stopping" toID="V5" toText="including" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="lining" toID="V3" toText="includes" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="lining" toID="V4" toText="’" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="lining" toID="V5" toText="including" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="includes" toID="V4" toText="’" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="includes" toID="V5" toText="including" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="’" toID="V5" toText="including" />
+</TAGS>
+</TemporalRelationTask>

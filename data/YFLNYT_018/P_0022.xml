@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Sanders, who is enormously popular on the left, has already begun campaigning for Democrats in the midterm elections, stumping for candidates from Nebraska to Virginia. He will go to Montana in May, before his Iowa encore.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="17~19" text="is" category="VBZ" />
+<VERB id="V1" spans="52~55" text="has" category="VBZ" />
+<VERB id="V2" spans="64~69" text="begun" category="VBN" />
+<VERB id="V3" spans="70~81" text="campaigning" category="VBG" />
+<VERB id="V4" spans="122~130" text="stumping" category="VBG" />
+<VERB id="V5" spans="181~183" text="go" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="has" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="begun" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="campaigning" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="stumping" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="go" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="has" toID="V2" toText="begun" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="has" toID="V3" toText="campaigning" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="has" toID="V4" toText="stumping" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="has" toID="V5" toText="go" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="begun" toID="V3" toText="campaigning" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="begun" toID="V4" toText="stumping" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="begun" toID="V5" toText="go" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="campaigning" toID="V4" toText="stumping" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="campaigning" toID="V5" toText="go" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="stumping" toID="V5" toText="go" />
+</TAGS>
+</TemporalRelationTask>

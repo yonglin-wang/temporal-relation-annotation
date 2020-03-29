@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[With lawmakers in both parties reluctant to embrace a bailout with no strings attached that could anger voters, the measure includes a prohibition against stock buybacks by corporations that receive federal dollars and imposes a two-year limit on executive compensation. But Democrats balked at a provision that would allow the Treasury secretary to waive the ban on buybacks, and were insisting that the curbs on executive compensation last longer, according to a senior House Democratic aide familiar with the discussions, who spoke on the condition of anonymity to describe the remaining sticking points.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="31~40" text="reluctant" category="VBP" />
+<VERB id="V1" spans="44~51" text="embrace" category="VB" />
+<VERB id="V2" spans="78~86" text="attached" category="VBD" />
+<VERB id="V3" spans="98~103" text="anger" category="VB" />
+<VERB id="V4" spans="124~132" text="includes" category="VBZ" />
+<VERB id="V5" spans="191~198" text="receive" category="VBP" />
+<VERB id="V6" spans="219~226" text="imposes" category="VBZ" />
+<VERB id="V7" spans="285~291" text="balked" category="VBD" />
+<VERB id="V8" spans="318~323" text="allow" category="VB" />
+<VERB id="V9" spans="350~355" text="waive" category="VB" />
+<VERB id="V10" spans="386~395" text="insisting" category="VBG" />
+<VERB id="V11" spans="450~459" text="according" category="VBG" />
+<VERB id="V12" spans="529~534" text="spoke" category="VBD" />
+<VERB id="V13" spans="568~576" text="describe" category="VB" />
+<VERB id="V14" spans="581~590" text="remaining" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="reluctant" toID="V1" toText="embrace" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="reluctant" toID="V2" toText="attached" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="reluctant" toID="V3" toText="anger" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="reluctant" toID="V4" toText="includes" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="reluctant" toID="V5" toText="receive" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="reluctant" toID="V6" toText="imposes" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="reluctant" toID="V7" toText="balked" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="reluctant" toID="V8" toText="allow" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="reluctant" toID="V9" toText="waive" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="reluctant" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="reluctant" toID="V11" toText="according" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="reluctant" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="reluctant" toID="V13" toText="describe" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="reluctant" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="embrace" toID="V2" toText="attached" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="embrace" toID="V3" toText="anger" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="embrace" toID="V4" toText="includes" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="embrace" toID="V5" toText="receive" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="embrace" toID="V6" toText="imposes" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="embrace" toID="V7" toText="balked" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="embrace" toID="V8" toText="allow" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="embrace" toID="V9" toText="waive" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="embrace" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="embrace" toID="V11" toText="according" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="embrace" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="embrace" toID="V13" toText="describe" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="embrace" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="attached" toID="V3" toText="anger" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="attached" toID="V4" toText="includes" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="attached" toID="V5" toText="receive" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="attached" toID="V6" toText="imposes" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="attached" toID="V7" toText="balked" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="attached" toID="V8" toText="allow" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="attached" toID="V9" toText="waive" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="attached" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="attached" toID="V11" toText="according" />
+<EVENT_ORDER id="E36" fromID="V2" fromText="attached" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E37" fromID="V2" fromText="attached" toID="V13" toText="describe" />
+<EVENT_ORDER id="E38" fromID="V2" fromText="attached" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="anger" toID="V4" toText="includes" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="anger" toID="V5" toText="receive" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="anger" toID="V6" toText="imposes" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="anger" toID="V7" toText="balked" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="anger" toID="V8" toText="allow" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="anger" toID="V9" toText="waive" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="anger" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E46" fromID="V3" fromText="anger" toID="V11" toText="according" />
+<EVENT_ORDER id="E47" fromID="V3" fromText="anger" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E48" fromID="V3" fromText="anger" toID="V13" toText="describe" />
+<EVENT_ORDER id="E49" fromID="V3" fromText="anger" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="includes" toID="V5" toText="receive" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="includes" toID="V6" toText="imposes" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="includes" toID="V7" toText="balked" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="includes" toID="V8" toText="allow" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="includes" toID="V9" toText="waive" />
+<EVENT_ORDER id="E55" fromID="V4" fromText="includes" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E56" fromID="V4" fromText="includes" toID="V11" toText="according" />
+<EVENT_ORDER id="E57" fromID="V4" fromText="includes" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E58" fromID="V4" fromText="includes" toID="V13" toText="describe" />
+<EVENT_ORDER id="E59" fromID="V4" fromText="includes" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="receive" toID="V6" toText="imposes" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="receive" toID="V7" toText="balked" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="receive" toID="V8" toText="allow" />
+<EVENT_ORDER id="E63" fromID="V5" fromText="receive" toID="V9" toText="waive" />
+<EVENT_ORDER id="E64" fromID="V5" fromText="receive" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E65" fromID="V5" fromText="receive" toID="V11" toText="according" />
+<EVENT_ORDER id="E66" fromID="V5" fromText="receive" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E67" fromID="V5" fromText="receive" toID="V13" toText="describe" />
+<EVENT_ORDER id="E68" fromID="V5" fromText="receive" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="imposes" toID="V7" toText="balked" />
+<EVENT_ORDER id="E70" fromID="V6" fromText="imposes" toID="V8" toText="allow" />
+<EVENT_ORDER id="E71" fromID="V6" fromText="imposes" toID="V9" toText="waive" />
+<EVENT_ORDER id="E72" fromID="V6" fromText="imposes" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E73" fromID="V6" fromText="imposes" toID="V11" toText="according" />
+<EVENT_ORDER id="E74" fromID="V6" fromText="imposes" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E75" fromID="V6" fromText="imposes" toID="V13" toText="describe" />
+<EVENT_ORDER id="E76" fromID="V6" fromText="imposes" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E77" fromID="V7" fromText="balked" toID="V8" toText="allow" />
+<EVENT_ORDER id="E78" fromID="V7" fromText="balked" toID="V9" toText="waive" />
+<EVENT_ORDER id="E79" fromID="V7" fromText="balked" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E80" fromID="V7" fromText="balked" toID="V11" toText="according" />
+<EVENT_ORDER id="E81" fromID="V7" fromText="balked" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E82" fromID="V7" fromText="balked" toID="V13" toText="describe" />
+<EVENT_ORDER id="E83" fromID="V7" fromText="balked" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E84" fromID="V8" fromText="allow" toID="V9" toText="waive" />
+<EVENT_ORDER id="E85" fromID="V8" fromText="allow" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E86" fromID="V8" fromText="allow" toID="V11" toText="according" />
+<EVENT_ORDER id="E87" fromID="V8" fromText="allow" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E88" fromID="V8" fromText="allow" toID="V13" toText="describe" />
+<EVENT_ORDER id="E89" fromID="V8" fromText="allow" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E90" fromID="V9" fromText="waive" toID="V10" toText="insisting" />
+<EVENT_ORDER id="E91" fromID="V9" fromText="waive" toID="V11" toText="according" />
+<EVENT_ORDER id="E92" fromID="V9" fromText="waive" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E93" fromID="V9" fromText="waive" toID="V13" toText="describe" />
+<EVENT_ORDER id="E94" fromID="V9" fromText="waive" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E95" fromID="V10" fromText="insisting" toID="V11" toText="according" />
+<EVENT_ORDER id="E96" fromID="V10" fromText="insisting" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E97" fromID="V10" fromText="insisting" toID="V13" toText="describe" />
+<EVENT_ORDER id="E98" fromID="V10" fromText="insisting" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E99" fromID="V11" fromText="according" toID="V12" toText="spoke" />
+<EVENT_ORDER id="E100" fromID="V11" fromText="according" toID="V13" toText="describe" />
+<EVENT_ORDER id="E101" fromID="V11" fromText="according" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E102" fromID="V12" fromText="spoke" toID="V13" toText="describe" />
+<EVENT_ORDER id="E103" fromID="V12" fromText="spoke" toID="V14" toText="remaining" />
+<EVENT_ORDER id="E104" fromID="V13" fromText="describe" toID="V14" toText="remaining" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Mnuchin has argued that bolstering the fund would allow the Federal Reserve to effectively inject $4 trillion into the economy, and that he needs the authority to swiftly support companies and industries that are on the brink of collapse as large sections of the economy shut down. On Monday, he pushed back against the suggestion that the money would become a piggy bank for Mr. Trump’s allies.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~22" text="argued" category="VBN" />
+<VERB id="V1" spans="28~38" text="bolstering" category="VBG" />
+<VERB id="V2" spans="54~59" text="allow" category="VB" />
+<VERB id="V3" spans="95~101" text="inject" category="VB" />
+<VERB id="V4" spans="144~149" text="needs" category="VBZ" />
+<VERB id="V5" spans="167~174" text="swiftly" category="VB" />
+<VERB id="V6" spans="213~216" text="are" category="VBP" />
+<VERB id="V7" spans="275~279" text="shut" category="VBD" />
+<VERB id="V8" spans="300~306" text="pushed" category="VBD" />
+<VERB id="V9" spans="356~362" text="become" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="argued" toID="V1" toText="bolstering" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="argued" toID="V2" toText="allow" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="argued" toID="V3" toText="inject" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="argued" toID="V4" toText="needs" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="argued" toID="V5" toText="swiftly" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="argued" toID="V6" toText="are" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="argued" toID="V7" toText="shut" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="argued" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="argued" toID="V9" toText="become" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="bolstering" toID="V2" toText="allow" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="bolstering" toID="V3" toText="inject" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="bolstering" toID="V4" toText="needs" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="bolstering" toID="V5" toText="swiftly" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="bolstering" toID="V6" toText="are" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="bolstering" toID="V7" toText="shut" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="bolstering" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="bolstering" toID="V9" toText="become" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="allow" toID="V3" toText="inject" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="allow" toID="V4" toText="needs" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="allow" toID="V5" toText="swiftly" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="allow" toID="V6" toText="are" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="allow" toID="V7" toText="shut" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="allow" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="allow" toID="V9" toText="become" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="inject" toID="V4" toText="needs" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="inject" toID="V5" toText="swiftly" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="inject" toID="V6" toText="are" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="inject" toID="V7" toText="shut" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="inject" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="inject" toID="V9" toText="become" />
+<EVENT_ORDER id="E30" fromID="V4" fromText="needs" toID="V5" toText="swiftly" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="needs" toID="V6" toText="are" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="needs" toID="V7" toText="shut" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="needs" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="needs" toID="V9" toText="become" />
+<EVENT_ORDER id="E35" fromID="V5" fromText="swiftly" toID="V6" toText="are" />
+<EVENT_ORDER id="E36" fromID="V5" fromText="swiftly" toID="V7" toText="shut" />
+<EVENT_ORDER id="E37" fromID="V5" fromText="swiftly" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E38" fromID="V5" fromText="swiftly" toID="V9" toText="become" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="are" toID="V7" toText="shut" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="are" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="are" toID="V9" toText="become" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="shut" toID="V8" toText="pushed" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="shut" toID="V9" toText="become" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="pushed" toID="V9" toText="become" />
+</TAGS>
+</TemporalRelationTask>

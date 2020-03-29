@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But as its outlines emerged on Sunday, Democrats denounced the package as a corporate giveaway that favored big business over workers and failed to ensure that bailed-out companies would not enrich themselves after receiving government aid. They were particularly incensed at the inclusion of a provision that would give the Federal Reserve access to $425 billion that could be leveraged for loans to broad groups of flailing companies, leaving Congress with little or no say in which businesses could receive assistance or how it could be used.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="20~27" text="emerged" category="VBN" />
+<VERB id="V1" spans="49~58" text="denounced" category="VBD" />
+<VERB id="V2" spans="100~107" text="favored" category="VBD" />
+<VERB id="V3" spans="138~144" text="failed" category="VBD" />
+<VERB id="V4" spans="148~154" text="ensure" category="VB" />
+<VERB id="V5" spans="191~197" text="enrich" category="VB" />
+<VERB id="V6" spans="215~224" text="receiving" category="VBG" />
+<VERB id="V7" spans="246~250" text="were" category="VBD" />
+<VERB id="V8" spans="264~272" text="incensed" category="VBN" />
+<VERB id="V9" spans="316~320" text="give" category="VB" />
+<VERB id="V10" spans="378~387" text="leveraged" category="VBN" />
+<VERB id="V11" spans="417~425" text="flailing" category="VBG" />
+<VERB id="V12" spans="437~444" text="leaving" category="VBG" />
+<VERB id="V13" spans="502~509" text="receive" category="VB" />
+<VERB id="V14" spans="540~544" text="used" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="emerged" toID="V1" toText="denounced" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="emerged" toID="V2" toText="favored" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="emerged" toID="V3" toText="failed" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="emerged" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="emerged" toID="V5" toText="enrich" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="emerged" toID="V6" toText="receiving" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="emerged" toID="V7" toText="were" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="emerged" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="emerged" toID="V9" toText="give" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="emerged" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="emerged" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="emerged" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="emerged" toID="V13" toText="receive" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="emerged" toID="V14" toText="used" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="denounced" toID="V2" toText="favored" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="denounced" toID="V3" toText="failed" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="denounced" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="denounced" toID="V5" toText="enrich" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="denounced" toID="V6" toText="receiving" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="denounced" toID="V7" toText="were" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="denounced" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="denounced" toID="V9" toText="give" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="denounced" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="denounced" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="denounced" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="denounced" toID="V13" toText="receive" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="denounced" toID="V14" toText="used" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="favored" toID="V3" toText="failed" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="favored" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="favored" toID="V5" toText="enrich" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="favored" toID="V6" toText="receiving" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="favored" toID="V7" toText="were" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="favored" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="favored" toID="V9" toText="give" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="favored" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="favored" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E36" fromID="V2" fromText="favored" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E37" fromID="V2" fromText="favored" toID="V13" toText="receive" />
+<EVENT_ORDER id="E38" fromID="V2" fromText="favored" toID="V14" toText="used" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="failed" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="failed" toID="V5" toText="enrich" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="failed" toID="V6" toText="receiving" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="failed" toID="V7" toText="were" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="failed" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="failed" toID="V9" toText="give" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="failed" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E46" fromID="V3" fromText="failed" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E47" fromID="V3" fromText="failed" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E48" fromID="V3" fromText="failed" toID="V13" toText="receive" />
+<EVENT_ORDER id="E49" fromID="V3" fromText="failed" toID="V14" toText="used" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="ensure" toID="V5" toText="enrich" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="ensure" toID="V6" toText="receiving" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="ensure" toID="V7" toText="were" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="ensure" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="ensure" toID="V9" toText="give" />
+<EVENT_ORDER id="E55" fromID="V4" fromText="ensure" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E56" fromID="V4" fromText="ensure" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E57" fromID="V4" fromText="ensure" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E58" fromID="V4" fromText="ensure" toID="V13" toText="receive" />
+<EVENT_ORDER id="E59" fromID="V4" fromText="ensure" toID="V14" toText="used" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="enrich" toID="V6" toText="receiving" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="enrich" toID="V7" toText="were" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="enrich" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E63" fromID="V5" fromText="enrich" toID="V9" toText="give" />
+<EVENT_ORDER id="E64" fromID="V5" fromText="enrich" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E65" fromID="V5" fromText="enrich" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E66" fromID="V5" fromText="enrich" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E67" fromID="V5" fromText="enrich" toID="V13" toText="receive" />
+<EVENT_ORDER id="E68" fromID="V5" fromText="enrich" toID="V14" toText="used" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="receiving" toID="V7" toText="were" />
+<EVENT_ORDER id="E70" fromID="V6" fromText="receiving" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E71" fromID="V6" fromText="receiving" toID="V9" toText="give" />
+<EVENT_ORDER id="E72" fromID="V6" fromText="receiving" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E73" fromID="V6" fromText="receiving" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E74" fromID="V6" fromText="receiving" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E75" fromID="V6" fromText="receiving" toID="V13" toText="receive" />
+<EVENT_ORDER id="E76" fromID="V6" fromText="receiving" toID="V14" toText="used" />
+<EVENT_ORDER id="E77" fromID="V7" fromText="were" toID="V8" toText="incensed" />
+<EVENT_ORDER id="E78" fromID="V7" fromText="were" toID="V9" toText="give" />
+<EVENT_ORDER id="E79" fromID="V7" fromText="were" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E80" fromID="V7" fromText="were" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E81" fromID="V7" fromText="were" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E82" fromID="V7" fromText="were" toID="V13" toText="receive" />
+<EVENT_ORDER id="E83" fromID="V7" fromText="were" toID="V14" toText="used" />
+<EVENT_ORDER id="E84" fromID="V8" fromText="incensed" toID="V9" toText="give" />
+<EVENT_ORDER id="E85" fromID="V8" fromText="incensed" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E86" fromID="V8" fromText="incensed" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E87" fromID="V8" fromText="incensed" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E88" fromID="V8" fromText="incensed" toID="V13" toText="receive" />
+<EVENT_ORDER id="E89" fromID="V8" fromText="incensed" toID="V14" toText="used" />
+<EVENT_ORDER id="E90" fromID="V9" fromText="give" toID="V10" toText="leveraged" />
+<EVENT_ORDER id="E91" fromID="V9" fromText="give" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E92" fromID="V9" fromText="give" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E93" fromID="V9" fromText="give" toID="V13" toText="receive" />
+<EVENT_ORDER id="E94" fromID="V9" fromText="give" toID="V14" toText="used" />
+<EVENT_ORDER id="E95" fromID="V10" fromText="leveraged" toID="V11" toText="flailing" />
+<EVENT_ORDER id="E96" fromID="V10" fromText="leveraged" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E97" fromID="V10" fromText="leveraged" toID="V13" toText="receive" />
+<EVENT_ORDER id="E98" fromID="V10" fromText="leveraged" toID="V14" toText="used" />
+<EVENT_ORDER id="E99" fromID="V11" fromText="flailing" toID="V12" toText="leaving" />
+<EVENT_ORDER id="E100" fromID="V11" fromText="flailing" toID="V13" toText="receive" />
+<EVENT_ORDER id="E101" fromID="V11" fromText="flailing" toID="V14" toText="used" />
+<EVENT_ORDER id="E102" fromID="V12" fromText="leaving" toID="V13" toText="receive" />
+<EVENT_ORDER id="E103" fromID="V12" fromText="leaving" toID="V14" toText="used" />
+<EVENT_ORDER id="E104" fromID="V13" fromText="receive" toID="V14" toText="used" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In an interview, Mr. Navarro said the administration would not hesitate to use its powers in certain situations. For example, he said, some brokers had been hoarding supplies of masks in warehouses and trying to sell them at exorbitant prices.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="29~33" text="said" category="VBD" />
+<VERB id="V1" spans="63~71" text="hesitate" category="VB" />
+<VERB id="V2" spans="75~78" text="use" category="VB" />
+<VERB id="V3" spans="129~133" text="said" category="VBD" />
+<VERB id="V4" spans="157~165" text="hoarding" category="VBG" />
+<VERB id="V5" spans="202~208" text="trying" category="VBG" />
+<VERB id="V6" spans="212~216" text="sell" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="hesitate" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="use" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="hoarding" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="trying" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="sell" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="hesitate" toID="V2" toText="use" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="hesitate" toID="V3" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="hesitate" toID="V4" toText="hoarding" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="hesitate" toID="V5" toText="trying" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="hesitate" toID="V6" toText="sell" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="use" toID="V3" toText="said" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="use" toID="V4" toText="hoarding" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="use" toID="V5" toText="trying" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="use" toID="V6" toText="sell" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="said" toID="V4" toText="hoarding" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="said" toID="V5" toText="trying" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="said" toID="V6" toText="sell" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="hoarding" toID="V5" toText="trying" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="hoarding" toID="V6" toText="sell" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="trying" toID="V6" toText="sell" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The debate beforehand was unusually fiery, and it escalated as Mr. Schumer repeatedly cut off attempts by Senator Susan Collins, Republican of Maine, to be recognized to speak.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~25" text="was" category="VBD" />
+<VERB id="V1" spans="50~59" text="escalated" category="VBD" />
+<VERB id="V2" spans="86~89" text="cut" category="VBD" />
+<VERB id="V3" spans="156~166" text="recognized" category="VBN" />
+<VERB id="V4" spans="170~175" text="speak" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="escalated" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="cut" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="recognized" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="speak" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="escalated" toID="V2" toText="cut" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="escalated" toID="V3" toText="recognized" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="escalated" toID="V4" toText="speak" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="cut" toID="V3" toText="recognized" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="cut" toID="V4" toText="speak" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="recognized" toID="V4" toText="speak" />
+</TAGS>
+</TemporalRelationTask>

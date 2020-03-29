@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[WASHINGTON — President Trump’s refusal to invoke the Defense Production Act to commandeer resources for the federal government is based on a bet that he can cajole the nation’s biggest manufacturers and tech firms to come together in a market-driven, if chaotic, consortium that will deliver critical equipment — from masks to ventilators — in time to abate a national crisis.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~17" text="s" category="VBD" />
+<VERB id="V1" spans="42~48" text="invoke" category="VB" />
+<VERB id="V2" spans="79~89" text="commandeer" category="VB" />
+<VERB id="V3" spans="130~135" text="based" category="VBN" />
+<VERB id="V4" spans="157~163" text="cajole" category="VB" />
+<VERB id="V5" spans="217~221" text="come" category="VB" />
+<VERB id="V6" spans="284~291" text="deliver" category="VB" />
+<VERB id="V7" spans="311~312" text="—" category="VB" />
+<VERB id="V8" spans="352~357" text="abate" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="invoke" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="commandeer" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="based" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="cajole" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="come" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="deliver" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="—" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="abate" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="invoke" toID="V2" toText="commandeer" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="invoke" toID="V3" toText="based" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="invoke" toID="V4" toText="cajole" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="invoke" toID="V5" toText="come" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="invoke" toID="V6" toText="deliver" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="invoke" toID="V7" toText="—" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="invoke" toID="V8" toText="abate" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="commandeer" toID="V3" toText="based" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="commandeer" toID="V4" toText="cajole" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="commandeer" toID="V5" toText="come" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="commandeer" toID="V6" toText="deliver" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="commandeer" toID="V7" toText="—" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="commandeer" toID="V8" toText="abate" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="based" toID="V4" toText="cajole" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="based" toID="V5" toText="come" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="based" toID="V6" toText="deliver" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="based" toID="V7" toText="—" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="based" toID="V8" toText="abate" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="cajole" toID="V5" toText="come" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="cajole" toID="V6" toText="deliver" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="cajole" toID="V7" toText="—" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="cajole" toID="V8" toText="abate" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="come" toID="V6" toText="deliver" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="come" toID="V7" toText="—" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="come" toID="V8" toText="abate" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="deliver" toID="V7" toText="—" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="deliver" toID="V8" toText="abate" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="—" toID="V8" toText="abate" />
+</TAGS>
+</TemporalRelationTask>

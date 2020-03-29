@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[On Sunday, hours before the Centers for Disease Control and Prevention warned against any gatherings of 50 people or more, a measure designed to slow the spread of the coronavirus, President Trump signed an email to his millions of supporters.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="71~77" text="warned" category="VBD" />
+<VERB id="V1" spans="133~141" text="designed" category="VBN" />
+<VERB id="V2" spans="145~149" text="slow" category="VB" />
+<VERB id="V3" spans="197~203" text="signed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="warned" toID="V1" toText="designed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="warned" toID="V2" toText="slow" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="warned" toID="V3" toText="signed" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="designed" toID="V2" toText="slow" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="designed" toID="V3" toText="signed" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="slow" toID="V3" toText="signed" />
+</TAGS>
+</TemporalRelationTask>

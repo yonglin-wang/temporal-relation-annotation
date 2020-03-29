@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Factories that make diapers, wipes and similar products have also switched over to manufacture the raw material that goes into N95 masks.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~19" text="make" category="VBP" />
+<VERB id="V1" spans="56~60" text="have" category="VBP" />
+<VERB id="V2" spans="66~74" text="switched" category="VBN" />
+<VERB id="V3" spans="83~94" text="manufacture" category="VB" />
+<VERB id="V4" spans="117~121" text="goes" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="make" toID="V1" toText="have" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="make" toID="V2" toText="switched" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="make" toID="V3" toText="manufacture" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="make" toID="V4" toText="goes" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="have" toID="V2" toText="switched" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="have" toID="V3" toText="manufacture" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="have" toID="V4" toText="goes" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="switched" toID="V3" toText="manufacture" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="switched" toID="V4" toText="goes" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="manufacture" toID="V4" toText="goes" />
+</TAGS>
+</TemporalRelationTask>

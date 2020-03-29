@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“We should not be physically present on this floor at this moment,” said Senator Richard J. Durbin of Illinois, the No. 2 Senate Democrat, imploring his colleagues to consider remote voting to spare their health and that of their aides. “We know better.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~17" text="be" category="VB" />
+<VERB id="V1" spans="68~72" text="said" category="VBD" />
+<VERB id="V2" spans="139~148" text="imploring" category="VBG" />
+<VERB id="V3" spans="167~175" text="consider" category="VB" />
+<VERB id="V4" spans="193~198" text="spare" category="VB" />
+<VERB id="V5" spans="241~245" text="know" category="VBP" />
+<VERB id="V6" spans="253~254" text="”" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="be" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="be" toID="V2" toText="imploring" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="be" toID="V3" toText="consider" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="be" toID="V4" toText="spare" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="be" toID="V5" toText="know" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="be" toID="V6" toText="”" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V2" toText="imploring" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V3" toText="consider" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V4" toText="spare" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V5" toText="know" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V6" toText="”" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="imploring" toID="V3" toText="consider" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="imploring" toID="V4" toText="spare" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="imploring" toID="V5" toText="know" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="imploring" toID="V6" toText="”" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="consider" toID="V4" toText="spare" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="consider" toID="V5" toText="know" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="consider" toID="V6" toText="”" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="spare" toID="V5" toText="know" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="spare" toID="V6" toText="”" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="know" toID="V6" toText="”" />
+</TAGS>
+</TemporalRelationTask>

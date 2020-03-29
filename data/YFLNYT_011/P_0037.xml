@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Keeping her distance from other shoppers, a smiling chancellor placed cherries, soap, several bottles of wine and toilet paper — one pack — into her shopping cart, photos on social media showed.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~7" text="Keeping" category="VBG" />
+<VERB id="V1" spans="44~51" text="smiling" category="VBG" />
+<VERB id="V2" spans="63~69" text="placed" category="VBD" />
+<VERB id="V3" spans="187~193" text="showed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Keeping" toID="V1" toText="smiling" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Keeping" toID="V2" toText="placed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Keeping" toID="V3" toText="showed" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="smiling" toID="V2" toText="placed" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="smiling" toID="V3" toText="showed" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="placed" toID="V3" toText="showed" />
+</TAGS>
+</TemporalRelationTask>

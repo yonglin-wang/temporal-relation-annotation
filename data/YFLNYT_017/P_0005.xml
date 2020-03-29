@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The next few Democratic primaries have been pushed back, and none are scheduled for the next couple of weeks. In Wisconsin, which is scheduled to vote on April 7, Democrats sued on Wednesday to force election officials to extend the deadline for online voter registration and vote-by-mail applications.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="44~50" text="pushed" category="VBN" />
+<VERB id="V1" spans="70~79" text="scheduled" category="VBN" />
+<VERB id="V2" spans="133~142" text="scheduled" category="VBN" />
+<VERB id="V3" spans="146~150" text="vote" category="VB" />
+<VERB id="V4" spans="173~177" text="sued" category="VBD" />
+<VERB id="V5" spans="194~199" text="force" category="VB" />
+<VERB id="V6" spans="222~228" text="extend" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="pushed" toID="V1" toText="scheduled" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="pushed" toID="V2" toText="scheduled" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="pushed" toID="V3" toText="vote" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="pushed" toID="V4" toText="sued" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="pushed" toID="V5" toText="force" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="pushed" toID="V6" toText="extend" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="scheduled" toID="V2" toText="scheduled" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="scheduled" toID="V3" toText="vote" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="scheduled" toID="V4" toText="sued" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="scheduled" toID="V5" toText="force" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="scheduled" toID="V6" toText="extend" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="scheduled" toID="V3" toText="vote" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="scheduled" toID="V4" toText="sued" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="scheduled" toID="V5" toText="force" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="scheduled" toID="V6" toText="extend" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="vote" toID="V4" toText="sued" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="vote" toID="V5" toText="force" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="vote" toID="V6" toText="extend" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="sued" toID="V5" toText="force" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="sued" toID="V6" toText="extend" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="force" toID="V6" toText="extend" />
+</TAGS>
+</TemporalRelationTask>

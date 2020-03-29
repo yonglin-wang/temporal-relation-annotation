@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The experts behind him often try to convey no reaction or emotion on their faces as the president riffs, and they wait their turns to convey more details and information.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="29~32" text="try" category="VBP" />
+<VERB id="V1" spans="36~42" text="convey" category="VB" />
+<VERB id="V2" spans="75~80" text="faces" category="VBZ" />
+<VERB id="V3" spans="114~118" text="wait" category="VBP" />
+<VERB id="V4" spans="134~140" text="convey" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="try" toID="V1" toText="convey" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="try" toID="V2" toText="faces" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="try" toID="V3" toText="wait" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="try" toID="V4" toText="convey" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="convey" toID="V2" toText="faces" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="convey" toID="V3" toText="wait" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="convey" toID="V4" toText="convey" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="faces" toID="V3" toText="wait" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="faces" toID="V4" toText="convey" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="wait" toID="V4" toText="convey" />
+</TAGS>
+</TemporalRelationTask>

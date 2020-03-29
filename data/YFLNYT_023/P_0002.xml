@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Gathering thousands of cheering supporters inside an airport hangar, Mr. Trump put aside the stress of Washington governing and returned to the campaign trail, where he reprised many of his greatest-hits themes and lines from last year and drank in the adulation of the crowd. Buoyant and energized, he invited one fan onto the stage for a hug and even briefly turned over the microphone.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~9" text="Gathering" category="VBG" />
+<VERB id="V1" spans="23~31" text="cheering" category="VBG" />
+<VERB id="V2" spans="79~82" text="put" category="VBD" />
+<VERB id="V3" spans="128~136" text="returned" category="VBN" />
+<VERB id="V4" spans="169~177" text="reprised" category="VBD" />
+<VERB id="V5" spans="289~298" text="energized" category="VBN" />
+<VERB id="V6" spans="303~310" text="invited" category="VBD" />
+<VERB id="V7" spans="361~367" text="turned" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Gathering" toID="V1" toText="cheering" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Gathering" toID="V2" toText="put" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Gathering" toID="V3" toText="returned" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="Gathering" toID="V4" toText="reprised" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="Gathering" toID="V5" toText="energized" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="Gathering" toID="V6" toText="invited" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="Gathering" toID="V7" toText="turned" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="cheering" toID="V2" toText="put" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="cheering" toID="V3" toText="returned" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="cheering" toID="V4" toText="reprised" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="cheering" toID="V5" toText="energized" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="cheering" toID="V6" toText="invited" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="cheering" toID="V7" toText="turned" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="put" toID="V3" toText="returned" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="put" toID="V4" toText="reprised" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="put" toID="V5" toText="energized" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="put" toID="V6" toText="invited" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="put" toID="V7" toText="turned" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="returned" toID="V4" toText="reprised" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="returned" toID="V5" toText="energized" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="returned" toID="V6" toText="invited" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="returned" toID="V7" toText="turned" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="reprised" toID="V5" toText="energized" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="reprised" toID="V6" toText="invited" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="reprised" toID="V7" toText="turned" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="energized" toID="V6" toText="invited" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="energized" toID="V7" toText="turned" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="invited" toID="V7" toText="turned" />
+</TAGS>
+</TemporalRelationTask>

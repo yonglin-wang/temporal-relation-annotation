@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Jockeying for future presidential campaigns is a feature of every party convention, and the Republican meeting in Cleveland this week is no exception. But the subtle wooing and chit collecting have taken on a new air of urgency this year, with many party leaders openly skeptical about whether Donald J. Trump can defeat Hillary Clinton.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~9" text="Jockeying" category="VBG" />
+<VERB id="V1" spans="44~46" text="is" category="VBZ" />
+<VERB id="V2" spans="126~128" text="is" category="VBZ" />
+<VERB id="V3" spans="198~203" text="taken" category="VBN" />
+<VERB id="V4" spans="270~279" text="skeptical" category="VBP" />
+<VERB id="V5" spans="314~320" text="defeat" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Jockeying" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Jockeying" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Jockeying" toID="V3" toText="taken" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="Jockeying" toID="V4" toText="skeptical" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="Jockeying" toID="V5" toText="defeat" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="is" toID="V2" toText="is" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V3" toText="taken" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V4" toText="skeptical" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V5" toText="defeat" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="is" toID="V3" toText="taken" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="is" toID="V4" toText="skeptical" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="is" toID="V5" toText="defeat" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="taken" toID="V4" toText="skeptical" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="taken" toID="V5" toText="defeat" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="skeptical" toID="V5" toText="defeat" />
+</TAGS>
+</TemporalRelationTask>

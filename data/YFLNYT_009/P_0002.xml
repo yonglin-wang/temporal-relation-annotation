@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[WASHINGTON — Senate Democrats on Monday blocked action for the second day in a row on a nearly $2 trillion emergency economic aid measure to respond to the coronavirus pandemic, insisting on stronger protections for workers and restrictions for bailed-out businesses as they struggled to reach a deal with the Trump administration.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="40~47" text="blocked" category="VBD" />
+<VERB id="V1" spans="141~148" text="respond" category="VB" />
+<VERB id="V2" spans="178~187" text="insisting" category="VBG" />
+<VERB id="V3" spans="275~284" text="struggled" category="VBD" />
+<VERB id="V4" spans="288~293" text="reach" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="blocked" toID="V1" toText="respond" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="blocked" toID="V2" toText="insisting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="blocked" toID="V3" toText="struggled" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="blocked" toID="V4" toText="reach" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="respond" toID="V2" toText="insisting" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="respond" toID="V3" toText="struggled" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="respond" toID="V4" toText="reach" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="insisting" toID="V3" toText="struggled" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="insisting" toID="V4" toText="reach" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="struggled" toID="V4" toText="reach" />
+</TAGS>
+</TemporalRelationTask>

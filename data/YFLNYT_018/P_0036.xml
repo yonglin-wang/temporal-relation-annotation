@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“There’s very little downside in testing the waters and nosing around,” said Harold Ickes, a longtime Democratic strategist. “One of the lessons of 2016 is that you just don’t know. Trump is Example A of that, and Sanders is Example B.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="33~40" text="testing" category="VBG" />
+<VERB id="V1" spans="56~62" text="nosing" category="VBG" />
+<VERB id="V2" spans="72~76" text="said" category="VBD" />
+<VERB id="V3" spans="120~122" text="is" category="VBZ" />
+<VERB id="V4" spans="170~173" text="don" category="VB" />
+<VERB id="V5" spans="176~180" text="know" category="VBP" />
+<VERB id="V6" spans="188~190" text="is" category="VBZ" />
+<VERB id="V7" spans="222~224" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="testing" toID="V1" toText="nosing" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="testing" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="testing" toID="V3" toText="is" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="testing" toID="V4" toText="don" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="testing" toID="V5" toText="know" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="testing" toID="V6" toText="is" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="testing" toID="V7" toText="is" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="nosing" toID="V2" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="nosing" toID="V3" toText="is" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="nosing" toID="V4" toText="don" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="nosing" toID="V5" toText="know" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="nosing" toID="V6" toText="is" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="nosing" toID="V7" toText="is" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V3" toText="is" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V4" toText="don" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V5" toText="know" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V6" toText="is" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V7" toText="is" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="is" toID="V4" toText="don" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="is" toID="V5" toText="know" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="is" toID="V6" toText="is" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="is" toID="V7" toText="is" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="don" toID="V5" toText="know" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="don" toID="V6" toText="is" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="don" toID="V7" toText="is" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="know" toID="V6" toText="is" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="know" toID="V7" toText="is" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="is" toID="V7" toText="is" />
+</TAGS>
+</TemporalRelationTask>

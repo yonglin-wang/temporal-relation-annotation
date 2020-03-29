@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Democrats complained that the Treasury secretary would have too much discretion on how to allocate the industry-specific funds loans, and that it would not outright require that recipients hang on to their employees. And they were concerned that the bulk of the money — $425 billion to guarantee potential losses on Federal Reserve programs — would be available to prop up companies with few restrictions.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~20" text="complained" category="VBD" />
+<VERB id="V1" spans="55~59" text="have" category="VB" />
+<VERB id="V2" spans="90~98" text="allocate" category="VB" />
+<VERB id="V3" spans="156~164" text="outright" category="VB" />
+<VERB id="V4" spans="189~193" text="hang" category="VBP" />
+<VERB id="V5" spans="231~240" text="concerned" category="VBN" />
+<VERB id="V6" spans="286~295" text="guarantee" category="VB" />
+<VERB id="V7" spans="349~351" text="be" category="VB" />
+<VERB id="V8" spans="365~369" text="prop" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="complained" toID="V1" toText="have" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="complained" toID="V2" toText="allocate" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="complained" toID="V3" toText="outright" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="complained" toID="V4" toText="hang" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="complained" toID="V5" toText="concerned" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="complained" toID="V6" toText="guarantee" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="complained" toID="V7" toText="be" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="complained" toID="V8" toText="prop" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="have" toID="V2" toText="allocate" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="have" toID="V3" toText="outright" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="have" toID="V4" toText="hang" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="have" toID="V5" toText="concerned" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="have" toID="V6" toText="guarantee" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="have" toID="V7" toText="be" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="have" toID="V8" toText="prop" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="allocate" toID="V3" toText="outright" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="allocate" toID="V4" toText="hang" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="allocate" toID="V5" toText="concerned" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="allocate" toID="V6" toText="guarantee" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="allocate" toID="V7" toText="be" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="allocate" toID="V8" toText="prop" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="outright" toID="V4" toText="hang" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="outright" toID="V5" toText="concerned" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="outright" toID="V6" toText="guarantee" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="outright" toID="V7" toText="be" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="outright" toID="V8" toText="prop" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="hang" toID="V5" toText="concerned" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="hang" toID="V6" toText="guarantee" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="hang" toID="V7" toText="be" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="hang" toID="V8" toText="prop" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="concerned" toID="V6" toText="guarantee" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="concerned" toID="V7" toText="be" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="concerned" toID="V8" toText="prop" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="guarantee" toID="V7" toText="be" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="guarantee" toID="V8" toText="prop" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="be" toID="V8" toText="prop" />
+</TAGS>
+</TemporalRelationTask>

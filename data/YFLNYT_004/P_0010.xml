@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[So by the time the five-member commission met on Thursday, Mr. Hardy was seething. And it would not be long before everybody knew it.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~45" text="met" category="VBD" />
+<VERB id="V1" spans="73~81" text="seething" category="VBG" />
+<VERB id="V2" spans="100~102" text="be" category="VB" />
+<VERB id="V3" spans="125~129" text="knew" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="met" toID="V1" toText="seething" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="met" toID="V2" toText="be" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="met" toID="V3" toText="knew" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="seething" toID="V2" toText="be" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="seething" toID="V3" toText="knew" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="be" toID="V3" toText="knew" />
+</TAGS>
+</TemporalRelationTask>

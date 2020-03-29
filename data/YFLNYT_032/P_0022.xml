@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Kasich has been ubiquitous this week. He addressed the N.A.A.C.P. in Cincinnati and appeared at fund-raising events in Cleveland for the committees dedicated to electing Republican governors, House members and senators. He will also appear at a foreign policy seminar and a Hispanic Chamber of Commerce event.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~19" text="been" category="VBN" />
+<VERB id="V1" spans="45~54" text="addressed" category="VBD" />
+<VERB id="V2" spans="88~96" text="appeared" category="VBD" />
+<VERB id="V3" spans="152~161" text="dedicated" category="VBN" />
+<VERB id="V4" spans="165~173" text="electing" category="VBG" />
+<VERB id="V5" spans="237~243" text="appear" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="addressed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="appeared" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="dedicated" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="electing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="been" toID="V5" toText="appear" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="addressed" toID="V2" toText="appeared" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="addressed" toID="V3" toText="dedicated" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="addressed" toID="V4" toText="electing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="addressed" toID="V5" toText="appear" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="appeared" toID="V3" toText="dedicated" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="appeared" toID="V4" toText="electing" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="appeared" toID="V5" toText="appear" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="dedicated" toID="V4" toText="electing" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="dedicated" toID="V5" toText="appear" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="electing" toID="V5" toText="appear" />
+</TAGS>
+</TemporalRelationTask>

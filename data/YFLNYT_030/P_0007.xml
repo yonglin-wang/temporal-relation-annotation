@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden said this week he was prepared to act aggressively. After winning three more states that held primaries on Tuesday, he extended an appeal, “especially to the young voters who have been inspired by Senator Sanders: I hear you. I know what is at stake. And I know what we have to do.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~14" text="said" category="VBD" />
+<VERB id="V1" spans="32~40" text="prepared" category="VBN" />
+<VERB id="V2" spans="44~47" text="act" category="VB" />
+<VERB id="V3" spans="68~75" text="winning" category="VBG" />
+<VERB id="V4" spans="99~103" text="held" category="VBD" />
+<VERB id="V5" spans="129~137" text="extended" category="VBD" />
+<VERB id="V6" spans="195~203" text="inspired" category="VBN" />
+<VERB id="V7" spans="226~230" text="hear" category="VBP" />
+<VERB id="V8" spans="238~242" text="know" category="VBP" />
+<VERB id="V9" spans="248~250" text="is" category="VBZ" />
+<VERB id="V10" spans="267~271" text="know" category="VBP" />
+<VERB id="V11" spans="280~284" text="have" category="VBP" />
+<VERB id="V12" spans="288~290" text="do" category="VB" />
+<VERB id="V13" spans="291~292" text="”" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="prepared" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="act" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="winning" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="held" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="extended" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="inspired" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="hear" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="said" toID="V8" toText="know" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="said" toID="V9" toText="is" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="said" toID="V10" toText="know" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="said" toID="V11" toText="have" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="said" toID="V12" toText="do" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="said" toID="V13" toText="”" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="prepared" toID="V2" toText="act" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="prepared" toID="V3" toText="winning" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="prepared" toID="V4" toText="held" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="prepared" toID="V5" toText="extended" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="prepared" toID="V6" toText="inspired" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="prepared" toID="V7" toText="hear" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="prepared" toID="V8" toText="know" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="prepared" toID="V9" toText="is" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="prepared" toID="V10" toText="know" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="prepared" toID="V11" toText="have" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="prepared" toID="V12" toText="do" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="prepared" toID="V13" toText="”" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="act" toID="V3" toText="winning" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="act" toID="V4" toText="held" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="act" toID="V5" toText="extended" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="act" toID="V6" toText="inspired" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="act" toID="V7" toText="hear" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="act" toID="V8" toText="know" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="act" toID="V9" toText="is" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="act" toID="V10" toText="know" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="act" toID="V11" toText="have" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="act" toID="V12" toText="do" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="act" toID="V13" toText="”" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="winning" toID="V4" toText="held" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="winning" toID="V5" toText="extended" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="winning" toID="V6" toText="inspired" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="winning" toID="V7" toText="hear" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="winning" toID="V8" toText="know" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="winning" toID="V9" toText="is" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="winning" toID="V10" toText="know" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="winning" toID="V11" toText="have" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="winning" toID="V12" toText="do" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="winning" toID="V13" toText="”" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="held" toID="V5" toText="extended" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="held" toID="V6" toText="inspired" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="held" toID="V7" toText="hear" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="held" toID="V8" toText="know" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="held" toID="V9" toText="is" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="held" toID="V10" toText="know" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="held" toID="V11" toText="have" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="held" toID="V12" toText="do" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="held" toID="V13" toText="”" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="extended" toID="V6" toText="inspired" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="extended" toID="V7" toText="hear" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="extended" toID="V8" toText="know" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="extended" toID="V9" toText="is" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="extended" toID="V10" toText="know" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="extended" toID="V11" toText="have" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="extended" toID="V12" toText="do" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="extended" toID="V13" toText="”" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="inspired" toID="V7" toText="hear" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="inspired" toID="V8" toText="know" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="inspired" toID="V9" toText="is" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="inspired" toID="V10" toText="know" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="inspired" toID="V11" toText="have" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="inspired" toID="V12" toText="do" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="inspired" toID="V13" toText="”" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="hear" toID="V8" toText="know" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="hear" toID="V9" toText="is" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="hear" toID="V10" toText="know" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="hear" toID="V11" toText="have" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="hear" toID="V12" toText="do" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="hear" toID="V13" toText="”" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="know" toID="V9" toText="is" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="know" toID="V10" toText="know" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="know" toID="V11" toText="have" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="know" toID="V12" toText="do" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="know" toID="V13" toText="”" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="is" toID="V10" toText="know" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="is" toID="V11" toText="have" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="is" toID="V12" toText="do" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="is" toID="V13" toText="”" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="know" toID="V11" toText="have" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="know" toID="V12" toText="do" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="know" toID="V13" toText="”" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="have" toID="V12" toText="do" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="have" toID="V13" toText="”" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="do" toID="V13" toText="”" />
+</TAGS>
+</TemporalRelationTask>

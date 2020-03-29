@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The same is true for many of the patients who are still being treated, from those being monitored with less serious symptoms to those whose heads are encased in plastic bubbles filled with oxygen. The worst cases are unconscious and on respirators.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~11" text="is" category="VBZ" />
+<VERB id="V1" spans="46~49" text="are" category="VBP" />
+<VERB id="V2" spans="56~61" text="being" category="VBG" />
+<VERB id="V3" spans="62~69" text="treated" category="VBN" />
+<VERB id="V4" spans="82~87" text="being" category="VBG" />
+<VERB id="V5" spans="88~97" text="monitored" category="VBN" />
+<VERB id="V6" spans="150~157" text="encased" category="VBN" />
+<VERB id="V7" spans="177~183" text="filled" category="VBN" />
+<VERB id="V8" spans="213~216" text="are" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="are" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="being" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="treated" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="being" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="monitored" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="encased" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="filled" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="are" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="are" toID="V2" toText="being" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="are" toID="V3" toText="treated" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="are" toID="V4" toText="being" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="are" toID="V5" toText="monitored" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="are" toID="V6" toText="encased" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="are" toID="V7" toText="filled" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="are" toID="V8" toText="are" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="being" toID="V3" toText="treated" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="being" toID="V4" toText="being" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="being" toID="V5" toText="monitored" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="being" toID="V6" toText="encased" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="being" toID="V7" toText="filled" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="being" toID="V8" toText="are" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="treated" toID="V4" toText="being" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="treated" toID="V5" toText="monitored" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="treated" toID="V6" toText="encased" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="treated" toID="V7" toText="filled" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="treated" toID="V8" toText="are" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="being" toID="V5" toText="monitored" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="being" toID="V6" toText="encased" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="being" toID="V7" toText="filled" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="being" toID="V8" toText="are" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="monitored" toID="V6" toText="encased" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="monitored" toID="V7" toText="filled" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="monitored" toID="V8" toText="are" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="encased" toID="V7" toText="filled" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="encased" toID="V8" toText="are" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="filled" toID="V8" toText="are" />
+</TAGS>
+</TemporalRelationTask>

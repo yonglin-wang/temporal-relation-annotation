@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[BERLIN — Germany on Sunday barred groups of more than two people from gathering, except for families, and Chancellor Angela Merkel later said she herself was going into isolation because her doctor had tested positive for the coronavirus.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~33" text="barred" category="VBD" />
+<VERB id="V1" spans="70~79" text="gathering" category="VBG" />
+<VERB id="V2" spans="137~141" text="said" category="VBD" />
+<VERB id="V3" spans="158~163" text="going" category="VBG" />
+<VERB id="V4" spans="202~208" text="tested" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="barred" toID="V1" toText="gathering" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="barred" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="barred" toID="V3" toText="going" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="barred" toID="V4" toText="tested" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="gathering" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="gathering" toID="V3" toText="going" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="gathering" toID="V4" toText="tested" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="said" toID="V3" toText="going" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="tested" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="going" toID="V4" toText="tested" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Northern Italy has been on war footing for weeks.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~23" text="been" category="VBN" />
+</TAGS>
+</TemporalRelationTask>

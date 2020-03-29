@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The two sides also reached agreement to provide $1,200 direct payments that would apply equally to workers with incomes up to $75,000 per year before phasing out and ending altogether for those earning more than $99,000. Families would receive an additional $500 per child.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~26" text="reached" category="VBD" />
+<VERB id="V1" spans="40~47" text="provide" category="VB" />
+<VERB id="V2" spans="82~87" text="apply" category="VB" />
+<VERB id="V3" spans="150~157" text="phasing" category="VBG" />
+<VERB id="V4" spans="166~172" text="ending" category="VBG" />
+<VERB id="V5" spans="194~201" text="earning" category="VBG" />
+<VERB id="V6" spans="236~243" text="receive" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="reached" toID="V1" toText="provide" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="reached" toID="V2" toText="apply" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="reached" toID="V3" toText="phasing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="reached" toID="V4" toText="ending" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="reached" toID="V5" toText="earning" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="reached" toID="V6" toText="receive" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="provide" toID="V2" toText="apply" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="provide" toID="V3" toText="phasing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="provide" toID="V4" toText="ending" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="provide" toID="V5" toText="earning" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="provide" toID="V6" toText="receive" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="apply" toID="V3" toText="phasing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="apply" toID="V4" toText="ending" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="apply" toID="V5" toText="earning" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="apply" toID="V6" toText="receive" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="phasing" toID="V4" toText="ending" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="phasing" toID="V5" toText="earning" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="phasing" toID="V6" toText="receive" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="ending" toID="V5" toText="earning" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="ending" toID="V6" toText="receive" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="earning" toID="V6" toText="receive" />
+</TAGS>
+</TemporalRelationTask>

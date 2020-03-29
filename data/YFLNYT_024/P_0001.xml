@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The coronavirus crisis has created uncertainty about whether the gathering, scheduled for mid-July in Milwaukee, can still take place.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~34" text="created" category="VBN" />
+<VERB id="V1" spans="76~85" text="scheduled" category="VBN" />
+<VERB id="V2" spans="123~127" text="take" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="created" toID="V1" toText="scheduled" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="created" toID="V2" toText="take" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="scheduled" toID="V2" toText="take" />
+</TAGS>
+</TemporalRelationTask>

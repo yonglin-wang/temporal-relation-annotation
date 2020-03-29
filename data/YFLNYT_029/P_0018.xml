@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden had been on a trajectory for an even worse fund-raising showing in February until a surge following his South Carolina win. He said that he had raised $5 million in the 24 hours around that Feb. 29 election, lifting his fund-raising total substantially.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="14~18" text="been" category="VBN" />
+<VERB id="V1" spans="100~109" text="following" category="VBG" />
+<VERB id="V2" spans="137~141" text="said" category="VBD" />
+<VERB id="V3" spans="154~160" text="raised" category="VBN" />
+<VERB id="V4" spans="218~225" text="lifting" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="following" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="raised" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="lifting" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="following" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="following" toID="V3" toText="raised" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="following" toID="V4" toText="lifting" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="said" toID="V3" toText="raised" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="lifting" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="raised" toID="V4" toText="lifting" />
+</TAGS>
+</TemporalRelationTask>

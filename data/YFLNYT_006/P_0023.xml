@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Paul’s announcement appeared to have won over some converts for the idea of remote voting. Senator Lindsey Graham, Republican of South Carolina, who had previously shrugged off the suggestion, took to Twitter to offer his support for the idea.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~10" text="s" category="VBD" />
+<VERB id="V1" spans="24~32" text="appeared" category="VBD" />
+<VERB id="V2" spans="41~44" text="won" category="VBN" />
+<VERB id="V3" spans="153~156" text="had" category="VBD" />
+<VERB id="V4" spans="168~176" text="shrugged" category="VBN" />
+<VERB id="V5" spans="197~201" text="took" category="VBD" />
+<VERB id="V6" spans="216~221" text="offer" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="appeared" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="won" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="had" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="shrugged" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="took" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="offer" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="appeared" toID="V2" toText="won" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="appeared" toID="V3" toText="had" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="appeared" toID="V4" toText="shrugged" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="appeared" toID="V5" toText="took" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="appeared" toID="V6" toText="offer" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="won" toID="V3" toText="had" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="won" toID="V4" toText="shrugged" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="won" toID="V5" toText="took" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="won" toID="V6" toText="offer" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="had" toID="V4" toText="shrugged" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="had" toID="V5" toText="took" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="had" toID="V6" toText="offer" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="shrugged" toID="V5" toText="took" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="shrugged" toID="V6" toText="offer" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="took" toID="V6" toText="offer" />
+</TAGS>
+</TemporalRelationTask>

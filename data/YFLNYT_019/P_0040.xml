@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“If you admit an 82-year-old with hypertension, in a situation where you have two or three patients waiting outside your I.C.U. who have many more chances of survival that you cannot admit because your I.C.U. is full, then it becomes really inappropriate, or I would say, immoral,” he said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="8~13" text="admit" category="VBP" />
+<VERB id="V1" spans="73~77" text="have" category="VBP" />
+<VERB id="V2" spans="100~107" text="waiting" category="VBG" />
+<VERB id="V3" spans="132~136" text="have" category="VBP" />
+<VERB id="V4" spans="183~188" text="admit" category="VB" />
+<VERB id="V5" spans="209~211" text="is" category="VBZ" />
+<VERB id="V6" spans="226~233" text="becomes" category="VBZ" />
+<VERB id="V7" spans="267~270" text="say" category="VB" />
+<VERB id="V8" spans="285~289" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="admit" toID="V1" toText="have" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="admit" toID="V2" toText="waiting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="admit" toID="V3" toText="have" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="admit" toID="V4" toText="admit" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="admit" toID="V5" toText="is" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="admit" toID="V6" toText="becomes" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="admit" toID="V7" toText="say" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="admit" toID="V8" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="have" toID="V2" toText="waiting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="have" toID="V3" toText="have" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="have" toID="V4" toText="admit" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="have" toID="V5" toText="is" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="have" toID="V6" toText="becomes" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="have" toID="V7" toText="say" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="have" toID="V8" toText="said" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="waiting" toID="V3" toText="have" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="waiting" toID="V4" toText="admit" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="waiting" toID="V5" toText="is" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="waiting" toID="V6" toText="becomes" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="waiting" toID="V7" toText="say" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="waiting" toID="V8" toText="said" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="have" toID="V4" toText="admit" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="have" toID="V5" toText="is" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="have" toID="V6" toText="becomes" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="have" toID="V7" toText="say" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="have" toID="V8" toText="said" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="admit" toID="V5" toText="is" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="admit" toID="V6" toText="becomes" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="admit" toID="V7" toText="say" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="admit" toID="V8" toText="said" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="is" toID="V6" toText="becomes" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="is" toID="V7" toText="say" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="is" toID="V8" toText="said" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="becomes" toID="V7" toText="say" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="becomes" toID="V8" toText="said" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="say" toID="V8" toText="said" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[It was clearly an energizing moment for a president who has shaken up Washington with a flurry of action on his campaign promises while absorbing significant setbacks. For all the enthusiasm in the hangar, Mr. Trump is struggling to win over the wider public. As of Friday, the Gallup poll put his approval rating at 38 percent, the lowest of any modern president so early in his tenure. Near the hangar, protesters yelled slogans and waved signs.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~6" text="was" category="VBD" />
+<VERB id="V1" spans="60~66" text="shaken" category="VBN" />
+<VERB id="V2" spans="136~145" text="absorbing" category="VBG" />
+<VERB id="V3" spans="219~229" text="struggling" category="VBG" />
+<VERB id="V4" spans="233~236" text="win" category="VB" />
+<VERB id="V5" spans="290~293" text="put" category="VBD" />
+<VERB id="V6" spans="416~422" text="yelled" category="VBD" />
+<VERB id="V7" spans="435~440" text="waved" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="shaken" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="absorbing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="struggling" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="win" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="put" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="yelled" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="waved" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="shaken" toID="V2" toText="absorbing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="shaken" toID="V3" toText="struggling" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="shaken" toID="V4" toText="win" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="shaken" toID="V5" toText="put" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="shaken" toID="V6" toText="yelled" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="shaken" toID="V7" toText="waved" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="absorbing" toID="V3" toText="struggling" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="absorbing" toID="V4" toText="win" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="absorbing" toID="V5" toText="put" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="absorbing" toID="V6" toText="yelled" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="absorbing" toID="V7" toText="waved" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="struggling" toID="V4" toText="win" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="struggling" toID="V5" toText="put" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="struggling" toID="V6" toText="yelled" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="struggling" toID="V7" toText="waved" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="win" toID="V5" toText="put" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="win" toID="V6" toText="yelled" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="win" toID="V7" toText="waved" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="put" toID="V6" toText="yelled" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="put" toID="V7" toText="waved" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="yelled" toID="V7" toText="waved" />
+</TAGS>
+</TemporalRelationTask>

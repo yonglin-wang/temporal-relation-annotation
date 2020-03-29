@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Senator Tom Cotton, Republican of Arkansas, muttering audibly, used a barnyard epithet to express his assessment of the situation.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="44~53" text="muttering" category="VBG" />
+<VERB id="V1" spans="63~67" text="used" category="VBD" />
+<VERB id="V2" spans="90~97" text="express" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="muttering" toID="V1" toText="used" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="muttering" toID="V2" toText="express" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="used" toID="V2" toText="express" />
+</TAGS>
+</TemporalRelationTask>

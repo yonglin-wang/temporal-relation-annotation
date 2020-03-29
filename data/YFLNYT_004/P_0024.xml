@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I have been threatened. My family has been threatened,” she said. “People have told me all kinds of terrible, horrible ways they hope I die. This has been unsettling.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~23" text="threatened" category="VBN" />
+<VERB id="V1" spans="44~54" text="threatened" category="VBN" />
+<VERB id="V2" spans="61~65" text="said" category="VBD" />
+<VERB id="V3" spans="80~84" text="told" category="VBN" />
+<VERB id="V4" spans="130~134" text="hope" category="VBP" />
+<VERB id="V5" spans="137~140" text="die" category="VBP" />
+<VERB id="V6" spans="156~166" text="unsettling" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="threatened" toID="V1" toText="threatened" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="threatened" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="threatened" toID="V3" toText="told" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="threatened" toID="V4" toText="hope" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="threatened" toID="V5" toText="die" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="threatened" toID="V6" toText="unsettling" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="threatened" toID="V2" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="threatened" toID="V3" toText="told" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="threatened" toID="V4" toText="hope" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="threatened" toID="V5" toText="die" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="threatened" toID="V6" toText="unsettling" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V3" toText="told" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="said" toID="V4" toText="hope" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V5" toText="die" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V6" toText="unsettling" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="told" toID="V4" toText="hope" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="told" toID="V5" toText="die" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="told" toID="V6" toText="unsettling" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="hope" toID="V5" toText="die" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="hope" toID="V6" toText="unsettling" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="die" toID="V6" toText="unsettling" />
+</TAGS>
+</TemporalRelationTask>

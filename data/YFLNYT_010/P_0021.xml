@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“We don’t know if in two weeks there will be a surge and we’ll be pulled in to take care of patients in the E.R.,” he said. “The system is already starting to get overwhelmed.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="4~7" text="don" category="VBP" />
+<VERB id="V1" spans="10~14" text="know" category="VBP" />
+<VERB id="V2" spans="42~44" text="be" category="VB" />
+<VERB id="V3" spans="59~60" text="’" category="VBP" />
+<VERB id="V4" spans="66~72" text="pulled" category="VBN" />
+<VERB id="V5" spans="79~83" text="take" category="VB" />
+<VERB id="V6" spans="118~122" text="said" category="VBD" />
+<VERB id="V7" spans="124~125" text="“" category="VB" />
+<VERB id="V8" spans="136~138" text="is" category="VBZ" />
+<VERB id="V9" spans="147~155" text="starting" category="VBG" />
+<VERB id="V10" spans="159~162" text="get" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="don" toID="V1" toText="know" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="don" toID="V2" toText="be" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="don" toID="V3" toText="’" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="don" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="don" toID="V5" toText="take" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="don" toID="V6" toText="said" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="don" toID="V7" toText="“" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="don" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="don" toID="V9" toText="starting" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="don" toID="V10" toText="get" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="know" toID="V2" toText="be" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="know" toID="V3" toText="’" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="know" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="know" toID="V5" toText="take" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="know" toID="V6" toText="said" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="know" toID="V7" toText="“" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="know" toID="V8" toText="is" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="know" toID="V9" toText="starting" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="know" toID="V10" toText="get" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="be" toID="V3" toText="’" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="be" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="be" toID="V5" toText="take" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="be" toID="V6" toText="said" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="be" toID="V7" toText="“" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="be" toID="V8" toText="is" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="be" toID="V9" toText="starting" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="be" toID="V10" toText="get" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="’" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="’" toID="V5" toText="take" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="’" toID="V6" toText="said" />
+<EVENT_ORDER id="E30" fromID="V3" fromText="’" toID="V7" toText="“" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="’" toID="V8" toText="is" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="’" toID="V9" toText="starting" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="’" toID="V10" toText="get" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="pulled" toID="V5" toText="take" />
+<EVENT_ORDER id="E35" fromID="V4" fromText="pulled" toID="V6" toText="said" />
+<EVENT_ORDER id="E36" fromID="V4" fromText="pulled" toID="V7" toText="“" />
+<EVENT_ORDER id="E37" fromID="V4" fromText="pulled" toID="V8" toText="is" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="pulled" toID="V9" toText="starting" />
+<EVENT_ORDER id="E39" fromID="V4" fromText="pulled" toID="V10" toText="get" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="take" toID="V6" toText="said" />
+<EVENT_ORDER id="E41" fromID="V5" fromText="take" toID="V7" toText="“" />
+<EVENT_ORDER id="E42" fromID="V5" fromText="take" toID="V8" toText="is" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="take" toID="V9" toText="starting" />
+<EVENT_ORDER id="E44" fromID="V5" fromText="take" toID="V10" toText="get" />
+<EVENT_ORDER id="E45" fromID="V6" fromText="said" toID="V7" toText="“" />
+<EVENT_ORDER id="E46" fromID="V6" fromText="said" toID="V8" toText="is" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="said" toID="V9" toText="starting" />
+<EVENT_ORDER id="E48" fromID="V6" fromText="said" toID="V10" toText="get" />
+<EVENT_ORDER id="E49" fromID="V7" fromText="“" toID="V8" toText="is" />
+<EVENT_ORDER id="E50" fromID="V7" fromText="“" toID="V9" toText="starting" />
+<EVENT_ORDER id="E51" fromID="V7" fromText="“" toID="V10" toText="get" />
+<EVENT_ORDER id="E52" fromID="V8" fromText="is" toID="V9" toText="starting" />
+<EVENT_ORDER id="E53" fromID="V8" fromText="is" toID="V10" toText="get" />
+<EVENT_ORDER id="E54" fromID="V9" fromText="starting" toID="V10" toText="get" />
+</TAGS>
+</TemporalRelationTask>

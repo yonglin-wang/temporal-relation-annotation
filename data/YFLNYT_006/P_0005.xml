@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As states, cities and employers around the country direct Americans to stay at home and shelter in place to slow the spread of the coronavirus pandemic, the Senate — nearly half of whose members are 65 and older — continues to defy the recommendations of public health experts. Mr. Paul’s diagnosis, which prompted two other Republican senators to quarantine themselves, only underscored the danger of the situation.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="71~75" text="stay" category="VB" />
+<VERB id="V1" spans="108~112" text="slow" category="VB" />
+<VERB id="V2" spans="195~198" text="are" category="VBP" />
+<VERB id="V3" spans="214~223" text="continues" category="VBZ" />
+<VERB id="V4" spans="227~231" text="defy" category="VB" />
+<VERB id="V5" spans="306~314" text="prompted" category="VBD" />
+<VERB id="V6" spans="348~358" text="quarantine" category="VB" />
+<VERB id="V7" spans="376~387" text="underscored" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="stay" toID="V1" toText="slow" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="stay" toID="V2" toText="are" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="stay" toID="V3" toText="continues" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="stay" toID="V4" toText="defy" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="stay" toID="V5" toText="prompted" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="stay" toID="V6" toText="quarantine" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="stay" toID="V7" toText="underscored" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="slow" toID="V2" toText="are" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="slow" toID="V3" toText="continues" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="slow" toID="V4" toText="defy" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="slow" toID="V5" toText="prompted" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="slow" toID="V6" toText="quarantine" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="slow" toID="V7" toText="underscored" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="are" toID="V3" toText="continues" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="are" toID="V4" toText="defy" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="are" toID="V5" toText="prompted" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="are" toID="V6" toText="quarantine" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="are" toID="V7" toText="underscored" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="continues" toID="V4" toText="defy" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="continues" toID="V5" toText="prompted" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="continues" toID="V6" toText="quarantine" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="continues" toID="V7" toText="underscored" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="defy" toID="V5" toText="prompted" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="defy" toID="V6" toText="quarantine" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="defy" toID="V7" toText="underscored" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="prompted" toID="V6" toText="quarantine" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="prompted" toID="V7" toText="underscored" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="quarantine" toID="V7" toText="underscored" />
+</TAGS>
+</TemporalRelationTask>

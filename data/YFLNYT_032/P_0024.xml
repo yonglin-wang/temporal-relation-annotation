@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Ryan has threaded the needle by supporting Mr. Trump while also openly disagreeing with him on some issues. But he will soon be pressed about whether he intends to make a career of the speakership or position himself for a presidential bid if Democrats take the White House and Senate.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~21" text="threaded" category="VBN" />
+<VERB id="V1" spans="36~46" text="supporting" category="VBG" />
+<VERB id="V2" spans="75~86" text="disagreeing" category="VBG" />
+<VERB id="V3" spans="132~139" text="pressed" category="VBN" />
+<VERB id="V4" spans="157~164" text="intends" category="VBZ" />
+<VERB id="V5" spans="168~172" text="make" category="VB" />
+<VERB id="V6" spans="257~261" text="take" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="threaded" toID="V1" toText="supporting" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="threaded" toID="V2" toText="disagreeing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="threaded" toID="V3" toText="pressed" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="threaded" toID="V4" toText="intends" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="threaded" toID="V5" toText="make" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="threaded" toID="V6" toText="take" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="supporting" toID="V2" toText="disagreeing" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="supporting" toID="V3" toText="pressed" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="supporting" toID="V4" toText="intends" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="supporting" toID="V5" toText="make" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="supporting" toID="V6" toText="take" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="disagreeing" toID="V3" toText="pressed" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="disagreeing" toID="V4" toText="intends" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="disagreeing" toID="V5" toText="make" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="disagreeing" toID="V6" toText="take" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="pressed" toID="V4" toText="intends" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="pressed" toID="V5" toText="make" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="pressed" toID="V6" toText="take" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="intends" toID="V5" toText="make" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="intends" toID="V6" toText="take" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="make" toID="V6" toText="take" />
+</TAGS>
+</TemporalRelationTask>

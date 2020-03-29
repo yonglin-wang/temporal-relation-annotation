@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The chancellor paid by card, joining those Germans dispensing with a time-honored tradition: paying cash. Many stores have become averse to exchanging coins and notes during the outbreak.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~19" text="paid" category="VBN" />
+<VERB id="V1" spans="29~36" text="joining" category="VBG" />
+<VERB id="V2" spans="51~61" text="dispensing" category="VBG" />
+<VERB id="V3" spans="93~99" text="paying" category="VBG" />
+<VERB id="V4" spans="123~129" text="become" category="VBN" />
+<VERB id="V5" spans="140~150" text="exchanging" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="paid" toID="V1" toText="joining" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="paid" toID="V2" toText="dispensing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="paid" toID="V3" toText="paying" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="paid" toID="V4" toText="become" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="paid" toID="V5" toText="exchanging" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="joining" toID="V2" toText="dispensing" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="joining" toID="V3" toText="paying" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="joining" toID="V4" toText="become" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="joining" toID="V5" toText="exchanging" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="dispensing" toID="V3" toText="paying" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="dispensing" toID="V4" toText="become" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="dispensing" toID="V5" toText="exchanging" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="paying" toID="V4" toText="become" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="paying" toID="V5" toText="exchanging" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="become" toID="V5" toText="exchanging" />
+</TAGS>
+</TemporalRelationTask>

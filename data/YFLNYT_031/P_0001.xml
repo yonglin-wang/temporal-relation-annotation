@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As President Trump appears at daily briefings, the Democratic front-runner faces the challenge of raising his profile in a presidential race that has moved almost entirely into the digital realm.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~26" text="appears" category="VBZ" />
+<VERB id="V1" spans="75~80" text="faces" category="VBZ" />
+<VERB id="V2" spans="98~105" text="raising" category="VBG" />
+<VERB id="V3" spans="150~155" text="moved" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="appears" toID="V1" toText="faces" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="appears" toID="V2" toText="raising" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="appears" toID="V3" toText="moved" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="faces" toID="V2" toText="raising" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="faces" toID="V3" toText="moved" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="raising" toID="V3" toText="moved" />
+</TAGS>
+</TemporalRelationTask>

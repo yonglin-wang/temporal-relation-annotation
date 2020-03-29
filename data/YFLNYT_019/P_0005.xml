@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Two weeks after the Italian government took strict measures to lock down the country, officials announced on Monday that, for the second day in a row, the number of new cases and deaths had declined.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="39~43" text="took" category="VBD" />
+<VERB id="V1" spans="63~67" text="lock" category="VB" />
+<VERB id="V2" spans="96~105" text="announced" category="VBD" />
+<VERB id="V3" spans="190~198" text="declined" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="took" toID="V1" toText="lock" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="took" toID="V2" toText="announced" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="took" toID="V3" toText="declined" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="lock" toID="V2" toText="announced" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="lock" toID="V3" toText="declined" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="announced" toID="V3" toText="declined" />
+</TAGS>
+</TemporalRelationTask>

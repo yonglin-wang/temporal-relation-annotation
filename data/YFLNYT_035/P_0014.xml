@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[If Mrs. Clinton wins the White House in November, the party may need to spend the next eight years discovering which young Democratic politicians can appeal to millennials and win elections. If she loses, the Democratic Party will be under pressure to find a new standard-bearer in just four years.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~20" text="wins" category="VBZ" />
+<VERB id="V1" spans="64~68" text="need" category="VB" />
+<VERB id="V2" spans="72~77" text="spend" category="VB" />
+<VERB id="V3" spans="99~110" text="discovering" category="VBG" />
+<VERB id="V4" spans="150~156" text="appeal" category="VB" />
+<VERB id="V5" spans="198~203" text="loses" category="VBZ" />
+<VERB id="V6" spans="231~233" text="be" category="VB" />
+<VERB id="V7" spans="252~256" text="find" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="wins" toID="V1" toText="need" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="wins" toID="V2" toText="spend" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="wins" toID="V3" toText="discovering" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="wins" toID="V4" toText="appeal" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="wins" toID="V5" toText="loses" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="wins" toID="V6" toText="be" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="wins" toID="V7" toText="find" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="need" toID="V2" toText="spend" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="need" toID="V3" toText="discovering" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="need" toID="V4" toText="appeal" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="need" toID="V5" toText="loses" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="need" toID="V6" toText="be" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="need" toID="V7" toText="find" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="spend" toID="V3" toText="discovering" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="spend" toID="V4" toText="appeal" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="spend" toID="V5" toText="loses" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="spend" toID="V6" toText="be" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="spend" toID="V7" toText="find" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="discovering" toID="V4" toText="appeal" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="discovering" toID="V5" toText="loses" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="discovering" toID="V6" toText="be" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="discovering" toID="V7" toText="find" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="appeal" toID="V5" toText="loses" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="appeal" toID="V6" toText="be" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="appeal" toID="V7" toText="find" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="loses" toID="V6" toText="be" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="loses" toID="V7" toText="find" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="be" toID="V7" toText="find" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The intensive, and lengthy, treatment required to heal hospitalized patients with the virus means that will not happen anytime soon. Many of those who have died with the virus were infected weeks ago, before restrictive measures went into place.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="38~46" text="required" category="VBN" />
+<VERB id="V1" spans="50~54" text="heal" category="VB" />
+<VERB id="V2" spans="92~97" text="means" category="VBZ" />
+<VERB id="V3" spans="112~118" text="happen" category="VB" />
+<VERB id="V4" spans="156~160" text="died" category="VBN" />
+<VERB id="V5" spans="181~189" text="infected" category="VBN" />
+<VERB id="V6" spans="229~233" text="went" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="required" toID="V1" toText="heal" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="required" toID="V2" toText="means" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="required" toID="V3" toText="happen" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="required" toID="V4" toText="died" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="required" toID="V5" toText="infected" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="required" toID="V6" toText="went" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="heal" toID="V2" toText="means" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="heal" toID="V3" toText="happen" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="heal" toID="V4" toText="died" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="heal" toID="V5" toText="infected" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="heal" toID="V6" toText="went" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="means" toID="V3" toText="happen" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="means" toID="V4" toText="died" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="means" toID="V5" toText="infected" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="means" toID="V6" toText="went" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="happen" toID="V4" toText="died" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="happen" toID="V5" toText="infected" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="happen" toID="V6" toText="went" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="died" toID="V5" toText="infected" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="died" toID="V6" toText="went" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="infected" toID="V6" toText="went" />
+</TAGS>
+</TemporalRelationTask>

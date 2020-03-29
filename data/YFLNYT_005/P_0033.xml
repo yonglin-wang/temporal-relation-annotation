@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The Trump campaign declined to comment on its online messaging. But Republicans who work with the campaign said that those behind the messages generally refuse to let political custom or niceties dictate their behavior, regardless of blowback.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~27" text="declined" category="VBD" />
+<VERB id="V1" spans="31~38" text="comment" category="VB" />
+<VERB id="V2" spans="84~88" text="work" category="VBP" />
+<VERB id="V3" spans="107~111" text="said" category="VBD" />
+<VERB id="V4" spans="153~159" text="refuse" category="VBP" />
+<VERB id="V5" spans="163~166" text="let" category="VB" />
+<VERB id="V6" spans="196~203" text="dictate" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="declined" toID="V1" toText="comment" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="declined" toID="V2" toText="work" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="declined" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="declined" toID="V4" toText="refuse" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="declined" toID="V5" toText="let" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="declined" toID="V6" toText="dictate" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="comment" toID="V2" toText="work" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="comment" toID="V3" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="comment" toID="V4" toText="refuse" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="comment" toID="V5" toText="let" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="comment" toID="V6" toText="dictate" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="work" toID="V3" toText="said" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="work" toID="V4" toText="refuse" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="work" toID="V5" toText="let" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="work" toID="V6" toText="dictate" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="said" toID="V4" toText="refuse" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="said" toID="V5" toText="let" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="said" toID="V6" toText="dictate" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="refuse" toID="V5" toText="let" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="refuse" toID="V6" toText="dictate" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="let" toID="V6" toText="dictate" />
+</TAGS>
+</TemporalRelationTask>

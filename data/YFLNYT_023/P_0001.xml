@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[MELBOURNE, Fla. — Never let it be said that President Trump waits until the last minute. With just 1,354 days until the next presidential election, Mr. Trump kicked off his re-election campaign here on Saturday with a boisterous, sign-waving, slogan-chanting, patriotic-song-singing rally that lacked only an opponent for him to run against.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~27" text="let" category="VBD" />
+<VERB id="V1" spans="34~38" text="said" category="VBD" />
+<VERB id="V2" spans="60~65" text="waits" category="VBZ" />
+<VERB id="V3" spans="158~164" text="kicked" category="VBD" />
+<VERB id="V4" spans="294~300" text="lacked" category="VBD" />
+<VERB id="V5" spans="329~332" text="run" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="let" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="let" toID="V2" toText="waits" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="let" toID="V3" toText="kicked" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="let" toID="V4" toText="lacked" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="let" toID="V5" toText="run" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="said" toID="V2" toText="waits" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V3" toText="kicked" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V4" toText="lacked" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V5" toText="run" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="waits" toID="V3" toText="kicked" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="waits" toID="V4" toText="lacked" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="waits" toID="V5" toText="run" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="kicked" toID="V4" toText="lacked" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="kicked" toID="V5" toText="run" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="lacked" toID="V5" toText="run" />
+</TAGS>
+</TemporalRelationTask>

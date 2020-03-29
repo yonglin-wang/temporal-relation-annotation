@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The recommendations were immediately attacked by officials of the main Italian medical association, many of them outside the hardest-hit areas, who criticized the guidelines as discriminatory against older patients. But Dr. Vergano said he received support from doctors on the front lines, as well as requests for translations from doctors in other countries.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="20~24" text="were" category="VBD" />
+<VERB id="V1" spans="37~45" text="attacked" category="VBN" />
+<VERB id="V2" spans="148~158" text="criticized" category="VBD" />
+<VERB id="V3" spans="232~236" text="said" category="VBD" />
+<VERB id="V4" spans="240~248" text="received" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="were" toID="V1" toText="attacked" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="were" toID="V2" toText="criticized" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="were" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="were" toID="V4" toText="received" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="attacked" toID="V2" toText="criticized" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="attacked" toID="V3" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="attacked" toID="V4" toText="received" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="criticized" toID="V3" toText="said" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="criticized" toID="V4" toText="received" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="said" toID="V4" toText="received" />
+</TAGS>
+</TemporalRelationTask>

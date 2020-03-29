@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“At every convention, there’s always one bright shining, new star; we just don’t know who it is here yet,” said Stephanie Cutter, a veteran Democratic strategist who was deputy campaign manager for Mr. Obama’s re-election in 2012. “The connections that you make, the fund-raising potential and even the media exposure are huge investments for anyone’s political career.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~28" text="’" category="VBZ" />
+<VERB id="V1" spans="48~55" text="shining" category="VBG" />
+<VERB id="V2" spans="75~78" text="don" category="VB" />
+<VERB id="V3" spans="81~85" text="know" category="VBP" />
+<VERB id="V4" spans="93~95" text="is" category="VBZ" />
+<VERB id="V5" spans="107~111" text="said" category="VBD" />
+<VERB id="V6" spans="166~169" text="was" category="VBD" />
+<VERB id="V7" spans="208~209" text="s" category="VBD" />
+<VERB id="V8" spans="257~261" text="make" category="VBP" />
+<VERB id="V9" spans="318~321" text="are" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="’" toID="V1" toText="shining" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="’" toID="V2" toText="don" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="’" toID="V3" toText="know" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="’" toID="V4" toText="is" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="’" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="’" toID="V6" toText="was" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="’" toID="V7" toText="s" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="’" toID="V8" toText="make" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="’" toID="V9" toText="are" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="shining" toID="V2" toText="don" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="shining" toID="V3" toText="know" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="shining" toID="V4" toText="is" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="shining" toID="V5" toText="said" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="shining" toID="V6" toText="was" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="shining" toID="V7" toText="s" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="shining" toID="V8" toText="make" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="shining" toID="V9" toText="are" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="don" toID="V3" toText="know" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="don" toID="V4" toText="is" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="don" toID="V5" toText="said" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="don" toID="V6" toText="was" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="don" toID="V7" toText="s" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="don" toID="V8" toText="make" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="don" toID="V9" toText="are" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="know" toID="V4" toText="is" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="know" toID="V5" toText="said" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="know" toID="V6" toText="was" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="know" toID="V7" toText="s" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="know" toID="V8" toText="make" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="know" toID="V9" toText="are" />
+<EVENT_ORDER id="E30" fromID="V4" fromText="is" toID="V5" toText="said" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="is" toID="V6" toText="was" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="is" toID="V7" toText="s" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="is" toID="V8" toText="make" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="is" toID="V9" toText="are" />
+<EVENT_ORDER id="E35" fromID="V5" fromText="said" toID="V6" toText="was" />
+<EVENT_ORDER id="E36" fromID="V5" fromText="said" toID="V7" toText="s" />
+<EVENT_ORDER id="E37" fromID="V5" fromText="said" toID="V8" toText="make" />
+<EVENT_ORDER id="E38" fromID="V5" fromText="said" toID="V9" toText="are" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="was" toID="V7" toText="s" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="was" toID="V8" toText="make" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="was" toID="V9" toText="are" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="s" toID="V8" toText="make" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="s" toID="V9" toText="are" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="make" toID="V9" toText="are" />
+</TAGS>
+</TemporalRelationTask>

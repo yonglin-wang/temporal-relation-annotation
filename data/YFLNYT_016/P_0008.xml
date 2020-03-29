@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“It’s being run by the campaign,” Sean Spicer, the White House press secretary, said on Wednesday, without elaborating. He would not say why the president would be holding a campaign rally so soon after taking office.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~1" text="“" category="VB" />
+<VERB id="V1" spans="6~11" text="being" category="VBG" />
+<VERB id="V2" spans="12~15" text="run" category="VBN" />
+<VERB id="V3" spans="80~84" text="said" category="VBD" />
+<VERB id="V4" spans="107~118" text="elaborating" category="VBG" />
+<VERB id="V5" spans="133~136" text="say" category="VB" />
+<VERB id="V6" spans="164~171" text="holding" category="VBG" />
+<VERB id="V7" spans="203~209" text="taking" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="“" toID="V1" toText="being" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="“" toID="V2" toText="run" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="“" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="“" toID="V4" toText="elaborating" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="“" toID="V5" toText="say" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="“" toID="V6" toText="holding" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="“" toID="V7" toText="taking" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="being" toID="V2" toText="run" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="being" toID="V3" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="being" toID="V4" toText="elaborating" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="being" toID="V5" toText="say" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="being" toID="V6" toText="holding" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="being" toID="V7" toText="taking" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="run" toID="V3" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="run" toID="V4" toText="elaborating" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="run" toID="V5" toText="say" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="run" toID="V6" toText="holding" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="run" toID="V7" toText="taking" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="said" toID="V4" toText="elaborating" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="said" toID="V5" toText="say" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="said" toID="V6" toText="holding" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V7" toText="taking" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="elaborating" toID="V5" toText="say" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="elaborating" toID="V6" toText="holding" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="elaborating" toID="V7" toText="taking" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="say" toID="V6" toText="holding" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="say" toID="V7" toText="taking" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="holding" toID="V7" toText="taking" />
+</TAGS>
+</TemporalRelationTask>

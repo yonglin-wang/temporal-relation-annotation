@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The embassy’s budget could be cut by at least $145 million next year, according to the State Department’s spending plan, reducing some operations and consolidating others. Direct aid to Afghans is also declining, from $1 billion in the 2017 fiscal year to just under $500 million in 2019.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="30~33" text="cut" category="VBN" />
+<VERB id="V1" spans="70~79" text="according" category="VBG" />
+<VERB id="V2" spans="104~105" text="s" category="VBD" />
+<VERB id="V3" spans="121~129" text="reducing" category="VBG" />
+<VERB id="V4" spans="150~163" text="consolidating" category="VBG" />
+<VERB id="V5" spans="194~196" text="is" category="VBZ" />
+<VERB id="V6" spans="202~211" text="declining" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="cut" toID="V1" toText="according" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="cut" toID="V2" toText="s" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="cut" toID="V3" toText="reducing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="cut" toID="V4" toText="consolidating" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="cut" toID="V5" toText="is" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="cut" toID="V6" toText="declining" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="according" toID="V2" toText="s" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="according" toID="V3" toText="reducing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="according" toID="V4" toText="consolidating" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="according" toID="V5" toText="is" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="according" toID="V6" toText="declining" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="s" toID="V3" toText="reducing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="s" toID="V4" toText="consolidating" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="s" toID="V5" toText="is" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="s" toID="V6" toText="declining" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="reducing" toID="V4" toText="consolidating" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="reducing" toID="V5" toText="is" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="reducing" toID="V6" toText="declining" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="consolidating" toID="V5" toText="is" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="consolidating" toID="V6" toText="declining" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="is" toID="V6" toText="declining" />
+</TAGS>
+</TemporalRelationTask>

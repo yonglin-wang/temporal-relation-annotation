@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Barack Obama did not file his statement of candidacy for re-election until April 2011, more than two years after he took office, while George W. Bush waited until May of 2003 and Bill Clinton until April of 1995.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~16" text="did" category="VBD" />
+<VERB id="V1" spans="21~25" text="file" category="VB" />
+<VERB id="V2" spans="116~120" text="took" category="VBD" />
+<VERB id="V3" spans="150~156" text="waited" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="did" toID="V1" toText="file" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="did" toID="V2" toText="took" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="did" toID="V3" toText="waited" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="file" toID="V2" toText="took" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="file" toID="V3" toText="waited" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="took" toID="V3" toText="waited" />
+</TAGS>
+</TemporalRelationTask>

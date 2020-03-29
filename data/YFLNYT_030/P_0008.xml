@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But Mr. Biden has resisted tacking left on climate change these past few weeks in the way he did recently when he endorsed Senator Warren’s bankruptcy plan.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="18~26" text="resisted" category="VBN" />
+<VERB id="V1" spans="27~34" text="tacking" category="VBG" />
+<VERB id="V2" spans="35~39" text="left" category="VBN" />
+<VERB id="V3" spans="93~96" text="did" category="VBD" />
+<VERB id="V4" spans="114~122" text="endorsed" category="VBD" />
+<VERB id="V5" spans="138~139" text="s" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="resisted" toID="V1" toText="tacking" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="resisted" toID="V2" toText="left" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="resisted" toID="V3" toText="did" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="resisted" toID="V4" toText="endorsed" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="resisted" toID="V5" toText="s" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="tacking" toID="V2" toText="left" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="tacking" toID="V3" toText="did" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="tacking" toID="V4" toText="endorsed" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="tacking" toID="V5" toText="s" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="left" toID="V3" toText="did" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="left" toID="V4" toText="endorsed" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="left" toID="V5" toText="s" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="did" toID="V4" toText="endorsed" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="did" toID="V5" toText="s" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="endorsed" toID="V5" toText="s" />
+</TAGS>
+</TemporalRelationTask>

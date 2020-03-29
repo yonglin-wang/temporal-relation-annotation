@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[On Wednesday, during a joint news conference with Prime Minister Benjamin Netanyahu of Israel, Mr. Trump answered a question about whether his administration was flirting with xenophobia and racism in part by noting the support he received in the election.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="105~113" text="answered" category="VBD" />
+<VERB id="V1" spans="162~170" text="flirting" category="VBG" />
+<VERB id="V2" spans="209~215" text="noting" category="VBG" />
+<VERB id="V3" spans="231~239" text="received" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="answered" toID="V1" toText="flirting" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="answered" toID="V2" toText="noting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="answered" toID="V3" toText="received" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="flirting" toID="V2" toText="noting" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="flirting" toID="V3" toText="received" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="noting" toID="V3" toText="received" />
+</TAGS>
+</TemporalRelationTask>

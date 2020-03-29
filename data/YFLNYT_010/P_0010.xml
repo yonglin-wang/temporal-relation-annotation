@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Endocrinologists like Dr. Weber are helping their patients coordinate extra supplies of medication, in case they need to self-isolate. And psychiatrists, especially on campuses, are facing a barrage of questions on an array of topics, like potential virus exposure and the sudden upending of work and academic schedules.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="36~43" text="helping" category="VBG" />
+<VERB id="V1" spans="59~69" text="coordinate" category="VB" />
+<VERB id="V2" spans="113~117" text="need" category="VBP" />
+<VERB id="V3" spans="121~133" text="self-isolate" category="VB" />
+<VERB id="V4" spans="182~188" text="facing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="helping" toID="V1" toText="coordinate" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="helping" toID="V2" toText="need" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="helping" toID="V3" toText="self-isolate" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="helping" toID="V4" toText="facing" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="coordinate" toID="V2" toText="need" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="coordinate" toID="V3" toText="self-isolate" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="coordinate" toID="V4" toText="facing" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="need" toID="V3" toText="self-isolate" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="need" toID="V4" toText="facing" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="self-isolate" toID="V4" toText="facing" />
+</TAGS>
+</TemporalRelationTask>

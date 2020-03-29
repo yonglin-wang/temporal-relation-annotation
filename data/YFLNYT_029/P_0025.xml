@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The donors to that group were unmasked late Friday, and almost all the money — $14.6 million of it — came from a single donor: Karla Jurvetson, a Silicon Valley contributor who is a board member of Emily’s List, the group that supports Democratic women.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~29" text="were" category="VBD" />
+<VERB id="V1" spans="101~105" text="came" category="VBD" />
+<VERB id="V2" spans="177~179" text="is" category="VBZ" />
+<VERB id="V3" spans="227~235" text="supports" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="were" toID="V1" toText="came" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="were" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="were" toID="V3" toText="supports" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="came" toID="V2" toText="is" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="came" toID="V3" toText="supports" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="is" toID="V3" toText="supports" />
+</TAGS>
+</TemporalRelationTask>

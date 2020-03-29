@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[At the very time the Fed wants to make lending more freely available to help the economy, the opposite is happening.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~30" text="wants" category="VBZ" />
+<VERB id="V1" spans="34~38" text="make" category="VB" />
+<VERB id="V2" spans="72~76" text="help" category="VB" />
+<VERB id="V3" spans="106~115" text="happening" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="wants" toID="V1" toText="make" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="wants" toID="V2" toText="help" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="wants" toID="V3" toText="happening" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="make" toID="V2" toText="help" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="make" toID="V3" toText="happening" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="help" toID="V3" toText="happening" />
+</TAGS>
+</TemporalRelationTask>

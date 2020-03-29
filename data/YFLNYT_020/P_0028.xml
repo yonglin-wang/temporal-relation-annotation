@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Annie Pforzheimer, a retired career diplomat, was the deputy chief of mission at the American Embassy in Kabul the year after Mr. Buchanan had left. In the long run, she said, it would be better for Afghans to have their own government forces secure their country, albeit with international oversight.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~49" text="was" category="VBD" />
+<VERB id="V1" spans="143~147" text="left" category="VBN" />
+<VERB id="V2" spans="170~174" text="said" category="VBD" />
+<VERB id="V3" spans="185~187" text="be" category="VB" />
+<VERB id="V4" spans="210~214" text="have" category="VB" />
+<VERB id="V5" spans="243~249" text="secure" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="left" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="have" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="secure" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="left" toID="V2" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="left" toID="V3" toText="be" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="left" toID="V4" toText="have" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="left" toID="V5" toText="secure" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="said" toID="V3" toText="be" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="have" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V5" toText="secure" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="be" toID="V4" toText="have" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="be" toID="V5" toText="secure" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="have" toID="V5" toText="secure" />
+</TAGS>
+</TemporalRelationTask>

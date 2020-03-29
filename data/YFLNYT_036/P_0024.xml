@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The format for the briefing has taken shape somewhat organically after the president studied Mr. Cuomo and Mr. Pence.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="32~37" text="taken" category="VBN" />
+<VERB id="V1" spans="85~92" text="studied" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="taken" toID="V1" toText="studied" />
+</TAGS>
+</TemporalRelationTask>

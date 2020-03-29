@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Gov. Jay Inslee of Washington centered his entire presidential campaign on the issue. When he dropped out, Tom Steyer, Senator Elizabeth Warren and Senator Bernie Sanders each clamored for the mantle of ‘climate candidate’ with a series of increasingly ambitious calls for action.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="30~38" text="centered" category="VBD" />
+<VERB id="V1" spans="94~101" text="dropped" category="VBD" />
+<VERB id="V2" spans="176~184" text="clamored" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="centered" toID="V1" toText="dropped" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="centered" toID="V2" toText="clamored" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="dropped" toID="V2" toText="clamored" />
+</TAGS>
+</TemporalRelationTask>

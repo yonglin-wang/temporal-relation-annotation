@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[He said the experience had taught Italy that coronavirus patients “are enormous consumers of oxygen” and that all of that compressed oxygen gas had led to the tubes freezing. “You can have a hospital full of reanimation beds, but if the tubes aren’t adapted, everything freezes,” he said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~7" text="said" category="VBD" />
+<VERB id="V1" spans="27~33" text="taught" category="VBN" />
+<VERB id="V2" spans="67~70" text="are" category="VBP" />
+<VERB id="V3" spans="122~132" text="compressed" category="VBD" />
+<VERB id="V4" spans="148~151" text="led" category="VBN" />
+<VERB id="V5" spans="184~188" text="have" category="VB" />
+<VERB id="V6" spans="250~257" text="adapted" category="VBD" />
+<VERB id="V7" spans="283~287" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="taught" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="are" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="compressed" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="led" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="have" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="adapted" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="taught" toID="V2" toText="are" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="taught" toID="V3" toText="compressed" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="taught" toID="V4" toText="led" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="taught" toID="V5" toText="have" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="taught" toID="V6" toText="adapted" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="taught" toID="V7" toText="said" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="are" toID="V3" toText="compressed" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="are" toID="V4" toText="led" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="are" toID="V5" toText="have" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="are" toID="V6" toText="adapted" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="are" toID="V7" toText="said" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="compressed" toID="V4" toText="led" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="compressed" toID="V5" toText="have" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="compressed" toID="V6" toText="adapted" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="compressed" toID="V7" toText="said" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="led" toID="V5" toText="have" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="led" toID="V6" toText="adapted" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="led" toID="V7" toText="said" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="have" toID="V6" toText="adapted" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="have" toID="V7" toText="said" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="adapted" toID="V7" toText="said" />
+</TAGS>
+</TemporalRelationTask>

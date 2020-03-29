@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“They were expecting the same destiny,” he said. “Probably with less resources.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="11~20" text="expecting" category="VBG" />
+<VERB id="V1" spans="43~47" text="said" category="VBD" />
+<VERB id="V2" spans="79~80" text="”" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="expecting" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="expecting" toID="V2" toText="”" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="said" toID="V2" toText="”" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In a major concession to the new reality, the German government also planned to take on debt for the first time since adopting a law requiring a balanced budget after the 2008 financial crisis. It is expected to approve an exception and borrow tens of billions of euros to help companies survive the looming recession and to secure millions of jobs.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="69~76" text="planned" category="VBD" />
+<VERB id="V1" spans="80~84" text="take" category="VB" />
+<VERB id="V2" spans="118~126" text="adopting" category="VBG" />
+<VERB id="V3" spans="133~142" text="requiring" category="VBG" />
+<VERB id="V4" spans="200~208" text="expected" category="VBN" />
+<VERB id="V5" spans="212~219" text="approve" category="VB" />
+<VERB id="V6" spans="273~277" text="help" category="VB" />
+<VERB id="V7" spans="288~295" text="survive" category="VBP" />
+<VERB id="V8" spans="325~331" text="secure" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="planned" toID="V1" toText="take" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="planned" toID="V2" toText="adopting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="planned" toID="V3" toText="requiring" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="planned" toID="V4" toText="expected" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="planned" toID="V5" toText="approve" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="planned" toID="V6" toText="help" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="planned" toID="V7" toText="survive" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="planned" toID="V8" toText="secure" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="take" toID="V2" toText="adopting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="take" toID="V3" toText="requiring" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="take" toID="V4" toText="expected" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="take" toID="V5" toText="approve" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="take" toID="V6" toText="help" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="take" toID="V7" toText="survive" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="take" toID="V8" toText="secure" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="adopting" toID="V3" toText="requiring" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="adopting" toID="V4" toText="expected" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="adopting" toID="V5" toText="approve" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="adopting" toID="V6" toText="help" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="adopting" toID="V7" toText="survive" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="adopting" toID="V8" toText="secure" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="requiring" toID="V4" toText="expected" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="requiring" toID="V5" toText="approve" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="requiring" toID="V6" toText="help" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="requiring" toID="V7" toText="survive" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="requiring" toID="V8" toText="secure" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="expected" toID="V5" toText="approve" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="expected" toID="V6" toText="help" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="expected" toID="V7" toText="survive" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="expected" toID="V8" toText="secure" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="approve" toID="V6" toText="help" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="approve" toID="V7" toText="survive" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="approve" toID="V8" toText="secure" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="help" toID="V7" toText="survive" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="help" toID="V8" toText="secure" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="survive" toID="V8" toText="secure" />
+</TAGS>
+</TemporalRelationTask>

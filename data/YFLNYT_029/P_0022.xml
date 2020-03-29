@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden’s campaign has made one notable shift this week: He has begun to actively raise general election funds, allowing all the donors who had previously contributed the maximum $2,800 for the primary to give another $2,800 for the general election.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~29" text="made" category="VBN" />
+<VERB id="V1" spans="66~71" text="begun" category="VBN" />
+<VERB id="V2" spans="84~89" text="raise" category="VB" />
+<VERB id="V3" spans="114~122" text="allowing" category="VBG" />
+<VERB id="V4" spans="142~145" text="had" category="VBD" />
+<VERB id="V5" spans="157~168" text="contributed" category="VBN" />
+<VERB id="V6" spans="207~211" text="give" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="made" toID="V1" toText="begun" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="made" toID="V2" toText="raise" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="made" toID="V3" toText="allowing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="made" toID="V4" toText="had" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="made" toID="V5" toText="contributed" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="made" toID="V6" toText="give" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="begun" toID="V2" toText="raise" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="begun" toID="V3" toText="allowing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="begun" toID="V4" toText="had" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="begun" toID="V5" toText="contributed" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="begun" toID="V6" toText="give" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="raise" toID="V3" toText="allowing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="raise" toID="V4" toText="had" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="raise" toID="V5" toText="contributed" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="raise" toID="V6" toText="give" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="allowing" toID="V4" toText="had" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="allowing" toID="V5" toText="contributed" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="allowing" toID="V6" toText="give" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="had" toID="V5" toText="contributed" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="had" toID="V6" toText="give" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="contributed" toID="V6" toText="give" />
+</TAGS>
+</TemporalRelationTask>

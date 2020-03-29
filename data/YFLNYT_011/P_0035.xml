@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“We will look at the behavior of the population this weekend,” he said. “Saturday is a decisive day.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~13" text="look" category="VB" />
+<VERB id="V1" spans="66~70" text="said" category="VBD" />
+<VERB id="V2" spans="82~84" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="look" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="look" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="said" toID="V2" toText="is" />
+</TAGS>
+</TemporalRelationTask>

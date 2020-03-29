@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[He was the keynote speaker in March at the Silver Elephant Dinner for rising stars among South Carolina Republicans, and he won a speaking role at the Iowa Economic Forum lunch with convention delegates here.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~6" text="was" category="VBD" />
+<VERB id="V1" spans="70~76" text="rising" category="VBG" />
+<VERB id="V2" spans="124~127" text="won" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="rising" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="won" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="rising" toID="V2" toText="won" />
+</TAGS>
+</TemporalRelationTask>

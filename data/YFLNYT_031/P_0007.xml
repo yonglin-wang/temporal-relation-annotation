@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden’s campaign got off to a rocky start with its efforts at virtual campaigning, as a “virtual town hall” with Illinois voters this month was marred by technical problems.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~11" text="s" category="VBD" />
+<VERB id="V1" spans="21~24" text="got" category="VBD" />
+<VERB id="V2" spans="148~154" text="marred" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="got" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="marred" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="got" toID="V2" toText="marred" />
+</TAGS>
+</TemporalRelationTask>

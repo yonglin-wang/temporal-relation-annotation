@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Democratic power brokers acknowledge that the field could grow further after the 2018 elections if a backlash against Mr. Trump brings a throng of new faces into high office.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~36" text="acknowledge" category="VBP" />
+<VERB id="V1" spans="58~62" text="grow" category="VB" />
+<VERB id="V2" spans="128~134" text="brings" category="VBZ" />
+<VERB id="V3" spans="151~156" text="faces" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="acknowledge" toID="V1" toText="grow" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="acknowledge" toID="V2" toText="brings" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="acknowledge" toID="V3" toText="faces" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="grow" toID="V2" toText="brings" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="grow" toID="V3" toText="faces" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="brings" toID="V3" toText="faces" />
+</TAGS>
+</TemporalRelationTask>

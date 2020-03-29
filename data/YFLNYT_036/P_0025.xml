@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[It takes place immediately after the president has met with members of the task force, although at times Mr. Trump has sought to push it back for a better time slot. Aides put together what they refer to as a topper: a brief written statement that Mr. Trump reads before transitioning into his more comfortable, freelancing mode.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~8" text="takes" category="VBZ" />
+<VERB id="V1" spans="51~54" text="met" category="VBN" />
+<VERB id="V2" spans="119~125" text="sought" category="VBN" />
+<VERB id="V3" spans="129~133" text="push" category="VB" />
+<VERB id="V4" spans="172~175" text="put" category="VBD" />
+<VERB id="V5" spans="195~200" text="refer" category="VBP" />
+<VERB id="V6" spans="225~232" text="written" category="VBN" />
+<VERB id="V7" spans="258~263" text="reads" category="VBZ" />
+<VERB id="V8" spans="271~284" text="transitioning" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="takes" toID="V1" toText="met" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="takes" toID="V2" toText="sought" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="takes" toID="V3" toText="push" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="takes" toID="V4" toText="put" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="takes" toID="V5" toText="refer" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="takes" toID="V6" toText="written" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="takes" toID="V7" toText="reads" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="takes" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="met" toID="V2" toText="sought" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="met" toID="V3" toText="push" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="met" toID="V4" toText="put" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="met" toID="V5" toText="refer" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="met" toID="V6" toText="written" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="met" toID="V7" toText="reads" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="met" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="sought" toID="V3" toText="push" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="sought" toID="V4" toText="put" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="sought" toID="V5" toText="refer" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="sought" toID="V6" toText="written" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="sought" toID="V7" toText="reads" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="sought" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="push" toID="V4" toText="put" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="push" toID="V5" toText="refer" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="push" toID="V6" toText="written" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="push" toID="V7" toText="reads" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="push" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="put" toID="V5" toText="refer" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="put" toID="V6" toText="written" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="put" toID="V7" toText="reads" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="put" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="refer" toID="V6" toText="written" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="refer" toID="V7" toText="reads" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="refer" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="written" toID="V7" toText="reads" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="written" toID="V8" toText="transitioning" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="reads" toID="V8" toText="transitioning" />
+</TAGS>
+</TemporalRelationTask>

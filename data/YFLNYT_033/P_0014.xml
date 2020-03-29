@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden’s running mate pick will be viewed through the lens of a public health and economic crisis, perhaps raising the stock of candidates who have more experience, or pushing him to consider someone from outside of government.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~11" text="s" category="VBD" />
+<VERB id="V1" spans="12~19" text="running" category="VBG" />
+<VERB id="V2" spans="38~44" text="viewed" category="VBN" />
+<VERB id="V3" spans="110~117" text="raising" category="VBG" />
+<VERB id="V4" spans="146~150" text="have" category="VBP" />
+<VERB id="V5" spans="171~178" text="pushing" category="VBG" />
+<VERB id="V6" spans="186~194" text="consider" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="running" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="viewed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="raising" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="have" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="pushing" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="consider" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="running" toID="V2" toText="viewed" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="running" toID="V3" toText="raising" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="running" toID="V4" toText="have" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="running" toID="V5" toText="pushing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="running" toID="V6" toText="consider" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="viewed" toID="V3" toText="raising" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="viewed" toID="V4" toText="have" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="viewed" toID="V5" toText="pushing" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="viewed" toID="V6" toText="consider" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="raising" toID="V4" toText="have" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="raising" toID="V5" toText="pushing" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="raising" toID="V6" toText="consider" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="have" toID="V5" toText="pushing" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="have" toID="V6" toText="consider" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="pushing" toID="V6" toText="consider" />
+</TAGS>
+</TemporalRelationTask>

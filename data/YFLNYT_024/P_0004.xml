@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[One person with knowledge of the discussions said Monday that “intensive scenario-planning” was taking place among officials from the Democratic National Committee, the convention committee and the Milwaukee host committee, who were all determining what to do about the convention, which is scheduled for July 13 to July 16 at the Fiserv Forum in Milwaukee.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="45~49" text="said" category="VBD" />
+<VERB id="V1" spans="96~102" text="taking" category="VBG" />
+<VERB id="V2" spans="228~232" text="were" category="VBD" />
+<VERB id="V3" spans="237~248" text="determining" category="VBG" />
+<VERB id="V4" spans="257~259" text="do" category="VB" />
+<VERB id="V5" spans="291~300" text="scheduled" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="taking" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="were" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="determining" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="do" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="scheduled" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="taking" toID="V2" toText="were" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="taking" toID="V3" toText="determining" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="taking" toID="V4" toText="do" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="taking" toID="V5" toText="scheduled" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="were" toID="V3" toText="determining" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="were" toID="V4" toText="do" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="were" toID="V5" toText="scheduled" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="determining" toID="V4" toText="do" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="determining" toID="V5" toText="scheduled" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="do" toID="V5" toText="scheduled" />
+</TAGS>
+</TemporalRelationTask>

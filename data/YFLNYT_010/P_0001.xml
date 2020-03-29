@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The pandemic’s spread is creating new challenges for doctors who usually care primarily for patients with particular medical needs.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~33" text="creating" category="VBG" />
+<VERB id="V1" spans="73~77" text="care" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="creating" toID="V1" toText="care" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Trump had vowed to move quickly to put his policy agenda in place once in the White House. But his effort to use executive power to crack down on immigration has faltered in the face of legal challenges, and his administration has yet to issue a proposal either for repealing the health care law he railed against during the campaign or enacting the tax overhaul he has promised.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="14~19" text="vowed" category="VBN" />
+<VERB id="V1" spans="23~27" text="move" category="VB" />
+<VERB id="V2" spans="39~42" text="put" category="VB" />
+<VERB id="V3" spans="90~93" text="use" category="VB" />
+<VERB id="V4" spans="136~141" text="crack" category="VB" />
+<VERB id="V5" spans="166~174" text="faltered" category="VBN" />
+<VERB id="V6" spans="231~234" text="has" category="VBZ" />
+<VERB id="V7" spans="242~247" text="issue" category="VB" />
+<VERB id="V8" spans="270~279" text="repealing" category="VBG" />
+<VERB id="V9" spans="303~309" text="railed" category="VBD" />
+<VERB id="V10" spans="341~349" text="enacting" category="VBG" />
+<VERB id="V11" spans="374~382" text="promised" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="vowed" toID="V1" toText="move" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="vowed" toID="V2" toText="put" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="vowed" toID="V3" toText="use" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="vowed" toID="V4" toText="crack" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="vowed" toID="V5" toText="faltered" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="vowed" toID="V6" toText="has" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="vowed" toID="V7" toText="issue" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="vowed" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="vowed" toID="V9" toText="railed" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="vowed" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="vowed" toID="V11" toText="promised" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="move" toID="V2" toText="put" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="move" toID="V3" toText="use" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="move" toID="V4" toText="crack" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="move" toID="V5" toText="faltered" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="move" toID="V6" toText="has" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="move" toID="V7" toText="issue" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="move" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="move" toID="V9" toText="railed" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="move" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="move" toID="V11" toText="promised" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="put" toID="V3" toText="use" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="put" toID="V4" toText="crack" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="put" toID="V5" toText="faltered" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="put" toID="V6" toText="has" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="put" toID="V7" toText="issue" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="put" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="put" toID="V9" toText="railed" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="put" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="put" toID="V11" toText="promised" />
+<EVENT_ORDER id="E30" fromID="V3" fromText="use" toID="V4" toText="crack" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="use" toID="V5" toText="faltered" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="use" toID="V6" toText="has" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="use" toID="V7" toText="issue" />
+<EVENT_ORDER id="E34" fromID="V3" fromText="use" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E35" fromID="V3" fromText="use" toID="V9" toText="railed" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="use" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="use" toID="V11" toText="promised" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="crack" toID="V5" toText="faltered" />
+<EVENT_ORDER id="E39" fromID="V4" fromText="crack" toID="V6" toText="has" />
+<EVENT_ORDER id="E40" fromID="V4" fromText="crack" toID="V7" toText="issue" />
+<EVENT_ORDER id="E41" fromID="V4" fromText="crack" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E42" fromID="V4" fromText="crack" toID="V9" toText="railed" />
+<EVENT_ORDER id="E43" fromID="V4" fromText="crack" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E44" fromID="V4" fromText="crack" toID="V11" toText="promised" />
+<EVENT_ORDER id="E45" fromID="V5" fromText="faltered" toID="V6" toText="has" />
+<EVENT_ORDER id="E46" fromID="V5" fromText="faltered" toID="V7" toText="issue" />
+<EVENT_ORDER id="E47" fromID="V5" fromText="faltered" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E48" fromID="V5" fromText="faltered" toID="V9" toText="railed" />
+<EVENT_ORDER id="E49" fromID="V5" fromText="faltered" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E50" fromID="V5" fromText="faltered" toID="V11" toText="promised" />
+<EVENT_ORDER id="E51" fromID="V6" fromText="has" toID="V7" toText="issue" />
+<EVENT_ORDER id="E52" fromID="V6" fromText="has" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E53" fromID="V6" fromText="has" toID="V9" toText="railed" />
+<EVENT_ORDER id="E54" fromID="V6" fromText="has" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E55" fromID="V6" fromText="has" toID="V11" toText="promised" />
+<EVENT_ORDER id="E56" fromID="V7" fromText="issue" toID="V8" toText="repealing" />
+<EVENT_ORDER id="E57" fromID="V7" fromText="issue" toID="V9" toText="railed" />
+<EVENT_ORDER id="E58" fromID="V7" fromText="issue" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E59" fromID="V7" fromText="issue" toID="V11" toText="promised" />
+<EVENT_ORDER id="E60" fromID="V8" fromText="repealing" toID="V9" toText="railed" />
+<EVENT_ORDER id="E61" fromID="V8" fromText="repealing" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E62" fromID="V8" fromText="repealing" toID="V11" toText="promised" />
+<EVENT_ORDER id="E63" fromID="V9" fromText="railed" toID="V10" toText="enacting" />
+<EVENT_ORDER id="E64" fromID="V9" fromText="railed" toID="V11" toText="promised" />
+<EVENT_ORDER id="E65" fromID="V10" fromText="enacting" toID="V11" toText="promised" />
+</TAGS>
+</TemporalRelationTask>

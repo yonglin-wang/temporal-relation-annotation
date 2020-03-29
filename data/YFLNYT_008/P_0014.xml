@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But even as talks continued in private, Mr. McConnell laid blame for the delay at the feet of both Mr. Schumer and Speaker Nancy Pelosi of California, who returned to Washington on Saturday to partake in a leadership meeting in his office on Sunday.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="18~27" text="continued" category="VBN" />
+<VERB id="V1" spans="54~58" text="laid" category="VBD" />
+<VERB id="V2" spans="155~163" text="returned" category="VBD" />
+<VERB id="V3" spans="193~200" text="partake" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="continued" toID="V1" toText="laid" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="continued" toID="V2" toText="returned" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="continued" toID="V3" toText="partake" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="laid" toID="V2" toText="returned" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="laid" toID="V3" toText="partake" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="returned" toID="V3" toText="partake" />
+</TAGS>
+</TemporalRelationTask>

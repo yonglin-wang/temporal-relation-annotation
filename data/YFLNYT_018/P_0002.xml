@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[A prominent member of that group, former Vice President Joseph R. Biden Jr., may have sounded a starting gun for the 2020 race on Sunday night as he delivered a tough-love manifesto for the party’s future to a crowd of Democrats here.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="86~93" text="sounded" category="VBN" />
+<VERB id="V1" spans="149~158" text="delivered" category="VBD" />
+<VERB id="V2" spans="178~179" text="s" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="sounded" toID="V1" toText="delivered" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="sounded" toID="V2" toText="s" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="delivered" toID="V2" toText="s" />
+</TAGS>
+</TemporalRelationTask>

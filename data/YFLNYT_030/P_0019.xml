@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[And Alyssa Midcalf, a 25-year-old musician who owns a vintage clothing store in Detroit, said she disliked Mr. Biden’s willingness to accept corporate donations and the lack of respect she feels he has shown young activists fighting for aggressive plans like the Green New Deal.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="47~51" text="owns" category="VBZ" />
+<VERB id="V1" spans="89~93" text="said" category="VBD" />
+<VERB id="V2" spans="98~106" text="disliked" category="VBD" />
+<VERB id="V3" spans="117~118" text="s" category="VBD" />
+<VERB id="V4" spans="134~140" text="accept" category="VB" />
+<VERB id="V5" spans="189~194" text="feels" category="VBZ" />
+<VERB id="V6" spans="202~207" text="shown" category="VBN" />
+<VERB id="V7" spans="224~232" text="fighting" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="owns" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="owns" toID="V2" toText="disliked" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="owns" toID="V3" toText="s" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="owns" toID="V4" toText="accept" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="owns" toID="V5" toText="feels" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="owns" toID="V6" toText="shown" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="owns" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V2" toText="disliked" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V3" toText="s" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V4" toText="accept" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V5" toText="feels" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="said" toID="V6" toText="shown" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="said" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="disliked" toID="V3" toText="s" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="disliked" toID="V4" toText="accept" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="disliked" toID="V5" toText="feels" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="disliked" toID="V6" toText="shown" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="disliked" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="s" toID="V4" toText="accept" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="s" toID="V5" toText="feels" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="s" toID="V6" toText="shown" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="s" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="accept" toID="V5" toText="feels" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="accept" toID="V6" toText="shown" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="accept" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="feels" toID="V6" toText="shown" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="feels" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="shown" toID="V7" toText="fighting" />
+</TAGS>
+</TemporalRelationTask>

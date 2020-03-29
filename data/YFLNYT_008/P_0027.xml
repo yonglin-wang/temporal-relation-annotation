@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Democrats were also balking at imposing limits on paid-leave benefits that were part of a program enacted last week to respond to the coronavirus crisis.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~14" text="were" category="VBD" />
+<VERB id="V1" spans="20~27" text="balking" category="VBG" />
+<VERB id="V2" spans="31~39" text="imposing" category="VBG" />
+<VERB id="V3" spans="75~79" text="were" category="VBD" />
+<VERB id="V4" spans="98~105" text="enacted" category="VBN" />
+<VERB id="V5" spans="119~126" text="respond" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="were" toID="V1" toText="balking" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="were" toID="V2" toText="imposing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="were" toID="V3" toText="were" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="were" toID="V4" toText="enacted" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="were" toID="V5" toText="respond" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="balking" toID="V2" toText="imposing" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="balking" toID="V3" toText="were" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="balking" toID="V4" toText="enacted" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="balking" toID="V5" toText="respond" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="imposing" toID="V3" toText="were" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="imposing" toID="V4" toText="enacted" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="imposing" toID="V5" toText="respond" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="were" toID="V4" toText="enacted" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="were" toID="V5" toText="respond" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="enacted" toID="V5" toText="respond" />
+</TAGS>
+</TemporalRelationTask>

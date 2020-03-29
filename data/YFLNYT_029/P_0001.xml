@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Former Vice President Joseph R. Biden Jr. has taken command of the Democratic primary for president despite running on a shoestring budget in a contest where Senator Bernie Sanders of Vermont raised more money in February alone, $47.6 million, than Mr. Biden had spent in his previous five months combined, new federal records show.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~51" text="taken" category="VBN" />
+<VERB id="V1" spans="108~115" text="running" category="VBG" />
+<VERB id="V2" spans="192~198" text="raised" category="VBD" />
+<VERB id="V3" spans="263~268" text="spent" category="VBN" />
+<VERB id="V4" spans="297~305" text="combined" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="taken" toID="V1" toText="running" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="taken" toID="V2" toText="raised" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="taken" toID="V3" toText="spent" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="taken" toID="V4" toText="combined" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="running" toID="V2" toText="raised" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="running" toID="V3" toText="spent" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="running" toID="V4" toText="combined" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="raised" toID="V3" toText="spent" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="raised" toID="V4" toText="combined" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="spent" toID="V4" toText="combined" />
+</TAGS>
+</TemporalRelationTask>

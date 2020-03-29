@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In the House, Democrats unveiled their own stimulus package, which would provide more than $2.5 trillion in federal spending. It remained unclear how that 1,400-page measure would be reconciled with any compromise legislation that emerges from the Senate negotiations.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~32" text="unveiled" category="VBD" />
+<VERB id="V1" spans="73~80" text="provide" category="VB" />
+<VERB id="V2" spans="129~137" text="remained" category="VBD" />
+<VERB id="V3" spans="183~193" text="reconciled" category="VBN" />
+<VERB id="V4" spans="231~238" text="emerges" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="unveiled" toID="V1" toText="provide" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="unveiled" toID="V2" toText="remained" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="unveiled" toID="V3" toText="reconciled" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="unveiled" toID="V4" toText="emerges" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="provide" toID="V2" toText="remained" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="provide" toID="V3" toText="reconciled" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="provide" toID="V4" toText="emerges" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="remained" toID="V3" toText="reconciled" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="remained" toID="V4" toText="emerges" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="reconciled" toID="V4" toText="emerges" />
+</TAGS>
+</TemporalRelationTask>

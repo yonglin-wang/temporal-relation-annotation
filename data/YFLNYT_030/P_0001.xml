@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[WASHINGTON — Ardent climate change voters thought Campaign 2020 was going to be their election.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~49" text="thought" category="VBD" />
+<VERB id="V1" spans="68~73" text="going" category="VBG" />
+<VERB id="V2" spans="77~79" text="be" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="thought" toID="V1" toText="going" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="thought" toID="V2" toText="be" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="going" toID="V2" toText="be" />
+</TAGS>
+</TemporalRelationTask>

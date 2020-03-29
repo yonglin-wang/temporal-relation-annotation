@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Routine procedures, such as taking a patient’s blood pressure, which in the past took only a minute, now take half an hour because of precautions. And the consequences of not taking those precautions, especially between patients, were all too apparent.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="28~34" text="taking" category="VBG" />
+<VERB id="V1" spans="45~46" text="s" category="VBD" />
+<VERB id="V2" spans="81~85" text="took" category="VBD" />
+<VERB id="V3" spans="105~109" text="take" category="VBP" />
+<VERB id="V4" spans="175~181" text="taking" category="VBG" />
+<VERB id="V5" spans="230~234" text="were" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="taking" toID="V1" toText="s" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="taking" toID="V2" toText="took" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="taking" toID="V3" toText="take" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="taking" toID="V4" toText="taking" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="taking" toID="V5" toText="were" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="s" toID="V2" toText="took" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="s" toID="V3" toText="take" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="s" toID="V4" toText="taking" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="s" toID="V5" toText="were" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="took" toID="V3" toText="take" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="took" toID="V4" toText="taking" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="took" toID="V5" toText="were" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="take" toID="V4" toText="taking" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="take" toID="V5" toText="were" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="taking" toID="V5" toText="were" />
+</TAGS>
+</TemporalRelationTask>

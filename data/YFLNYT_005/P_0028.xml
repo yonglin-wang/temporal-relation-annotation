@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden, who announced at Sunday’s debate that he had raised $33 million in the first half of March, by far his best stretch of the campaign, has continued to gingerly ask for money as the health and financial crises have gotten worse.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~24" text="announced" category="VBD" />
+<VERB id="V1" spans="56~62" text="raised" category="VBN" />
+<VERB id="V2" spans="148~157" text="continued" category="VBN" />
+<VERB id="V3" spans="161~169" text="gingerly" category="VB" />
+<VERB id="V4" spans="224~230" text="gotten" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="announced" toID="V1" toText="raised" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="announced" toID="V2" toText="continued" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="announced" toID="V3" toText="gingerly" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="announced" toID="V4" toText="gotten" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="raised" toID="V2" toText="continued" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="raised" toID="V3" toText="gingerly" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="raised" toID="V4" toText="gotten" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="continued" toID="V3" toText="gingerly" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="continued" toID="V4" toText="gotten" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="gingerly" toID="V4" toText="gotten" />
+</TAGS>
+</TemporalRelationTask>

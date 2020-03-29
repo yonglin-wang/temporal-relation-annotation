@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Still, in dozens of interviews, young voters on both sides of the aisle said that they felt their generation had been left to clean up after older ones, and that they resented what they saw as a choice by leaders in both parties not to prioritize the issues they cared about.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="72~76" text="said" category="VBD" />
+<VERB id="V1" spans="87~91" text="felt" category="VBD" />
+<VERB id="V2" spans="118~122" text="left" category="VBN" />
+<VERB id="V3" spans="126~131" text="clean" category="VB" />
+<VERB id="V4" spans="167~175" text="resented" category="VBD" />
+<VERB id="V5" spans="186~189" text="saw" category="VBD" />
+<VERB id="V6" spans="236~246" text="prioritize" category="VB" />
+<VERB id="V7" spans="263~268" text="cared" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="felt" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="left" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="clean" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="resented" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="saw" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="prioritize" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="cared" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="felt" toID="V2" toText="left" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="felt" toID="V3" toText="clean" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="felt" toID="V4" toText="resented" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="felt" toID="V5" toText="saw" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="felt" toID="V6" toText="prioritize" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="felt" toID="V7" toText="cared" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="left" toID="V3" toText="clean" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="left" toID="V4" toText="resented" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="left" toID="V5" toText="saw" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="left" toID="V6" toText="prioritize" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="left" toID="V7" toText="cared" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="clean" toID="V4" toText="resented" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="clean" toID="V5" toText="saw" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="clean" toID="V6" toText="prioritize" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="clean" toID="V7" toText="cared" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="resented" toID="V5" toText="saw" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="resented" toID="V6" toText="prioritize" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="resented" toID="V7" toText="cared" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="saw" toID="V6" toText="prioritize" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="saw" toID="V7" toText="cared" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="prioritize" toID="V7" toText="cared" />
+</TAGS>
+</TemporalRelationTask>

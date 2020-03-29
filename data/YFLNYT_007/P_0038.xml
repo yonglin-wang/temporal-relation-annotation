@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Carla Bailo, the president of the Center for Automotive Research, said the auto companies could use their 3-D printing capabilities to produce some parts of a ventilator fairly quickly, and then turn to their extensive network of automotive suppliers for other components, like electronics and hoses.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="66~70" text="said" category="VBD" />
+<VERB id="V1" spans="96~99" text="use" category="VB" />
+<VERB id="V2" spans="135~142" text="produce" category="VB" />
+<VERB id="V3" spans="195~199" text="turn" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="use" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="produce" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="turn" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="use" toID="V2" toText="produce" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="use" toID="V3" toText="turn" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="produce" toID="V3" toText="turn" />
+</TAGS>
+</TemporalRelationTask>

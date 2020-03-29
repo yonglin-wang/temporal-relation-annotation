@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The chancellor, a trained scientist, has won wide praise for her calm and transparency during the crisis.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="41~44" text="won" category="VBN" />
+</TAGS>
+</TemporalRelationTask>

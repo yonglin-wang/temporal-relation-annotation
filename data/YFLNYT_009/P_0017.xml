@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As the legislation is currently written, Mr. Mnuchin would not have to disclose the recipients until six months after the loans were disbursed. Some Democrats also said the legislation as written could allow Mr. Trump’s real estate empire to take advantage of the federal aid, and after years of being stonewalled by the White House on oversight requests, they worried that the administration would refuse attempts by Congress to keep tabs on the program.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~12" text="is" category="VBZ" />
+<VERB id="V1" spans="32~39" text="written" category="VBN" />
+<VERB id="V2" spans="63~67" text="have" category="VB" />
+<VERB id="V3" spans="71~79" text="disclose" category="VB" />
+<VERB id="V4" spans="133~142" text="disbursed" category="VBN" />
+<VERB id="V5" spans="164~168" text="said" category="VBD" />
+<VERB id="V6" spans="188~195" text="written" category="VBN" />
+<VERB id="V7" spans="202~207" text="allow" category="VB" />
+<VERB id="V8" spans="242~246" text="take" category="VB" />
+<VERB id="V9" spans="296~301" text="being" category="VBG" />
+<VERB id="V10" spans="302~313" text="stonewalled" category="VBN" />
+<VERB id="V11" spans="361~368" text="worried" category="VBD" />
+<VERB id="V12" spans="399~405" text="refuse" category="VB" />
+<VERB id="V13" spans="430~434" text="keep" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="written" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="have" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="disclose" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="disbursed" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="written" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="allow" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="take" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="is" toID="V9" toText="being" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="is" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="is" toID="V11" toText="worried" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="is" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="is" toID="V13" toText="keep" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="written" toID="V2" toText="have" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="written" toID="V3" toText="disclose" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="written" toID="V4" toText="disbursed" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="written" toID="V5" toText="said" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="written" toID="V6" toText="written" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="written" toID="V7" toText="allow" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="written" toID="V8" toText="take" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="written" toID="V9" toText="being" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="written" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="written" toID="V11" toText="worried" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="written" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="written" toID="V13" toText="keep" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="have" toID="V3" toText="disclose" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="have" toID="V4" toText="disbursed" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="have" toID="V5" toText="said" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="have" toID="V6" toText="written" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="have" toID="V7" toText="allow" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="have" toID="V8" toText="take" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="have" toID="V9" toText="being" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="have" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="have" toID="V11" toText="worried" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="have" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="have" toID="V13" toText="keep" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="disclose" toID="V4" toText="disbursed" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="disclose" toID="V5" toText="said" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="disclose" toID="V6" toText="written" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="disclose" toID="V7" toText="allow" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="disclose" toID="V8" toText="take" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="disclose" toID="V9" toText="being" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="disclose" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="disclose" toID="V11" toText="worried" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="disclose" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="disclose" toID="V13" toText="keep" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="disbursed" toID="V5" toText="said" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="disbursed" toID="V6" toText="written" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="disbursed" toID="V7" toText="allow" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="disbursed" toID="V8" toText="take" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="disbursed" toID="V9" toText="being" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="disbursed" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="disbursed" toID="V11" toText="worried" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="disbursed" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="disbursed" toID="V13" toText="keep" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="said" toID="V6" toText="written" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="said" toID="V7" toText="allow" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="said" toID="V8" toText="take" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="said" toID="V9" toText="being" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="said" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="said" toID="V11" toText="worried" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="said" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="said" toID="V13" toText="keep" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="written" toID="V7" toText="allow" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="written" toID="V8" toText="take" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="written" toID="V9" toText="being" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="written" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="written" toID="V11" toText="worried" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="written" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="written" toID="V13" toText="keep" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="allow" toID="V8" toText="take" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="allow" toID="V9" toText="being" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="allow" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="allow" toID="V11" toText="worried" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="allow" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="allow" toID="V13" toText="keep" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="take" toID="V9" toText="being" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="take" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="take" toID="V11" toText="worried" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="take" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="take" toID="V13" toText="keep" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="being" toID="V10" toText="stonewalled" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="being" toID="V11" toText="worried" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="being" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="being" toID="V13" toText="keep" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="stonewalled" toID="V11" toText="worried" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="stonewalled" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="stonewalled" toID="V13" toText="keep" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="worried" toID="V12" toText="refuse" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="worried" toID="V13" toText="keep" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="refuse" toID="V13" toText="keep" />
+</TAGS>
+</TemporalRelationTask>

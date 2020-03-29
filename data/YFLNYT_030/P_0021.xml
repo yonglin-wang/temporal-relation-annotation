@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Sam Ricketts and Bracken Hendricks, Democratic strategists who helped write Mr. Inslee’s climate change plan, said Mr. Biden should adopt the plan, which Greenpeace hailed as the “gold standard.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="63~69" text="helped" category="VBD" />
+<VERB id="V1" spans="70~75" text="write" category="VB" />
+<VERB id="V2" spans="110~114" text="said" category="VBD" />
+<VERB id="V3" spans="132~137" text="adopt" category="VB" />
+<VERB id="V4" spans="165~171" text="hailed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="helped" toID="V1" toText="write" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="helped" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="helped" toID="V3" toText="adopt" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="helped" toID="V4" toText="hailed" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="write" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="write" toID="V3" toText="adopt" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="write" toID="V4" toText="hailed" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="said" toID="V3" toText="adopt" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="hailed" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="adopt" toID="V4" toText="hailed" />
+</TAGS>
+</TemporalRelationTask>

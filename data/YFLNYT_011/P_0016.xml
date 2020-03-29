@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Ms. Merkel’s announcement, made after a telephone conference with the governors of Germany’s 16 states, came after restrictions were put in place by the state of Bavaria, which on Friday severely limited movement outside the home.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~31" text="made" category="VBN" />
+<VERB id="V1" spans="78~79" text="s" category="VBD" />
+<VERB id="V2" spans="104~108" text="came" category="VBD" />
+<VERB id="V3" spans="133~136" text="put" category="VBN" />
+<VERB id="V4" spans="196~203" text="limited" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="made" toID="V1" toText="s" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="made" toID="V2" toText="came" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="made" toID="V3" toText="put" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="made" toID="V4" toText="limited" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="s" toID="V2" toText="came" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="s" toID="V3" toText="put" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="s" toID="V4" toText="limited" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="came" toID="V3" toText="put" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="came" toID="V4" toText="limited" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="put" toID="V4" toText="limited" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Its actions Monday show it will do anything necessary to address a glaring shortage of dollars across the economy.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~23" text="show" category="VBP" />
+<VERB id="V1" spans="32~34" text="do" category="VB" />
+<VERB id="V2" spans="57~64" text="address" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="show" toID="V1" toText="do" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="show" toID="V2" toText="address" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="do" toID="V2" toText="address" />
+</TAGS>
+</TemporalRelationTask>

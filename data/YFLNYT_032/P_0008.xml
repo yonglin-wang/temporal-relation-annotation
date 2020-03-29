@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“If you thought this year was an attractive race on our side, imagine 2020,” said Phil Cox, a former executive director at the Republican Governors Association. “You’ll have 30 people running.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="8~15" text="thought" category="VBD" />
+<VERB id="V1" spans="26~29" text="was" category="VBD" />
+<VERB id="V2" spans="77~81" text="said" category="VBD" />
+<VERB id="V3" spans="165~166" text="’" category="VBP" />
+<VERB id="V4" spans="169~173" text="have" category="VBP" />
+<VERB id="V5" spans="184~191" text="running" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="thought" toID="V1" toText="was" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="thought" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="thought" toID="V3" toText="’" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="thought" toID="V4" toText="have" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="thought" toID="V5" toText="running" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="was" toID="V2" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="was" toID="V3" toText="’" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="was" toID="V4" toText="have" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="was" toID="V5" toText="running" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="said" toID="V3" toText="’" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="have" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V5" toText="running" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="’" toID="V4" toText="have" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="’" toID="V5" toText="running" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="have" toID="V5" toText="running" />
+</TAGS>
+</TemporalRelationTask>

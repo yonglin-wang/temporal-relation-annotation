@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Spicer, who attended a briefing last week in his new role as a host on the conservative site Newsmax and was called on by Mr. Trump, said “safety should be a massive factor” for the current format.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~24" text="attended" category="VBD" />
+<VERB id="V1" spans="113~119" text="called" category="VBN" />
+<VERB id="V2" spans="137~141" text="said" category="VBD" />
+<VERB id="V3" spans="157~159" text="be" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="attended" toID="V1" toText="called" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="attended" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="attended" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="called" toID="V2" toText="said" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="called" toID="V3" toText="be" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="be" />
+</TAGS>
+</TemporalRelationTask>

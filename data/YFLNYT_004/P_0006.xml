@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The city commissioner, Omari Hardy, had watched the news as the coronavirus transformed from a distant outbreak to a threat to local lives.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="40~47" text="watched" category="VBN" />
+<VERB id="V1" spans="76~87" text="transformed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="watched" toID="V1" toText="transformed" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[President Trump held a news conference with the White House coronavirus task force on Thursday.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~20" text="held" category="VBD" />
+</TAGS>
+</TemporalRelationTask>

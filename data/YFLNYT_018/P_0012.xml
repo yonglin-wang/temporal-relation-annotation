@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In the Senate alone, as much as a quarter of the Democrats’ 48-member caucus are thought to be giving at least a measure of consideration to the 2020 race, among them Cory Booker of New Jersey, Kirsten E. Gillibrand of New York, Amy Klobuchar of Minnesota and Kamala Harris of California. All are closer to 40 than 80.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="58~59" text="’" category="VBP" />
+<VERB id="V1" spans="81~88" text="thought" category="VBN" />
+<VERB id="V2" spans="95~101" text="giving" category="VBG" />
+<VERB id="V3" spans="293~296" text="are" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="’" toID="V1" toText="thought" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="’" toID="V2" toText="giving" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="’" toID="V3" toText="are" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="thought" toID="V2" toText="giving" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="thought" toID="V3" toText="are" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="giving" toID="V3" toText="are" />
+</TAGS>
+</TemporalRelationTask>

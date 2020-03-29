@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But veterans of Democratic campaigns see promise in Mr. Cuomo. Christopher Lehane, an executive at Airbnb and a Democratic consultant who has worked for Bill Clinton and Mr. Cuomo, said the governor’s more liberal accomplishments — including efforts on transgender rights and juvenile criminal justice reform — have been amplified by his position in New York, the nation’s largest media market.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="37~40" text="see" category="VBP" />
+<VERB id="V1" spans="142~148" text="worked" category="VBN" />
+<VERB id="V2" spans="181~185" text="said" category="VBD" />
+<VERB id="V3" spans="199~200" text="s" category="VBD" />
+<VERB id="V4" spans="230~231" text="—" category="VBP" />
+<VERB id="V5" spans="232~241" text="including" category="VBG" />
+<VERB id="V6" spans="321~330" text="amplified" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="see" toID="V1" toText="worked" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="see" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="see" toID="V3" toText="s" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="see" toID="V4" toText="—" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="see" toID="V5" toText="including" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="see" toID="V6" toText="amplified" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="worked" toID="V2" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="worked" toID="V3" toText="s" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="worked" toID="V4" toText="—" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="worked" toID="V5" toText="including" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="worked" toID="V6" toText="amplified" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V3" toText="s" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="said" toID="V4" toText="—" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V5" toText="including" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V6" toText="amplified" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="s" toID="V4" toText="—" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="s" toID="V5" toText="including" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="s" toID="V6" toText="amplified" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="—" toID="V5" toText="including" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="—" toID="V6" toText="amplified" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="including" toID="V6" toText="amplified" />
+</TAGS>
+</TemporalRelationTask>

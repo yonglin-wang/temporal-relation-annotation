@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Are there more Mark Cubans out there who say, ‘Well, this is easy, and I’m not a nut, so I may even be successful’?” said Dave Carney, a longtime Republican strategist, referring to the wealthy Dallas Mavericks owner and ubiquitous media presence. “Trump has given them a road map.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="1~4" text="Are" category="VBP" />
+<VERB id="V1" spans="42~45" text="say" category="VBP" />
+<VERB id="V2" spans="56~58" text="is" category="VBZ" />
+<VERB id="V3" spans="73~74" text="’" category="VBP" />
+<VERB id="V4" spans="101~103" text="be" category="VB" />
+<VERB id="V5" spans="118~122" text="said" category="VBD" />
+<VERB id="V6" spans="170~179" text="referring" category="VBG" />
+<VERB id="V7" spans="260~265" text="given" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Are" toID="V1" toText="say" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Are" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Are" toID="V3" toText="’" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="Are" toID="V4" toText="be" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="Are" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="Are" toID="V6" toText="referring" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="Are" toID="V7" toText="given" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="say" toID="V2" toText="is" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="say" toID="V3" toText="’" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="say" toID="V4" toText="be" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="say" toID="V5" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="say" toID="V6" toText="referring" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="say" toID="V7" toText="given" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="is" toID="V3" toText="’" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="is" toID="V4" toText="be" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="is" toID="V5" toText="said" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="is" toID="V6" toText="referring" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="is" toID="V7" toText="given" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="’" toID="V4" toText="be" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="’" toID="V5" toText="said" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="’" toID="V6" toText="referring" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="’" toID="V7" toText="given" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="be" toID="V5" toText="said" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="be" toID="V6" toText="referring" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="be" toID="V7" toText="given" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="said" toID="V6" toText="referring" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="said" toID="V7" toText="given" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="referring" toID="V7" toText="given" />
+</TAGS>
+</TemporalRelationTask>

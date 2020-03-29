@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Ford, General Motors and Tesla are being given the go ahead to make ventilators and other metal products, FAST!” the president tweeted Sunday morning.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="36~41" text="being" category="VBG" />
+<VERB id="V1" spans="42~47" text="given" category="VBN" />
+<VERB id="V2" spans="64~68" text="make" category="VB" />
+<VERB id="V3" spans="112~113" text="”" category="VB" />
+<VERB id="V4" spans="128~135" text="tweeted" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="being" toID="V1" toText="given" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="being" toID="V2" toText="make" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="being" toID="V3" toText="”" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="being" toID="V4" toText="tweeted" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="given" toID="V2" toText="make" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="given" toID="V3" toText="”" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="given" toID="V4" toText="tweeted" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="make" toID="V3" toText="”" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="make" toID="V4" toText="tweeted" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="”" toID="V4" toText="tweeted" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Mnuchin declined to provide specifics as he shuttled between the offices of Mr. Schumer and Mr. McConnell, but said the two sides were “very close” to a deal.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="12~20" text="declined" category="VBD" />
+<VERB id="V1" spans="24~31" text="provide" category="VB" />
+<VERB id="V2" spans="48~56" text="shuttled" category="VBD" />
+<VERB id="V3" spans="115~119" text="said" category="VBD" />
+<VERB id="V4" spans="134~138" text="were" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="declined" toID="V1" toText="provide" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="declined" toID="V2" toText="shuttled" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="declined" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="declined" toID="V4" toText="were" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="provide" toID="V2" toText="shuttled" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="provide" toID="V3" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="provide" toID="V4" toText="were" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="shuttled" toID="V3" toText="said" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="shuttled" toID="V4" toText="were" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="said" toID="V4" toText="were" />
+</TAGS>
+</TemporalRelationTask>

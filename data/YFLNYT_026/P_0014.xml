@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Randi Weingarten, the president of the American Federation of Teachers, said the growing importance of social issues in the national debate and Democrats’ reliance on wealthy donors on the two coasts who are more focused on cultural liberalism than on economic solidarity had, together, left the party somewhat disconnected from the working class.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="72~76" text="said" category="VBD" />
+<VERB id="V1" spans="81~88" text="growing" category="VBG" />
+<VERB id="V2" spans="153~154" text="’" category="VBP" />
+<VERB id="V3" spans="204~207" text="are" category="VBP" />
+<VERB id="V4" spans="272~275" text="had" category="VBD" />
+<VERB id="V5" spans="287~291" text="left" category="VBD" />
+<VERB id="V6" spans="311~323" text="disconnected" category="VBD" />
+<VERB id="V7" spans="333~340" text="working" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="growing" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="’" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="are" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="had" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="left" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="disconnected" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="working" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="growing" toID="V2" toText="’" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="growing" toID="V3" toText="are" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="growing" toID="V4" toText="had" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="growing" toID="V5" toText="left" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="growing" toID="V6" toText="disconnected" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="growing" toID="V7" toText="working" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="’" toID="V3" toText="are" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="’" toID="V4" toText="had" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="’" toID="V5" toText="left" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="’" toID="V6" toText="disconnected" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="’" toID="V7" toText="working" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="are" toID="V4" toText="had" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="are" toID="V5" toText="left" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="are" toID="V6" toText="disconnected" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="are" toID="V7" toText="working" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="had" toID="V5" toText="left" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="had" toID="V6" toText="disconnected" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="had" toID="V7" toText="working" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="left" toID="V6" toText="disconnected" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="left" toID="V7" toText="working" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="disconnected" toID="V7" toText="working" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The Fed’s response is very much in line with its actions in 2008 and 2009, which were aimed at creating a wall of money that stops that cycle. Eight days ago, the central bank announced $700 billion in bond purchases to serve as that wall. Now it is saying that could be higher, plausibly in the trillions of dollars.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~21" text="is" category="VBZ" />
+<VERB id="V1" spans="86~91" text="aimed" category="VBN" />
+<VERB id="V2" spans="95~103" text="creating" category="VBG" />
+<VERB id="V3" spans="125~130" text="stops" category="VBZ" />
+<VERB id="V4" spans="176~185" text="announced" category="VBD" />
+<VERB id="V5" spans="220~225" text="serve" category="VB" />
+<VERB id="V6" spans="250~256" text="saying" category="VBG" />
+<VERB id="V7" spans="268~270" text="be" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="aimed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="creating" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="stops" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="announced" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="serve" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="saying" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="be" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="aimed" toID="V2" toText="creating" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="aimed" toID="V3" toText="stops" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="aimed" toID="V4" toText="announced" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="aimed" toID="V5" toText="serve" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="aimed" toID="V6" toText="saying" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="aimed" toID="V7" toText="be" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="creating" toID="V3" toText="stops" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="creating" toID="V4" toText="announced" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="creating" toID="V5" toText="serve" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="creating" toID="V6" toText="saying" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="creating" toID="V7" toText="be" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="stops" toID="V4" toText="announced" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="stops" toID="V5" toText="serve" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="stops" toID="V6" toText="saying" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="stops" toID="V7" toText="be" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="announced" toID="V5" toText="serve" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="announced" toID="V6" toText="saying" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="announced" toID="V7" toText="be" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="serve" toID="V6" toText="saying" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="serve" toID="V7" toText="be" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="saying" toID="V7" toText="be" />
+</TAGS>
+</TemporalRelationTask>

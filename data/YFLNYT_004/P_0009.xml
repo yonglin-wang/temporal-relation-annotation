@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Hardy said that he had tried to arrange a special commission meeting for a week as cases in Florida multiplied, but that at every turn, his requests were dismissed by the city manager, Michael Bornstein, who at one point told him to “calm down.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~14" text="said" category="VBD" />
+<VERB id="V1" spans="27~32" text="tried" category="VBN" />
+<VERB id="V2" spans="36~43" text="arrange" category="VB" />
+<VERB id="V3" spans="104~114" text="multiplied" category="VBD" />
+<VERB id="V4" spans="158~167" text="dismissed" category="VBN" />
+<VERB id="V5" spans="225~229" text="told" category="VBD" />
+<VERB id="V6" spans="237~238" text="“" category="VB" />
+<VERB id="V7" spans="248~249" text="”" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="tried" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="arrange" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="multiplied" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="dismissed" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="told" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="“" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="”" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="tried" toID="V2" toText="arrange" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="tried" toID="V3" toText="multiplied" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="tried" toID="V4" toText="dismissed" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="tried" toID="V5" toText="told" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="tried" toID="V6" toText="“" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="tried" toID="V7" toText="”" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="arrange" toID="V3" toText="multiplied" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="arrange" toID="V4" toText="dismissed" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="arrange" toID="V5" toText="told" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="arrange" toID="V6" toText="“" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="arrange" toID="V7" toText="”" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="multiplied" toID="V4" toText="dismissed" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="multiplied" toID="V5" toText="told" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="multiplied" toID="V6" toText="“" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="multiplied" toID="V7" toText="”" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="dismissed" toID="V5" toText="told" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="dismissed" toID="V6" toText="“" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="dismissed" toID="V7" toText="”" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="told" toID="V6" toText="“" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="told" toID="V7" toText="”" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="“" toID="V7" toText="”" />
+</TAGS>
+</TemporalRelationTask>

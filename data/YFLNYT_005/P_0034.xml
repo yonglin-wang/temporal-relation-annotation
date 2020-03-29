@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The ultimate and perhaps only metric that may lead to a shift is simply whether the aggressive tactics stop working, and donations slow.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~50" text="lead" category="VB" />
+<VERB id="V1" spans="62~64" text="is" category="VBZ" />
+<VERB id="V2" spans="131~135" text="slow" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="lead" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="lead" toID="V2" toText="slow" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="is" toID="V2" toText="slow" />
+</TAGS>
+</TemporalRelationTask>

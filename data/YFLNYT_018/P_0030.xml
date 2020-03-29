@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Booker, who has long cultivated a donor network on the West Coast, visited Los Angeles in April to raise money and collect an award from the Humane Society. Steve Westly, a former eBay executive and major fund-raiser for the Obama and Clinton campaigns, said Mr. Booker had privately indicated that he was open to a 2020 campaign.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~19" text="has" category="VBZ" />
+<VERB id="V1" spans="25~35" text="cultivated" category="VBN" />
+<VERB id="V2" spans="71~78" text="visited" category="VBD" />
+<VERB id="V3" spans="103~108" text="raise" category="VB" />
+<VERB id="V4" spans="119~126" text="collect" category="VBP" />
+<VERB id="V5" spans="258~262" text="said" category="VBD" />
+<VERB id="V6" spans="274~277" text="had" category="VBD" />
+<VERB id="V7" spans="288~297" text="indicated" category="VBN" />
+<VERB id="V8" spans="306~309" text="was" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="cultivated" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="visited" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="raise" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="collect" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="has" toID="V6" toText="had" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="has" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="has" toID="V8" toText="was" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="cultivated" toID="V2" toText="visited" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="cultivated" toID="V3" toText="raise" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="cultivated" toID="V4" toText="collect" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="cultivated" toID="V5" toText="said" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="cultivated" toID="V6" toText="had" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="cultivated" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="cultivated" toID="V8" toText="was" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="visited" toID="V3" toText="raise" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="visited" toID="V4" toText="collect" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="visited" toID="V5" toText="said" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="visited" toID="V6" toText="had" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="visited" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="visited" toID="V8" toText="was" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="raise" toID="V4" toText="collect" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="raise" toID="V5" toText="said" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="raise" toID="V6" toText="had" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="raise" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="raise" toID="V8" toText="was" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="collect" toID="V5" toText="said" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="collect" toID="V6" toText="had" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="collect" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="collect" toID="V8" toText="was" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="said" toID="V6" toText="had" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="said" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="said" toID="V8" toText="was" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="had" toID="V7" toText="indicated" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="had" toID="V8" toText="was" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="indicated" toID="V8" toText="was" />
+</TAGS>
+</TemporalRelationTask>

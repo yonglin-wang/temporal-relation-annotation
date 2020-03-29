@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[And disputes between the Afghan government and the Taliban over negotiating teams and the release of Taliban prisoners threaten to upend the peace process itself — the success or failure of which will determine the mission of the United States Embassy in Kabul for generations.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="64~75" text="negotiating" category="VBG" />
+<VERB id="V1" spans="119~127" text="threaten" category="VBP" />
+<VERB id="V2" spans="131~136" text="upend" category="VB" />
+<VERB id="V3" spans="162~163" text="—" category="VBZ" />
+<VERB id="V4" spans="201~210" text="determine" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="negotiating" toID="V1" toText="threaten" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="negotiating" toID="V2" toText="upend" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="negotiating" toID="V3" toText="—" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="negotiating" toID="V4" toText="determine" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="threaten" toID="V2" toText="upend" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="threaten" toID="V3" toText="—" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="threaten" toID="V4" toText="determine" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="upend" toID="V3" toText="—" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="upend" toID="V4" toText="determine" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="—" toID="V4" toText="determine" />
+</TAGS>
+</TemporalRelationTask>

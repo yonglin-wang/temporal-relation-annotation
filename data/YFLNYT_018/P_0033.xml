@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Cuomo, little seen outside New York since becoming governor in 2011, hosted a fund-raising event for the Democratic Governors Association in April, and his emissaries have approached Florida donors about a fund-raising trip this year.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="18~22" text="seen" category="VBN" />
+<VERB id="V1" spans="46~54" text="becoming" category="VBG" />
+<VERB id="V2" spans="73~79" text="hosted" category="VBD" />
+<VERB id="V3" spans="176~186" text="approached" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="seen" toID="V1" toText="becoming" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="seen" toID="V2" toText="hosted" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="seen" toID="V3" toText="approached" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="becoming" toID="V2" toText="hosted" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="becoming" toID="V3" toText="approached" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="hosted" toID="V3" toText="approached" />
+</TAGS>
+</TemporalRelationTask>

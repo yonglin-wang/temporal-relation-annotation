@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Intriguingly, the Fed intends to create a “Main Street Business Lending Program” to funnel money to smaller businesses lacking access to Wall Street debt markets. The idea is that small companies can borrow money to help meet payroll, rent and other obligations during the crisis, with no interest or principal payments for six months and repayment over the next four years.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~29" text="intends" category="VBZ" />
+<VERB id="V1" spans="33~39" text="create" category="VB" />
+<VERB id="V2" spans="84~90" text="funnel" category="VB" />
+<VERB id="V3" spans="119~126" text="lacking" category="VBG" />
+<VERB id="V4" spans="172~174" text="is" category="VBZ" />
+<VERB id="V5" spans="200~206" text="borrow" category="VB" />
+<VERB id="V6" spans="216~220" text="help" category="VB" />
+<VERB id="V7" spans="221~225" text="meet" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="intends" toID="V1" toText="create" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="intends" toID="V2" toText="funnel" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="intends" toID="V3" toText="lacking" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="intends" toID="V4" toText="is" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="intends" toID="V5" toText="borrow" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="intends" toID="V6" toText="help" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="intends" toID="V7" toText="meet" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="create" toID="V2" toText="funnel" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="create" toID="V3" toText="lacking" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="create" toID="V4" toText="is" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="create" toID="V5" toText="borrow" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="create" toID="V6" toText="help" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="create" toID="V7" toText="meet" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="funnel" toID="V3" toText="lacking" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="funnel" toID="V4" toText="is" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="funnel" toID="V5" toText="borrow" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="funnel" toID="V6" toText="help" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="funnel" toID="V7" toText="meet" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="lacking" toID="V4" toText="is" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="lacking" toID="V5" toText="borrow" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="lacking" toID="V6" toText="help" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="lacking" toID="V7" toText="meet" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="is" toID="V5" toText="borrow" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="is" toID="V6" toText="help" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="is" toID="V7" toText="meet" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="borrow" toID="V6" toText="help" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="borrow" toID="V7" toText="meet" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="help" toID="V7" toText="meet" />
+</TAGS>
+</TemporalRelationTask>

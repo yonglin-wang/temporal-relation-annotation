@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Over the next year, as all U.S. combat troops left Iraq, military and embassy officials sought to work in “lock step” — not only with Iraqi officials but also to uniformly outline the American mission’s needs and challenges in Iraq to Washington, said retired Lt. Gen. Jeffrey Buchanan, who was the Pentagon’s chief spokesman in Baghdad in 2011.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~50" text="left" category="VBD" />
+<VERB id="V1" spans="88~94" text="sought" category="VBD" />
+<VERB id="V2" spans="98~102" text="work" category="VB" />
+<VERB id="V3" spans="172~179" text="outline" category="VB" />
+<VERB id="V4" spans="247~251" text="said" category="VBD" />
+<VERB id="V5" spans="252~259" text="retired" category="VBN" />
+<VERB id="V6" spans="291~294" text="was" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="left" toID="V1" toText="sought" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="left" toID="V2" toText="work" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="left" toID="V3" toText="outline" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="left" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="left" toID="V5" toText="retired" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="left" toID="V6" toText="was" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="sought" toID="V2" toText="work" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="sought" toID="V3" toText="outline" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="sought" toID="V4" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="sought" toID="V5" toText="retired" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="sought" toID="V6" toText="was" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="work" toID="V3" toText="outline" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="work" toID="V4" toText="said" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="work" toID="V5" toText="retired" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="work" toID="V6" toText="was" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="outline" toID="V4" toText="said" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="outline" toID="V5" toText="retired" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="outline" toID="V6" toText="was" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="said" toID="V5" toText="retired" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="said" toID="V6" toText="was" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="retired" toID="V6" toText="was" />
+</TAGS>
+</TemporalRelationTask>

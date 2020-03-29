@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“The embassy needs to be resourced well enough to not only keep monitoring our past assistance but also to help new Afghan peace mechanisms — especially those which protect women,” Ms. Pforzheimer said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~18" text="needs" category="VBZ" />
+<VERB id="V1" spans="25~34" text="resourced" category="VBN" />
+<VERB id="V2" spans="59~63" text="keep" category="VB" />
+<VERB id="V3" spans="64~74" text="monitoring" category="VBG" />
+<VERB id="V4" spans="107~111" text="help" category="VB" />
+<VERB id="V5" spans="140~141" text="—" category="VBP" />
+<VERB id="V6" spans="165~172" text="protect" category="VBP" />
+<VERB id="V7" spans="179~180" text="”" category="VBZ" />
+<VERB id="V8" spans="197~201" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="needs" toID="V1" toText="resourced" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="needs" toID="V2" toText="keep" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="needs" toID="V3" toText="monitoring" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="needs" toID="V4" toText="help" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="needs" toID="V5" toText="—" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="needs" toID="V6" toText="protect" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="needs" toID="V7" toText="”" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="needs" toID="V8" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="resourced" toID="V2" toText="keep" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="resourced" toID="V3" toText="monitoring" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="resourced" toID="V4" toText="help" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="resourced" toID="V5" toText="—" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="resourced" toID="V6" toText="protect" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="resourced" toID="V7" toText="”" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="resourced" toID="V8" toText="said" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="keep" toID="V3" toText="monitoring" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="keep" toID="V4" toText="help" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="keep" toID="V5" toText="—" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="keep" toID="V6" toText="protect" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="keep" toID="V7" toText="”" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="keep" toID="V8" toText="said" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="monitoring" toID="V4" toText="help" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="monitoring" toID="V5" toText="—" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="monitoring" toID="V6" toText="protect" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="monitoring" toID="V7" toText="”" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="monitoring" toID="V8" toText="said" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="help" toID="V5" toText="—" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="help" toID="V6" toText="protect" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="help" toID="V7" toText="”" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="help" toID="V8" toText="said" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="—" toID="V6" toText="protect" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="—" toID="V7" toText="”" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="—" toID="V8" toText="said" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="protect" toID="V7" toText="”" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="protect" toID="V8" toText="said" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="”" toID="V8" toText="said" />
+</TAGS>
+</TemporalRelationTask>

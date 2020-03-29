@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Former Vice President Joseph R. Biden Jr., the likely Democratic nominee against President Trump in this year’s general election, was asked a question during a virtual fund-raiser on Sunday that reflected a challenge looming over his campaign as the coronavirus outbreak intensifies.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="134~139" text="asked" category="VBN" />
+<VERB id="V1" spans="195~204" text="reflected" category="VBD" />
+<VERB id="V2" spans="217~224" text="looming" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="asked" toID="V1" toText="reflected" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="asked" toID="V2" toText="looming" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="reflected" toID="V2" toText="looming" />
+</TAGS>
+</TemporalRelationTask>

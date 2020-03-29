@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The U.S. Chamber of Commerce and the heads of major corporations have lobbied the administration against using the act. They say the move could prove counterproductive, imposing red tape on companies precisely when they need flexibility to deal with closed borders and shuttered factories.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="70~77" text="lobbied" category="VBN" />
+<VERB id="V1" spans="105~110" text="using" category="VBG" />
+<VERB id="V2" spans="125~128" text="say" category="VBP" />
+<VERB id="V3" spans="144~149" text="prove" category="VB" />
+<VERB id="V4" spans="169~177" text="imposing" category="VBG" />
+<VERB id="V5" spans="220~224" text="need" category="VBP" />
+<VERB id="V6" spans="240~244" text="deal" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="lobbied" toID="V1" toText="using" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="lobbied" toID="V2" toText="say" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="lobbied" toID="V3" toText="prove" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="lobbied" toID="V4" toText="imposing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="lobbied" toID="V5" toText="need" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="lobbied" toID="V6" toText="deal" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="using" toID="V2" toText="say" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="using" toID="V3" toText="prove" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="using" toID="V4" toText="imposing" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="using" toID="V5" toText="need" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="using" toID="V6" toText="deal" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="say" toID="V3" toText="prove" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="say" toID="V4" toText="imposing" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="say" toID="V5" toText="need" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="say" toID="V6" toText="deal" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="prove" toID="V4" toText="imposing" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="prove" toID="V5" toText="need" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="prove" toID="V6" toText="deal" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="imposing" toID="V5" toText="need" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="imposing" toID="V6" toText="deal" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="need" toID="V6" toText="deal" />
+</TAGS>
+</TemporalRelationTask>

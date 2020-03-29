@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[To benefit the large companies that are able to borrow money by issuing debt on financial markets, the Fed is creating two new programs to buy corporate bonds. Another program, this one dusted off from the 2008 crisis, will pump money into lending to consumers and small businesses.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~10" text="benefit" category="VB" />
+<VERB id="V1" spans="36~39" text="are" category="VBP" />
+<VERB id="V2" spans="48~54" text="borrow" category="VB" />
+<VERB id="V3" spans="64~71" text="issuing" category="VBG" />
+<VERB id="V4" spans="110~118" text="creating" category="VBG" />
+<VERB id="V5" spans="139~142" text="buy" category="VB" />
+<VERB id="V6" spans="186~192" text="dusted" category="VBD" />
+<VERB id="V7" spans="224~228" text="pump" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="benefit" toID="V1" toText="are" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="benefit" toID="V2" toText="borrow" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="benefit" toID="V3" toText="issuing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="benefit" toID="V4" toText="creating" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="benefit" toID="V5" toText="buy" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="benefit" toID="V6" toText="dusted" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="benefit" toID="V7" toText="pump" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="are" toID="V2" toText="borrow" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="are" toID="V3" toText="issuing" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="are" toID="V4" toText="creating" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="are" toID="V5" toText="buy" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="are" toID="V6" toText="dusted" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="are" toID="V7" toText="pump" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="borrow" toID="V3" toText="issuing" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="borrow" toID="V4" toText="creating" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="borrow" toID="V5" toText="buy" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="borrow" toID="V6" toText="dusted" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="borrow" toID="V7" toText="pump" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="issuing" toID="V4" toText="creating" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="issuing" toID="V5" toText="buy" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="issuing" toID="V6" toText="dusted" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="issuing" toID="V7" toText="pump" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="creating" toID="V5" toText="buy" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="creating" toID="V6" toText="dusted" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="creating" toID="V7" toText="pump" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="buy" toID="V6" toText="dusted" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="buy" toID="V7" toText="pump" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="dusted" toID="V7" toText="pump" />
+</TAGS>
+</TemporalRelationTask>

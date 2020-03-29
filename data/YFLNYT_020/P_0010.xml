@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But if not, and if the Taliban end up with widespread control, the United States would probably have little relationship with the government, said Daniel F. Feldman, who served as special representative to Afghanistan and Pakistan under President Barack Obama.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="31~34" text="end" category="VB" />
+<VERB id="V1" spans="96~100" text="have" category="VB" />
+<VERB id="V2" spans="142~146" text="said" category="VBD" />
+<VERB id="V3" spans="170~176" text="served" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="end" toID="V1" toText="have" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="end" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="end" toID="V3" toText="served" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="have" toID="V2" toText="said" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="have" toID="V3" toText="served" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="served" />
+</TAGS>
+</TemporalRelationTask>

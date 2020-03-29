@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“A lot of the people who always gave us money didn’t because they were doubters,” said Steve Cozen, a friend of Mr. Biden’s for decades and a fund-raiser for both his campaign and super PAC. “They were doubters until South Carolina and Super Tuesday. Now they’ve opened their pocketbooks, and we’re doing great.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~1" text="“" category="VB" />
+<VERB id="V1" spans="32~36" text="gave" category="VBD" />
+<VERB id="V2" spans="66~70" text="were" category="VBD" />
+<VERB id="V3" spans="82~86" text="said" category="VBD" />
+<VERB id="V4" spans="197~201" text="were" category="VBD" />
+<VERB id="V5" spans="259~260" text="’" category="VBP" />
+<VERB id="V6" spans="263~269" text="opened" category="VBD" />
+<VERB id="V7" spans="295~296" text="’" category="VBP" />
+<VERB id="V8" spans="299~304" text="doing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="“" toID="V1" toText="gave" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="“" toID="V2" toText="were" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="“" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="“" toID="V4" toText="were" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="“" toID="V5" toText="’" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="“" toID="V6" toText="opened" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="“" toID="V7" toText="’" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="“" toID="V8" toText="doing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="gave" toID="V2" toText="were" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="gave" toID="V3" toText="said" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="gave" toID="V4" toText="were" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="gave" toID="V5" toText="’" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="gave" toID="V6" toText="opened" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="gave" toID="V7" toText="’" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="gave" toID="V8" toText="doing" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="were" toID="V3" toText="said" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="were" toID="V4" toText="were" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="were" toID="V5" toText="’" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="were" toID="V6" toText="opened" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="were" toID="V7" toText="’" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="were" toID="V8" toText="doing" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V4" toText="were" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="said" toID="V5" toText="’" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="said" toID="V6" toText="opened" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="said" toID="V7" toText="’" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="said" toID="V8" toText="doing" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="were" toID="V5" toText="’" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="were" toID="V6" toText="opened" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="were" toID="V7" toText="’" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="were" toID="V8" toText="doing" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="’" toID="V6" toText="opened" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="’" toID="V7" toText="’" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="’" toID="V8" toText="doing" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="opened" toID="V7" toText="’" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="opened" toID="V8" toText="doing" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="’" toID="V8" toText="doing" />
+</TAGS>
+</TemporalRelationTask>

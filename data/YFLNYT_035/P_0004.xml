@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[By tradition, and in deference to the current generation, personal ambitions are largely unspoken here as the Democratic faithful gather to anoint Hillary Clinton and to prepare for battle against Donald J. Trump. Asked about their national prospects in the next decade, most quickly demurred.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="77~80" text="are" category="VBP" />
+<VERB id="V1" spans="140~146" text="anoint" category="VB" />
+<VERB id="V2" spans="170~177" text="prepare" category="VB" />
+<VERB id="V3" spans="214~219" text="Asked" category="VBN" />
+<VERB id="V4" spans="284~292" text="demurred" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="anoint" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="prepare" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="Asked" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="demurred" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="anoint" toID="V2" toText="prepare" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="anoint" toID="V3" toText="Asked" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="anoint" toID="V4" toText="demurred" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="prepare" toID="V3" toText="Asked" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="prepare" toID="V4" toText="demurred" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="Asked" toID="V4" toText="demurred" />
+</TAGS>
+</TemporalRelationTask>

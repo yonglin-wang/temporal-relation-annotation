@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Trump’s likely opponent in the coming presidential election, former Vice President Joseph R. Biden Jr., said the administration’s effort was coming too late.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~11" text="s" category="VBD" />
+<VERB id="V1" spans="35~41" text="coming" category="VBG" />
+<VERB id="V2" spans="108~112" text="said" category="VBD" />
+<VERB id="V3" spans="123~124" text="s" category="VBD" />
+<VERB id="V4" spans="145~151" text="coming" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="coming" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="s" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="coming" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="coming" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="coming" toID="V3" toText="s" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="coming" toID="V4" toText="coming" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="said" toID="V3" toText="s" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="coming" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="s" toID="V4" toText="coming" />
+</TAGS>
+</TemporalRelationTask>

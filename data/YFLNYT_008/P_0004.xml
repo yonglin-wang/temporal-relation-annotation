@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The failure to move forward shook financial markets and threatened an ambitious timeline set by the Trump administration and leading Republicans to move the rescue package through the Senate on Monday and enact it within days.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~19" text="move" category="VB" />
+<VERB id="V1" spans="56~66" text="threatened" category="VBD" />
+<VERB id="V2" spans="89~92" text="set" category="VBN" />
+<VERB id="V3" spans="125~132" text="leading" category="VBG" />
+<VERB id="V4" spans="148~152" text="move" category="VB" />
+<VERB id="V5" spans="205~210" text="enact" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="move" toID="V1" toText="threatened" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="move" toID="V2" toText="set" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="move" toID="V3" toText="leading" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="move" toID="V4" toText="move" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="move" toID="V5" toText="enact" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="threatened" toID="V2" toText="set" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="threatened" toID="V3" toText="leading" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="threatened" toID="V4" toText="move" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="threatened" toID="V5" toText="enact" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="set" toID="V3" toText="leading" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="set" toID="V4" toText="move" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="set" toID="V5" toText="enact" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="leading" toID="V4" toText="move" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="leading" toID="V5" toText="enact" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="move" toID="V5" toText="enact" />
+</TAGS>
+</TemporalRelationTask>

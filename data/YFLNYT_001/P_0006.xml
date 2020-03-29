@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Loeser now runs his own strategic consulting firm, and told me he has clients who are business executives considering a run for high public office. “I can’t tell you their names, obviously,” he said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~19" text="runs" category="VBZ" />
+<VERB id="V1" spans="59~63" text="told" category="VBD" />
+<VERB id="V2" spans="70~73" text="has" category="VBZ" />
+<VERB id="V3" spans="86~89" text="are" category="VBP" />
+<VERB id="V4" spans="110~121" text="considering" category="VBG" />
+<VERB id="V5" spans="158~159" text="’" category="VB" />
+<VERB id="V6" spans="159~160" text="t" category="VB" />
+<VERB id="V7" spans="161~165" text="tell" category="VB" />
+<VERB id="V8" spans="198~202" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="runs" toID="V1" toText="told" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="runs" toID="V2" toText="has" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="runs" toID="V3" toText="are" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="runs" toID="V4" toText="considering" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="runs" toID="V5" toText="’" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="runs" toID="V6" toText="t" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="runs" toID="V7" toText="tell" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="runs" toID="V8" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="told" toID="V2" toText="has" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="told" toID="V3" toText="are" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="told" toID="V4" toText="considering" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="told" toID="V5" toText="’" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="told" toID="V6" toText="t" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="told" toID="V7" toText="tell" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="told" toID="V8" toText="said" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="has" toID="V3" toText="are" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="has" toID="V4" toText="considering" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="has" toID="V5" toText="’" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="has" toID="V6" toText="t" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="has" toID="V7" toText="tell" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="has" toID="V8" toText="said" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="are" toID="V4" toText="considering" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="are" toID="V5" toText="’" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="are" toID="V6" toText="t" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="are" toID="V7" toText="tell" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="are" toID="V8" toText="said" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="considering" toID="V5" toText="’" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="considering" toID="V6" toText="t" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="considering" toID="V7" toText="tell" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="considering" toID="V8" toText="said" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="’" toID="V6" toText="t" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="’" toID="V7" toText="tell" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="’" toID="V8" toText="said" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="t" toID="V7" toText="tell" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="t" toID="V8" toText="said" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="tell" toID="V8" toText="said" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden, at various points, has suggested he might choose Ms. Abrams, Ms. Klobuchar, Senators Jeanne Shaheen and Maggie Hassan of New Hampshire or Sally Q. Yates, the former assistant attorney general whom President Trump fired three years ago.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="34~43" text="suggested" category="VBN" />
+<VERB id="V1" spans="53~59" text="choose" category="VB" />
+<VERB id="V2" spans="224~229" text="fired" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="suggested" toID="V1" toText="choose" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="suggested" toID="V2" toText="fired" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="choose" toID="V2" toText="fired" />
+</TAGS>
+</TemporalRelationTask>

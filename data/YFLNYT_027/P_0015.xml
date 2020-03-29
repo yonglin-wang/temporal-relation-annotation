@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In theory, it’s not impossible for Mr. Sanders to win delegates by around 20 percentage points the rest of the way. For that matter, it’s not impossible for Michael Bloomberg to re-enter the race tomorrow and deny Mr. Biden a delegate majority. It’s just not realistic.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~14" text="’" category="VBD" />
+<VERB id="V1" spans="50~53" text="win" category="VB" />
+<VERB id="V2" spans="135~136" text="’" category="VBD" />
+<VERB id="V3" spans="178~186" text="re-enter" category="VB" />
+<VERB id="V4" spans="209~213" text="deny" category="VB" />
+<VERB id="V5" spans="247~248" text="’" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="’" toID="V1" toText="win" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="’" toID="V2" toText="’" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="’" toID="V3" toText="re-enter" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="’" toID="V4" toText="deny" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="’" toID="V5" toText="’" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="win" toID="V2" toText="’" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="win" toID="V3" toText="re-enter" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="win" toID="V4" toText="deny" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="win" toID="V5" toText="’" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="’" toID="V3" toText="re-enter" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="’" toID="V4" toText="deny" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="’" toID="V5" toText="’" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="re-enter" toID="V4" toText="deny" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="re-enter" toID="V5" toText="’" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="deny" toID="V5" toText="’" />
+</TAGS>
+</TemporalRelationTask>

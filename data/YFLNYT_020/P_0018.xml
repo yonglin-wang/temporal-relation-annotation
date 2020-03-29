@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But staffing cuts are coming: A recent State Department review recommended reducing the number of contractors at the embassy. Many of them were pulled back to Kabul with the closing of consulates in Herat and Mazar-i-Sharif, and at least two other diplomatic outposts around Afghanistan, as the United States military began to withdraw.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="4~12" text="staffing" category="VBG" />
+<VERB id="V1" spans="22~28" text="coming" category="VBG" />
+<VERB id="V2" spans="63~74" text="recommended" category="VBD" />
+<VERB id="V3" spans="75~83" text="reducing" category="VBG" />
+<VERB id="V4" spans="144~150" text="pulled" category="VBN" />
+<VERB id="V5" spans="318~323" text="began" category="VBD" />
+<VERB id="V6" spans="327~335" text="withdraw" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="staffing" toID="V1" toText="coming" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="staffing" toID="V2" toText="recommended" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="staffing" toID="V3" toText="reducing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="staffing" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="staffing" toID="V5" toText="began" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="staffing" toID="V6" toText="withdraw" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="coming" toID="V2" toText="recommended" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="coming" toID="V3" toText="reducing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="coming" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="coming" toID="V5" toText="began" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="coming" toID="V6" toText="withdraw" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="recommended" toID="V3" toText="reducing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="recommended" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="recommended" toID="V5" toText="began" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="recommended" toID="V6" toText="withdraw" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="reducing" toID="V4" toText="pulled" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="reducing" toID="V5" toText="began" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="reducing" toID="V6" toText="withdraw" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="pulled" toID="V5" toText="began" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="pulled" toID="V6" toText="withdraw" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="began" toID="V6" toText="withdraw" />
+</TAGS>
+</TemporalRelationTask>

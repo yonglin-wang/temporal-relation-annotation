@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Hill said that without clear direction from Washington, American policy in Afghanistan “could be very painful and not terribly successful, at least not in the short or medium term.” As a result, “people will be questioning whether we knew what we were doing,” he said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~13" text="said" category="VBD" />
+<VERB id="V1" spans="98~100" text="be" category="VB" />
+<VERB id="V2" spans="215~226" text="questioning" category="VBG" />
+<VERB id="V3" spans="238~242" text="knew" category="VBD" />
+<VERB id="V4" spans="256~261" text="doing" category="VBG" />
+<VERB id="V5" spans="267~271" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="be" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="questioning" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="knew" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="doing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="be" toID="V2" toText="questioning" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="be" toID="V3" toText="knew" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="be" toID="V4" toText="doing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="be" toID="V5" toText="said" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="questioning" toID="V3" toText="knew" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="questioning" toID="V4" toText="doing" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="questioning" toID="V5" toText="said" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="knew" toID="V4" toText="doing" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="knew" toID="V5" toText="said" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="doing" toID="V5" toText="said" />
+</TAGS>
+</TemporalRelationTask>

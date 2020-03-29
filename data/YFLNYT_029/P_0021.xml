@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Still, the severity of the economic impact of the coronavirus could significantly affect campaigns going forward.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="82~88" text="affect" category="VB" />
+<VERB id="V1" spans="99~104" text="going" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="affect" toID="V1" toText="going" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“As we navigate the unprecedented challenge of responding to the coronavirus, we’re exploring a range of contingency options to ensure we can deliver a successful convention without unnecessary risk to public health,” said Katie Peters, a convention spokeswoman. “This is a very fluid situation — and the convention is still more than three months away. We are committed to sharing updates with the public in the coming weeks and months as our plans continue to take shape.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="7~15" text="navigate" category="VBP" />
+<VERB id="V1" spans="47~57" text="responding" category="VBG" />
+<VERB id="V2" spans="80~81" text="’" category="VBP" />
+<VERB id="V3" spans="84~93" text="exploring" category="VBG" />
+<VERB id="V4" spans="128~134" text="ensure" category="VB" />
+<VERB id="V5" spans="142~149" text="deliver" category="VB" />
+<VERB id="V6" spans="218~222" text="said" category="VBD" />
+<VERB id="V7" spans="266~268" text="is" category="VBZ" />
+<VERB id="V8" spans="269~271" text="is" category="VBZ" />
+<VERB id="V9" spans="361~370" text="committed" category="VBN" />
+<VERB id="V10" spans="374~381" text="sharing" category="VBG" />
+<VERB id="V11" spans="450~458" text="continue" category="VBP" />
+<VERB id="V12" spans="462~466" text="take" category="VB" />
+<VERB id="V13" spans="473~474" text="”" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="navigate" toID="V1" toText="responding" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="navigate" toID="V2" toText="’" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="navigate" toID="V3" toText="exploring" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="navigate" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="navigate" toID="V5" toText="deliver" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="navigate" toID="V6" toText="said" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="navigate" toID="V7" toText="is" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="navigate" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="navigate" toID="V9" toText="committed" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="navigate" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="navigate" toID="V11" toText="continue" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="navigate" toID="V12" toText="take" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="navigate" toID="V13" toText="”" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="responding" toID="V2" toText="’" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="responding" toID="V3" toText="exploring" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="responding" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="responding" toID="V5" toText="deliver" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="responding" toID="V6" toText="said" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="responding" toID="V7" toText="is" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="responding" toID="V8" toText="is" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="responding" toID="V9" toText="committed" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="responding" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="responding" toID="V11" toText="continue" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="responding" toID="V12" toText="take" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="responding" toID="V13" toText="”" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="’" toID="V3" toText="exploring" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="’" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="’" toID="V5" toText="deliver" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="’" toID="V6" toText="said" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="’" toID="V7" toText="is" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="’" toID="V8" toText="is" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="’" toID="V9" toText="committed" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="’" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="’" toID="V11" toText="continue" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="’" toID="V12" toText="take" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="’" toID="V13" toText="”" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="exploring" toID="V4" toText="ensure" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="exploring" toID="V5" toText="deliver" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="exploring" toID="V6" toText="said" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="exploring" toID="V7" toText="is" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="exploring" toID="V8" toText="is" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="exploring" toID="V9" toText="committed" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="exploring" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="exploring" toID="V11" toText="continue" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="exploring" toID="V12" toText="take" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="exploring" toID="V13" toText="”" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="ensure" toID="V5" toText="deliver" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="ensure" toID="V6" toText="said" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="ensure" toID="V7" toText="is" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="ensure" toID="V8" toText="is" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="ensure" toID="V9" toText="committed" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="ensure" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="ensure" toID="V11" toText="continue" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="ensure" toID="V12" toText="take" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="ensure" toID="V13" toText="”" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="deliver" toID="V6" toText="said" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="deliver" toID="V7" toText="is" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="deliver" toID="V8" toText="is" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="deliver" toID="V9" toText="committed" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="deliver" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="deliver" toID="V11" toText="continue" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="deliver" toID="V12" toText="take" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="deliver" toID="V13" toText="”" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="said" toID="V7" toText="is" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="said" toID="V8" toText="is" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="said" toID="V9" toText="committed" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="said" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="said" toID="V11" toText="continue" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="said" toID="V12" toText="take" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="said" toID="V13" toText="”" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="is" toID="V8" toText="is" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="is" toID="V9" toText="committed" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="is" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="is" toID="V11" toText="continue" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="is" toID="V12" toText="take" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="is" toID="V13" toText="”" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="is" toID="V9" toText="committed" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="is" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="is" toID="V11" toText="continue" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="is" toID="V12" toText="take" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="is" toID="V13" toText="”" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="committed" toID="V10" toText="sharing" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="committed" toID="V11" toText="continue" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="committed" toID="V12" toText="take" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="committed" toID="V13" toText="”" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="sharing" toID="V11" toText="continue" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="sharing" toID="V12" toText="take" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="sharing" toID="V13" toText="”" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="continue" toID="V12" toText="take" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="continue" toID="V13" toText="”" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="take" toID="V13" toText="”" />
+</TAGS>
+</TemporalRelationTask>

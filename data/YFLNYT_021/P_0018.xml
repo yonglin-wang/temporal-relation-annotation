@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As a result, Mr. Biden finds himself with far fewer options than Mr. Trump or Democratic governors like Andrew M. Cuomo of New York, who have real authority and are holding news conferences often broadcast live.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="23~28" text="finds" category="VBZ" />
+<VERB id="V1" spans="137~141" text="have" category="VBP" />
+<VERB id="V2" spans="165~172" text="holding" category="VBG" />
+<VERB id="V3" spans="196~205" text="broadcast" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="finds" toID="V1" toText="have" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="finds" toID="V2" toText="holding" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="finds" toID="V3" toText="broadcast" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="have" toID="V2" toText="holding" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="have" toID="V3" toText="broadcast" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="holding" toID="V3" toText="broadcast" />
+</TAGS>
+</TemporalRelationTask>

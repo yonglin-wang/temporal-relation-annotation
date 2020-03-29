@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The topic last week was also ripped from the 2016 campaign trail: a tuition-free college plan. It was the latest in a series of high-profile, left-leaning policy moves that the Democrat behind the event, Gov. Andrew M. Cuomo of New York, can claim, including the legalization of same-sex marriage, the passage of gun-control laws and a higher minimum wage.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="20~23" text="was" category="VBD" />
+<VERB id="V1" spans="29~35" text="ripped" category="VBN" />
+<VERB id="V2" spans="98~101" text="was" category="VBD" />
+<VERB id="V3" spans="242~247" text="claim" category="VB" />
+<VERB id="V4" spans="249~258" text="including" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="ripped" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="was" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="claim" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="including" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="ripped" toID="V2" toText="was" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="ripped" toID="V3" toText="claim" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="ripped" toID="V4" toText="including" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="was" toID="V3" toText="claim" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="was" toID="V4" toText="including" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="claim" toID="V4" toText="including" />
+</TAGS>
+</TemporalRelationTask>

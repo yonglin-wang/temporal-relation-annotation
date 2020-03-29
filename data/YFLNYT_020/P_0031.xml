@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Those efforts continue to be run out of the embassy in Kabul, Ms. Pforzheimer said, but they now face dwindling money even as American officials work to make sure financial assistance to Afghans is not being misused.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="14~22" text="continue" category="VBP" />
+<VERB id="V1" spans="29~32" text="run" category="VBN" />
+<VERB id="V2" spans="78~82" text="said" category="VBD" />
+<VERB id="V3" spans="97~101" text="face" category="VBP" />
+<VERB id="V4" spans="102~111" text="dwindling" category="VBG" />
+<VERB id="V5" spans="145~149" text="work" category="VBP" />
+<VERB id="V6" spans="153~157" text="make" category="VB" />
+<VERB id="V7" spans="176~178" text="is" category="VBZ" />
+<VERB id="V8" spans="202~207" text="being" category="VBG" />
+<VERB id="V9" spans="208~215" text="misused" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="continue" toID="V1" toText="run" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="continue" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="continue" toID="V3" toText="face" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="continue" toID="V4" toText="dwindling" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="continue" toID="V5" toText="work" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="continue" toID="V6" toText="make" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="continue" toID="V7" toText="is" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="continue" toID="V8" toText="being" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="continue" toID="V9" toText="misused" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="run" toID="V2" toText="said" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="run" toID="V3" toText="face" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="run" toID="V4" toText="dwindling" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="run" toID="V5" toText="work" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="run" toID="V6" toText="make" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="run" toID="V7" toText="is" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="run" toID="V8" toText="being" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="run" toID="V9" toText="misused" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V3" toText="face" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="said" toID="V4" toText="dwindling" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V5" toText="work" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V6" toText="make" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="said" toID="V7" toText="is" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="said" toID="V8" toText="being" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="said" toID="V9" toText="misused" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="face" toID="V4" toText="dwindling" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="face" toID="V5" toText="work" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="face" toID="V6" toText="make" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="face" toID="V7" toText="is" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="face" toID="V8" toText="being" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="face" toID="V9" toText="misused" />
+<EVENT_ORDER id="E30" fromID="V4" fromText="dwindling" toID="V5" toText="work" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="dwindling" toID="V6" toText="make" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="dwindling" toID="V7" toText="is" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="dwindling" toID="V8" toText="being" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="dwindling" toID="V9" toText="misused" />
+<EVENT_ORDER id="E35" fromID="V5" fromText="work" toID="V6" toText="make" />
+<EVENT_ORDER id="E36" fromID="V5" fromText="work" toID="V7" toText="is" />
+<EVENT_ORDER id="E37" fromID="V5" fromText="work" toID="V8" toText="being" />
+<EVENT_ORDER id="E38" fromID="V5" fromText="work" toID="V9" toText="misused" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="make" toID="V7" toText="is" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="make" toID="V8" toText="being" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="make" toID="V9" toText="misused" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="is" toID="V8" toText="being" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="is" toID="V9" toText="misused" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="being" toID="V9" toText="misused" />
+</TAGS>
+</TemporalRelationTask>

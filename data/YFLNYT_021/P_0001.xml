@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The president is brazenly grabbing his only clear option to bolster his re-election hopes, portraying himself as a take-charge leader the country can’t afford to lose.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="14~16" text="is" category="VBZ" />
+<VERB id="V1" spans="26~34" text="grabbing" category="VBG" />
+<VERB id="V2" spans="60~67" text="bolster" category="VB" />
+<VERB id="V3" spans="91~101" text="portraying" category="VBG" />
+<VERB id="V4" spans="149~150" text="’" category="VB" />
+<VERB id="V5" spans="162~166" text="lose" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="grabbing" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="bolster" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="portraying" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="’" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="lose" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="grabbing" toID="V2" toText="bolster" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="grabbing" toID="V3" toText="portraying" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="grabbing" toID="V4" toText="’" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="grabbing" toID="V5" toText="lose" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="bolster" toID="V3" toText="portraying" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="bolster" toID="V4" toText="’" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="bolster" toID="V5" toText="lose" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="portraying" toID="V4" toText="’" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="portraying" toID="V5" toText="lose" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="’" toID="V5" toText="lose" />
+</TAGS>
+</TemporalRelationTask>

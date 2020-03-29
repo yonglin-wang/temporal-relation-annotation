@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For some Republicans, the rise of Donald Trump to the head of their party has been acutely painful. We asked them to share their anguish.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="78~82" text="been" category="VBN" />
+<VERB id="V1" spans="103~108" text="asked" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="asked" />
+</TAGS>
+</TemporalRelationTask>

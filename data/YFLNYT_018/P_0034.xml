@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. McAuliffe, a former Democratic Party chairman, has reasserted himself as a political field marshal for the national party. Over the weekend, he headlined fund-raising events in Boston and New York for the National Democratic Redistricting Committee. And he has brought two trusted advisers to the organization, the former Clinton campaign officials Robby Mook and Michael Halle, who are well connected with Democrats across the country.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="55~65" text="reasserted" category="VBN" />
+<VERB id="V1" spans="148~157" text="headlined" category="VBD" />
+<VERB id="V2" spans="265~272" text="brought" category="VBN" />
+<VERB id="V3" spans="277~284" text="trusted" category="VBD" />
+<VERB id="V4" spans="387~390" text="are" category="VBP" />
+<VERB id="V5" spans="396~405" text="connected" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="reasserted" toID="V1" toText="headlined" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="reasserted" toID="V2" toText="brought" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="reasserted" toID="V3" toText="trusted" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="reasserted" toID="V4" toText="are" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="reasserted" toID="V5" toText="connected" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="headlined" toID="V2" toText="brought" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="headlined" toID="V3" toText="trusted" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="headlined" toID="V4" toText="are" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="headlined" toID="V5" toText="connected" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="brought" toID="V3" toText="trusted" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="brought" toID="V4" toText="are" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="brought" toID="V5" toText="connected" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="trusted" toID="V4" toText="are" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="trusted" toID="V5" toText="connected" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="are" toID="V5" toText="connected" />
+</TAGS>
+</TemporalRelationTask>

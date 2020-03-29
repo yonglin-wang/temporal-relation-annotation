@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The mood in the Capitol on Sunday evening was grim as the vote proceeded, in an eerie echo of the spectacle that unfolded in 2008 when the House initially defeated a $700 billion Wall Street bailout that aimed to stabilize the financial system amid a global meltdown, sending the Dow Jones industrials plunging. Sunday evening’s vote was merely a procedural one, but it shook markets all the same. Dow futures fell 5 percent, triggering a “limit down,” meaning they could not fall any further.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~45" text="was" category="VBD" />
+<VERB id="V1" spans="63~72" text="proceeded" category="VBD" />
+<VERB id="V2" spans="113~121" text="unfolded" category="VBD" />
+<VERB id="V3" spans="155~163" text="defeated" category="VBD" />
+<VERB id="V4" spans="204~209" text="aimed" category="VBD" />
+<VERB id="V5" spans="213~222" text="stabilize" category="VB" />
+<VERB id="V6" spans="268~275" text="sending" category="VBG" />
+<VERB id="V7" spans="302~310" text="plunging" category="VBG" />
+<VERB id="V8" spans="319~326" text="evening" category="VBG" />
+<VERB id="V9" spans="334~337" text="was" category="VBD" />
+<VERB id="V10" spans="370~375" text="shook" category="VBD" />
+<VERB id="V11" spans="410~414" text="fell" category="VBD" />
+<VERB id="V12" spans="426~436" text="triggering" category="VBG" />
+<VERB id="V13" spans="476~480" text="fall" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="proceeded" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="unfolded" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="defeated" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="aimed" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="stabilize" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="sending" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="was" toID="V8" toText="evening" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="was" toID="V9" toText="was" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="was" toID="V10" toText="shook" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="was" toID="V11" toText="fell" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="was" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="was" toID="V13" toText="fall" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="proceeded" toID="V2" toText="unfolded" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="proceeded" toID="V3" toText="defeated" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="proceeded" toID="V4" toText="aimed" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="proceeded" toID="V5" toText="stabilize" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="proceeded" toID="V6" toText="sending" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="proceeded" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="proceeded" toID="V8" toText="evening" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="proceeded" toID="V9" toText="was" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="proceeded" toID="V10" toText="shook" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="proceeded" toID="V11" toText="fell" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="proceeded" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="proceeded" toID="V13" toText="fall" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="unfolded" toID="V3" toText="defeated" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="unfolded" toID="V4" toText="aimed" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="unfolded" toID="V5" toText="stabilize" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="unfolded" toID="V6" toText="sending" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="unfolded" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="unfolded" toID="V8" toText="evening" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="unfolded" toID="V9" toText="was" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="unfolded" toID="V10" toText="shook" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="unfolded" toID="V11" toText="fell" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="unfolded" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="unfolded" toID="V13" toText="fall" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="defeated" toID="V4" toText="aimed" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="defeated" toID="V5" toText="stabilize" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="defeated" toID="V6" toText="sending" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="defeated" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="defeated" toID="V8" toText="evening" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="defeated" toID="V9" toText="was" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="defeated" toID="V10" toText="shook" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="defeated" toID="V11" toText="fell" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="defeated" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="defeated" toID="V13" toText="fall" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="aimed" toID="V5" toText="stabilize" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="aimed" toID="V6" toText="sending" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="aimed" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="aimed" toID="V8" toText="evening" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="aimed" toID="V9" toText="was" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="aimed" toID="V10" toText="shook" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="aimed" toID="V11" toText="fell" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="aimed" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="aimed" toID="V13" toText="fall" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="stabilize" toID="V6" toText="sending" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="stabilize" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="stabilize" toID="V8" toText="evening" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="stabilize" toID="V9" toText="was" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="stabilize" toID="V10" toText="shook" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="stabilize" toID="V11" toText="fell" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="stabilize" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="stabilize" toID="V13" toText="fall" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="sending" toID="V7" toText="plunging" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="sending" toID="V8" toText="evening" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="sending" toID="V9" toText="was" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="sending" toID="V10" toText="shook" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="sending" toID="V11" toText="fell" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="sending" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="sending" toID="V13" toText="fall" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="plunging" toID="V8" toText="evening" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="plunging" toID="V9" toText="was" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="plunging" toID="V10" toText="shook" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="plunging" toID="V11" toText="fell" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="plunging" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="plunging" toID="V13" toText="fall" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="evening" toID="V9" toText="was" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="evening" toID="V10" toText="shook" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="evening" toID="V11" toText="fell" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="evening" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="evening" toID="V13" toText="fall" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="was" toID="V10" toText="shook" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="was" toID="V11" toText="fell" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="was" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="was" toID="V13" toText="fall" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="shook" toID="V11" toText="fell" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="shook" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="shook" toID="V13" toText="fall" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="fell" toID="V12" toText="triggering" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="fell" toID="V13" toText="fall" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="triggering" toID="V13" toText="fall" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Cuomo and Senators Cory Booker of New Jersey, Sherrod Brown of Ohio and Kamala D. Harris of California, among others, are thought to be on a short, if still amorphous, list of fresher options for 2020. By then, the old guard of potential candidates, represented by Hillary Clinton, Mr. Sanders, Vice President Joseph R. Biden Jr. and Senator Elizabeth Warren of Massachusetts, will all be 70 or older.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="126~133" text="thought" category="VBN" />
+<VERB id="V1" spans="137~139" text="be" category="VB" />
+<VERB id="V2" spans="254~265" text="represented" category="VBN" />
+<VERB id="V3" spans="351~353" text="be" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="thought" toID="V1" toText="be" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="thought" toID="V2" toText="represented" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="thought" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="be" toID="V2" toText="represented" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="be" toID="V3" toText="be" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="represented" toID="V3" toText="be" />
+</TAGS>
+</TemporalRelationTask>

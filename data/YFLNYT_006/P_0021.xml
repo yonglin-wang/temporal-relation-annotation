@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Despite the panic prompted by Mr. Paul’s announcement, on Monday, debate on the Senate floor proceeded mostly as usual — albeit in more fiery terms — with lawmakers filing into the chamber to vote and sitting in their desks next to one another. But the specter of the coronavirus weighed heavily over the proceedings.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="18~26" text="prompted" category="VBN" />
+<VERB id="V1" spans="93~102" text="proceeded" category="VBD" />
+<VERB id="V2" spans="119~120" text="—" category="VBP" />
+<VERB id="V3" spans="165~171" text="filing" category="VBG" />
+<VERB id="V4" spans="192~196" text="vote" category="VB" />
+<VERB id="V5" spans="201~208" text="sitting" category="VBG" />
+<VERB id="V6" spans="280~287" text="weighed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="prompted" toID="V1" toText="proceeded" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="prompted" toID="V2" toText="—" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="prompted" toID="V3" toText="filing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="prompted" toID="V4" toText="vote" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="prompted" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="prompted" toID="V6" toText="weighed" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="proceeded" toID="V2" toText="—" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="proceeded" toID="V3" toText="filing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="proceeded" toID="V4" toText="vote" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="proceeded" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="proceeded" toID="V6" toText="weighed" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="—" toID="V3" toText="filing" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="—" toID="V4" toText="vote" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="—" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="—" toID="V6" toText="weighed" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="filing" toID="V4" toText="vote" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="filing" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="filing" toID="V6" toText="weighed" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="vote" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="vote" toID="V6" toText="weighed" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="sitting" toID="V6" toText="weighed" />
+</TAGS>
+</TemporalRelationTask>

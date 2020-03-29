@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Last week, the Trump campaign circulated a clip of the Republican strategist Karl Rove waving a printout of a Biden campaign email on Fox News and accusing Mr. Biden of exploiting the coronavirus to raise money.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="30~40" text="circulated" category="VBD" />
+<VERB id="V1" spans="87~93" text="waving" category="VBG" />
+<VERB id="V2" spans="147~155" text="accusing" category="VBG" />
+<VERB id="V3" spans="169~179" text="exploiting" category="VBG" />
+<VERB id="V4" spans="199~204" text="raise" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="circulated" toID="V1" toText="waving" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="circulated" toID="V2" toText="accusing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="circulated" toID="V3" toText="exploiting" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="circulated" toID="V4" toText="raise" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="waving" toID="V2" toText="accusing" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="waving" toID="V3" toText="exploiting" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="waving" toID="V4" toText="raise" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="accusing" toID="V3" toText="exploiting" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="accusing" toID="V4" toText="raise" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="exploiting" toID="V4" toText="raise" />
+</TAGS>
+</TemporalRelationTask>

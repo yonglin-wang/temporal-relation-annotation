@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Tempers flared on the Senate floor as Republicans accused Democrats of slowing needed assistance and Democrats said the package fell short.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="8~14" text="flared" category="VBD" />
+<VERB id="V1" spans="50~57" text="accused" category="VBD" />
+<VERB id="V2" spans="71~78" text="slowing" category="VBG" />
+<VERB id="V3" spans="79~85" text="needed" category="VBN" />
+<VERB id="V4" spans="111~115" text="said" category="VBD" />
+<VERB id="V5" spans="128~132" text="fell" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="flared" toID="V1" toText="accused" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="flared" toID="V2" toText="slowing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="flared" toID="V3" toText="needed" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="flared" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="flared" toID="V5" toText="fell" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="accused" toID="V2" toText="slowing" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="accused" toID="V3" toText="needed" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="accused" toID="V4" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="accused" toID="V5" toText="fell" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="slowing" toID="V3" toText="needed" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="slowing" toID="V4" toText="said" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="slowing" toID="V5" toText="fell" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="needed" toID="V4" toText="said" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="needed" toID="V5" toText="fell" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="said" toID="V5" toText="fell" />
+</TAGS>
+</TemporalRelationTask>

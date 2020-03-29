@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I came to the conclusion that I could not in good conscience vote either yes or no,” she said at the time, calling the process too partisan. “I am standing in the center and have decided to vote present.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~7" text="came" category="VBD" />
+<VERB id="V1" spans="84~85" text="”" category="VBZ" />
+<VERB id="V2" spans="90~94" text="said" category="VBD" />
+<VERB id="V3" spans="108~115" text="calling" category="VBG" />
+<VERB id="V4" spans="148~156" text="standing" category="VBG" />
+<VERB id="V5" spans="180~187" text="decided" category="VBN" />
+<VERB id="V6" spans="191~195" text="vote" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="came" toID="V1" toText="”" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="came" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="came" toID="V3" toText="calling" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="came" toID="V4" toText="standing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="came" toID="V5" toText="decided" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="came" toID="V6" toText="vote" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="”" toID="V2" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="”" toID="V3" toText="calling" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="”" toID="V4" toText="standing" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="”" toID="V5" toText="decided" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="”" toID="V6" toText="vote" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V3" toText="calling" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="said" toID="V4" toText="standing" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V5" toText="decided" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V6" toText="vote" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="calling" toID="V4" toText="standing" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="calling" toID="V5" toText="decided" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="calling" toID="V6" toText="vote" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="standing" toID="V5" toText="decided" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="standing" toID="V6" toText="vote" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="decided" toID="V6" toText="vote" />
+</TAGS>
+</TemporalRelationTask>

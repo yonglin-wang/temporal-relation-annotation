@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Yet, in declining to actually make use of the Korean War-era production act that he invoked last week, Mr. Trump is also avoiding taking personal responsibility for how fast the acute shortages of personal protective gear and lifesaving equipment are addressed.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="8~17" text="declining" category="VBG" />
+<VERB id="V1" spans="30~34" text="make" category="VB" />
+<VERB id="V2" spans="84~91" text="invoked" category="VBD" />
+<VERB id="V3" spans="113~115" text="is" category="VBZ" />
+<VERB id="V4" spans="121~129" text="avoiding" category="VBG" />
+<VERB id="V5" spans="130~136" text="taking" category="VBG" />
+<VERB id="V6" spans="251~260" text="addressed" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="declining" toID="V1" toText="make" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="declining" toID="V2" toText="invoked" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="declining" toID="V3" toText="is" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="declining" toID="V4" toText="avoiding" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="declining" toID="V5" toText="taking" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="declining" toID="V6" toText="addressed" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="make" toID="V2" toText="invoked" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="make" toID="V3" toText="is" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="make" toID="V4" toText="avoiding" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="make" toID="V5" toText="taking" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="make" toID="V6" toText="addressed" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="invoked" toID="V3" toText="is" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="invoked" toID="V4" toText="avoiding" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="invoked" toID="V5" toText="taking" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="invoked" toID="V6" toText="addressed" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="is" toID="V4" toText="avoiding" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="is" toID="V5" toText="taking" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="is" toID="V6" toText="addressed" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="avoiding" toID="V5" toText="taking" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="avoiding" toID="V6" toText="addressed" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="taking" toID="V6" toText="addressed" />
+</TAGS>
+</TemporalRelationTask>

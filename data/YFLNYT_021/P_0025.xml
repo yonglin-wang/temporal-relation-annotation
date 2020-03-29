@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[At the same time, he has been timid of using wartime powers to fight what he has called an “invisible enemy.” Last week, for instance, he resisted invoking the Defense Production Act, a federal law that grants presidents extraordinary powers to force American industries to ensure the availability of critical equipment.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~29" text="been" category="VBN" />
+<VERB id="V1" spans="39~44" text="using" category="VBG" />
+<VERB id="V2" spans="63~68" text="fight" category="VB" />
+<VERB id="V3" spans="81~87" text="called" category="VBN" />
+<VERB id="V4" spans="138~146" text="resisted" category="VBD" />
+<VERB id="V5" spans="147~155" text="invoking" category="VBG" />
+<VERB id="V6" spans="203~209" text="grants" category="VBZ" />
+<VERB id="V7" spans="245~250" text="force" category="VB" />
+<VERB id="V8" spans="274~280" text="ensure" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="using" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="fight" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="called" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="resisted" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="been" toID="V5" toText="invoking" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="been" toID="V6" toText="grants" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="been" toID="V7" toText="force" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="been" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="using" toID="V2" toText="fight" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="using" toID="V3" toText="called" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="using" toID="V4" toText="resisted" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="using" toID="V5" toText="invoking" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="using" toID="V6" toText="grants" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="using" toID="V7" toText="force" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="using" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="fight" toID="V3" toText="called" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="fight" toID="V4" toText="resisted" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="fight" toID="V5" toText="invoking" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="fight" toID="V6" toText="grants" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="fight" toID="V7" toText="force" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="fight" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="called" toID="V4" toText="resisted" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="called" toID="V5" toText="invoking" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="called" toID="V6" toText="grants" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="called" toID="V7" toText="force" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="called" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="resisted" toID="V5" toText="invoking" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="resisted" toID="V6" toText="grants" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="resisted" toID="V7" toText="force" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="resisted" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="invoking" toID="V6" toText="grants" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="invoking" toID="V7" toText="force" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="invoking" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="grants" toID="V7" toText="force" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="grants" toID="V8" toText="ensure" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="force" toID="V8" toText="ensure" />
+</TAGS>
+</TemporalRelationTask>

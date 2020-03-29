@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For weeks, his phone has been ringing off the hook. His diabetes patients, a high-risk group for coronavirus infection, want to know: How can they get tested? How can they stockpile extra medication? And can he write to their employers to recommend they work from home?]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="30~37" text="ringing" category="VBG" />
+<VERB id="V1" spans="120~124" text="want" category="VBP" />
+<VERB id="V2" spans="128~132" text="know" category="VB" />
+<VERB id="V3" spans="147~150" text="get" category="VB" />
+<VERB id="V4" spans="151~157" text="tested" category="VBN" />
+<VERB id="V5" spans="172~181" text="stockpile" category="VB" />
+<VERB id="V6" spans="211~216" text="write" category="VB" />
+<VERB id="V7" spans="239~248" text="recommend" category="VB" />
+<VERB id="V8" spans="254~258" text="work" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="ringing" toID="V1" toText="want" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="ringing" toID="V2" toText="know" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="ringing" toID="V3" toText="get" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="ringing" toID="V4" toText="tested" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="ringing" toID="V5" toText="stockpile" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="ringing" toID="V6" toText="write" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="ringing" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="ringing" toID="V8" toText="work" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="want" toID="V2" toText="know" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="want" toID="V3" toText="get" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="want" toID="V4" toText="tested" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="want" toID="V5" toText="stockpile" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="want" toID="V6" toText="write" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="want" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="want" toID="V8" toText="work" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="know" toID="V3" toText="get" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="know" toID="V4" toText="tested" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="know" toID="V5" toText="stockpile" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="know" toID="V6" toText="write" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="know" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="know" toID="V8" toText="work" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="get" toID="V4" toText="tested" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="get" toID="V5" toText="stockpile" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="get" toID="V6" toText="write" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="get" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="get" toID="V8" toText="work" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="tested" toID="V5" toText="stockpile" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="tested" toID="V6" toText="write" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="tested" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="tested" toID="V8" toText="work" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="stockpile" toID="V6" toText="write" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="stockpile" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="stockpile" toID="V8" toText="work" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="write" toID="V7" toText="recommend" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="write" toID="V8" toText="work" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="recommend" toID="V8" toText="work" />
+</TAGS>
+</TemporalRelationTask>

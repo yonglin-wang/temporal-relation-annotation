@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As negotiations continued late into the night between Senator Chuck Schumer, Democrat of New York and the minority leader, and Steven Mnuchin, the Treasury secretary, Mr. McConnell announced that unless an agreement was reached, he would hold another vote at 9:45 Monday morning — 15 minutes after markets open — in a second attempt to advance the package. Late Sunday evening, Mr. Schumer objected to that proposal, pushing the vote to noon at the earliest on Monday.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~25" text="continued" category="VBN" />
+<VERB id="V1" spans="181~190" text="announced" category="VBD" />
+<VERB id="V2" spans="220~227" text="reached" category="VBN" />
+<VERB id="V3" spans="238~242" text="hold" category="VB" />
+<VERB id="V4" spans="336~343" text="advance" category="VB" />
+<VERB id="V5" spans="390~398" text="objected" category="VBD" />
+<VERB id="V6" spans="417~424" text="pushing" category="VBG" />
+<VERB id="V7" spans="437~441" text="noon" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="continued" toID="V1" toText="announced" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="continued" toID="V2" toText="reached" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="continued" toID="V3" toText="hold" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="continued" toID="V4" toText="advance" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="continued" toID="V5" toText="objected" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="continued" toID="V6" toText="pushing" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="continued" toID="V7" toText="noon" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="announced" toID="V2" toText="reached" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="announced" toID="V3" toText="hold" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="announced" toID="V4" toText="advance" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="announced" toID="V5" toText="objected" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="announced" toID="V6" toText="pushing" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="announced" toID="V7" toText="noon" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="reached" toID="V3" toText="hold" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="reached" toID="V4" toText="advance" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="reached" toID="V5" toText="objected" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="reached" toID="V6" toText="pushing" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="reached" toID="V7" toText="noon" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="hold" toID="V4" toText="advance" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="hold" toID="V5" toText="objected" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="hold" toID="V6" toText="pushing" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="hold" toID="V7" toText="noon" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="advance" toID="V5" toText="objected" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="advance" toID="V6" toText="pushing" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="advance" toID="V7" toText="noon" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="objected" toID="V6" toText="pushing" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="objected" toID="V7" toText="noon" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="pushing" toID="V7" toText="noon" />
+</TAGS>
+</TemporalRelationTask>

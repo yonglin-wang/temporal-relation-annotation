@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“People want to take back control of their countries,” he added, “and they want to take back control of their lives.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="8~12" text="want" category="VBP" />
+<VERB id="V1" spans="16~20" text="take" category="VB" />
+<VERB id="V2" spans="58~63" text="added" category="VBD" />
+<VERB id="V3" spans="75~79" text="want" category="VBP" />
+<VERB id="V4" spans="83~87" text="take" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="want" toID="V1" toText="take" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="want" toID="V2" toText="added" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="want" toID="V3" toText="want" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="want" toID="V4" toText="take" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="take" toID="V2" toText="added" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="take" toID="V3" toText="want" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="take" toID="V4" toText="take" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="added" toID="V3" toText="want" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="added" toID="V4" toText="take" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="want" toID="V4" toText="take" />
+</TAGS>
+</TemporalRelationTask>

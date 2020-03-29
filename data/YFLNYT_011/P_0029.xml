@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Some German cities have needed no prompting to clamp down.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~30" text="needed" category="VBN" />
+<VERB id="V1" spans="34~43" text="prompting" category="VBG" />
+<VERB id="V2" spans="47~52" text="clamp" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="needed" toID="V1" toText="prompting" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="needed" toID="V2" toText="clamp" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="prompting" toID="V2" toText="clamp" />
+</TAGS>
+</TemporalRelationTask>

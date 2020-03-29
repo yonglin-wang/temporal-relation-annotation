@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The number of patients in the hospitals in Lombardy, the region that is by far the hardest hit in Italy, had gone down as well, to 9,266 from 9,439.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="69~71" text="is" category="VBZ" />
+<VERB id="V1" spans="109~113" text="gone" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="gone" />
+</TAGS>
+</TemporalRelationTask>

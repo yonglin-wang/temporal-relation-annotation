@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In discussions with The Times since Mr. Biden’s big primary victories on Tuesday, 60 Democratic National Committee members and congressional and party leaders most frequently proposed three former rivals of Mr. Biden as his running mate — Senator Kamala Harris of California, Senator Elizabeth Warren of Massachusetts and Senator Amy Klobuchar of Minnesota. Next up was Stacey Abrams, a former state House leader whose defeat in 2018 Georgia governor’s race remains disputed by many in the party.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="5~6" text="s" category="VBD" />
+<VERB id="V1" spans="175~183" text="proposed" category="VBD" />
+<VERB id="V2" spans="224~231" text="running" category="VBG" />
+<VERB id="V3" spans="366~369" text="was" category="VBD" />
+<VERB id="V4" spans="382~383" text="s" category="VBD" />
+<VERB id="V5" spans="466~474" text="disputed" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="proposed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="running" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="was" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="s" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="disputed" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="proposed" toID="V2" toText="running" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="proposed" toID="V3" toText="was" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="proposed" toID="V4" toText="s" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="proposed" toID="V5" toText="disputed" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="running" toID="V3" toText="was" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="running" toID="V4" toText="s" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="running" toID="V5" toText="disputed" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="was" toID="V4" toText="s" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="was" toID="V5" toText="disputed" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="s" toID="V5" toText="disputed" />
+</TAGS>
+</TemporalRelationTask>

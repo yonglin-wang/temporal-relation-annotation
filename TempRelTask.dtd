@@ -1,0 +1,10 @@
+<!ENTITY name "TemporalRelationTask">
+
+<!ELEMENT VERB ( #PCDATA ) >
+<!-- fixed value set without default value-->
+<!ATTLIST VERB category ( VB | VBD | VBG | VBN | VBP | VBZ ) #REQUIRED >
+
+<!-- no #PCDATA makes a link tag-->
+<!ELEMENT EVENT_ORDER EMPTY >
+<!-- this will have default arguments "from" and "to"-->
+<!ATTLIST EVENT_ORDER relationship ( before | after | simultaneous | vague ) #REQUIRED >

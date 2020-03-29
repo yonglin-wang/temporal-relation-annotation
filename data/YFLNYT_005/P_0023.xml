@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Up and down the ballot, candidates and political party committees are seeking to find the right balance, as email fund-raising has evolved into an essential source of campaign cash.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="70~77" text="seeking" category="VBG" />
+<VERB id="V1" spans="81~85" text="find" category="VB" />
+<VERB id="V2" spans="131~138" text="evolved" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="seeking" toID="V1" toText="find" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="seeking" toID="V2" toText="evolved" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="find" toID="V2" toText="evolved" />
+</TAGS>
+</TemporalRelationTask>

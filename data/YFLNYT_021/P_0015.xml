@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Trump is on uncertain political ground. His poll numbers in critical swing states like Pennsylvania and Michigan have been wavering, with most surveys showing him behind Mr. Biden and Senator Bernie Sanders of Vermont.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~12" text="is" category="VBZ" />
+<VERB id="V1" spans="127~135" text="wavering" category="VBG" />
+<VERB id="V2" spans="155~162" text="showing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="wavering" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="showing" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="wavering" toID="V2" toText="showing" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[To Mr. Trump’s critics, the core problem is not the effort now underway, but the failure to address the issue over the past three years, after government-run simulations, including one code-named Crimson Contagion, revealed some of the huge vulnerabilities.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="41~43" text="is" category="VBZ" />
+<VERB id="V1" spans="92~99" text="address" category="VB" />
+<VERB id="V2" spans="171~180" text="including" category="VBG" />
+<VERB id="V3" spans="215~223" text="revealed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="address" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="including" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="revealed" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="address" toID="V2" toText="including" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="address" toID="V3" toText="revealed" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="including" toID="V3" toText="revealed" />
+</TAGS>
+</TemporalRelationTask>

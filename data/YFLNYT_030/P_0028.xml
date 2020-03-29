@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Jennie Sweet-Cushman, an associate professor of political science at Chatham University in Pittsburgh, has been making a similar argument to her students. She cited climate change as one of her top three voting issues and said she supported Mr. Biden because he is a pragmatist, and her years studying government have shown her that major structural changes require bipartisanship.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="112~118" text="making" category="VBG" />
+<VERB id="V1" spans="159~164" text="cited" category="VBD" />
+<VERB id="V2" spans="204~210" text="voting" category="VBG" />
+<VERB id="V3" spans="222~226" text="said" category="VBD" />
+<VERB id="V4" spans="231~240" text="supported" category="VBD" />
+<VERB id="V5" spans="262~264" text="is" category="VBZ" />
+<VERB id="V6" spans="293~301" text="studying" category="VBG" />
+<VERB id="V7" spans="318~323" text="shown" category="VBN" />
+<VERB id="V8" spans="358~365" text="require" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="making" toID="V1" toText="cited" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="making" toID="V2" toText="voting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="making" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="making" toID="V4" toText="supported" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="making" toID="V5" toText="is" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="making" toID="V6" toText="studying" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="making" toID="V7" toText="shown" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="making" toID="V8" toText="require" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="cited" toID="V2" toText="voting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="cited" toID="V3" toText="said" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="cited" toID="V4" toText="supported" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="cited" toID="V5" toText="is" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="cited" toID="V6" toText="studying" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="cited" toID="V7" toText="shown" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="cited" toID="V8" toText="require" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="voting" toID="V3" toText="said" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="voting" toID="V4" toText="supported" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="voting" toID="V5" toText="is" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="voting" toID="V6" toText="studying" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="voting" toID="V7" toText="shown" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="voting" toID="V8" toText="require" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V4" toText="supported" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="said" toID="V5" toText="is" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="said" toID="V6" toText="studying" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="said" toID="V7" toText="shown" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="said" toID="V8" toText="require" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="supported" toID="V5" toText="is" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="supported" toID="V6" toText="studying" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="supported" toID="V7" toText="shown" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="supported" toID="V8" toText="require" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="is" toID="V6" toText="studying" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="is" toID="V7" toText="shown" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="is" toID="V8" toText="require" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="studying" toID="V7" toText="shown" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="studying" toID="V8" toText="require" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="shown" toID="V8" toText="require" />
+</TAGS>
+</TemporalRelationTask>

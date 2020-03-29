@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[There is no indication that House or Senate leaders are moving toward doing so. For now, senators are maintaining their routine — albeit from a substantial distance, and under considerably more stress.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="6~8" text="is" category="VBZ" />
+<VERB id="V1" spans="56~62" text="moving" category="VBG" />
+<VERB id="V2" spans="70~75" text="doing" category="VBG" />
+<VERB id="V3" spans="102~113" text="maintaining" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="moving" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="doing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="maintaining" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="moving" toID="V2" toText="doing" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="moving" toID="V3" toText="maintaining" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="doing" toID="V3" toText="maintaining" />
+</TAGS>
+</TemporalRelationTask>

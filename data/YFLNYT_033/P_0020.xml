@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For Mr. Biden, 77, a much younger woman could assuage concerns about his age and critiques about a primary process that started with the most diverse field in history and ended with two white men.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~53" text="assuage" category="VB" />
+<VERB id="V1" spans="120~127" text="started" category="VBD" />
+<VERB id="V2" spans="171~176" text="ended" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="assuage" toID="V1" toText="started" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="assuage" toID="V2" toText="ended" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="started" toID="V2" toText="ended" />
+</TAGS>
+</TemporalRelationTask>

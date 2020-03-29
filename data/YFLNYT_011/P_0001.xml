@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Chancellor Angela Merkel went into isolation after learning that her doctor had tested positive.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~29" text="went" category="VBD" />
+<VERB id="V1" spans="51~59" text="learning" category="VBG" />
+<VERB id="V2" spans="80~86" text="tested" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="went" toID="V1" toText="learning" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="went" toID="V2" toText="tested" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="learning" toID="V2" toText="tested" />
+</TAGS>
+</TemporalRelationTask>

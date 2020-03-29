@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Democrats voted against moving forward on a plan expected to cost $1.8 trillion or more, seeking stronger protections for workers and stricter rules for bailed-out businesses.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~15" text="voted" category="VBD" />
+<VERB id="V1" spans="24~30" text="moving" category="VBG" />
+<VERB id="V2" spans="49~57" text="expected" category="VBN" />
+<VERB id="V3" spans="61~65" text="cost" category="VB" />
+<VERB id="V4" spans="89~96" text="seeking" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="voted" toID="V1" toText="moving" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="voted" toID="V2" toText="expected" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="voted" toID="V3" toText="cost" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="voted" toID="V4" toText="seeking" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="moving" toID="V2" toText="expected" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="moving" toID="V3" toText="cost" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="moving" toID="V4" toText="seeking" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="expected" toID="V3" toText="cost" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="expected" toID="V4" toText="seeking" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="cost" toID="V4" toText="seeking" />
+</TAGS>
+</TemporalRelationTask>
