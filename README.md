@@ -8,25 +8,25 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 
 Click on ```MAE_2.2.10.jar``` in the root directory. If this is....
 
-1. `File`$\to$`New Task Definition`
+1. `File`→`New Task Definition`
 
-![1_definition](/Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/img/1_definition.png)
+![1_definition](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png)
 
 2. Choose the `TempRelTask.dtd`, click `Open`
 
-### ![2_dtd](/Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/img/2_dtd.png)
+### ![2_dtd](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/2_dtd.png)
 
 3. Click the `EVENT_ORDER` and tick the box
 
-![3 order](/Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/img/3_order.png)
+![3 order](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/3_order.png)
 
-4. `File` $\to$ `Open Document`, then open the file assigned to you. 
+4. `File` →`Open Document`, then open the file assigned to you. 
 
-![4 openxml](/Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/img/4_openxml.png)
+![4 openxml](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/4_openxml.png)
 
 5. click `Yes`
 
-![4 xml](/Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/img/5_xml.png)
+![4 xml](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/5_xml.png)
 
 6. Begin your annotation journey!
 
