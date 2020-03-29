@@ -6,17 +6,12 @@
 <VERB id="V0" spans="23~32" text="continued" category="VBD" />
 <VERB id="V1" spans="120~129" text="hampering" category="VBG" />
 <VERB id="V2" spans="196~204" text="approved" category="VBN" />
-<VERB id="V3" spans="217~218" text="—" category="VBD" />
-<VERB id="V4" spans="318~325" text="sending" category="VBG" />
+<VERB id="V3" spans="318~325" text="sending" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="continued" toID="V1" toText="hampering" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="continued" toID="V2" toText="approved" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="continued" toID="V3" toText="—" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="continued" toID="V4" toText="sending" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="hampering" toID="V2" toText="approved" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="hampering" toID="V3" toText="—" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="hampering" toID="V4" toText="sending" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="approved" toID="V3" toText="—" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="approved" toID="V4" toText="sending" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="—" toID="V4" toText="sending" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="continued" toID="V3" toText="sending" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="hampering" toID="V2" toText="approved" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="hampering" toID="V3" toText="sending" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="approved" toID="V3" toText="sending" />
 </TAGS>
 </TemporalRelationTask>

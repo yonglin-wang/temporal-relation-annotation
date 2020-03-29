@@ -10,53 +10,43 @@
 <VERB id="V4" spans="116~121" text="being" category="VBG" />
 <VERB id="V5" spans="145~150" text="being" category="VBG" />
 <VERB id="V6" spans="162~166" text="give" category="VB" />
-<VERB id="V7" spans="183~184" text="”" category="VBP" />
-<VERB id="V8" spans="201~204" text="has" category="VBZ" />
-<VERB id="V9" spans="212~216" text="left" category="VBN" />
+<VERB id="V7" spans="201~204" text="has" category="VBZ" />
+<VERB id="V8" spans="212~216" text="left" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="continued" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="s" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="added" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="being" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="being" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="has" toID="V6" toText="give" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="has" toID="V7" toText="”" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="has" toID="V8" toText="has" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="has" toID="V9" toText="left" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="continued" toID="V2" toText="s" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="continued" toID="V3" toText="added" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="continued" toID="V4" toText="being" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="continued" toID="V5" toText="being" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="continued" toID="V6" toText="give" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="continued" toID="V7" toText="”" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="continued" toID="V8" toText="has" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="continued" toID="V9" toText="left" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="s" toID="V3" toText="added" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="s" toID="V4" toText="being" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="s" toID="V5" toText="being" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="s" toID="V6" toText="give" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="s" toID="V7" toText="”" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="s" toID="V8" toText="has" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="s" toID="V9" toText="left" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="added" toID="V4" toText="being" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="added" toID="V5" toText="being" />
-<EVENT_ORDER id="E26" fromID="V3" fromText="added" toID="V6" toText="give" />
-<EVENT_ORDER id="E27" fromID="V3" fromText="added" toID="V7" toText="”" />
-<EVENT_ORDER id="E28" fromID="V3" fromText="added" toID="V8" toText="has" />
-<EVENT_ORDER id="E29" fromID="V3" fromText="added" toID="V9" toText="left" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="being" toID="V5" toText="being" />
-<EVENT_ORDER id="E31" fromID="V4" fromText="being" toID="V6" toText="give" />
-<EVENT_ORDER id="E32" fromID="V4" fromText="being" toID="V7" toText="”" />
-<EVENT_ORDER id="E33" fromID="V4" fromText="being" toID="V8" toText="has" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="being" toID="V9" toText="left" />
-<EVENT_ORDER id="E35" fromID="V5" fromText="being" toID="V6" toText="give" />
-<EVENT_ORDER id="E36" fromID="V5" fromText="being" toID="V7" toText="”" />
-<EVENT_ORDER id="E37" fromID="V5" fromText="being" toID="V8" toText="has" />
-<EVENT_ORDER id="E38" fromID="V5" fromText="being" toID="V9" toText="left" />
-<EVENT_ORDER id="E39" fromID="V6" fromText="give" toID="V7" toText="”" />
-<EVENT_ORDER id="E40" fromID="V6" fromText="give" toID="V8" toText="has" />
-<EVENT_ORDER id="E41" fromID="V6" fromText="give" toID="V9" toText="left" />
-<EVENT_ORDER id="E42" fromID="V7" fromText="”" toID="V8" toText="has" />
-<EVENT_ORDER id="E43" fromID="V7" fromText="”" toID="V9" toText="left" />
-<EVENT_ORDER id="E44" fromID="V8" fromText="has" toID="V9" toText="left" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="has" toID="V7" toText="has" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="has" toID="V8" toText="left" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="continued" toID="V2" toText="s" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="continued" toID="V3" toText="added" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="continued" toID="V4" toText="being" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="continued" toID="V5" toText="being" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="continued" toID="V6" toText="give" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="continued" toID="V7" toText="has" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="continued" toID="V8" toText="left" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="s" toID="V3" toText="added" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="s" toID="V4" toText="being" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="s" toID="V5" toText="being" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="s" toID="V6" toText="give" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="s" toID="V7" toText="has" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="s" toID="V8" toText="left" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="added" toID="V4" toText="being" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="added" toID="V5" toText="being" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="added" toID="V6" toText="give" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="added" toID="V7" toText="has" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="added" toID="V8" toText="left" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="being" toID="V5" toText="being" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="being" toID="V6" toText="give" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="being" toID="V7" toText="has" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="being" toID="V8" toText="left" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="being" toID="V6" toText="give" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="being" toID="V7" toText="has" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="being" toID="V8" toText="left" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="give" toID="V7" toText="has" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="give" toID="V8" toText="left" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="has" toID="V8" toText="left" />
 </TAGS>
 </TemporalRelationTask>

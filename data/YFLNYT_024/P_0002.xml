@@ -3,26 +3,11 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[WASHINGTON — Planners for the Democratic National Convention are looking at “contingency options” in case the mid-July gathering in Milwaukee can’t take place because of the coronavirus, officials said on Monday for the first time.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="11~12" text="—" category="VBZ" />
-<VERB id="V1" spans="65~72" text="looking" category="VBG" />
-<VERB id="V2" spans="96~97" text="”" category="VBP" />
-<VERB id="V3" spans="145~146" text="’" category="VB" />
-<VERB id="V4" spans="148~152" text="take" category="VB" />
-<VERB id="V5" spans="197~201" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="—" toID="V1" toText="looking" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="—" toID="V2" toText="”" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="—" toID="V3" toText="’" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="—" toID="V4" toText="take" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="—" toID="V5" toText="said" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="looking" toID="V2" toText="”" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="looking" toID="V3" toText="’" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="looking" toID="V4" toText="take" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="looking" toID="V5" toText="said" />
-<EVENT_ORDER id="E9" fromID="V2" fromText="”" toID="V3" toText="’" />
-<EVENT_ORDER id="E10" fromID="V2" fromText="”" toID="V4" toText="take" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="”" toID="V5" toText="said" />
-<EVENT_ORDER id="E12" fromID="V3" fromText="’" toID="V4" toText="take" />
-<EVENT_ORDER id="E13" fromID="V3" fromText="’" toID="V5" toText="said" />
-<EVENT_ORDER id="E14" fromID="V4" fromText="take" toID="V5" toText="said" />
+<VERB id="V0" spans="65~72" text="looking" category="VBG" />
+<VERB id="V1" spans="148~152" text="take" category="VB" />
+<VERB id="V2" spans="197~201" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="looking" toID="V1" toText="take" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="looking" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="take" toID="V2" toText="said" />
 </TAGS>
 </TemporalRelationTask>

@@ -9,65 +9,44 @@
 <VERB id="V3" spans="68~75" text="talking" category="VBG" />
 <VERB id="V4" spans="101~105" text="said" category="VBD" />
 <VERB id="V5" spans="169~174" text="voted" category="VBD" />
-<VERB id="V6" spans="194~195" text="’" category="VBP" />
-<VERB id="V7" spans="237~243" text="giving" category="VBG" />
-<VERB id="V8" spans="297~301" text="want" category="VBP" />
-<VERB id="V9" spans="316~320" text="look" category="VB" />
-<VERB id="V10" spans="321~322" text="”" category="VB" />
+<VERB id="V6" spans="237~243" text="giving" category="VBG" />
+<VERB id="V7" spans="297~301" text="want" category="VBP" />
+<VERB id="V8" spans="316~320" text="look" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="love" toID="V1" toText="see" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="love" toID="V2" toText="listening" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="love" toID="V3" toText="talking" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="love" toID="V4" toText="said" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="love" toID="V5" toText="voted" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="love" toID="V6" toText="’" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="love" toID="V7" toText="giving" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="love" toID="V8" toText="want" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="love" toID="V9" toText="look" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="love" toID="V10" toText="”" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="see" toID="V2" toText="listening" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="see" toID="V3" toText="talking" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="see" toID="V4" toText="said" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="see" toID="V5" toText="voted" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="see" toID="V6" toText="’" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="see" toID="V7" toText="giving" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="see" toID="V8" toText="want" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="see" toID="V9" toText="look" />
-<EVENT_ORDER id="E18" fromID="V1" fromText="see" toID="V10" toText="”" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="listening" toID="V3" toText="talking" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="listening" toID="V4" toText="said" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="listening" toID="V5" toText="voted" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="listening" toID="V6" toText="’" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="listening" toID="V7" toText="giving" />
-<EVENT_ORDER id="E24" fromID="V2" fromText="listening" toID="V8" toText="want" />
-<EVENT_ORDER id="E25" fromID="V2" fromText="listening" toID="V9" toText="look" />
-<EVENT_ORDER id="E26" fromID="V2" fromText="listening" toID="V10" toText="”" />
-<EVENT_ORDER id="E27" fromID="V3" fromText="talking" toID="V4" toText="said" />
-<EVENT_ORDER id="E28" fromID="V3" fromText="talking" toID="V5" toText="voted" />
-<EVENT_ORDER id="E29" fromID="V3" fromText="talking" toID="V6" toText="’" />
-<EVENT_ORDER id="E30" fromID="V3" fromText="talking" toID="V7" toText="giving" />
-<EVENT_ORDER id="E31" fromID="V3" fromText="talking" toID="V8" toText="want" />
-<EVENT_ORDER id="E32" fromID="V3" fromText="talking" toID="V9" toText="look" />
-<EVENT_ORDER id="E33" fromID="V3" fromText="talking" toID="V10" toText="”" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="said" toID="V5" toText="voted" />
-<EVENT_ORDER id="E35" fromID="V4" fromText="said" toID="V6" toText="’" />
-<EVENT_ORDER id="E36" fromID="V4" fromText="said" toID="V7" toText="giving" />
-<EVENT_ORDER id="E37" fromID="V4" fromText="said" toID="V8" toText="want" />
-<EVENT_ORDER id="E38" fromID="V4" fromText="said" toID="V9" toText="look" />
-<EVENT_ORDER id="E39" fromID="V4" fromText="said" toID="V10" toText="”" />
-<EVENT_ORDER id="E40" fromID="V5" fromText="voted" toID="V6" toText="’" />
-<EVENT_ORDER id="E41" fromID="V5" fromText="voted" toID="V7" toText="giving" />
-<EVENT_ORDER id="E42" fromID="V5" fromText="voted" toID="V8" toText="want" />
-<EVENT_ORDER id="E43" fromID="V5" fromText="voted" toID="V9" toText="look" />
-<EVENT_ORDER id="E44" fromID="V5" fromText="voted" toID="V10" toText="”" />
-<EVENT_ORDER id="E45" fromID="V6" fromText="’" toID="V7" toText="giving" />
-<EVENT_ORDER id="E46" fromID="V6" fromText="’" toID="V8" toText="want" />
-<EVENT_ORDER id="E47" fromID="V6" fromText="’" toID="V9" toText="look" />
-<EVENT_ORDER id="E48" fromID="V6" fromText="’" toID="V10" toText="”" />
-<EVENT_ORDER id="E49" fromID="V7" fromText="giving" toID="V8" toText="want" />
-<EVENT_ORDER id="E50" fromID="V7" fromText="giving" toID="V9" toText="look" />
-<EVENT_ORDER id="E51" fromID="V7" fromText="giving" toID="V10" toText="”" />
-<EVENT_ORDER id="E52" fromID="V8" fromText="want" toID="V9" toText="look" />
-<EVENT_ORDER id="E53" fromID="V8" fromText="want" toID="V10" toText="”" />
-<EVENT_ORDER id="E54" fromID="V9" fromText="look" toID="V10" toText="”" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="love" toID="V6" toText="giving" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="love" toID="V7" toText="want" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="love" toID="V8" toText="look" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="see" toID="V2" toText="listening" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="see" toID="V3" toText="talking" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="see" toID="V4" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="see" toID="V5" toText="voted" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="see" toID="V6" toText="giving" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="see" toID="V7" toText="want" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="see" toID="V8" toText="look" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="listening" toID="V3" toText="talking" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="listening" toID="V4" toText="said" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="listening" toID="V5" toText="voted" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="listening" toID="V6" toText="giving" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="listening" toID="V7" toText="want" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="listening" toID="V8" toText="look" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="talking" toID="V4" toText="said" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="talking" toID="V5" toText="voted" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="talking" toID="V6" toText="giving" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="talking" toID="V7" toText="want" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="talking" toID="V8" toText="look" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="said" toID="V5" toText="voted" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="said" toID="V6" toText="giving" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="said" toID="V7" toText="want" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="said" toID="V8" toText="look" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="voted" toID="V6" toText="giving" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="voted" toID="V7" toText="want" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="voted" toID="V8" toText="look" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="giving" toID="V7" toText="want" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="giving" toID="V8" toText="look" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="want" toID="V8" toText="look" />
 </TAGS>
 </TemporalRelationTask>

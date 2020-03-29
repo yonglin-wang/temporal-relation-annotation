@@ -3,33 +3,26 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“My father is 84 and I love him very much,” but it would be irresponsible, he said, to make him go through the invasive procedures of an I.C.U.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="0~1" text="“" category="VB" />
-<VERB id="V1" spans="11~13" text="is" category="VBZ" />
-<VERB id="V2" spans="23~27" text="love" category="VBP" />
-<VERB id="V3" spans="57~59" text="be" category="VB" />
-<VERB id="V4" spans="78~82" text="said" category="VBD" />
-<VERB id="V5" spans="87~91" text="make" category="VB" />
-<VERB id="V6" spans="96~98" text="go" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="“" toID="V1" toText="is" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="“" toID="V2" toText="love" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="“" toID="V3" toText="be" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="“" toID="V4" toText="said" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="“" toID="V5" toText="make" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="“" toID="V6" toText="go" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V2" toText="love" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V3" toText="be" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V4" toText="said" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V5" toText="make" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V6" toText="go" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="love" toID="V3" toText="be" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="love" toID="V4" toText="said" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="love" toID="V5" toText="make" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="love" toID="V6" toText="go" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="be" toID="V4" toText="said" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="be" toID="V5" toText="make" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="be" toID="V6" toText="go" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="said" toID="V5" toText="make" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="said" toID="V6" toText="go" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="make" toID="V6" toText="go" />
+<VERB id="V0" spans="11~13" text="is" category="VBZ" />
+<VERB id="V1" spans="23~27" text="love" category="VBP" />
+<VERB id="V2" spans="57~59" text="be" category="VB" />
+<VERB id="V3" spans="78~82" text="said" category="VBD" />
+<VERB id="V4" spans="87~91" text="make" category="VB" />
+<VERB id="V5" spans="96~98" text="go" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="love" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="be" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="make" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="go" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="love" toID="V2" toText="be" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="love" toID="V3" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="love" toID="V4" toText="make" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="love" toID="V5" toText="go" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="be" toID="V3" toText="said" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="be" toID="V4" toText="make" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="be" toID="V5" toText="go" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="said" toID="V4" toText="make" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="said" toID="V5" toText="go" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="make" toID="V5" toText="go" />
 </TAGS>
 </TemporalRelationTask>

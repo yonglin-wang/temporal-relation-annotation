@@ -6,17 +6,12 @@
 <VERB id="V0" spans="4~8" text="have" category="VBP" />
 <VERB id="V1" spans="12~17" text="learn" category="VB" />
 <VERB id="V2" spans="42~51" text="observing" category="VBG" />
-<VERB id="V3" spans="60~61" text="”" category="VBZ" />
-<VERB id="V4" spans="73~77" text="told" category="VBD" />
+<VERB id="V3" spans="73~77" text="told" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="have" toID="V1" toText="learn" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="have" toID="V2" toText="observing" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="have" toID="V3" toText="”" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="have" toID="V4" toText="told" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="learn" toID="V2" toText="observing" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="learn" toID="V3" toText="”" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="learn" toID="V4" toText="told" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="observing" toID="V3" toText="”" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="observing" toID="V4" toText="told" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="”" toID="V4" toText="told" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="have" toID="V3" toText="told" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="learn" toID="V2" toText="observing" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="learn" toID="V3" toText="told" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="observing" toID="V3" toText="told" />
 </TAGS>
 </TemporalRelationTask>

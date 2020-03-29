@@ -4,19 +4,14 @@
 <TEXT><![CDATA[He spent only $13.1 million last month — less than the billionaire Michael R. Bloomberg was spending on average per day. During the same period, Mr. Sanders spent more than twice as much on digital and television ads alone as Mr. Biden spent on his entire campaign operation — his payroll, his ads, his consultants, his events.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="3~8" text="spent" category="VBD" />
-<VERB id="V1" spans="39~40" text="—" category="VBD" />
-<VERB id="V2" spans="92~100" text="spending" category="VBG" />
-<VERB id="V3" spans="157~162" text="spent" category="VBD" />
-<VERB id="V4" spans="236~241" text="spent" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="spent" toID="V1" toText="—" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="spent" toID="V2" toText="spending" />
+<VERB id="V1" spans="92~100" text="spending" category="VBG" />
+<VERB id="V2" spans="157~162" text="spent" category="VBD" />
+<VERB id="V3" spans="236~241" text="spent" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="spent" toID="V1" toText="spending" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="spent" toID="V2" toText="spent" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="spent" toID="V3" toText="spent" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="spent" toID="V4" toText="spent" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="—" toID="V2" toText="spending" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="—" toID="V3" toText="spent" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="—" toID="V4" toText="spent" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="spending" toID="V3" toText="spent" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="spending" toID="V4" toText="spent" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="spent" toID="V4" toText="spent" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="spending" toID="V2" toText="spent" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="spending" toID="V3" toText="spent" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="spent" toID="V3" toText="spent" />
 </TAGS>
 </TemporalRelationTask>

@@ -5,13 +5,9 @@
 <TAGS>
 <VERB id="V0" spans="11~15" text="make" category="VB" />
 <VERB id="V1" spans="46~52" text="leaves" category="VBZ" />
-<VERB id="V2" spans="58~59" text="”" category="VBZ" />
-<VERB id="V3" spans="71~76" text="wrote" category="VBD" />
+<VERB id="V2" spans="71~76" text="wrote" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="make" toID="V1" toText="leaves" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="make" toID="V2" toText="”" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="make" toID="V3" toText="wrote" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="leaves" toID="V2" toText="”" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="leaves" toID="V3" toText="wrote" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="”" toID="V3" toText="wrote" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="make" toID="V2" toText="wrote" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="leaves" toID="V2" toText="wrote" />
 </TAGS>
 </TemporalRelationTask>

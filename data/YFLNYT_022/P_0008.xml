@@ -11,7 +11,6 @@
 <VERB id="V5" spans="199~201" text="be" category="VB" />
 <VERB id="V6" spans="212~217" text="wants" category="VBZ" />
 <VERB id="V7" spans="221~224" text="run" category="VB" />
-<VERB id="V8" spans="225~226" text="’" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="moving" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="moving" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="said" />
@@ -19,34 +18,26 @@
 <EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="be" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="wants" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="run" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="’" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="moving" toID="V2" toText="moving" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="moving" toID="V3" toText="said" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="moving" toID="V4" toText="worked" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="moving" toID="V5" toText="be" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="moving" toID="V6" toText="wants" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="moving" toID="V7" toText="run" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="moving" toID="V8" toText="’" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="moving" toID="V3" toText="said" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="moving" toID="V4" toText="worked" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="moving" toID="V5" toText="be" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="moving" toID="V6" toText="wants" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="moving" toID="V7" toText="run" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="moving" toID="V8" toText="’" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V4" toText="worked" />
-<EVENT_ORDER id="E22" fromID="V3" fromText="said" toID="V5" toText="be" />
-<EVENT_ORDER id="E23" fromID="V3" fromText="said" toID="V6" toText="wants" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="said" toID="V7" toText="run" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="said" toID="V8" toText="’" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="worked" toID="V5" toText="be" />
-<EVENT_ORDER id="E27" fromID="V4" fromText="worked" toID="V6" toText="wants" />
-<EVENT_ORDER id="E28" fromID="V4" fromText="worked" toID="V7" toText="run" />
-<EVENT_ORDER id="E29" fromID="V4" fromText="worked" toID="V8" toText="’" />
-<EVENT_ORDER id="E30" fromID="V5" fromText="be" toID="V6" toText="wants" />
-<EVENT_ORDER id="E31" fromID="V5" fromText="be" toID="V7" toText="run" />
-<EVENT_ORDER id="E32" fromID="V5" fromText="be" toID="V8" toText="’" />
-<EVENT_ORDER id="E33" fromID="V6" fromText="wants" toID="V7" toText="run" />
-<EVENT_ORDER id="E34" fromID="V6" fromText="wants" toID="V8" toText="’" />
-<EVENT_ORDER id="E35" fromID="V7" fromText="run" toID="V8" toText="’" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="moving" toID="V2" toText="moving" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="moving" toID="V3" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="moving" toID="V4" toText="worked" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="moving" toID="V5" toText="be" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="moving" toID="V6" toText="wants" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="moving" toID="V7" toText="run" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="moving" toID="V3" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="moving" toID="V4" toText="worked" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="moving" toID="V5" toText="be" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="moving" toID="V6" toText="wants" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="moving" toID="V7" toText="run" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="said" toID="V4" toText="worked" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="said" toID="V5" toText="be" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="said" toID="V6" toText="wants" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V7" toText="run" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="worked" toID="V5" toText="be" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="worked" toID="V6" toText="wants" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="worked" toID="V7" toText="run" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="be" toID="V6" toText="wants" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="be" toID="V7" toText="run" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="wants" toID="V7" toText="run" />
 </TAGS>
 </TemporalRelationTask>

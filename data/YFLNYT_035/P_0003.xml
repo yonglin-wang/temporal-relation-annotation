@@ -5,18 +5,13 @@
 <TAGS>
 <VERB id="V0" spans="181~184" text="are" category="VBP" />
 <VERB id="V1" spans="195~202" text="peeking" category="VBG" />
-<VERB id="V2" spans="217~218" text="’" category="VBZ" />
-<VERB id="V3" spans="266~270" text="work" category="VBP" />
-<VERB id="V4" spans="331~333" text="be" category="VB" />
+<VERB id="V2" spans="266~270" text="work" category="VBP" />
+<VERB id="V3" spans="331~333" text="be" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="peeking" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="’" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="work" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="be" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="peeking" toID="V2" toText="’" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="peeking" toID="V3" toText="work" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="peeking" toID="V4" toText="be" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="’" toID="V3" toText="work" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="’" toID="V4" toText="be" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="work" toID="V4" toText="be" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="work" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="peeking" toID="V2" toText="work" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="peeking" toID="V3" toText="be" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="work" toID="V3" toText="be" />
 </TAGS>
 </TemporalRelationTask>

@@ -9,27 +9,20 @@
 <VERB id="V3" spans="135~144" text="delivered" category="VBD" />
 <VERB id="V4" spans="213~217" text="show" category="VB" />
 <VERB id="V5" spans="255~265" text="understand" category="VB" />
-<VERB id="V6" spans="295~296" text="”" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="achieves" toID="V1" toText="said" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="achieves" toID="V2" toText="upset" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="achieves" toID="V3" toText="delivered" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="achieves" toID="V4" toText="show" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="achieves" toID="V5" toText="understand" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="achieves" toID="V6" toText="”" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V2" toText="upset" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V3" toText="delivered" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V4" toText="show" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V5" toText="understand" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V6" toText="”" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="upset" toID="V3" toText="delivered" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="upset" toID="V4" toText="show" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="upset" toID="V5" toText="understand" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="upset" toID="V6" toText="”" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="delivered" toID="V4" toText="show" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="delivered" toID="V5" toText="understand" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="delivered" toID="V6" toText="”" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="show" toID="V5" toText="understand" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="show" toID="V6" toText="”" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="understand" toID="V6" toText="”" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="said" toID="V2" toText="upset" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V3" toText="delivered" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V4" toText="show" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V5" toText="understand" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="upset" toID="V3" toText="delivered" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="upset" toID="V4" toText="show" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="upset" toID="V5" toText="understand" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="delivered" toID="V4" toText="show" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="delivered" toID="V5" toText="understand" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="show" toID="V5" toText="understand" />
 </TAGS>
 </TemporalRelationTask>

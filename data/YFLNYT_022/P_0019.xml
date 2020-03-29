@@ -6,57 +6,38 @@
 <VERB id="V0" spans="18~19" text="s" category="VB" />
 <VERB id="V1" spans="25~30" text="makes" category="VBZ" />
 <VERB id="V2" spans="67~71" text="said" category="VBD" />
-<VERB id="V3" spans="76~77" text="’" category="VBZ" />
-<VERB id="V4" spans="122~125" text="are" category="VBP" />
-<VERB id="V5" spans="150~156" text="pounds" category="VBZ" />
-<VERB id="V6" spans="190~194" text="hear" category="VBP" />
-<VERB id="V7" spans="235~239" text="come" category="VBP" />
-<VERB id="V8" spans="249~254" text="think" category="VBP" />
-<VERB id="V9" spans="256~257" text="‘" category="VBP" />
+<VERB id="V3" spans="122~125" text="are" category="VBP" />
+<VERB id="V4" spans="150~156" text="pounds" category="VBZ" />
+<VERB id="V5" spans="190~194" text="hear" category="VBP" />
+<VERB id="V6" spans="235~239" text="come" category="VBP" />
+<VERB id="V7" spans="249~254" text="think" category="VBP" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="makes" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="’" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="are" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="pounds" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="hear" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="come" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="think" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="s" toID="V9" toText="‘" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="makes" toID="V2" toText="said" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="makes" toID="V3" toText="’" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="makes" toID="V4" toText="are" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="makes" toID="V5" toText="pounds" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="makes" toID="V6" toText="hear" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="makes" toID="V7" toText="come" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="makes" toID="V8" toText="think" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="makes" toID="V9" toText="‘" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V3" toText="’" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="said" toID="V4" toText="are" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V5" toText="pounds" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V6" toText="hear" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="said" toID="V7" toText="come" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="said" toID="V8" toText="think" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="said" toID="V9" toText="‘" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="’" toID="V4" toText="are" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="’" toID="V5" toText="pounds" />
-<EVENT_ORDER id="E26" fromID="V3" fromText="’" toID="V6" toText="hear" />
-<EVENT_ORDER id="E27" fromID="V3" fromText="’" toID="V7" toText="come" />
-<EVENT_ORDER id="E28" fromID="V3" fromText="’" toID="V8" toText="think" />
-<EVENT_ORDER id="E29" fromID="V3" fromText="’" toID="V9" toText="‘" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="are" toID="V5" toText="pounds" />
-<EVENT_ORDER id="E31" fromID="V4" fromText="are" toID="V6" toText="hear" />
-<EVENT_ORDER id="E32" fromID="V4" fromText="are" toID="V7" toText="come" />
-<EVENT_ORDER id="E33" fromID="V4" fromText="are" toID="V8" toText="think" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="are" toID="V9" toText="‘" />
-<EVENT_ORDER id="E35" fromID="V5" fromText="pounds" toID="V6" toText="hear" />
-<EVENT_ORDER id="E36" fromID="V5" fromText="pounds" toID="V7" toText="come" />
-<EVENT_ORDER id="E37" fromID="V5" fromText="pounds" toID="V8" toText="think" />
-<EVENT_ORDER id="E38" fromID="V5" fromText="pounds" toID="V9" toText="‘" />
-<EVENT_ORDER id="E39" fromID="V6" fromText="hear" toID="V7" toText="come" />
-<EVENT_ORDER id="E40" fromID="V6" fromText="hear" toID="V8" toText="think" />
-<EVENT_ORDER id="E41" fromID="V6" fromText="hear" toID="V9" toText="‘" />
-<EVENT_ORDER id="E42" fromID="V7" fromText="come" toID="V8" toText="think" />
-<EVENT_ORDER id="E43" fromID="V7" fromText="come" toID="V9" toText="‘" />
-<EVENT_ORDER id="E44" fromID="V8" fromText="think" toID="V9" toText="‘" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="are" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="pounds" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="hear" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="come" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="think" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="makes" toID="V2" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="makes" toID="V3" toText="are" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="makes" toID="V4" toText="pounds" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="makes" toID="V5" toText="hear" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="makes" toID="V6" toText="come" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="makes" toID="V7" toText="think" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V3" toText="are" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V4" toText="pounds" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V5" toText="hear" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V6" toText="come" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V7" toText="think" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="are" toID="V4" toText="pounds" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="are" toID="V5" toText="hear" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="are" toID="V6" toText="come" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="are" toID="V7" toText="think" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="pounds" toID="V5" toText="hear" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="pounds" toID="V6" toText="come" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="pounds" toID="V7" toText="think" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="hear" toID="V6" toText="come" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="hear" toID="V7" toText="think" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="come" toID="V7" toText="think" />
 </TAGS>
 </TemporalRelationTask>

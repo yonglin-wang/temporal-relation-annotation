@@ -8,28 +8,21 @@
 <VERB id="V2" spans="184~189" text="think" category="VBP" />
 <VERB id="V3" spans="213~215" text="is" category="VBZ" />
 <VERB id="V4" spans="235~239" text="have" category="VBP" />
-<VERB id="V5" spans="261~262" text="”" category="VBZ" />
-<VERB id="V6" spans="274~278" text="said" category="VBD" />
+<VERB id="V5" spans="274~278" text="said" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="attempting" toID="V1" toText="establish" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="attempting" toID="V2" toText="think" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="attempting" toID="V3" toText="is" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="attempting" toID="V4" toText="have" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="attempting" toID="V5" toText="”" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="attempting" toID="V6" toText="said" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="establish" toID="V2" toText="think" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="establish" toID="V3" toText="is" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="establish" toID="V4" toText="have" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="establish" toID="V5" toText="”" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="establish" toID="V6" toText="said" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="think" toID="V3" toText="is" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="think" toID="V4" toText="have" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="think" toID="V5" toText="”" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="think" toID="V6" toText="said" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="is" toID="V4" toText="have" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="is" toID="V5" toText="”" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="is" toID="V6" toText="said" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="have" toID="V5" toText="”" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="have" toID="V6" toText="said" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="”" toID="V6" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="attempting" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="establish" toID="V2" toText="think" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="establish" toID="V3" toText="is" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="establish" toID="V4" toText="have" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="establish" toID="V5" toText="said" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="think" toID="V3" toText="is" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="think" toID="V4" toText="have" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="think" toID="V5" toText="said" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="is" toID="V4" toText="have" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="is" toID="V5" toText="said" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="have" toID="V5" toText="said" />
 </TAGS>
 </TemporalRelationTask>

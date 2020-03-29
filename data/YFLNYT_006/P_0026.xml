@@ -3,33 +3,20 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“I’d like to suggest to my friends on both sides of the aisle that we first assume the appropriate distance,” Mr. Durbin said on Monday as tempers flared on the Senate floor, “and then secondly, take a deep breath.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="2~3" text="’" category="VBP" />
-<VERB id="V1" spans="13~20" text="suggest" category="VB" />
-<VERB id="V2" spans="76~82" text="assume" category="VBP" />
-<VERB id="V3" spans="108~109" text="”" category="VBZ" />
-<VERB id="V4" spans="121~125" text="said" category="VBD" />
-<VERB id="V5" spans="147~153" text="flared" category="VBN" />
-<VERB id="V6" spans="195~199" text="take" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="’" toID="V1" toText="suggest" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="’" toID="V2" toText="assume" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="’" toID="V3" toText="”" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="’" toID="V4" toText="said" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="’" toID="V5" toText="flared" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="’" toID="V6" toText="take" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="suggest" toID="V2" toText="assume" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="suggest" toID="V3" toText="”" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="suggest" toID="V4" toText="said" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="suggest" toID="V5" toText="flared" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="suggest" toID="V6" toText="take" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="assume" toID="V3" toText="”" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="assume" toID="V4" toText="said" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="assume" toID="V5" toText="flared" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="assume" toID="V6" toText="take" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="”" toID="V4" toText="said" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="”" toID="V5" toText="flared" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="”" toID="V6" toText="take" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="said" toID="V5" toText="flared" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="said" toID="V6" toText="take" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="flared" toID="V6" toText="take" />
+<VERB id="V0" spans="13~20" text="suggest" category="VB" />
+<VERB id="V1" spans="76~82" text="assume" category="VBP" />
+<VERB id="V2" spans="121~125" text="said" category="VBD" />
+<VERB id="V3" spans="147~153" text="flared" category="VBN" />
+<VERB id="V4" spans="195~199" text="take" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="suggest" toID="V1" toText="assume" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="suggest" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="suggest" toID="V3" toText="flared" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="suggest" toID="V4" toText="take" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="assume" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="assume" toID="V3" toText="flared" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="assume" toID="V4" toText="take" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="said" toID="V3" toText="flared" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="take" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="flared" toID="V4" toText="take" />
 </TAGS>
 </TemporalRelationTask>

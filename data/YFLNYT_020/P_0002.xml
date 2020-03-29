@@ -3,26 +3,20 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[WASHINGTON — It was once a sideshow to the American military in Afghanistan and later became one of the largest diplomatic missions in the world. Now, as the United States Embassy in Kabul transitions to its newest role, its future is tied to a fragile peace process, one that will withdraw American troops even as violence continues.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="11~12" text="—" category="VBD" />
-<VERB id="V1" spans="16~19" text="was" category="VBD" />
-<VERB id="V2" spans="86~92" text="became" category="VBD" />
-<VERB id="V3" spans="235~239" text="tied" category="VBN" />
-<VERB id="V4" spans="282~290" text="withdraw" category="VB" />
-<VERB id="V5" spans="324~333" text="continues" category="VBZ" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="—" toID="V1" toText="was" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="—" toID="V2" toText="became" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="—" toID="V3" toText="tied" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="—" toID="V4" toText="withdraw" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="—" toID="V5" toText="continues" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="was" toID="V2" toText="became" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="was" toID="V3" toText="tied" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="was" toID="V4" toText="withdraw" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="was" toID="V5" toText="continues" />
-<EVENT_ORDER id="E9" fromID="V2" fromText="became" toID="V3" toText="tied" />
-<EVENT_ORDER id="E10" fromID="V2" fromText="became" toID="V4" toText="withdraw" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="became" toID="V5" toText="continues" />
-<EVENT_ORDER id="E12" fromID="V3" fromText="tied" toID="V4" toText="withdraw" />
-<EVENT_ORDER id="E13" fromID="V3" fromText="tied" toID="V5" toText="continues" />
-<EVENT_ORDER id="E14" fromID="V4" fromText="withdraw" toID="V5" toText="continues" />
+<VERB id="V0" spans="16~19" text="was" category="VBD" />
+<VERB id="V1" spans="86~92" text="became" category="VBD" />
+<VERB id="V2" spans="235~239" text="tied" category="VBN" />
+<VERB id="V3" spans="282~290" text="withdraw" category="VB" />
+<VERB id="V4" spans="324~333" text="continues" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="became" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="tied" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="withdraw" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="continues" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="became" toID="V2" toText="tied" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="became" toID="V3" toText="withdraw" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="became" toID="V4" toText="continues" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="tied" toID="V3" toText="withdraw" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="tied" toID="V4" toText="continues" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="withdraw" toID="V4" toText="continues" />
 </TAGS>
 </TemporalRelationTask>

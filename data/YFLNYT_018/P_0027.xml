@@ -4,19 +4,14 @@
 <TEXT><![CDATA[This week, Ms. Warren will be the guest of honor at a fund-raising gala for Emily’s List, the Democratic women’s group, and in June, she will be the final speaker at a daylong liberal organizing meeting in San Francisco spearheaded by Susie Tompkins Buell, a prominent Democratic donor.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="27~29" text="be" category="VB" />
-<VERB id="V1" spans="81~82" text="’" category="VBP" />
-<VERB id="V2" spans="142~144" text="be" category="VB" />
-<VERB id="V3" spans="184~194" text="organizing" category="VBG" />
-<VERB id="V4" spans="220~231" text="spearheaded" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="be" toID="V1" toText="’" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="be" toID="V2" toText="be" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="be" toID="V3" toText="organizing" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="be" toID="V4" toText="spearheaded" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="’" toID="V2" toText="be" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="’" toID="V3" toText="organizing" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="’" toID="V4" toText="spearheaded" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="be" toID="V3" toText="organizing" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="be" toID="V4" toText="spearheaded" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="organizing" toID="V4" toText="spearheaded" />
+<VERB id="V1" spans="142~144" text="be" category="VB" />
+<VERB id="V2" spans="184~194" text="organizing" category="VBG" />
+<VERB id="V3" spans="220~231" text="spearheaded" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="be" toID="V1" toText="be" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="be" toID="V2" toText="organizing" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="be" toID="V3" toText="spearheaded" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="be" toID="V2" toText="organizing" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="be" toID="V3" toText="spearheaded" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="organizing" toID="V3" toText="spearheaded" />
 </TAGS>
 </TemporalRelationTask>

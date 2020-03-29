@@ -3,96 +3,60 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“It’s hard to argue with someone who is winning by such wide margins that he doesn’t have a plan that people like,” said Representative Donald McEachin, a Virginia Democrat who helped design Mr. Biden’s plan. “They know what his climate plan is, and they’re fine with it.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="0~1" text="“" category="VB" />
-<VERB id="V1" spans="4~5" text="s" category="VBZ" />
-<VERB id="V2" spans="14~19" text="argue" category="VB" />
-<VERB id="V3" spans="40~47" text="winning" category="VBG" />
-<VERB id="V4" spans="77~82" text="doesn" category="VBZ" />
-<VERB id="V5" spans="85~89" text="have" category="VBP" />
-<VERB id="V6" spans="116~120" text="said" category="VBD" />
-<VERB id="V7" spans="177~183" text="helped" category="VBD" />
-<VERB id="V8" spans="184~190" text="design" category="VB" />
-<VERB id="V9" spans="215~219" text="know" category="VBP" />
-<VERB id="V10" spans="226~228" text="is" category="VBZ" />
-<VERB id="V11" spans="254~255" text="’" category="VBP" />
-<VERB id="V12" spans="271~272" text="”" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="“" toID="V1" toText="s" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="“" toID="V2" toText="argue" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="“" toID="V3" toText="winning" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="“" toID="V4" toText="doesn" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="“" toID="V5" toText="have" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="“" toID="V6" toText="said" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="“" toID="V7" toText="helped" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="“" toID="V8" toText="design" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="“" toID="V9" toText="know" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="“" toID="V10" toText="is" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="“" toID="V11" toText="’" />
-<EVENT_ORDER id="E11" fromID="V0" fromText="“" toID="V12" toText="”" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="s" toID="V2" toText="argue" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="s" toID="V3" toText="winning" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="s" toID="V4" toText="doesn" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="s" toID="V5" toText="have" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="s" toID="V6" toText="said" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="s" toID="V7" toText="helped" />
-<EVENT_ORDER id="E18" fromID="V1" fromText="s" toID="V8" toText="design" />
-<EVENT_ORDER id="E19" fromID="V1" fromText="s" toID="V9" toText="know" />
-<EVENT_ORDER id="E20" fromID="V1" fromText="s" toID="V10" toText="is" />
-<EVENT_ORDER id="E21" fromID="V1" fromText="s" toID="V11" toText="’" />
-<EVENT_ORDER id="E22" fromID="V1" fromText="s" toID="V12" toText="”" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="argue" toID="V3" toText="winning" />
-<EVENT_ORDER id="E24" fromID="V2" fromText="argue" toID="V4" toText="doesn" />
-<EVENT_ORDER id="E25" fromID="V2" fromText="argue" toID="V5" toText="have" />
-<EVENT_ORDER id="E26" fromID="V2" fromText="argue" toID="V6" toText="said" />
-<EVENT_ORDER id="E27" fromID="V2" fromText="argue" toID="V7" toText="helped" />
-<EVENT_ORDER id="E28" fromID="V2" fromText="argue" toID="V8" toText="design" />
-<EVENT_ORDER id="E29" fromID="V2" fromText="argue" toID="V9" toText="know" />
-<EVENT_ORDER id="E30" fromID="V2" fromText="argue" toID="V10" toText="is" />
-<EVENT_ORDER id="E31" fromID="V2" fromText="argue" toID="V11" toText="’" />
-<EVENT_ORDER id="E32" fromID="V2" fromText="argue" toID="V12" toText="”" />
-<EVENT_ORDER id="E33" fromID="V3" fromText="winning" toID="V4" toText="doesn" />
-<EVENT_ORDER id="E34" fromID="V3" fromText="winning" toID="V5" toText="have" />
-<EVENT_ORDER id="E35" fromID="V3" fromText="winning" toID="V6" toText="said" />
-<EVENT_ORDER id="E36" fromID="V3" fromText="winning" toID="V7" toText="helped" />
-<EVENT_ORDER id="E37" fromID="V3" fromText="winning" toID="V8" toText="design" />
-<EVENT_ORDER id="E38" fromID="V3" fromText="winning" toID="V9" toText="know" />
-<EVENT_ORDER id="E39" fromID="V3" fromText="winning" toID="V10" toText="is" />
-<EVENT_ORDER id="E40" fromID="V3" fromText="winning" toID="V11" toText="’" />
-<EVENT_ORDER id="E41" fromID="V3" fromText="winning" toID="V12" toText="”" />
-<EVENT_ORDER id="E42" fromID="V4" fromText="doesn" toID="V5" toText="have" />
-<EVENT_ORDER id="E43" fromID="V4" fromText="doesn" toID="V6" toText="said" />
-<EVENT_ORDER id="E44" fromID="V4" fromText="doesn" toID="V7" toText="helped" />
-<EVENT_ORDER id="E45" fromID="V4" fromText="doesn" toID="V8" toText="design" />
-<EVENT_ORDER id="E46" fromID="V4" fromText="doesn" toID="V9" toText="know" />
-<EVENT_ORDER id="E47" fromID="V4" fromText="doesn" toID="V10" toText="is" />
-<EVENT_ORDER id="E48" fromID="V4" fromText="doesn" toID="V11" toText="’" />
-<EVENT_ORDER id="E49" fromID="V4" fromText="doesn" toID="V12" toText="”" />
-<EVENT_ORDER id="E50" fromID="V5" fromText="have" toID="V6" toText="said" />
-<EVENT_ORDER id="E51" fromID="V5" fromText="have" toID="V7" toText="helped" />
-<EVENT_ORDER id="E52" fromID="V5" fromText="have" toID="V8" toText="design" />
-<EVENT_ORDER id="E53" fromID="V5" fromText="have" toID="V9" toText="know" />
-<EVENT_ORDER id="E54" fromID="V5" fromText="have" toID="V10" toText="is" />
-<EVENT_ORDER id="E55" fromID="V5" fromText="have" toID="V11" toText="’" />
-<EVENT_ORDER id="E56" fromID="V5" fromText="have" toID="V12" toText="”" />
-<EVENT_ORDER id="E57" fromID="V6" fromText="said" toID="V7" toText="helped" />
-<EVENT_ORDER id="E58" fromID="V6" fromText="said" toID="V8" toText="design" />
-<EVENT_ORDER id="E59" fromID="V6" fromText="said" toID="V9" toText="know" />
-<EVENT_ORDER id="E60" fromID="V6" fromText="said" toID="V10" toText="is" />
-<EVENT_ORDER id="E61" fromID="V6" fromText="said" toID="V11" toText="’" />
-<EVENT_ORDER id="E62" fromID="V6" fromText="said" toID="V12" toText="”" />
-<EVENT_ORDER id="E63" fromID="V7" fromText="helped" toID="V8" toText="design" />
-<EVENT_ORDER id="E64" fromID="V7" fromText="helped" toID="V9" toText="know" />
-<EVENT_ORDER id="E65" fromID="V7" fromText="helped" toID="V10" toText="is" />
-<EVENT_ORDER id="E66" fromID="V7" fromText="helped" toID="V11" toText="’" />
-<EVENT_ORDER id="E67" fromID="V7" fromText="helped" toID="V12" toText="”" />
-<EVENT_ORDER id="E68" fromID="V8" fromText="design" toID="V9" toText="know" />
-<EVENT_ORDER id="E69" fromID="V8" fromText="design" toID="V10" toText="is" />
-<EVENT_ORDER id="E70" fromID="V8" fromText="design" toID="V11" toText="’" />
-<EVENT_ORDER id="E71" fromID="V8" fromText="design" toID="V12" toText="”" />
-<EVENT_ORDER id="E72" fromID="V9" fromText="know" toID="V10" toText="is" />
-<EVENT_ORDER id="E73" fromID="V9" fromText="know" toID="V11" toText="’" />
-<EVENT_ORDER id="E74" fromID="V9" fromText="know" toID="V12" toText="”" />
-<EVENT_ORDER id="E75" fromID="V10" fromText="is" toID="V11" toText="’" />
-<EVENT_ORDER id="E76" fromID="V10" fromText="is" toID="V12" toText="”" />
-<EVENT_ORDER id="E77" fromID="V11" fromText="’" toID="V12" toText="”" />
+<VERB id="V0" spans="4~5" text="s" category="VBZ" />
+<VERB id="V1" spans="14~19" text="argue" category="VB" />
+<VERB id="V2" spans="40~47" text="winning" category="VBG" />
+<VERB id="V3" spans="77~82" text="doesn" category="VBZ" />
+<VERB id="V4" spans="85~89" text="have" category="VBP" />
+<VERB id="V5" spans="116~120" text="said" category="VBD" />
+<VERB id="V6" spans="177~183" text="helped" category="VBD" />
+<VERB id="V7" spans="184~190" text="design" category="VB" />
+<VERB id="V8" spans="215~219" text="know" category="VBP" />
+<VERB id="V9" spans="226~228" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="argue" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="winning" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="doesn" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="have" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="helped" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="design" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="know" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="s" toID="V9" toText="is" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="argue" toID="V2" toText="winning" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="argue" toID="V3" toText="doesn" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="argue" toID="V4" toText="have" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="argue" toID="V5" toText="said" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="argue" toID="V6" toText="helped" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="argue" toID="V7" toText="design" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="argue" toID="V8" toText="know" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="argue" toID="V9" toText="is" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="winning" toID="V3" toText="doesn" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="winning" toID="V4" toText="have" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="winning" toID="V5" toText="said" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="winning" toID="V6" toText="helped" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="winning" toID="V7" toText="design" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="winning" toID="V8" toText="know" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="winning" toID="V9" toText="is" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="doesn" toID="V4" toText="have" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="doesn" toID="V5" toText="said" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="doesn" toID="V6" toText="helped" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="doesn" toID="V7" toText="design" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="doesn" toID="V8" toText="know" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="doesn" toID="V9" toText="is" />
+<EVENT_ORDER id="E30" fromID="V4" fromText="have" toID="V5" toText="said" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="have" toID="V6" toText="helped" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="have" toID="V7" toText="design" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="have" toID="V8" toText="know" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="have" toID="V9" toText="is" />
+<EVENT_ORDER id="E35" fromID="V5" fromText="said" toID="V6" toText="helped" />
+<EVENT_ORDER id="E36" fromID="V5" fromText="said" toID="V7" toText="design" />
+<EVENT_ORDER id="E37" fromID="V5" fromText="said" toID="V8" toText="know" />
+<EVENT_ORDER id="E38" fromID="V5" fromText="said" toID="V9" toText="is" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="helped" toID="V7" toText="design" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="helped" toID="V8" toText="know" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="helped" toID="V9" toText="is" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="design" toID="V8" toText="know" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="design" toID="V9" toText="is" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="know" toID="V9" toText="is" />
 </TAGS>
 </TemporalRelationTask>

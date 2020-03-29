@@ -8,36 +8,28 @@
 <VERB id="V2" spans="52~59" text="thought" category="VBN" />
 <VERB id="V3" spans="84~91" text="running" category="VBG" />
 <VERB id="V4" spans="98~104" text="saying" category="VBG" />
-<VERB id="V5" spans="118~119" text="“" category="VB" />
-<VERB id="V6" spans="130~137" text="vetting" category="VBG" />
-<VERB id="V7" spans="163~170" text="meaning" category="VBG" />
+<VERB id="V5" spans="130~137" text="vetting" category="VBG" />
+<VERB id="V6" spans="163~170" text="meaning" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="indicated" toID="V1" toText="giving" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="indicated" toID="V2" toText="thought" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="indicated" toID="V3" toText="running" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="indicated" toID="V4" toText="saying" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="indicated" toID="V5" toText="“" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="indicated" toID="V6" toText="vetting" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="indicated" toID="V7" toText="meaning" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="giving" toID="V2" toText="thought" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="giving" toID="V3" toText="running" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="giving" toID="V4" toText="saying" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="giving" toID="V5" toText="“" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="giving" toID="V6" toText="vetting" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="giving" toID="V7" toText="meaning" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="thought" toID="V3" toText="running" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="thought" toID="V4" toText="saying" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="thought" toID="V5" toText="“" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="thought" toID="V6" toText="vetting" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="thought" toID="V7" toText="meaning" />
-<EVENT_ORDER id="E18" fromID="V3" fromText="running" toID="V4" toText="saying" />
-<EVENT_ORDER id="E19" fromID="V3" fromText="running" toID="V5" toText="“" />
-<EVENT_ORDER id="E20" fromID="V3" fromText="running" toID="V6" toText="vetting" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="running" toID="V7" toText="meaning" />
-<EVENT_ORDER id="E22" fromID="V4" fromText="saying" toID="V5" toText="“" />
-<EVENT_ORDER id="E23" fromID="V4" fromText="saying" toID="V6" toText="vetting" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="saying" toID="V7" toText="meaning" />
-<EVENT_ORDER id="E25" fromID="V5" fromText="“" toID="V6" toText="vetting" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="“" toID="V7" toText="meaning" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="vetting" toID="V7" toText="meaning" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="indicated" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="indicated" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="giving" toID="V2" toText="thought" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="giving" toID="V3" toText="running" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="giving" toID="V4" toText="saying" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="giving" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="giving" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="thought" toID="V3" toText="running" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="thought" toID="V4" toText="saying" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="thought" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="thought" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="running" toID="V4" toText="saying" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="running" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="running" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="saying" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="saying" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="vetting" toID="V6" toText="meaning" />
 </TAGS>
 </TemporalRelationTask>

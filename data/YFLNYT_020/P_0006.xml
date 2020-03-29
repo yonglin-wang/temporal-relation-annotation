@@ -10,43 +10,34 @@
 <VERB id="V4" spans="89~92" text="was" category="VBD" />
 <VERB id="V5" spans="142~147" text="began" category="VBD" />
 <VERB id="V6" spans="148~159" text="withdrawing" category="VBG" />
-<VERB id="V7" spans="206~207" text="—" category="VBP" />
-<VERB id="V8" spans="259~263" text="face" category="VBP" />
+<VERB id="V7" spans="259~263" text="face" category="VBP" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="think" toID="V1" toText="concerned" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="think" toID="V2" toText="going" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="think" toID="V3" toText="said" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="think" toID="V4" toText="was" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="think" toID="V5" toText="began" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="think" toID="V6" toText="withdrawing" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="think" toID="V7" toText="—" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="think" toID="V8" toText="face" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="concerned" toID="V2" toText="going" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="concerned" toID="V3" toText="said" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="concerned" toID="V4" toText="was" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="concerned" toID="V5" toText="began" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="concerned" toID="V6" toText="withdrawing" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="concerned" toID="V7" toText="—" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="concerned" toID="V8" toText="face" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="going" toID="V3" toText="said" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="going" toID="V4" toText="was" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="going" toID="V5" toText="began" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="going" toID="V6" toText="withdrawing" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="going" toID="V7" toText="—" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="going" toID="V8" toText="face" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V4" toText="was" />
-<EVENT_ORDER id="E22" fromID="V3" fromText="said" toID="V5" toText="began" />
-<EVENT_ORDER id="E23" fromID="V3" fromText="said" toID="V6" toText="withdrawing" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="said" toID="V7" toText="—" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="said" toID="V8" toText="face" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="was" toID="V5" toText="began" />
-<EVENT_ORDER id="E27" fromID="V4" fromText="was" toID="V6" toText="withdrawing" />
-<EVENT_ORDER id="E28" fromID="V4" fromText="was" toID="V7" toText="—" />
-<EVENT_ORDER id="E29" fromID="V4" fromText="was" toID="V8" toText="face" />
-<EVENT_ORDER id="E30" fromID="V5" fromText="began" toID="V6" toText="withdrawing" />
-<EVENT_ORDER id="E31" fromID="V5" fromText="began" toID="V7" toText="—" />
-<EVENT_ORDER id="E32" fromID="V5" fromText="began" toID="V8" toText="face" />
-<EVENT_ORDER id="E33" fromID="V6" fromText="withdrawing" toID="V7" toText="—" />
-<EVENT_ORDER id="E34" fromID="V6" fromText="withdrawing" toID="V8" toText="face" />
-<EVENT_ORDER id="E35" fromID="V7" fromText="—" toID="V8" toText="face" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="think" toID="V7" toText="face" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="concerned" toID="V2" toText="going" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="concerned" toID="V3" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="concerned" toID="V4" toText="was" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="concerned" toID="V5" toText="began" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="concerned" toID="V6" toText="withdrawing" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="concerned" toID="V7" toText="face" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="going" toID="V3" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="going" toID="V4" toText="was" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="going" toID="V5" toText="began" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="going" toID="V6" toText="withdrawing" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="going" toID="V7" toText="face" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="said" toID="V4" toText="was" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="said" toID="V5" toText="began" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="said" toID="V6" toText="withdrawing" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V7" toText="face" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="was" toID="V5" toText="began" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="was" toID="V6" toText="withdrawing" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="was" toID="V7" toText="face" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="began" toID="V6" toText="withdrawing" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="began" toID="V7" toText="face" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="withdrawing" toID="V7" toText="face" />
 </TAGS>
 </TemporalRelationTask>

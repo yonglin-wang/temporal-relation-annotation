@@ -3,50 +3,41 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[MANCHESTER, N.H. — A vast array of Democratic leaders, divided by generations but uniformly emboldened by President Trump’s perceived vulnerability, have begun taking palpable steps toward seeking the White House in an election that is still three and a half years away.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="17~18" text="—" category="VBZ" />
-<VERB id="V1" spans="55~62" text="divided" category="VBN" />
-<VERB id="V2" spans="92~102" text="emboldened" category="VBN" />
-<VERB id="V3" spans="109~110" text="s" category="VBZ" />
-<VERB id="V4" spans="124~133" text="perceived" category="VBN" />
-<VERB id="V5" spans="154~159" text="begun" category="VBN" />
-<VERB id="V6" spans="160~166" text="taking" category="VBG" />
-<VERB id="V7" spans="189~196" text="seeking" category="VBG" />
-<VERB id="V8" spans="233~235" text="is" category="VBZ" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="—" toID="V1" toText="divided" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="—" toID="V2" toText="emboldened" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="—" toID="V3" toText="s" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="—" toID="V4" toText="perceived" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="—" toID="V5" toText="begun" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="—" toID="V6" toText="taking" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="—" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="—" toID="V8" toText="is" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="divided" toID="V2" toText="emboldened" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="divided" toID="V3" toText="s" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="divided" toID="V4" toText="perceived" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="divided" toID="V5" toText="begun" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="divided" toID="V6" toText="taking" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="divided" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="divided" toID="V8" toText="is" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="emboldened" toID="V3" toText="s" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="emboldened" toID="V4" toText="perceived" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="emboldened" toID="V5" toText="begun" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="emboldened" toID="V6" toText="taking" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="emboldened" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="emboldened" toID="V8" toText="is" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="s" toID="V4" toText="perceived" />
-<EVENT_ORDER id="E22" fromID="V3" fromText="s" toID="V5" toText="begun" />
-<EVENT_ORDER id="E23" fromID="V3" fromText="s" toID="V6" toText="taking" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="s" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="s" toID="V8" toText="is" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="perceived" toID="V5" toText="begun" />
-<EVENT_ORDER id="E27" fromID="V4" fromText="perceived" toID="V6" toText="taking" />
-<EVENT_ORDER id="E28" fromID="V4" fromText="perceived" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E29" fromID="V4" fromText="perceived" toID="V8" toText="is" />
-<EVENT_ORDER id="E30" fromID="V5" fromText="begun" toID="V6" toText="taking" />
-<EVENT_ORDER id="E31" fromID="V5" fromText="begun" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E32" fromID="V5" fromText="begun" toID="V8" toText="is" />
-<EVENT_ORDER id="E33" fromID="V6" fromText="taking" toID="V7" toText="seeking" />
-<EVENT_ORDER id="E34" fromID="V6" fromText="taking" toID="V8" toText="is" />
-<EVENT_ORDER id="E35" fromID="V7" fromText="seeking" toID="V8" toText="is" />
+<VERB id="V0" spans="55~62" text="divided" category="VBN" />
+<VERB id="V1" spans="92~102" text="emboldened" category="VBN" />
+<VERB id="V2" spans="109~110" text="s" category="VBZ" />
+<VERB id="V3" spans="124~133" text="perceived" category="VBN" />
+<VERB id="V4" spans="154~159" text="begun" category="VBN" />
+<VERB id="V5" spans="160~166" text="taking" category="VBG" />
+<VERB id="V6" spans="189~196" text="seeking" category="VBG" />
+<VERB id="V7" spans="233~235" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="divided" toID="V1" toText="emboldened" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="divided" toID="V2" toText="s" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="divided" toID="V3" toText="perceived" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="divided" toID="V4" toText="begun" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="divided" toID="V5" toText="taking" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="divided" toID="V6" toText="seeking" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="divided" toID="V7" toText="is" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="emboldened" toID="V2" toText="s" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="emboldened" toID="V3" toText="perceived" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="emboldened" toID="V4" toText="begun" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="emboldened" toID="V5" toText="taking" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="emboldened" toID="V6" toText="seeking" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="emboldened" toID="V7" toText="is" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="s" toID="V3" toText="perceived" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="s" toID="V4" toText="begun" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="s" toID="V5" toText="taking" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="s" toID="V6" toText="seeking" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="s" toID="V7" toText="is" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="perceived" toID="V4" toText="begun" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="perceived" toID="V5" toText="taking" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="perceived" toID="V6" toText="seeking" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="perceived" toID="V7" toText="is" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="begun" toID="V5" toText="taking" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="begun" toID="V6" toText="seeking" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="begun" toID="V7" toText="is" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="taking" toID="V6" toText="seeking" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="taking" toID="V7" toText="is" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="seeking" toID="V7" toText="is" />
 </TAGS>
 </TemporalRelationTask>

@@ -3,33 +3,26 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“We’re really cutting down the list of issues,” he told reporters on Monday afternoon. “I think everybody wants to get this done today.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="3~4" text="’" category="VBP" />
-<VERB id="V1" spans="14~21" text="cutting" category="VBG" />
-<VERB id="V2" spans="51~55" text="told" category="VBD" />
-<VERB id="V3" spans="90~95" text="think" category="VBP" />
-<VERB id="V4" spans="106~111" text="wants" category="VBZ" />
-<VERB id="V5" spans="115~118" text="get" category="VB" />
-<VERB id="V6" spans="124~128" text="done" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="’" toID="V1" toText="cutting" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="’" toID="V2" toText="told" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="’" toID="V3" toText="think" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="’" toID="V4" toText="wants" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="’" toID="V5" toText="get" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="’" toID="V6" toText="done" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="cutting" toID="V2" toText="told" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="cutting" toID="V3" toText="think" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="cutting" toID="V4" toText="wants" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="cutting" toID="V5" toText="get" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="cutting" toID="V6" toText="done" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="told" toID="V3" toText="think" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="told" toID="V4" toText="wants" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="told" toID="V5" toText="get" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="told" toID="V6" toText="done" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="think" toID="V4" toText="wants" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="think" toID="V5" toText="get" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="think" toID="V6" toText="done" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="wants" toID="V5" toText="get" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="wants" toID="V6" toText="done" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="get" toID="V6" toText="done" />
+<VERB id="V0" spans="14~21" text="cutting" category="VBG" />
+<VERB id="V1" spans="51~55" text="told" category="VBD" />
+<VERB id="V2" spans="90~95" text="think" category="VBP" />
+<VERB id="V3" spans="106~111" text="wants" category="VBZ" />
+<VERB id="V4" spans="115~118" text="get" category="VB" />
+<VERB id="V5" spans="124~128" text="done" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="cutting" toID="V1" toText="told" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="cutting" toID="V2" toText="think" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="cutting" toID="V3" toText="wants" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="cutting" toID="V4" toText="get" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="cutting" toID="V5" toText="done" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="told" toID="V2" toText="think" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="told" toID="V3" toText="wants" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="told" toID="V4" toText="get" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="told" toID="V5" toText="done" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="think" toID="V3" toText="wants" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="think" toID="V4" toText="get" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="think" toID="V5" toText="done" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="wants" toID="V4" toText="get" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="wants" toID="V5" toText="done" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="get" toID="V5" toText="done" />
 </TAGS>
 </TemporalRelationTask>

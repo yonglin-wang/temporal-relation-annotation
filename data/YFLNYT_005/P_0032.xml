@@ -3,20 +3,15 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“The work of the campaign doesn’t completely shut down, because participating in elections is a core part of our democracy,” she said.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="0~1" text="“" category="VB" />
-<VERB id="V1" spans="45~49" text="shut" category="VBD" />
-<VERB id="V2" spans="64~77" text="participating" category="VBG" />
-<VERB id="V3" spans="91~93" text="is" category="VBZ" />
-<VERB id="V4" spans="129~133" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="“" toID="V1" toText="shut" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="“" toID="V2" toText="participating" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="“" toID="V3" toText="is" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="“" toID="V4" toText="said" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="shut" toID="V2" toText="participating" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="shut" toID="V3" toText="is" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="shut" toID="V4" toText="said" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="participating" toID="V3" toText="is" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="participating" toID="V4" toText="said" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="is" toID="V4" toText="said" />
+<VERB id="V0" spans="45~49" text="shut" category="VBD" />
+<VERB id="V1" spans="64~77" text="participating" category="VBG" />
+<VERB id="V2" spans="91~93" text="is" category="VBZ" />
+<VERB id="V3" spans="129~133" text="said" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="shut" toID="V1" toText="participating" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="shut" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="shut" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="participating" toID="V2" toText="is" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="participating" toID="V3" toText="said" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="is" toID="V3" toText="said" />
 </TAGS>
 </TemporalRelationTask>

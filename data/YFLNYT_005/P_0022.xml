@@ -4,32 +4,25 @@
 <TEXT><![CDATA[“The digital component to these campaigns is more essential now than ever,” he added, “because you have all of these high-dollar gatherings that have come off the books and there is no real way to replace those revenues.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="42~44" text="is" category="VBZ" />
-<VERB id="V1" spans="74~75" text="”" category="VBZ" />
-<VERB id="V2" spans="79~84" text="added" category="VBD" />
-<VERB id="V3" spans="99~103" text="have" category="VBP" />
-<VERB id="V4" spans="150~154" text="come" category="VBN" />
-<VERB id="V5" spans="179~181" text="is" category="VBZ" />
-<VERB id="V6" spans="197~204" text="replace" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="”" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="added" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="have" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="come" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="is" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="replace" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="”" toID="V2" toText="added" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="”" toID="V3" toText="have" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="”" toID="V4" toText="come" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="”" toID="V5" toText="is" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="”" toID="V6" toText="replace" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="added" toID="V3" toText="have" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="added" toID="V4" toText="come" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="added" toID="V5" toText="is" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="added" toID="V6" toText="replace" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="have" toID="V4" toText="come" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="have" toID="V5" toText="is" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="have" toID="V6" toText="replace" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="come" toID="V5" toText="is" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="come" toID="V6" toText="replace" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="is" toID="V6" toText="replace" />
+<VERB id="V1" spans="79~84" text="added" category="VBD" />
+<VERB id="V2" spans="99~103" text="have" category="VBP" />
+<VERB id="V3" spans="150~154" text="come" category="VBN" />
+<VERB id="V4" spans="179~181" text="is" category="VBZ" />
+<VERB id="V5" spans="197~204" text="replace" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="added" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="have" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="come" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="is" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="replace" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="added" toID="V2" toText="have" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="added" toID="V3" toText="come" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="added" toID="V4" toText="is" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="added" toID="V5" toText="replace" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="have" toID="V3" toText="come" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="have" toID="V4" toText="is" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="have" toID="V5" toText="replace" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="come" toID="V4" toText="is" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="come" toID="V5" toText="replace" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="is" toID="V5" toText="replace" />
 </TAGS>
 </TemporalRelationTask>

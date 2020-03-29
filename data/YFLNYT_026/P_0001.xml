@@ -3,41 +3,26 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[WASHINGTON — The Democrats’ stunning defeat in the presidential race and continued struggles in lower-level contests have jolted party leaders into concluding that their emphasis on cultural issues has all but crippled them by diverting voters’ attention from the core Democratic message of economic fairness.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="11~12" text="—" category="VBZ" />
-<VERB id="V1" spans="26~27" text="’" category="VBP" />
-<VERB id="V2" spans="28~36" text="stunning" category="VBG" />
-<VERB id="V3" spans="122~128" text="jolted" category="VBN" />
-<VERB id="V4" spans="148~158" text="concluding" category="VBG" />
-<VERB id="V5" spans="173~176" text="has" category="VBZ" />
-<VERB id="V6" spans="210~218" text="crippled" category="VBD" />
-<VERB id="V7" spans="227~236" text="diverting" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="—" toID="V1" toText="’" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="—" toID="V2" toText="stunning" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="—" toID="V3" toText="jolted" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="—" toID="V4" toText="concluding" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="—" toID="V5" toText="has" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="—" toID="V6" toText="crippled" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="—" toID="V7" toText="diverting" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="’" toID="V2" toText="stunning" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="’" toID="V3" toText="jolted" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="’" toID="V4" toText="concluding" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="’" toID="V5" toText="has" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="’" toID="V6" toText="crippled" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="’" toID="V7" toText="diverting" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="stunning" toID="V3" toText="jolted" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="stunning" toID="V4" toText="concluding" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="stunning" toID="V5" toText="has" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="stunning" toID="V6" toText="crippled" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="stunning" toID="V7" toText="diverting" />
-<EVENT_ORDER id="E18" fromID="V3" fromText="jolted" toID="V4" toText="concluding" />
-<EVENT_ORDER id="E19" fromID="V3" fromText="jolted" toID="V5" toText="has" />
-<EVENT_ORDER id="E20" fromID="V3" fromText="jolted" toID="V6" toText="crippled" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="jolted" toID="V7" toText="diverting" />
-<EVENT_ORDER id="E22" fromID="V4" fromText="concluding" toID="V5" toText="has" />
-<EVENT_ORDER id="E23" fromID="V4" fromText="concluding" toID="V6" toText="crippled" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="concluding" toID="V7" toText="diverting" />
-<EVENT_ORDER id="E25" fromID="V5" fromText="has" toID="V6" toText="crippled" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="has" toID="V7" toText="diverting" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="crippled" toID="V7" toText="diverting" />
+<VERB id="V0" spans="28~36" text="stunning" category="VBG" />
+<VERB id="V1" spans="122~128" text="jolted" category="VBN" />
+<VERB id="V2" spans="148~158" text="concluding" category="VBG" />
+<VERB id="V3" spans="173~176" text="has" category="VBZ" />
+<VERB id="V4" spans="210~218" text="crippled" category="VBD" />
+<VERB id="V5" spans="227~236" text="diverting" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="stunning" toID="V1" toText="jolted" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="stunning" toID="V2" toText="concluding" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="stunning" toID="V3" toText="has" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="stunning" toID="V4" toText="crippled" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="stunning" toID="V5" toText="diverting" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="jolted" toID="V2" toText="concluding" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="jolted" toID="V3" toText="has" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="jolted" toID="V4" toText="crippled" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="jolted" toID="V5" toText="diverting" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="concluding" toID="V3" toText="has" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="concluding" toID="V4" toText="crippled" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="concluding" toID="V5" toText="diverting" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="has" toID="V4" toText="crippled" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="has" toID="V5" toText="diverting" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="crippled" toID="V5" toText="diverting" />
 </TAGS>
 </TemporalRelationTask>

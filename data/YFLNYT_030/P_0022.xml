@@ -3,60 +3,41 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“There’s more that his plan can do,” Mr. Ricketts said of Mr. Biden. He pointed to specific renewable energy standards; a strategy for halting carbon emissions for individual sectors like transportation, buildings and electricity; opposing fossil fuel subsidies; and providing details for the promises his plan makes of fighting for low income communities of color most vulnerable to environmental injustices.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="6~7" text="’" category="VBZ" />
-<VERB id="V1" spans="32~34" text="do" category="VB" />
-<VERB id="V2" spans="35~36" text="”" category="VB" />
-<VERB id="V3" spans="50~54" text="said" category="VBD" />
-<VERB id="V4" spans="72~79" text="pointed" category="VBD" />
-<VERB id="V5" spans="135~142" text="halting" category="VBG" />
-<VERB id="V6" spans="231~239" text="opposing" category="VBG" />
-<VERB id="V7" spans="267~276" text="providing" category="VBG" />
-<VERB id="V8" spans="311~316" text="makes" category="VBZ" />
-<VERB id="V9" spans="320~328" text="fighting" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="’" toID="V1" toText="do" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="’" toID="V2" toText="”" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="’" toID="V3" toText="said" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="’" toID="V4" toText="pointed" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="’" toID="V5" toText="halting" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="’" toID="V6" toText="opposing" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="’" toID="V7" toText="providing" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="’" toID="V8" toText="makes" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="’" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="do" toID="V2" toText="”" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="do" toID="V3" toText="said" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="do" toID="V4" toText="pointed" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="do" toID="V5" toText="halting" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="do" toID="V6" toText="opposing" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="do" toID="V7" toText="providing" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="do" toID="V8" toText="makes" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="do" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="”" toID="V3" toText="said" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="”" toID="V4" toText="pointed" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="”" toID="V5" toText="halting" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="”" toID="V6" toText="opposing" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="”" toID="V7" toText="providing" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="”" toID="V8" toText="makes" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="”" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="said" toID="V4" toText="pointed" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="said" toID="V5" toText="halting" />
-<EVENT_ORDER id="E26" fromID="V3" fromText="said" toID="V6" toText="opposing" />
-<EVENT_ORDER id="E27" fromID="V3" fromText="said" toID="V7" toText="providing" />
-<EVENT_ORDER id="E28" fromID="V3" fromText="said" toID="V8" toText="makes" />
-<EVENT_ORDER id="E29" fromID="V3" fromText="said" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="pointed" toID="V5" toText="halting" />
-<EVENT_ORDER id="E31" fromID="V4" fromText="pointed" toID="V6" toText="opposing" />
-<EVENT_ORDER id="E32" fromID="V4" fromText="pointed" toID="V7" toText="providing" />
-<EVENT_ORDER id="E33" fromID="V4" fromText="pointed" toID="V8" toText="makes" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="pointed" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E35" fromID="V5" fromText="halting" toID="V6" toText="opposing" />
-<EVENT_ORDER id="E36" fromID="V5" fromText="halting" toID="V7" toText="providing" />
-<EVENT_ORDER id="E37" fromID="V5" fromText="halting" toID="V8" toText="makes" />
-<EVENT_ORDER id="E38" fromID="V5" fromText="halting" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E39" fromID="V6" fromText="opposing" toID="V7" toText="providing" />
-<EVENT_ORDER id="E40" fromID="V6" fromText="opposing" toID="V8" toText="makes" />
-<EVENT_ORDER id="E41" fromID="V6" fromText="opposing" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E42" fromID="V7" fromText="providing" toID="V8" toText="makes" />
-<EVENT_ORDER id="E43" fromID="V7" fromText="providing" toID="V9" toText="fighting" />
-<EVENT_ORDER id="E44" fromID="V8" fromText="makes" toID="V9" toText="fighting" />
+<VERB id="V0" spans="32~34" text="do" category="VB" />
+<VERB id="V1" spans="50~54" text="said" category="VBD" />
+<VERB id="V2" spans="72~79" text="pointed" category="VBD" />
+<VERB id="V3" spans="135~142" text="halting" category="VBG" />
+<VERB id="V4" spans="231~239" text="opposing" category="VBG" />
+<VERB id="V5" spans="267~276" text="providing" category="VBG" />
+<VERB id="V6" spans="311~316" text="makes" category="VBZ" />
+<VERB id="V7" spans="320~328" text="fighting" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="do" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="do" toID="V2" toText="pointed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="do" toID="V3" toText="halting" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="do" toID="V4" toText="opposing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="do" toID="V5" toText="providing" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="do" toID="V6" toText="makes" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="do" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V2" toText="pointed" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V3" toText="halting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V4" toText="opposing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V5" toText="providing" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="said" toID="V6" toText="makes" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="said" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="pointed" toID="V3" toText="halting" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="pointed" toID="V4" toText="opposing" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="pointed" toID="V5" toText="providing" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="pointed" toID="V6" toText="makes" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="pointed" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="halting" toID="V4" toText="opposing" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="halting" toID="V5" toText="providing" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="halting" toID="V6" toText="makes" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="halting" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="opposing" toID="V5" toText="providing" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="opposing" toID="V6" toText="makes" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="opposing" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="providing" toID="V6" toText="makes" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="providing" toID="V7" toText="fighting" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="makes" toID="V7" toText="fighting" />
 </TAGS>
 </TemporalRelationTask>

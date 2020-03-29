@@ -3,83 +3,50 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“My guess is that he intends to control who is invited to the rally and press access by calling the rally a candidate event and paying for it out of campaign funds,” Mr. Noble said. “If it was an official White House event, he would have less control over it.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="0~1" text="“" category="VB" />
-<VERB id="V1" spans="10~12" text="is" category="VBZ" />
-<VERB id="V2" spans="21~28" text="intends" category="VBZ" />
-<VERB id="V3" spans="32~39" text="control" category="VB" />
-<VERB id="V4" spans="47~54" text="invited" category="VBN" />
-<VERB id="V5" spans="88~95" text="calling" category="VBG" />
-<VERB id="V6" spans="128~134" text="paying" category="VBG" />
-<VERB id="V7" spans="164~165" text="”" category="VBP" />
-<VERB id="V8" spans="176~180" text="said" category="VBD" />
-<VERB id="V9" spans="189~192" text="was" category="VBD" />
-<VERB id="V10" spans="233~237" text="have" category="VB" />
-<VERB id="V11" spans="259~260" text="”" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="“" toID="V1" toText="is" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="“" toID="V2" toText="intends" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="“" toID="V3" toText="control" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="“" toID="V4" toText="invited" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="“" toID="V5" toText="calling" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="“" toID="V6" toText="paying" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="“" toID="V7" toText="”" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="“" toID="V8" toText="said" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="“" toID="V9" toText="was" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="“" toID="V10" toText="have" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="“" toID="V11" toText="”" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V2" toText="intends" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="is" toID="V3" toText="control" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="is" toID="V4" toText="invited" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="is" toID="V5" toText="calling" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="is" toID="V6" toText="paying" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="is" toID="V7" toText="”" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="is" toID="V8" toText="said" />
-<EVENT_ORDER id="E18" fromID="V1" fromText="is" toID="V9" toText="was" />
-<EVENT_ORDER id="E19" fromID="V1" fromText="is" toID="V10" toText="have" />
-<EVENT_ORDER id="E20" fromID="V1" fromText="is" toID="V11" toText="”" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="intends" toID="V3" toText="control" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="intends" toID="V4" toText="invited" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="intends" toID="V5" toText="calling" />
-<EVENT_ORDER id="E24" fromID="V2" fromText="intends" toID="V6" toText="paying" />
-<EVENT_ORDER id="E25" fromID="V2" fromText="intends" toID="V7" toText="”" />
-<EVENT_ORDER id="E26" fromID="V2" fromText="intends" toID="V8" toText="said" />
-<EVENT_ORDER id="E27" fromID="V2" fromText="intends" toID="V9" toText="was" />
-<EVENT_ORDER id="E28" fromID="V2" fromText="intends" toID="V10" toText="have" />
-<EVENT_ORDER id="E29" fromID="V2" fromText="intends" toID="V11" toText="”" />
-<EVENT_ORDER id="E30" fromID="V3" fromText="control" toID="V4" toText="invited" />
-<EVENT_ORDER id="E31" fromID="V3" fromText="control" toID="V5" toText="calling" />
-<EVENT_ORDER id="E32" fromID="V3" fromText="control" toID="V6" toText="paying" />
-<EVENT_ORDER id="E33" fromID="V3" fromText="control" toID="V7" toText="”" />
-<EVENT_ORDER id="E34" fromID="V3" fromText="control" toID="V8" toText="said" />
-<EVENT_ORDER id="E35" fromID="V3" fromText="control" toID="V9" toText="was" />
-<EVENT_ORDER id="E36" fromID="V3" fromText="control" toID="V10" toText="have" />
-<EVENT_ORDER id="E37" fromID="V3" fromText="control" toID="V11" toText="”" />
-<EVENT_ORDER id="E38" fromID="V4" fromText="invited" toID="V5" toText="calling" />
-<EVENT_ORDER id="E39" fromID="V4" fromText="invited" toID="V6" toText="paying" />
-<EVENT_ORDER id="E40" fromID="V4" fromText="invited" toID="V7" toText="”" />
-<EVENT_ORDER id="E41" fromID="V4" fromText="invited" toID="V8" toText="said" />
-<EVENT_ORDER id="E42" fromID="V4" fromText="invited" toID="V9" toText="was" />
-<EVENT_ORDER id="E43" fromID="V4" fromText="invited" toID="V10" toText="have" />
-<EVENT_ORDER id="E44" fromID="V4" fromText="invited" toID="V11" toText="”" />
-<EVENT_ORDER id="E45" fromID="V5" fromText="calling" toID="V6" toText="paying" />
-<EVENT_ORDER id="E46" fromID="V5" fromText="calling" toID="V7" toText="”" />
-<EVENT_ORDER id="E47" fromID="V5" fromText="calling" toID="V8" toText="said" />
-<EVENT_ORDER id="E48" fromID="V5" fromText="calling" toID="V9" toText="was" />
-<EVENT_ORDER id="E49" fromID="V5" fromText="calling" toID="V10" toText="have" />
-<EVENT_ORDER id="E50" fromID="V5" fromText="calling" toID="V11" toText="”" />
-<EVENT_ORDER id="E51" fromID="V6" fromText="paying" toID="V7" toText="”" />
-<EVENT_ORDER id="E52" fromID="V6" fromText="paying" toID="V8" toText="said" />
-<EVENT_ORDER id="E53" fromID="V6" fromText="paying" toID="V9" toText="was" />
-<EVENT_ORDER id="E54" fromID="V6" fromText="paying" toID="V10" toText="have" />
-<EVENT_ORDER id="E55" fromID="V6" fromText="paying" toID="V11" toText="”" />
-<EVENT_ORDER id="E56" fromID="V7" fromText="”" toID="V8" toText="said" />
-<EVENT_ORDER id="E57" fromID="V7" fromText="”" toID="V9" toText="was" />
-<EVENT_ORDER id="E58" fromID="V7" fromText="”" toID="V10" toText="have" />
-<EVENT_ORDER id="E59" fromID="V7" fromText="”" toID="V11" toText="”" />
-<EVENT_ORDER id="E60" fromID="V8" fromText="said" toID="V9" toText="was" />
-<EVENT_ORDER id="E61" fromID="V8" fromText="said" toID="V10" toText="have" />
-<EVENT_ORDER id="E62" fromID="V8" fromText="said" toID="V11" toText="”" />
-<EVENT_ORDER id="E63" fromID="V9" fromText="was" toID="V10" toText="have" />
-<EVENT_ORDER id="E64" fromID="V9" fromText="was" toID="V11" toText="”" />
-<EVENT_ORDER id="E65" fromID="V10" fromText="have" toID="V11" toText="”" />
+<VERB id="V0" spans="10~12" text="is" category="VBZ" />
+<VERB id="V1" spans="21~28" text="intends" category="VBZ" />
+<VERB id="V2" spans="32~39" text="control" category="VB" />
+<VERB id="V3" spans="47~54" text="invited" category="VBN" />
+<VERB id="V4" spans="88~95" text="calling" category="VBG" />
+<VERB id="V5" spans="128~134" text="paying" category="VBG" />
+<VERB id="V6" spans="176~180" text="said" category="VBD" />
+<VERB id="V7" spans="189~192" text="was" category="VBD" />
+<VERB id="V8" spans="233~237" text="have" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="intends" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="control" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="invited" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="calling" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="paying" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="said" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="was" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="have" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="intends" toID="V2" toText="control" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="intends" toID="V3" toText="invited" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="intends" toID="V4" toText="calling" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="intends" toID="V5" toText="paying" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="intends" toID="V6" toText="said" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="intends" toID="V7" toText="was" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="intends" toID="V8" toText="have" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="control" toID="V3" toText="invited" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="control" toID="V4" toText="calling" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="control" toID="V5" toText="paying" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="control" toID="V6" toText="said" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="control" toID="V7" toText="was" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="control" toID="V8" toText="have" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="invited" toID="V4" toText="calling" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="invited" toID="V5" toText="paying" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="invited" toID="V6" toText="said" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="invited" toID="V7" toText="was" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="invited" toID="V8" toText="have" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="calling" toID="V5" toText="paying" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="calling" toID="V6" toText="said" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="calling" toID="V7" toText="was" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="calling" toID="V8" toText="have" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="paying" toID="V6" toText="said" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="paying" toID="V7" toText="was" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="paying" toID="V8" toText="have" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="said" toID="V7" toText="was" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="said" toID="V8" toText="have" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="was" toID="V8" toText="have" />
 </TAGS>
 </TemporalRelationTask>

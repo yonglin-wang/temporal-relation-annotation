@@ -9,27 +9,20 @@
 <VERB id="V3" spans="181~189" text="canceled" category="VBN" />
 <VERB id="V4" spans="208~212" text="aren" category="VBP" />
 <VERB id="V5" spans="279~282" text="see" category="VB" />
-<VERB id="V6" spans="312~313" text="’" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="sees" toID="V1" toText="help" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="sees" toID="V2" toText="minimize" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="sees" toID="V3" toText="canceled" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="sees" toID="V4" toText="aren" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="sees" toID="V5" toText="see" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="sees" toID="V6" toText="’" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="help" toID="V2" toText="minimize" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="help" toID="V3" toText="canceled" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="help" toID="V4" toText="aren" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="help" toID="V5" toText="see" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="help" toID="V6" toText="’" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="minimize" toID="V3" toText="canceled" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="minimize" toID="V4" toText="aren" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="minimize" toID="V5" toText="see" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="minimize" toID="V6" toText="’" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="canceled" toID="V4" toText="aren" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="canceled" toID="V5" toText="see" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="canceled" toID="V6" toText="’" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="aren" toID="V5" toText="see" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="aren" toID="V6" toText="’" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="see" toID="V6" toText="’" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="help" toID="V2" toText="minimize" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="help" toID="V3" toText="canceled" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="help" toID="V4" toText="aren" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="help" toID="V5" toText="see" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="minimize" toID="V3" toText="canceled" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="minimize" toID="V4" toText="aren" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="minimize" toID="V5" toText="see" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="canceled" toID="V4" toText="aren" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="canceled" toID="V5" toText="see" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="aren" toID="V5" toText="see" />
 </TAGS>
 </TemporalRelationTask>

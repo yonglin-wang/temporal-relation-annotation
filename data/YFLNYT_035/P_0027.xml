@@ -5,31 +5,18 @@
 <TAGS>
 <VERB id="V0" spans="8~12" text="lead" category="VB" />
 <VERB id="V1" spans="32~37" text="doing" category="VBG" />
-<VERB id="V2" spans="52~53" text="”" category="VBZ" />
-<VERB id="V3" spans="58~63" text="urged" category="VBD" />
-<VERB id="V4" spans="70~71" text="s" category="VB" />
-<VERB id="V5" spans="72~74" text="be" category="VB" />
-<VERB id="V6" spans="100~101" text="”" category="VB" />
+<VERB id="V2" spans="58~63" text="urged" category="VBD" />
+<VERB id="V3" spans="70~71" text="s" category="VB" />
+<VERB id="V4" spans="72~74" text="be" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="lead" toID="V1" toText="doing" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="lead" toID="V2" toText="”" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="lead" toID="V3" toText="urged" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="lead" toID="V4" toText="s" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="lead" toID="V5" toText="be" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="lead" toID="V6" toText="”" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="doing" toID="V2" toText="”" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="doing" toID="V3" toText="urged" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="doing" toID="V4" toText="s" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="doing" toID="V5" toText="be" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="doing" toID="V6" toText="”" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="”" toID="V3" toText="urged" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="”" toID="V4" toText="s" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="”" toID="V5" toText="be" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="”" toID="V6" toText="”" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="urged" toID="V4" toText="s" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="urged" toID="V5" toText="be" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="urged" toID="V6" toText="”" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="s" toID="V5" toText="be" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="s" toID="V6" toText="”" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="be" toID="V6" toText="”" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="lead" toID="V2" toText="urged" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="lead" toID="V3" toText="s" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="lead" toID="V4" toText="be" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="doing" toID="V2" toText="urged" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="doing" toID="V3" toText="s" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="doing" toID="V4" toText="be" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="urged" toID="V3" toText="s" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="urged" toID="V4" toText="be" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="s" toID="V4" toText="be" />
 </TAGS>
 </TemporalRelationTask>

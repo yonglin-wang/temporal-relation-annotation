@@ -4,49 +4,25 @@
 <TEXT><![CDATA[“Not only is it unhealthy for the people in the room,” Mr. Axelrod said, “it sends a mixed message to the American people. Even if the briefings were held in the East or State Rooms, where people could be spaced, it would be better.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="10~12" text="is" category="VBZ" />
-<VERB id="V1" spans="53~54" text="”" category="VBZ" />
-<VERB id="V2" spans="67~71" text="said" category="VBD" />
-<VERB id="V3" spans="73~74" text="“" category="VBD" />
-<VERB id="V4" spans="77~82" text="sends" category="VBZ" />
-<VERB id="V5" spans="150~154" text="held" category="VBN" />
-<VERB id="V6" spans="205~211" text="spaced" category="VBN" />
-<VERB id="V7" spans="222~224" text="be" category="VB" />
-<VERB id="V8" spans="232~233" text="”" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="”" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="“" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="sends" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="held" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="spaced" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="be" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="”" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="”" toID="V2" toText="said" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="”" toID="V3" toText="“" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="”" toID="V4" toText="sends" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="”" toID="V5" toText="held" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="”" toID="V6" toText="spaced" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="”" toID="V7" toText="be" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="”" toID="V8" toText="”" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V3" toText="“" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V4" toText="sends" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V5" toText="held" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="said" toID="V6" toText="spaced" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V7" toText="be" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V8" toText="”" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="“" toID="V4" toText="sends" />
-<EVENT_ORDER id="E22" fromID="V3" fromText="“" toID="V5" toText="held" />
-<EVENT_ORDER id="E23" fromID="V3" fromText="“" toID="V6" toText="spaced" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="“" toID="V7" toText="be" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="“" toID="V8" toText="”" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="sends" toID="V5" toText="held" />
-<EVENT_ORDER id="E27" fromID="V4" fromText="sends" toID="V6" toText="spaced" />
-<EVENT_ORDER id="E28" fromID="V4" fromText="sends" toID="V7" toText="be" />
-<EVENT_ORDER id="E29" fromID="V4" fromText="sends" toID="V8" toText="”" />
-<EVENT_ORDER id="E30" fromID="V5" fromText="held" toID="V6" toText="spaced" />
-<EVENT_ORDER id="E31" fromID="V5" fromText="held" toID="V7" toText="be" />
-<EVENT_ORDER id="E32" fromID="V5" fromText="held" toID="V8" toText="”" />
-<EVENT_ORDER id="E33" fromID="V6" fromText="spaced" toID="V7" toText="be" />
-<EVENT_ORDER id="E34" fromID="V6" fromText="spaced" toID="V8" toText="”" />
-<EVENT_ORDER id="E35" fromID="V7" fromText="be" toID="V8" toText="”" />
+<VERB id="V1" spans="67~71" text="said" category="VBD" />
+<VERB id="V2" spans="77~82" text="sends" category="VBZ" />
+<VERB id="V3" spans="150~154" text="held" category="VBN" />
+<VERB id="V4" spans="205~211" text="spaced" category="VBN" />
+<VERB id="V5" spans="222~224" text="be" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="sends" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="held" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="spaced" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="be" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="said" toID="V2" toText="sends" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V3" toText="held" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V4" toText="spaced" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V5" toText="be" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="sends" toID="V3" toText="held" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="sends" toID="V4" toText="spaced" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="sends" toID="V5" toText="be" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="held" toID="V4" toText="spaced" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="held" toID="V5" toText="be" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="spaced" toID="V5" toText="be" />
 </TAGS>
 </TemporalRelationTask>

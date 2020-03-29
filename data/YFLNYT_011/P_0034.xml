@@ -6,30 +6,23 @@
 <VERB id="V0" spans="4~8" text="call" category="VBP" />
 <VERB id="V1" spans="24~33" text="implement" category="VB" />
 <VERB id="V2" spans="54~60" text="passed" category="VBN" />
-<VERB id="V3" spans="61~62" text="”" category="VBZ" />
-<VERB id="V4" spans="73~77" text="said" category="VBD" />
-<VERB id="V5" spans="89~94" text="means" category="VBZ" />
-<VERB id="V6" spans="125~133" text="avoiding" category="VBG" />
+<VERB id="V3" spans="73~77" text="said" category="VBD" />
+<VERB id="V4" spans="89~94" text="means" category="VBZ" />
+<VERB id="V5" spans="125~133" text="avoiding" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="call" toID="V1" toText="implement" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="call" toID="V2" toText="passed" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="call" toID="V3" toText="”" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="call" toID="V4" toText="said" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="call" toID="V5" toText="means" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="call" toID="V6" toText="avoiding" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="implement" toID="V2" toText="passed" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="implement" toID="V3" toText="”" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="implement" toID="V4" toText="said" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="implement" toID="V5" toText="means" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="implement" toID="V6" toText="avoiding" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="passed" toID="V3" toText="”" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="passed" toID="V4" toText="said" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="passed" toID="V5" toText="means" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="passed" toID="V6" toText="avoiding" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="”" toID="V4" toText="said" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="”" toID="V5" toText="means" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="”" toID="V6" toText="avoiding" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="said" toID="V5" toText="means" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="said" toID="V6" toText="avoiding" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="means" toID="V6" toText="avoiding" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="call" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="call" toID="V4" toText="means" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="call" toID="V5" toText="avoiding" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="implement" toID="V2" toText="passed" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="implement" toID="V3" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="implement" toID="V4" toText="means" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="implement" toID="V5" toText="avoiding" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="passed" toID="V3" toText="said" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="passed" toID="V4" toText="means" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="passed" toID="V5" toText="avoiding" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="said" toID="V4" toText="means" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="said" toID="V5" toText="avoiding" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="means" toID="V5" toText="avoiding" />
 </TAGS>
 </TemporalRelationTask>
