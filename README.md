@@ -27,13 +27,13 @@ control-click ```MAE_2.2.10.jar```, then choose `Open` from the shortcut menu. T
 6. Begin your annotation journey!
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/6_relation.png" width="70%" height="70%">
 
+## Annotation Schema and Guildeline
+See our regularly updated [guildeline](https://docs.google.com/document/d/1LZXOLTrth4FPP0_m9PauW0k9P-En9mYyvY4qOHSPs2I/edit?usp=sharing)
 ### Part 1: Get rid of auxiliaries
-
 various forms of "do", "be", "have"
-
 e.g. I don't want to eat, and so doesn't he. --> *do* in *don't* and *does* in *doesn't* should not be tagged as verbs
 
 ### Part 2: Choose the correct relation
 
-See our regularly updated [guildeline](https://docs.google.com/document/d/1LZXOLTrth4FPP0_m9PauW0k9P-En9mYyvY4qOHSPs2I/edit?usp=sharing)
+
 
