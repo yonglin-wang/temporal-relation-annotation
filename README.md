@@ -9,28 +9,22 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 Click on ```MAE_2.2.10.jar``` in the root directory. If this is....
 
 1. `File`→`New Task Definition`
-
-<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png" width="50%" height="50%">
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png" width="70%" height="70%">
 
 2. Choose the `TempRelTask.dtd`, click `Open`
-
-### ![2_dtd](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/2_dtd.png)
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/2_dtd.png" width="70%" height="70%">
 
 3. Click the `EVENT_ORDER` and tick the box
-
-![3 order](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/3_order.png)
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/3_order.png" width="70%" height="70%">
 
 4. `File` →`Open Document`, then open the file assigned to you. 
-
-![4 openxml](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/4_openxml.png)
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/4_openxml.png" width="70%" height="70%">
 
 5. click `Yes`
-
-![4 xml](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/5_xml.png)
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/5_xml.png" width="70%" height="70%">
 
 6. Begin your annotation journey!
-
-![5 relation](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/6_relation.png)
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/6_relation.png" width="70%" height="70%">
 
 ### Part 1: Get rid of auxiliaries
 
