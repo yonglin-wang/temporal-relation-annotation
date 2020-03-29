@@ -10,7 +10,7 @@ Click on ```MAE_2.2.10.jar``` in the root directory. If this is....
 
 1. `File`→`New Task Definition`
 
-![1_definition](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png)
+![1_definition](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png){:height="50%" width="50%"}
 
 2. Choose the `TempRelTask.dtd`, click `Open`
 
