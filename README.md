@@ -33,4 +33,5 @@ See our regularly updated [guildeline](https://docs.google.com/document/d/1LZXOL
 
 ### How to delete:
 Choose the row you want to delete, control-click, then choose `Delete <id>-(fromID, toID)` from the shortcut menu, click it to delete the relation. (Please take note of which verb pair, which article and which paragraph of the article you delete in a txt file.)
+
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_aux.png" width="70%" height="70%">
