@@ -30,7 +30,7 @@ Click on ```MAE_2.2.10.jar``` in the root directory. If this is....
 
 6. Begin your annotation journey!
 
-![5 relation](/Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/img/6_relation.png)
+![5 relation](https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/6_relation.png)
 
 ### Part 1: Get rid of auxiliaries
 
