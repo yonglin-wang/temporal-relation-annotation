@@ -6,7 +6,8 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 
 ### First time using MAE:
 
-Click on ```MAE_2.2.10.jar``` in the root directory. If this is....
+Click on ```MAE_2.2.10.jar``` in the root directory. You might get a warning dialog, if you are using Mac.
+Control-click ```MAE_2.2.10.jar```, then choose `Open` from the shortcut menu. Then, click `Open`.
 
 1. `File`→`New Task Definition`
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png" width="70%" height="70%">
