@@ -35,5 +35,5 @@ e.g. I don't want to eat, and so doesn't he. --> *do* in *don't* and *does* in *
 
 ### Part 2: Choose the correct relation
 
-See guildeline
+See our regularly updated [guildeline](https://docs.google.com/document/d/1LZXOLTrth4FPP0_m9PauW0k9P-En9mYyvY4qOHSPs2I/edit?usp=sharing)
 
