@@ -27,7 +27,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
     $ git commit -m ‘update by annotator1’
     $ git push
     ```
-  d. Create a Annotated Tag using `$ git tag -a <tag name> -m "message"`:
+  d. Create an Annotated Tag using `$ git tag -a <tag name> -m "message"`:
     ```
     $ git tag -a phase1_annotator1 -m "phase1 annotator1"
     ```  
@@ -36,7 +36,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
     $ git push origin phase1_annotator1
     ```
 
-CAVEAT: Tags are not mutable, and you cannot make a change under an existing TAG, you have to delete and recreate your TAG:
+CAVEAT: Tags are not mutable, and you cannot make a change under an EXISTING tag, you have to delete and recreate your TAG:
 
 \_d. Delete and recreate the tag:
 ```
