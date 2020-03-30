@@ -49,7 +49,7 @@ $ git push origin :phase1_annotator1
 $ git push origin phase1_annotator1
 ```
 
-For more inforation, please check the [official guide](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Or contact with Group B members.
+For more inforation, please check the [official guide](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Or contact the Group B members.
 
 
 ### First time using MAE:
