@@ -1,0 +1,8 @@
+Hi Jeff,
+
+Please take note of which verb tag you have deleted below in the format of "<verb text> <article ID>-<Paragraph number>". Thank you!
+
+example:
+has 12-5 (=the non-event verb "has" has been deleted from article YFLNYT_012's 5th paragraph, namely P_0005.xml)
+
+your record:
