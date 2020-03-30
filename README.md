@@ -12,7 +12,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
   ```
 - 【Annotate your task】
 
-- Once you have done your part, commit and push it with TAG.
+- Once you have done your part, commit and push it with TAG. With the project rood directory set as the current directory, do the following: 
 
   a. Check which file you have modified and want to stage for commit:
     ```
