@@ -80,13 +80,14 @@ See our regularly updated [guildeline](https://docs.google.com/document/d/1LZXOL
 
 
 ### How to delete:
-Choose the row you want to delete, control-click, then choose `Delete <id>-(fromID, toID)` from the shortcut menu, click it to delete the relation. (Please take note of which verb pair, which article and which paragraph of the article you delete in a txt file.)
+- Choose the word you want to delete, and you will see all the relations are highlighted automatically:
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_not_verb.png" width="70%" height="70%">
 
-<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_aux.png" width="70%" height="70%">
+- Control-click, then choose `Delete <id> (word)` from the shortcut menu:
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_not_verb_1.png" width="70%" height="70%">
 
+- Click `OK` to delete all the links connected to the word:
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_not_verb_2.png" width="70%" height="70%">
 
-
-
-
-
-
+- You did it! (Please take note of which verb, which article and which paragraph of the article you delete in your txt file.)
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_not_verb_3.png" width="70%" height="70%">
