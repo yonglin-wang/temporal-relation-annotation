@@ -1,4 +1,10 @@
-# How to use git for this task:
+# Information for Annotators
+
+## Getting Started
+
+First, thank you for helping us with the annotation. Our fate is somewhat in your hands now (and vice versa). Go team!
+
+### How to use git for this task:
 
 - Clone to local:
 ```
@@ -45,11 +51,6 @@ $ git push origin phase1_annotator1
 
 For more inforation, please check the [official guide](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Or contact with Group B members.
 
-# Information for Annotators
-
-## Getting Started
-
-First, thank you for helping us with the annotation. Our fate is somewhat in your hands now (and vice versa). Go team!
 
 ### First time using MAE:
 
