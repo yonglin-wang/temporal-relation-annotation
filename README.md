@@ -7,9 +7,9 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 ### How to use git for this task:
 
 - Clone to local:
-```
-$ git clone https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files.git
-```
+  ```
+  $ git clone https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files.git
+  ```
 - 【Annotate your task】
 
 - Once you have done your part, commit and push it with TAG.
@@ -57,19 +57,19 @@ For more inforation, please check the [official guide](https://git-scm.com/book/
 Click on ```MAE_2.2.10.jar``` in the root directory. You might get a warning dialog, if you are using Mac,
 control-click ```MAE_2.2.10.jar```, then choose `Open` from the shortcut menu. Then, click `Open`.
 
-1. `File`→`New Task Definition`
+1. Choose `File`→`New Task Definition`:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png" width="70%" height="70%">
 
-2. Choose the `TempRelTask.dtd`, click `Open`
+2. Choose the `TempRelTask.dtd`, click `Open`:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/2_dtd.png" width="70%" height="70%">
 
-3. Click the `EVENT_ORDER` and tick the box
+3. Click the `EVENT_ORDER` and tick the box:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/3_order.png" width="70%" height="70%">
 
-4. `File` →`Open Document`, then open the file assigned to you. 
+4. Choose `File` →`Open Document`, then open the file assigned to you:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/4_openxml.png" width="70%" height="70%">
 
-5. click `Yes`
+5. click `Yes`:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/5_xml.png" width="70%" height="70%">
 
 6. Begin your annotation journey!
