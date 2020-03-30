@@ -54,8 +54,8 @@ For more information, please check the [official guide](https://git-scm.com/book
 
 ### First time using MAE:
 
-Click on ```MAE_2.2.10.jar``` in the root directory. You might get a warning dialog, if you are using Mac,
-control-click ```MAE_2.2.10.jar```, then choose `Open` from the shortcut menu. Then, click `Open`.
+Click on ```MAE_2.2.10.jar``` in the root directory. (You might get a warning dialog, if you are using Mac.
+Control-click ```MAE_2.2.10.jar```, then choose `Open` from the shortcut menu. Then, click `Open`.)
 
 1. Choose `File`→`New Task Definition`:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/1_definition.png" width="70%" height="70%">
