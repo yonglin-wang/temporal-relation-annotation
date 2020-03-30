@@ -36,7 +36,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
     $ git push origin phase1_annotator1
     ```
 
-CAVEAT: Tags are not mutable, and you cannot make a change under an EXISTING tag, you have to delete and recreate your TAG:
+CAVEAT: Tags are not mutable, and you cannot make any changes under an EXISTING tag, you have to DELETE and RECREATE your tag:
 
 \_d. Delete and recreate the tag:
 ```
@@ -49,7 +49,7 @@ $ git push origin :phase1_annotator1
 $ git push origin phase1_annotator1
 ```
 
-For more inforation, please check the [official guide](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Or contact the Group B members.
+For more information, please check the [official guide](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Or contact the Group B members, if you have any problems.
 
 
 ### First time using MAE:
