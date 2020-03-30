@@ -27,13 +27,11 @@ control-click ```MAE_2.2.10.jar```, then choose `Open` from the shortcut menu. T
 6. Begin your annotation journey!
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/6_relation.png" width="70%" height="70%">
 
-### Part 1: Get rid of auxiliaries
+## Annotation Schema and Guildeline
+See our regularly updated [guildeline](https://docs.google.com/document/d/1LZXOLTrth4FPP0_m9PauW0k9P-En9mYyvY4qOHSPs2I/edit?usp=sharing)
 
-various forms of "do", "be", "have"
 
-e.g. I don't want to eat, and so doesn't he. --> *do* in *don't* and *does* in *doesn't* should not be tagged as verbs
+### How to delete:
+Choose the row you want to delete, control-click, then choose `Delete <id>-(fromID, toID)` from the shortcut menu, click it to delete the relation. (Please take note of which verb pair, which article and which paragraph of the article you delete in a txt file.)
 
-### Part 2: Choose the correct relation
-
-See guildeline
-
+<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/problems/delete_aux.png" width="70%" height="70%">
