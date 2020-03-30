@@ -31,7 +31,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
     ```
     $ git tag -a phase1_annotator1 -m "phase1 annotator1"
     ```  
-  e. Push the tag to server using `$ git push origin <tag>`: 
+  e. Push the tag to server using `$ git push origin <tag name>`: 
     ```
     $ git push origin phase1_annotator1
     ```
