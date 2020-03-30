@@ -38,6 +38,8 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 
 CAVEAT: Tags are not mutable, so you cannot make any changes under an EXISTING tag. You have to DELETE and RECREATE your tag, if you want to update your annotated files:
 
+First three steps are the same as demonstrated above. 
+
 \_d. Delete and recreate the tag:
 ```
 $ git tag -d phase1_annotator1
