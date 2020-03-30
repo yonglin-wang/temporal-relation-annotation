@@ -69,6 +69,7 @@ $ git clone https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-file
     ```
 
 CAVEAT: Tags are not mutable, and you cannot make a change under an existing TAG, you have to delete and recreate your TAG:
+
 \_d. Delete and recreate the tag:
 ```
 $ git tag -d phase1_annotator1
