@@ -36,7 +36,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
     $ git push origin phase1_annotator1
     ```
 
-CAVEAT: Tags are not mutable, so you cannot make any changes under an EXISTING tag. You have to DELETE and RECREATE your tag:
+CAVEAT: Tags are not mutable, so you cannot make any changes under an EXISTING tag. You have to DELETE and RECREATE your tag, if you want to update your annotated files:
 
 \_d. Delete and recreate the tag:
 ```
