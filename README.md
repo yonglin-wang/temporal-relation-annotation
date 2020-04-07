@@ -26,6 +26,7 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
   ```
 - Go back to github webpage. Click the green `Compare and pull request`. You will get a `Open a pull request`:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/open_pull.jpg" width="70%" height="70%">
+  Then, click the green `Pull request`.D one!
 
 
 ### First time using MAE:
