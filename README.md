@@ -14,7 +14,8 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
   ```
   $ git clone <paste the URL here>
   ```
-- 【Annotate your task】Once you have done your part, go back to git.
+- 【Annotate your task】
+
 - Create a new branch. `git checkout -b <branch name>`
   ```
   git checkout -b phase1-Annotator1
