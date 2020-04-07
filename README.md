@@ -29,8 +29,11 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
   **CAVEATE**: only make changes to the file with the number you were allocated, otherwise your request may be rejected!
   
 - Navigate to the original GitHub repository, and you should see a big green button marked "Compare and pull request". Click that button and you will be taken to a page giving you the opportunity to describe your pull request and showing you the changes you have made:
-<img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/open_pull.jpg" width="70%" height="70%">
-  Then, click the green `Pull request`. Done!
+  <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/open_pull.jpg" width="70%" height="70%">
+
+  Then, click the big green button `Create pull request`. 
+  Done!
+
 
 For more information, please check the [official website](https://archaeogeek.github.io/gettingstartedwithgit/github/pullrequest.html).
 
