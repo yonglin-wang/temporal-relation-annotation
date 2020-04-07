@@ -6,28 +6,28 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 
 ### How to use git for this task:
 
-- Fork the repo. 
+- Fork this repo. 
   So you can have a personal copy. You can do anything to the copy without affecting the original one. 
   <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/forkrepo.jpg" width="40%" height="40%">
 
-- Clone from the forked repo to local:
+- Clone from the copy repo to local:
   ```
   $ git clone <paste here the SSH key>
   ```
 - 【Annotate your task】Once you have done your part, go back to git.
-- Create a new branch.
+- Create a new branch. `git checkout -b <phase-your name>`
   ```
-  git checkout -b phase1-<your name>
+  git checkout -b phase1-Annotator1
   ```
 - add, commit and push the new branch.
   ```
-  git add <all your annotated tasks>
+  git add <your annotated tasks>
   git commit -m "<messages you wanna add>"
-  git push origin phase1-<your name>
+  git push origin <phase-your name>
   ```
-- Go back to github webpage. Click the green `Compare and pull request`. You will get a `Open a pull request`:
+- Go back to github webpage. Click the green `Compare and pull request`. Then, you will go into the `Open a pull request` page:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/open_pull.jpg" width="70%" height="70%">
-  Then, click the green `Pull request`.D one!
+  Then, click the green `Pull request`. Done!
 
 
 ### First time using MAE:
