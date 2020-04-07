@@ -10,12 +10,12 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
   So you can have a personal copy. You can do anything to the copy without affecting the original one. 
   <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/forkrepo.jpg" width="40%" height="40%">
 
-- Clone from the copy repo to local:
+- Navigate to your copy of the repository and click the green "Clone or download" button. Click the clipboard next to the https clone URL to copy it.
   ```
-  $ git clone <paste here the SSH key>
+  $ git clone <paste the URL here>
   ```
 - 【Annotate your task】Once you have done your part, go back to git.
-- Create a new branch. `git checkout -b <phase-your name>`
+- Create a new branch. `git checkout -b <branch name>`
   ```
   git checkout -b phase1-Annotator1
   ```
@@ -23,12 +23,15 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
   ```
   git add <your annotated tasks>
   git commit -m "<messages you wanna add>"
-  git push origin <phase-your name>
+  git push -u origin <branch name>
   ```
-- Go back to github webpage. Click the green `Compare and pull request`. Then, you will go into the `Open a pull request` page:
+  **CAVEATE**: only make changes to the file with the number you were allocated, otherwise your request may be rejected!
+  
+- Navigate to the original GitHub repository, and you should see a big green button marked "Compare and pull request". Click that button and you will be taken to a page giving you the opportunity to describe your pull request and showing you the changes you have made:
 <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/open_pull.jpg" width="70%" height="70%">
   Then, click the green `Pull request`. Done!
 
+For more information, please check the [official website](https://archaeogeek.github.io/gettingstartedwithgit/github/pullrequest.html).
 
 ### First time using MAE:
 
