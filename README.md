@@ -7,7 +7,8 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 ### How to use git for this task:
 
 - Fork the repo. 
-  So you can have a personal copy. You can do anything to the copy without affecting the original one.  
+  So you can have a personal copy. You can do anything to the copy without affecting the original one. 
+  <img src="https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files/blob/master/img/forkrepo.jpg" width="70%" height="70%">
 
 - Clone from the forked repo to local:
   ```
