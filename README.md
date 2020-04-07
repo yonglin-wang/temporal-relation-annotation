@@ -6,52 +6,29 @@ First, thank you for helping us with the annotation. Our fate is somewhat in you
 
 ### How to use git for this task:
 
-- Clone to local:
+- Fork the repo. 
+  So you can have a personal copy. You can do anything to the copy without affecting the original one.  
+
+- Clone from the forked repo to local:
   ```
-  $ git clone https://github.com/YonglinWang-Brandeis/cs140-groupB-annotation-files.git
+  $ git clone <paste here the SSH key>
   ```
-- 【Annotate your task】
+- 【Annotate your task】Once you have done your part, go back to git.
+- Create a new branch.
+  ```
+  git checkout -b phase1-<your name>
+  ```
+- add, commit and push the new branch.
+  ```
+  git add <all your annotated tasks>
+  git commit -m "<messages you wanna add>"
+  git push origin phase1-<your name>
+  ```
+- Go back to github webpage. Click the green `Compare and pull request`. You will get a `Open a pull request`:
 
-- Once you have done your part, commit and push it with TAG. With the project root directory set as the current directory, do the following: 
 
-  a. Check which file you have modified and want to stage for commit:
-    ```
-    $ git status
-    ```
-  b. Update what will be committed using `$ git add`:
-    ```
-    $ git add .
-    ```
-  c. Commit and push, here we use `annotator1` as an example:
-    ```
-    $ git commit -m ‘update by annotator1’
-    $ git push
-    ```
-  d. Create an Annotated Tag using `$ git tag -a <tag name> -m "message"`:
-    ```
-    $ git tag -a phase1_annotator1 -m "phase1 annotator1"
-    ```  
-  e. Push the tag to server using `$ git push origin <tag name>`: 
-    ```
-    $ git push origin phase1_annotator1
-    ```
 
-CAVEAT: Tags are not mutable, so you cannot make any changes under an EXISTING tag. You have to DELETE and RECREATE your tag, if you want to update your annotated files:
-
-First three steps are the same as demonstrated above. 
-
-\_d. Delete and recreate the tag:
-```
-$ git tag -d phase1_annotator1
-$ git tag -a phase1_annotator1 -m "phase1 annotator1"
-```
-\_e. Delete the old tag from the server and push the new tag to the server:
-```
-$ git push origin :phase1_annotator1
-$ git push origin phase1_annotator1
-```
-
-For more information, please check the [official guide](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Or contact the Group B members, if you have any problems.
+  
 
 
 ### First time using MAE:
