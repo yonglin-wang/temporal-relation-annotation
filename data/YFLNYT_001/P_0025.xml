@@ -3,27 +3,13 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Ms. Sandberg’s coming nationwide tour to promote the new book she co-authored, “Option B,” which describes coming to terms with her husband’s sudden death in 2015 and other stories of coping with adversity, has fueled speculation (and possible wishful thinking) that the book could be a springboard for a presidential campaign.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="1~2" text="s" category="VBD" />
-<VERB id="V1" spans="15~21" text="coming" category="VBG" />
 <VERB id="V2" spans="41~48" text="promote" category="VB" />
 <VERB id="V3" spans="97~106" text="describes" category="VBZ" />
 <VERB id="V4" spans="107~113" text="coming" category="VBG" />
 <VERB id="V5" spans="184~190" text="coping" category="VBG" />
 <VERB id="V6" spans="211~217" text="fueled" category="VBN" />
 <VERB id="V7" spans="282~284" text="be" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="coming" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="promote" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="describes" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="coming" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="coping" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="fueled" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="be" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="coming" toID="V2" toText="promote" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="coming" toID="V3" toText="describes" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="coming" toID="V4" toText="coming" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="coming" toID="V5" toText="coping" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="coming" toID="V6" toText="fueled" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="coming" toID="V7" toText="be" />
+<VERB id="V8" spans="66~77" text="co-authored" category="VBD" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="promote" toID="V3" toText="describes" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="promote" toID="V4" toText="coming" />
 <EVENT_ORDER id="E15" fromID="V2" fromText="promote" toID="V5" toText="coping" />

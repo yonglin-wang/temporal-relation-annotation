@@ -11,6 +11,7 @@
 <VERB id="V5" spans="306~314" text="prompted" category="VBD" />
 <VERB id="V6" spans="348~358" text="quarantine" category="VB" />
 <VERB id="V7" spans="376~387" text="underscored" category="VBD" />
+<VERB id="V8" spans="88~95" text="shelter" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="stay" toID="V1" toText="slow" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="stay" toID="V2" toText="are" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="stay" toID="V3" toText="continues" />

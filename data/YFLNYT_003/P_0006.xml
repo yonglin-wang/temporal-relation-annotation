@@ -8,15 +8,12 @@
 <VERB id="V2" spans="110~113" text="met" category="VBD" />
 <VERB id="V3" spans="158~163" text="named" category="VBN" />
 <VERB id="V4" spans="181~186" text="lived" category="VBD" />
-<VERB id="V5" spans="227~233" text="having" category="VBG" />
 <VERB id="V6" spans="234~238" text="been" category="VBN" />
-<VERB id="V7" spans="263~266" text="was" category="VBD" />
 <VERB id="V8" spans="271~276" text="going" category="VBG" />
 <VERB id="V9" spans="315~323" text="spending" category="VBG" />
 <VERB id="V10" spans="334~342" text="remained" category="VBD" />
 <VERB id="V11" spans="343~350" text="calling" category="VBG" />
 <VERB id="V12" spans="351~358" text="elected" category="VBN" />
-<VERB id="V13" spans="367~368" text="s" category="VBD" />
 <VERB id="V14" spans="442~445" text="set" category="VB" />
 <VERB id="V15" spans="481~485" text="talk" category="VB" />
 <VERB id="V16" spans="539~546" text="shocked" category="VBN" />
@@ -30,15 +27,12 @@
 <EVENT_ORDER id="E1" fromID="V0" fromText="organizing" toID="V2" toText="met" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="organizing" toID="V3" toText="named" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="organizing" toID="V4" toText="lived" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="organizing" toID="V5" toText="having" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="organizing" toID="V6" toText="been" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="organizing" toID="V7" toText="was" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="organizing" toID="V8" toText="going" />
 <EVENT_ORDER id="E8" fromID="V0" fromText="organizing" toID="V9" toText="spending" />
 <EVENT_ORDER id="E9" fromID="V0" fromText="organizing" toID="V10" toText="remained" />
 <EVENT_ORDER id="E10" fromID="V0" fromText="organizing" toID="V11" toText="calling" />
 <EVENT_ORDER id="E11" fromID="V0" fromText="organizing" toID="V12" toText="elected" />
-<EVENT_ORDER id="E12" fromID="V0" fromText="organizing" toID="V13" toText="s" />
 <EVENT_ORDER id="E13" fromID="V0" fromText="organizing" toID="V14" toText="set" />
 <EVENT_ORDER id="E14" fromID="V0" fromText="organizing" toID="V15" toText="talk" />
 <EVENT_ORDER id="E15" fromID="V0" fromText="organizing" toID="V16" toText="shocked" />
@@ -51,15 +45,12 @@
 <EVENT_ORDER id="E22" fromID="V1" fromText="counter" toID="V2" toText="met" />
 <EVENT_ORDER id="E23" fromID="V1" fromText="counter" toID="V3" toText="named" />
 <EVENT_ORDER id="E24" fromID="V1" fromText="counter" toID="V4" toText="lived" />
-<EVENT_ORDER id="E25" fromID="V1" fromText="counter" toID="V5" toText="having" />
 <EVENT_ORDER id="E26" fromID="V1" fromText="counter" toID="V6" toText="been" />
-<EVENT_ORDER id="E27" fromID="V1" fromText="counter" toID="V7" toText="was" />
 <EVENT_ORDER id="E28" fromID="V1" fromText="counter" toID="V8" toText="going" />
 <EVENT_ORDER id="E29" fromID="V1" fromText="counter" toID="V9" toText="spending" />
 <EVENT_ORDER id="E30" fromID="V1" fromText="counter" toID="V10" toText="remained" />
 <EVENT_ORDER id="E31" fromID="V1" fromText="counter" toID="V11" toText="calling" />
 <EVENT_ORDER id="E32" fromID="V1" fromText="counter" toID="V12" toText="elected" />
-<EVENT_ORDER id="E33" fromID="V1" fromText="counter" toID="V13" toText="s" />
 <EVENT_ORDER id="E34" fromID="V1" fromText="counter" toID="V14" toText="set" />
 <EVENT_ORDER id="E35" fromID="V1" fromText="counter" toID="V15" toText="talk" />
 <EVENT_ORDER id="E36" fromID="V1" fromText="counter" toID="V16" toText="shocked" />
@@ -71,15 +62,12 @@
 <EVENT_ORDER id="E42" fromID="V1" fromText="counter" toID="V22" toText="elicit" />
 <EVENT_ORDER id="E43" fromID="V2" fromText="met" toID="V3" toText="named" />
 <EVENT_ORDER id="E44" fromID="V2" fromText="met" toID="V4" toText="lived" />
-<EVENT_ORDER id="E45" fromID="V2" fromText="met" toID="V5" toText="having" />
 <EVENT_ORDER id="E46" fromID="V2" fromText="met" toID="V6" toText="been" />
-<EVENT_ORDER id="E47" fromID="V2" fromText="met" toID="V7" toText="was" />
 <EVENT_ORDER id="E48" fromID="V2" fromText="met" toID="V8" toText="going" />
 <EVENT_ORDER id="E49" fromID="V2" fromText="met" toID="V9" toText="spending" />
 <EVENT_ORDER id="E50" fromID="V2" fromText="met" toID="V10" toText="remained" />
 <EVENT_ORDER id="E51" fromID="V2" fromText="met" toID="V11" toText="calling" />
 <EVENT_ORDER id="E52" fromID="V2" fromText="met" toID="V12" toText="elected" />
-<EVENT_ORDER id="E53" fromID="V2" fromText="met" toID="V13" toText="s" />
 <EVENT_ORDER id="E54" fromID="V2" fromText="met" toID="V14" toText="set" />
 <EVENT_ORDER id="E55" fromID="V2" fromText="met" toID="V15" toText="talk" />
 <EVENT_ORDER id="E56" fromID="V2" fromText="met" toID="V16" toText="shocked" />
@@ -90,15 +78,12 @@
 <EVENT_ORDER id="E61" fromID="V2" fromText="met" toID="V21" toText="took" />
 <EVENT_ORDER id="E62" fromID="V2" fromText="met" toID="V22" toText="elicit" />
 <EVENT_ORDER id="E63" fromID="V3" fromText="named" toID="V4" toText="lived" />
-<EVENT_ORDER id="E64" fromID="V3" fromText="named" toID="V5" toText="having" />
 <EVENT_ORDER id="E65" fromID="V3" fromText="named" toID="V6" toText="been" />
-<EVENT_ORDER id="E66" fromID="V3" fromText="named" toID="V7" toText="was" />
 <EVENT_ORDER id="E67" fromID="V3" fromText="named" toID="V8" toText="going" />
 <EVENT_ORDER id="E68" fromID="V3" fromText="named" toID="V9" toText="spending" />
 <EVENT_ORDER id="E69" fromID="V3" fromText="named" toID="V10" toText="remained" />
 <EVENT_ORDER id="E70" fromID="V3" fromText="named" toID="V11" toText="calling" />
 <EVENT_ORDER id="E71" fromID="V3" fromText="named" toID="V12" toText="elected" />
-<EVENT_ORDER id="E72" fromID="V3" fromText="named" toID="V13" toText="s" />
 <EVENT_ORDER id="E73" fromID="V3" fromText="named" toID="V14" toText="set" />
 <EVENT_ORDER id="E74" fromID="V3" fromText="named" toID="V15" toText="talk" />
 <EVENT_ORDER id="E75" fromID="V3" fromText="named" toID="V16" toText="shocked" />
@@ -108,15 +93,12 @@
 <EVENT_ORDER id="E79" fromID="V3" fromText="named" toID="V20" toText="said" />
 <EVENT_ORDER id="E80" fromID="V3" fromText="named" toID="V21" toText="took" />
 <EVENT_ORDER id="E81" fromID="V3" fromText="named" toID="V22" toText="elicit" />
-<EVENT_ORDER id="E82" fromID="V4" fromText="lived" toID="V5" toText="having" />
 <EVENT_ORDER id="E83" fromID="V4" fromText="lived" toID="V6" toText="been" />
-<EVENT_ORDER id="E84" fromID="V4" fromText="lived" toID="V7" toText="was" />
 <EVENT_ORDER id="E85" fromID="V4" fromText="lived" toID="V8" toText="going" />
 <EVENT_ORDER id="E86" fromID="V4" fromText="lived" toID="V9" toText="spending" />
 <EVENT_ORDER id="E87" fromID="V4" fromText="lived" toID="V10" toText="remained" />
 <EVENT_ORDER id="E88" fromID="V4" fromText="lived" toID="V11" toText="calling" />
 <EVENT_ORDER id="E89" fromID="V4" fromText="lived" toID="V12" toText="elected" />
-<EVENT_ORDER id="E90" fromID="V4" fromText="lived" toID="V13" toText="s" />
 <EVENT_ORDER id="E91" fromID="V4" fromText="lived" toID="V14" toText="set" />
 <EVENT_ORDER id="E92" fromID="V4" fromText="lived" toID="V15" toText="talk" />
 <EVENT_ORDER id="E93" fromID="V4" fromText="lived" toID="V16" toText="shocked" />
@@ -126,30 +108,11 @@
 <EVENT_ORDER id="E97" fromID="V4" fromText="lived" toID="V20" toText="said" />
 <EVENT_ORDER id="E98" fromID="V4" fromText="lived" toID="V21" toText="took" />
 <EVENT_ORDER id="E99" fromID="V4" fromText="lived" toID="V22" toText="elicit" />
-<EVENT_ORDER id="E100" fromID="V5" fromText="having" toID="V6" toText="been" />
-<EVENT_ORDER id="E101" fromID="V5" fromText="having" toID="V7" toText="was" />
-<EVENT_ORDER id="E102" fromID="V5" fromText="having" toID="V8" toText="going" />
-<EVENT_ORDER id="E103" fromID="V5" fromText="having" toID="V9" toText="spending" />
-<EVENT_ORDER id="E104" fromID="V5" fromText="having" toID="V10" toText="remained" />
-<EVENT_ORDER id="E105" fromID="V5" fromText="having" toID="V11" toText="calling" />
-<EVENT_ORDER id="E106" fromID="V5" fromText="having" toID="V12" toText="elected" />
-<EVENT_ORDER id="E107" fromID="V5" fromText="having" toID="V13" toText="s" />
-<EVENT_ORDER id="E108" fromID="V5" fromText="having" toID="V14" toText="set" />
-<EVENT_ORDER id="E109" fromID="V5" fromText="having" toID="V15" toText="talk" />
-<EVENT_ORDER id="E110" fromID="V5" fromText="having" toID="V16" toText="shocked" />
-<EVENT_ORDER id="E111" fromID="V5" fromText="having" toID="V17" toText="have" />
-<EVENT_ORDER id="E112" fromID="V5" fromText="having" toID="V18" toText="returned" />
-<EVENT_ORDER id="E113" fromID="V5" fromText="having" toID="V19" toText="get" />
-<EVENT_ORDER id="E114" fromID="V5" fromText="having" toID="V20" toText="said" />
-<EVENT_ORDER id="E115" fromID="V5" fromText="having" toID="V21" toText="took" />
-<EVENT_ORDER id="E116" fromID="V5" fromText="having" toID="V22" toText="elicit" />
-<EVENT_ORDER id="E117" fromID="V6" fromText="been" toID="V7" toText="was" />
 <EVENT_ORDER id="E118" fromID="V6" fromText="been" toID="V8" toText="going" />
 <EVENT_ORDER id="E119" fromID="V6" fromText="been" toID="V9" toText="spending" />
 <EVENT_ORDER id="E120" fromID="V6" fromText="been" toID="V10" toText="remained" />
 <EVENT_ORDER id="E121" fromID="V6" fromText="been" toID="V11" toText="calling" />
 <EVENT_ORDER id="E122" fromID="V6" fromText="been" toID="V12" toText="elected" />
-<EVENT_ORDER id="E123" fromID="V6" fromText="been" toID="V13" toText="s" />
 <EVENT_ORDER id="E124" fromID="V6" fromText="been" toID="V14" toText="set" />
 <EVENT_ORDER id="E125" fromID="V6" fromText="been" toID="V15" toText="talk" />
 <EVENT_ORDER id="E126" fromID="V6" fromText="been" toID="V16" toText="shocked" />
@@ -159,26 +122,10 @@
 <EVENT_ORDER id="E130" fromID="V6" fromText="been" toID="V20" toText="said" />
 <EVENT_ORDER id="E131" fromID="V6" fromText="been" toID="V21" toText="took" />
 <EVENT_ORDER id="E132" fromID="V6" fromText="been" toID="V22" toText="elicit" />
-<EVENT_ORDER id="E133" fromID="V7" fromText="was" toID="V8" toText="going" />
-<EVENT_ORDER id="E134" fromID="V7" fromText="was" toID="V9" toText="spending" />
-<EVENT_ORDER id="E135" fromID="V7" fromText="was" toID="V10" toText="remained" />
-<EVENT_ORDER id="E136" fromID="V7" fromText="was" toID="V11" toText="calling" />
-<EVENT_ORDER id="E137" fromID="V7" fromText="was" toID="V12" toText="elected" />
-<EVENT_ORDER id="E138" fromID="V7" fromText="was" toID="V13" toText="s" />
-<EVENT_ORDER id="E139" fromID="V7" fromText="was" toID="V14" toText="set" />
-<EVENT_ORDER id="E140" fromID="V7" fromText="was" toID="V15" toText="talk" />
-<EVENT_ORDER id="E141" fromID="V7" fromText="was" toID="V16" toText="shocked" />
-<EVENT_ORDER id="E142" fromID="V7" fromText="was" toID="V17" toText="have" />
-<EVENT_ORDER id="E143" fromID="V7" fromText="was" toID="V18" toText="returned" />
-<EVENT_ORDER id="E144" fromID="V7" fromText="was" toID="V19" toText="get" />
-<EVENT_ORDER id="E145" fromID="V7" fromText="was" toID="V20" toText="said" />
-<EVENT_ORDER id="E146" fromID="V7" fromText="was" toID="V21" toText="took" />
-<EVENT_ORDER id="E147" fromID="V7" fromText="was" toID="V22" toText="elicit" />
 <EVENT_ORDER id="E148" fromID="V8" fromText="going" toID="V9" toText="spending" />
 <EVENT_ORDER id="E149" fromID="V8" fromText="going" toID="V10" toText="remained" />
 <EVENT_ORDER id="E150" fromID="V8" fromText="going" toID="V11" toText="calling" />
 <EVENT_ORDER id="E151" fromID="V8" fromText="going" toID="V12" toText="elected" />
-<EVENT_ORDER id="E152" fromID="V8" fromText="going" toID="V13" toText="s" />
 <EVENT_ORDER id="E153" fromID="V8" fromText="going" toID="V14" toText="set" />
 <EVENT_ORDER id="E154" fromID="V8" fromText="going" toID="V15" toText="talk" />
 <EVENT_ORDER id="E155" fromID="V8" fromText="going" toID="V16" toText="shocked" />
@@ -191,7 +138,6 @@
 <EVENT_ORDER id="E162" fromID="V9" fromText="spending" toID="V10" toText="remained" />
 <EVENT_ORDER id="E163" fromID="V9" fromText="spending" toID="V11" toText="calling" />
 <EVENT_ORDER id="E164" fromID="V9" fromText="spending" toID="V12" toText="elected" />
-<EVENT_ORDER id="E165" fromID="V9" fromText="spending" toID="V13" toText="s" />
 <EVENT_ORDER id="E166" fromID="V9" fromText="spending" toID="V14" toText="set" />
 <EVENT_ORDER id="E167" fromID="V9" fromText="spending" toID="V15" toText="talk" />
 <EVENT_ORDER id="E168" fromID="V9" fromText="spending" toID="V16" toText="shocked" />
@@ -203,7 +149,6 @@
 <EVENT_ORDER id="E174" fromID="V9" fromText="spending" toID="V22" toText="elicit" />
 <EVENT_ORDER id="E175" fromID="V10" fromText="remained" toID="V11" toText="calling" />
 <EVENT_ORDER id="E176" fromID="V10" fromText="remained" toID="V12" toText="elected" />
-<EVENT_ORDER id="E177" fromID="V10" fromText="remained" toID="V13" toText="s" />
 <EVENT_ORDER id="E178" fromID="V10" fromText="remained" toID="V14" toText="set" />
 <EVENT_ORDER id="E179" fromID="V10" fromText="remained" toID="V15" toText="talk" />
 <EVENT_ORDER id="E180" fromID="V10" fromText="remained" toID="V16" toText="shocked" />
@@ -214,7 +159,6 @@
 <EVENT_ORDER id="E185" fromID="V10" fromText="remained" toID="V21" toText="took" />
 <EVENT_ORDER id="E186" fromID="V10" fromText="remained" toID="V22" toText="elicit" />
 <EVENT_ORDER id="E187" fromID="V11" fromText="calling" toID="V12" toText="elected" />
-<EVENT_ORDER id="E188" fromID="V11" fromText="calling" toID="V13" toText="s" />
 <EVENT_ORDER id="E189" fromID="V11" fromText="calling" toID="V14" toText="set" />
 <EVENT_ORDER id="E190" fromID="V11" fromText="calling" toID="V15" toText="talk" />
 <EVENT_ORDER id="E191" fromID="V11" fromText="calling" toID="V16" toText="shocked" />
@@ -224,7 +168,6 @@
 <EVENT_ORDER id="E195" fromID="V11" fromText="calling" toID="V20" toText="said" />
 <EVENT_ORDER id="E196" fromID="V11" fromText="calling" toID="V21" toText="took" />
 <EVENT_ORDER id="E197" fromID="V11" fromText="calling" toID="V22" toText="elicit" />
-<EVENT_ORDER id="E198" fromID="V12" fromText="elected" toID="V13" toText="s" />
 <EVENT_ORDER id="E199" fromID="V12" fromText="elected" toID="V14" toText="set" />
 <EVENT_ORDER id="E200" fromID="V12" fromText="elected" toID="V15" toText="talk" />
 <EVENT_ORDER id="E201" fromID="V12" fromText="elected" toID="V16" toText="shocked" />
@@ -234,15 +177,6 @@
 <EVENT_ORDER id="E205" fromID="V12" fromText="elected" toID="V20" toText="said" />
 <EVENT_ORDER id="E206" fromID="V12" fromText="elected" toID="V21" toText="took" />
 <EVENT_ORDER id="E207" fromID="V12" fromText="elected" toID="V22" toText="elicit" />
-<EVENT_ORDER id="E208" fromID="V13" fromText="s" toID="V14" toText="set" />
-<EVENT_ORDER id="E209" fromID="V13" fromText="s" toID="V15" toText="talk" />
-<EVENT_ORDER id="E210" fromID="V13" fromText="s" toID="V16" toText="shocked" />
-<EVENT_ORDER id="E211" fromID="V13" fromText="s" toID="V17" toText="have" />
-<EVENT_ORDER id="E212" fromID="V13" fromText="s" toID="V18" toText="returned" />
-<EVENT_ORDER id="E213" fromID="V13" fromText="s" toID="V19" toText="get" />
-<EVENT_ORDER id="E214" fromID="V13" fromText="s" toID="V20" toText="said" />
-<EVENT_ORDER id="E215" fromID="V13" fromText="s" toID="V21" toText="took" />
-<EVENT_ORDER id="E216" fromID="V13" fromText="s" toID="V22" toText="elicit" />
 <EVENT_ORDER id="E217" fromID="V14" fromText="set" toID="V15" toText="talk" />
 <EVENT_ORDER id="E218" fromID="V14" fromText="set" toID="V16" toText="shocked" />
 <EVENT_ORDER id="E219" fromID="V14" fromText="set" toID="V17" toText="have" />

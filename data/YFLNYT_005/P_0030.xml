@@ -3,19 +3,12 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The Sanders campaign has not sent any fund-raising emails since his lopsided losses on Tuesday, but it did send out four messages during debate day on Sunday. All four mentioned the evolving health crisis at least once as they sought contributions. Mr. Sanders raised $2 million that day.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="21~24" text="has" category="VBZ" />
 <VERB id="V1" spans="29~33" text="sent" category="VBN" />
 <VERB id="V2" spans="107~111" text="send" category="VB" />
 <VERB id="V3" spans="168~177" text="mentioned" category="VBD" />
 <VERB id="V4" spans="182~190" text="evolving" category="VBG" />
 <VERB id="V5" spans="227~233" text="sought" category="VBD" />
 <VERB id="V6" spans="261~267" text="raised" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="sent" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="send" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="mentioned" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="evolving" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="sought" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="has" toID="V6" toText="raised" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="sent" toID="V2" toText="send" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="sent" toID="V3" toText="mentioned" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="sent" toID="V4" toText="evolving" />

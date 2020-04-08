@@ -20,8 +20,8 @@
 <VERB id="V14" spans="682~691" text="reversing" category="VBG" />
 <VERB id="V15" spans="714~719" text="being" category="VBG" />
 <VERB id="V16" spans="754~765" text="challenging" category="VBG" />
-<VERB id="V17" spans="797~799" text="is" category="VBZ" />
 <VERB id="V18" spans="874~878" text="come" category="VBN" />
+<VERB id="V19" spans="254~260" text="recast" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="found" toID="V1" toText="delivering" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="found" toID="V2" toText="protesting" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="found" toID="V3" toText="s" />
@@ -38,7 +38,6 @@
 <EVENT_ORDER id="E13" fromID="V0" fromText="found" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E14" fromID="V0" fromText="found" toID="V15" toText="being" />
 <EVENT_ORDER id="E15" fromID="V0" fromText="found" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E16" fromID="V0" fromText="found" toID="V17" toText="is" />
 <EVENT_ORDER id="E17" fromID="V0" fromText="found" toID="V18" toText="come" />
 <EVENT_ORDER id="E18" fromID="V1" fromText="delivering" toID="V2" toText="protesting" />
 <EVENT_ORDER id="E19" fromID="V1" fromText="delivering" toID="V3" toText="s" />
@@ -55,7 +54,6 @@
 <EVENT_ORDER id="E30" fromID="V1" fromText="delivering" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E31" fromID="V1" fromText="delivering" toID="V15" toText="being" />
 <EVENT_ORDER id="E32" fromID="V1" fromText="delivering" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E33" fromID="V1" fromText="delivering" toID="V17" toText="is" />
 <EVENT_ORDER id="E34" fromID="V1" fromText="delivering" toID="V18" toText="come" />
 <EVENT_ORDER id="E35" fromID="V2" fromText="protesting" toID="V3" toText="s" />
 <EVENT_ORDER id="E36" fromID="V2" fromText="protesting" toID="V4" toText="curtailing" />
@@ -71,7 +69,6 @@
 <EVENT_ORDER id="E46" fromID="V2" fromText="protesting" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E47" fromID="V2" fromText="protesting" toID="V15" toText="being" />
 <EVENT_ORDER id="E48" fromID="V2" fromText="protesting" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E49" fromID="V2" fromText="protesting" toID="V17" toText="is" />
 <EVENT_ORDER id="E50" fromID="V2" fromText="protesting" toID="V18" toText="come" />
 <EVENT_ORDER id="E51" fromID="V3" fromText="s" toID="V4" toText="curtailing" />
 <EVENT_ORDER id="E52" fromID="V3" fromText="s" toID="V5" toText="was" />
@@ -86,7 +83,6 @@
 <EVENT_ORDER id="E61" fromID="V3" fromText="s" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E62" fromID="V3" fromText="s" toID="V15" toText="being" />
 <EVENT_ORDER id="E63" fromID="V3" fromText="s" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E64" fromID="V3" fromText="s" toID="V17" toText="is" />
 <EVENT_ORDER id="E65" fromID="V3" fromText="s" toID="V18" toText="come" />
 <EVENT_ORDER id="E66" fromID="V4" fromText="curtailing" toID="V5" toText="was" />
 <EVENT_ORDER id="E67" fromID="V4" fromText="curtailing" toID="V6" toText="fomented" />
@@ -100,7 +96,6 @@
 <EVENT_ORDER id="E75" fromID="V4" fromText="curtailing" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E76" fromID="V4" fromText="curtailing" toID="V15" toText="being" />
 <EVENT_ORDER id="E77" fromID="V4" fromText="curtailing" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E78" fromID="V4" fromText="curtailing" toID="V17" toText="is" />
 <EVENT_ORDER id="E79" fromID="V4" fromText="curtailing" toID="V18" toText="come" />
 <EVENT_ORDER id="E80" fromID="V5" fromText="was" toID="V6" toText="fomented" />
 <EVENT_ORDER id="E81" fromID="V5" fromText="was" toID="V7" toText="has" />
@@ -113,7 +108,6 @@
 <EVENT_ORDER id="E88" fromID="V5" fromText="was" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E89" fromID="V5" fromText="was" toID="V15" toText="being" />
 <EVENT_ORDER id="E90" fromID="V5" fromText="was" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E91" fromID="V5" fromText="was" toID="V17" toText="is" />
 <EVENT_ORDER id="E92" fromID="V5" fromText="was" toID="V18" toText="come" />
 <EVENT_ORDER id="E93" fromID="V6" fromText="fomented" toID="V7" toText="has" />
 <EVENT_ORDER id="E94" fromID="V6" fromText="fomented" toID="V8" toText="taking" />
@@ -125,7 +119,6 @@
 <EVENT_ORDER id="E100" fromID="V6" fromText="fomented" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E101" fromID="V6" fromText="fomented" toID="V15" toText="being" />
 <EVENT_ORDER id="E102" fromID="V6" fromText="fomented" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E103" fromID="V6" fromText="fomented" toID="V17" toText="is" />
 <EVENT_ORDER id="E104" fromID="V6" fromText="fomented" toID="V18" toText="come" />
 <EVENT_ORDER id="E105" fromID="V7" fromText="has" toID="V8" toText="taking" />
 <EVENT_ORDER id="E106" fromID="V7" fromText="has" toID="V9" toText="making" />
@@ -136,7 +129,6 @@
 <EVENT_ORDER id="E111" fromID="V7" fromText="has" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E112" fromID="V7" fromText="has" toID="V15" toText="being" />
 <EVENT_ORDER id="E113" fromID="V7" fromText="has" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E114" fromID="V7" fromText="has" toID="V17" toText="is" />
 <EVENT_ORDER id="E115" fromID="V7" fromText="has" toID="V18" toText="come" />
 <EVENT_ORDER id="E116" fromID="V8" fromText="taking" toID="V9" toText="making" />
 <EVENT_ORDER id="E117" fromID="V8" fromText="taking" toID="V10" toText="designating" />
@@ -146,7 +138,6 @@
 <EVENT_ORDER id="E121" fromID="V8" fromText="taking" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E122" fromID="V8" fromText="taking" toID="V15" toText="being" />
 <EVENT_ORDER id="E123" fromID="V8" fromText="taking" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E124" fromID="V8" fromText="taking" toID="V17" toText="is" />
 <EVENT_ORDER id="E125" fromID="V8" fromText="taking" toID="V18" toText="come" />
 <EVENT_ORDER id="E126" fromID="V9" fromText="making" toID="V10" toText="designating" />
 <EVENT_ORDER id="E127" fromID="V9" fromText="making" toID="V11" toText="anointed" />
@@ -155,7 +146,6 @@
 <EVENT_ORDER id="E130" fromID="V9" fromText="making" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E131" fromID="V9" fromText="making" toID="V15" toText="being" />
 <EVENT_ORDER id="E132" fromID="V9" fromText="making" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E133" fromID="V9" fromText="making" toID="V17" toText="is" />
 <EVENT_ORDER id="E134" fromID="V9" fromText="making" toID="V18" toText="come" />
 <EVENT_ORDER id="E135" fromID="V10" fromText="designating" toID="V11" toText="anointed" />
 <EVENT_ORDER id="E136" fromID="V10" fromText="designating" toID="V12" toText="amassed" />
@@ -163,35 +153,27 @@
 <EVENT_ORDER id="E138" fromID="V10" fromText="designating" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E139" fromID="V10" fromText="designating" toID="V15" toText="being" />
 <EVENT_ORDER id="E140" fromID="V10" fromText="designating" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E141" fromID="V10" fromText="designating" toID="V17" toText="is" />
 <EVENT_ORDER id="E142" fromID="V10" fromText="designating" toID="V18" toText="come" />
 <EVENT_ORDER id="E143" fromID="V11" fromText="anointed" toID="V12" toText="amassed" />
 <EVENT_ORDER id="E144" fromID="V11" fromText="anointed" toID="V13" toText="predicted" />
 <EVENT_ORDER id="E145" fromID="V11" fromText="anointed" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E146" fromID="V11" fromText="anointed" toID="V15" toText="being" />
 <EVENT_ORDER id="E147" fromID="V11" fromText="anointed" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E148" fromID="V11" fromText="anointed" toID="V17" toText="is" />
 <EVENT_ORDER id="E149" fromID="V11" fromText="anointed" toID="V18" toText="come" />
 <EVENT_ORDER id="E150" fromID="V12" fromText="amassed" toID="V13" toText="predicted" />
 <EVENT_ORDER id="E151" fromID="V12" fromText="amassed" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E152" fromID="V12" fromText="amassed" toID="V15" toText="being" />
 <EVENT_ORDER id="E153" fromID="V12" fromText="amassed" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E154" fromID="V12" fromText="amassed" toID="V17" toText="is" />
 <EVENT_ORDER id="E155" fromID="V12" fromText="amassed" toID="V18" toText="come" />
 <EVENT_ORDER id="E156" fromID="V13" fromText="predicted" toID="V14" toText="reversing" />
 <EVENT_ORDER id="E157" fromID="V13" fromText="predicted" toID="V15" toText="being" />
 <EVENT_ORDER id="E158" fromID="V13" fromText="predicted" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E159" fromID="V13" fromText="predicted" toID="V17" toText="is" />
 <EVENT_ORDER id="E160" fromID="V13" fromText="predicted" toID="V18" toText="come" />
 <EVENT_ORDER id="E161" fromID="V14" fromText="reversing" toID="V15" toText="being" />
 <EVENT_ORDER id="E162" fromID="V14" fromText="reversing" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E163" fromID="V14" fromText="reversing" toID="V17" toText="is" />
 <EVENT_ORDER id="E164" fromID="V14" fromText="reversing" toID="V18" toText="come" />
 <EVENT_ORDER id="E165" fromID="V15" fromText="being" toID="V16" toText="challenging" />
-<EVENT_ORDER id="E166" fromID="V15" fromText="being" toID="V17" toText="is" />
 <EVENT_ORDER id="E167" fromID="V15" fromText="being" toID="V18" toText="come" />
-<EVENT_ORDER id="E168" fromID="V16" fromText="challenging" toID="V17" toText="is" />
 <EVENT_ORDER id="E169" fromID="V16" fromText="challenging" toID="V18" toText="come" />
-<EVENT_ORDER id="E170" fromID="V17" fromText="is" toID="V18" toText="come" />
 </TAGS>
 </TemporalRelationTask>

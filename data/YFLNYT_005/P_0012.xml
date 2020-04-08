@@ -4,7 +4,7 @@
 <TEXT><![CDATA[The Biden and Sanders campaigns have addressed the coronavirus more often and directly than Mr. Trump in their emails to supporters, and both continued to solicit contributions as the crisis has deepened, though Mr. Sanders stopped on Wednesday as he reassessed his candidacy.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="37~46" text="addressed" category="VBN" />
-<VERB id="V1" spans="142~151" text="continued" category="VBN" />
+<VERB id="V1" spans="142~151" text="continued" category="VBD" />
 <VERB id="V2" spans="155~162" text="solicit" category="VB" />
 <VERB id="V3" spans="195~203" text="deepened" category="VBN" />
 <VERB id="V4" spans="224~231" text="stopped" category="VBD" />

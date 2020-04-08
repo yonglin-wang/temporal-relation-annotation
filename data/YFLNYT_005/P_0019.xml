@@ -4,32 +4,20 @@
 <TEXT><![CDATA[“You’ll never hear it from the Lamestream media and their Democratic Partners, but America is WINNING like never before,” read a campaign email last Friday, the same day that schools were closed, sporting events postponed and Mr. Trump himself declared a national emergency.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="14~18" text="hear" category="VBP" />
-<VERB id="V1" spans="91~93" text="is" category="VBZ" />
-<VERB id="V2" spans="122~126" text="read" category="VB" />
+<VERB id="V2" spans="122~126" text="read" category="VBD" />
 <VERB id="V3" spans="188~194" text="closed" category="VBN" />
-<VERB id="V4" spans="196~204" text="sporting" category="VBG" />
 <VERB id="V5" spans="212~221" text="postponed" category="VBN" />
 <VERB id="V6" spans="244~252" text="declared" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="hear" toID="V1" toText="is" />
+<VERB id="V7" spans="94~101" text="WINNING" category="VBG" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="hear" toID="V2" toText="read" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="hear" toID="V3" toText="closed" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="hear" toID="V4" toText="sporting" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="hear" toID="V5" toText="postponed" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="hear" toID="V6" toText="declared" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V2" toText="read" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V3" toText="closed" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V4" toText="sporting" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V5" toText="postponed" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V6" toText="declared" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="read" toID="V3" toText="closed" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="read" toID="V4" toText="sporting" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="read" toID="V5" toText="postponed" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="read" toID="V6" toText="declared" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="closed" toID="V4" toText="sporting" />
 <EVENT_ORDER id="E16" fromID="V3" fromText="closed" toID="V5" toText="postponed" />
 <EVENT_ORDER id="E17" fromID="V3" fromText="closed" toID="V6" toText="declared" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="sporting" toID="V5" toText="postponed" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="sporting" toID="V6" toText="declared" />
 <EVENT_ORDER id="E20" fromID="V5" fromText="postponed" toID="V6" toText="declared" />
 </TAGS>
 </TemporalRelationTask>
