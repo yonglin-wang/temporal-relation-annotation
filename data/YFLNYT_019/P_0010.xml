@@ -4,14 +4,14 @@
 <TEXT><![CDATA[The same is true for many of the patients who are still being treated, from those being monitored with less serious symptoms to those whose heads are encased in plastic bubbles filled with oxygen. The worst cases are unconscious and on respirators.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="9~11" text="is" category="VBZ" />
-<VERB id="V1" spans="46~49" text="are" category="VBP" />
+<VERB id="V1" spans="46~49" text="are" category="VBZ" />
 <VERB id="V2" spans="56~61" text="being" category="VBG" />
 <VERB id="V3" spans="62~69" text="treated" category="VBN" />
 <VERB id="V4" spans="82~87" text="being" category="VBG" />
 <VERB id="V5" spans="88~97" text="monitored" category="VBN" />
 <VERB id="V6" spans="150~157" text="encased" category="VBN" />
 <VERB id="V7" spans="177~183" text="filled" category="VBN" />
-<VERB id="V8" spans="213~216" text="are" category="VBP" />
+<VERB id="V8" spans="213~216" text="are" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="are" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="being" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="treated" />

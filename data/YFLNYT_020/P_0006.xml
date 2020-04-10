@@ -10,7 +10,7 @@
 <VERB id="V4" spans="89~92" text="was" category="VBD" />
 <VERB id="V5" spans="142~147" text="began" category="VBD" />
 <VERB id="V6" spans="148~159" text="withdrawing" category="VBG" />
-<VERB id="V7" spans="259~263" text="face" category="VBP" />
+<VERB id="V7" spans="259~263" text="face" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="think" toID="V1" toText="concerned" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="think" toID="V2" toText="going" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="think" toID="V3" toText="said" />

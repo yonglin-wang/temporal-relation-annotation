@@ -5,13 +5,9 @@
 <TAGS>
 <VERB id="V0" spans="17~20" text="are" category="VBP" />
 <VERB id="V1" spans="93~100" text="working" category="VBG" />
-<VERB id="V2" spans="115~116" text="s" category="VBZ" />
 <VERB id="V3" spans="251~259" text="disclose" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="working" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="s" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="disclose" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="working" toID="V2" toText="s" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="working" toID="V3" toText="disclose" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="s" toID="V3" toText="disclose" />
 </TAGS>
 </TemporalRelationTask>

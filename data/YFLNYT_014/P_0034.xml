@@ -4,20 +4,14 @@
 <TEXT><![CDATA[“Common sense would tell you, you shouldn’t expose people until you’ve been cleared,” Senator Lindsey Graham, Republican of South Carolina, told CNN. Mr. Graham voluntarily self-isolated earlier this month after being in contact with someone who tested positive for the virus.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="20~24" text="tell" category="VB" />
-<VERB id="V1" spans="34~41" text="shouldn" category="VBP" />
 <VERB id="V2" spans="76~83" text="cleared" category="VBN" />
 <VERB id="V3" spans="140~144" text="told" category="VBD" />
 <VERB id="V4" spans="212~217" text="being" category="VBG" />
 <VERB id="V5" spans="246~252" text="tested" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="tell" toID="V1" toText="shouldn" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="tell" toID="V2" toText="cleared" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="tell" toID="V3" toText="told" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="tell" toID="V4" toText="being" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="tell" toID="V5" toText="tested" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="shouldn" toID="V2" toText="cleared" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="shouldn" toID="V3" toText="told" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="shouldn" toID="V4" toText="being" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="shouldn" toID="V5" toText="tested" />
 <EVENT_ORDER id="E9" fromID="V2" fromText="cleared" toID="V3" toText="told" />
 <EVENT_ORDER id="E10" fromID="V2" fromText="cleared" toID="V4" toText="being" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="cleared" toID="V5" toText="tested" />

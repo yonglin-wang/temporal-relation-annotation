@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“Usually, they are too busy trying to get their administration in place,” Mr. Noble said. “More importantly, normally the president wants to delay candidate status so that he can travel as president making speeches, announcing new policies and actions, promoting his agenda and attacking his opponents in Congress without having to use campaign funds.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="15~18" text="are" category="VBP" />
+<VERB id="V0" spans="15~18" text="are" category="VBZ" />
 <VERB id="V1" spans="28~34" text="trying" category="VBG" />
 <VERB id="V2" spans="38~41" text="get" category="VB" />
 <VERB id="V3" spans="84~88" text="said" category="VBD" />

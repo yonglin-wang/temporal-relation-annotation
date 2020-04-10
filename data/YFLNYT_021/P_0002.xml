@@ -6,17 +6,12 @@
 <VERB id="V0" spans="68~77" text="unsettled" category="VBD" />
 <VERB id="V1" spans="153~162" text="confronts" category="VBZ" />
 <VERB id="V2" spans="204~208" text="save" category="VB" />
-<VERB id="V3" spans="210~212" text="is" category="VBZ" />
 <VERB id="V4" spans="263~268" text="going" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="unsettled" toID="V1" toText="confronts" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="unsettled" toID="V2" toText="save" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="unsettled" toID="V3" toText="is" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="unsettled" toID="V4" toText="going" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="confronts" toID="V2" toText="save" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="confronts" toID="V3" toText="is" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="confronts" toID="V4" toText="going" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="save" toID="V3" toText="is" />
 <EVENT_ORDER id="E8" fromID="V2" fromText="save" toID="V4" toText="going" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="is" toID="V4" toText="going" />
 </TAGS>
 </TemporalRelationTask>

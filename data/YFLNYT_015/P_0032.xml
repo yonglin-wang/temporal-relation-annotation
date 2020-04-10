@@ -3,7 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Though some of Mr. Bloomberg’s former campaign workers have turned their organizing efforts inward, saying on Friday they were consulting with employment lawyers and challenging the campaign’s message, others expressed resignation, citing the at-will employment contracts they had signed.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="7~8" text="s" category="VBD" />
 <VERB id="V1" spans="60~66" text="turned" category="VBN" />
 <VERB id="V2" spans="100~106" text="saying" category="VBG" />
 <VERB id="V3" spans="127~137" text="consulting" category="VBG" />
@@ -11,13 +10,6 @@
 <VERB id="V5" spans="209~218" text="expressed" category="VBD" />
 <VERB id="V6" spans="232~238" text="citing" category="VBG" />
 <VERB id="V7" spans="281~287" text="signed" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="turned" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="saying" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="consulting" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="challenging" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="expressed" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="citing" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="signed" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="turned" toID="V2" toText="saying" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="turned" toID="V3" toText="consulting" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="turned" toID="V4" toText="challenging" />

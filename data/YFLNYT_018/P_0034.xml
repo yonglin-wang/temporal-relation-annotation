@@ -7,7 +7,7 @@
 <VERB id="V1" spans="148~157" text="headlined" category="VBD" />
 <VERB id="V2" spans="265~272" text="brought" category="VBN" />
 <VERB id="V3" spans="277~284" text="trusted" category="VBD" />
-<VERB id="V4" spans="387~390" text="are" category="VBP" />
+<VERB id="V4" spans="387~390" text="are" category="VBZ" />
 <VERB id="V5" spans="396~405" text="connected" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="reasserted" toID="V1" toText="headlined" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="reasserted" toID="V2" toText="brought" />

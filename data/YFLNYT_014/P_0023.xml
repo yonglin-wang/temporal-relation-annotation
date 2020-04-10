@@ -10,34 +10,26 @@
 <VERB id="V4" spans="83~90" text="testing" category="VBG" />
 <VERB id="V5" spans="98~107" text="attending" category="VBG" />
 <VERB id="V6" spans="152~158" text="tested" category="VBD" />
-<VERB id="V7" spans="197~201" text="wasn" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="said" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="decided" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="undergo" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="testing" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="attending" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="tested" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="wasn" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V2" toText="decided" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V3" toText="undergo" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V4" toText="testing" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V5" toText="attending" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="said" toID="V6" toText="tested" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="said" toID="V7" toText="wasn" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="decided" toID="V3" toText="undergo" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="decided" toID="V4" toText="testing" />
 <EVENT_ORDER id="E15" fromID="V2" fromText="decided" toID="V5" toText="attending" />
 <EVENT_ORDER id="E16" fromID="V2" fromText="decided" toID="V6" toText="tested" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="decided" toID="V7" toText="wasn" />
 <EVENT_ORDER id="E18" fromID="V3" fromText="undergo" toID="V4" toText="testing" />
 <EVENT_ORDER id="E19" fromID="V3" fromText="undergo" toID="V5" toText="attending" />
 <EVENT_ORDER id="E20" fromID="V3" fromText="undergo" toID="V6" toText="tested" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="undergo" toID="V7" toText="wasn" />
 <EVENT_ORDER id="E22" fromID="V4" fromText="testing" toID="V5" toText="attending" />
 <EVENT_ORDER id="E23" fromID="V4" fromText="testing" toID="V6" toText="tested" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="testing" toID="V7" toText="wasn" />
 <EVENT_ORDER id="E25" fromID="V5" fromText="attending" toID="V6" toText="tested" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="attending" toID="V7" toText="wasn" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="tested" toID="V7" toText="wasn" />
 </TAGS>
 </TemporalRelationTask>

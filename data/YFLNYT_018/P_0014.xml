@@ -4,23 +4,16 @@
 <TEXT><![CDATA[Representative Seth Moulton of Massachusetts, a 38-year-old veteran of the Iraq war who has been a pointed critic of Mr. Trump, has not ruled out running in private conversations. High-profile city executives — like Mayor Eric Garcetti of Los Angeles, 46, and Mayor Mitch Landrieu of New Orleans, 56, who did a tour of cable shows last week after overseeing the initial removal of Confederate statues from his city — may also consider the race.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="92~96" text="been" category="VBN" />
-<VERB id="V1" spans="128~131" text="has" category="VBZ" />
 <VERB id="V2" spans="136~141" text="ruled" category="VBN" />
 <VERB id="V3" spans="146~153" text="running" category="VBG" />
 <VERB id="V4" spans="305~308" text="did" category="VBD" />
 <VERB id="V5" spans="347~357" text="overseeing" category="VBG" />
 <VERB id="V6" spans="426~434" text="consider" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="has" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="ruled" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="running" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="did" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="been" toID="V5" toText="overseeing" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="been" toID="V6" toText="consider" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="has" toID="V2" toText="ruled" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="has" toID="V3" toText="running" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="has" toID="V4" toText="did" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="has" toID="V5" toText="overseeing" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="has" toID="V6" toText="consider" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="ruled" toID="V3" toText="running" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="ruled" toID="V4" toText="did" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="ruled" toID="V5" toText="overseeing" />
