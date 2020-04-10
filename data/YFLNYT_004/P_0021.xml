@@ -8,7 +8,6 @@
 <VERB id="V2" spans="70~74" text="knew" category="VBD" />
 <VERB id="V3" spans="79~87" text="shouting" category="VBG" />
 <VERB id="V4" spans="103~113" text="videotaped" category="VBN" />
-<VERB id="V5" spans="118~121" text="did" category="VBD" />
 <VERB id="V6" spans="126~130" text="know" category="VB" />
 <VERB id="V7" spans="144~148" text="land" category="VB" />
 <VERB id="V8" spans="198~204" text="viewed" category="VBN" />
@@ -16,35 +15,27 @@
 <EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="knew" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="shouting" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="videotaped" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="did" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="know" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="land" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="said" toID="V8" toText="viewed" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="sleep" toID="V2" toText="knew" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="sleep" toID="V3" toText="shouting" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="sleep" toID="V4" toText="videotaped" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="sleep" toID="V5" toText="did" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="sleep" toID="V6" toText="know" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="sleep" toID="V7" toText="land" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="sleep" toID="V8" toText="viewed" />
 <EVENT_ORDER id="E15" fromID="V2" fromText="knew" toID="V3" toText="shouting" />
 <EVENT_ORDER id="E16" fromID="V2" fromText="knew" toID="V4" toText="videotaped" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="knew" toID="V5" toText="did" />
 <EVENT_ORDER id="E18" fromID="V2" fromText="knew" toID="V6" toText="know" />
 <EVENT_ORDER id="E19" fromID="V2" fromText="knew" toID="V7" toText="land" />
 <EVENT_ORDER id="E20" fromID="V2" fromText="knew" toID="V8" toText="viewed" />
 <EVENT_ORDER id="E21" fromID="V3" fromText="shouting" toID="V4" toText="videotaped" />
-<EVENT_ORDER id="E22" fromID="V3" fromText="shouting" toID="V5" toText="did" />
 <EVENT_ORDER id="E23" fromID="V3" fromText="shouting" toID="V6" toText="know" />
 <EVENT_ORDER id="E24" fromID="V3" fromText="shouting" toID="V7" toText="land" />
 <EVENT_ORDER id="E25" fromID="V3" fromText="shouting" toID="V8" toText="viewed" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="videotaped" toID="V5" toText="did" />
 <EVENT_ORDER id="E27" fromID="V4" fromText="videotaped" toID="V6" toText="know" />
 <EVENT_ORDER id="E28" fromID="V4" fromText="videotaped" toID="V7" toText="land" />
 <EVENT_ORDER id="E29" fromID="V4" fromText="videotaped" toID="V8" toText="viewed" />
-<EVENT_ORDER id="E30" fromID="V5" fromText="did" toID="V6" toText="know" />
-<EVENT_ORDER id="E31" fromID="V5" fromText="did" toID="V7" toText="land" />
-<EVENT_ORDER id="E32" fromID="V5" fromText="did" toID="V8" toText="viewed" />
 <EVENT_ORDER id="E33" fromID="V6" fromText="know" toID="V7" toText="land" />
 <EVENT_ORDER id="E34" fromID="V6" fromText="know" toID="V8" toText="viewed" />
 <EVENT_ORDER id="E35" fromID="V7" fromText="land" toID="V8" toText="viewed" />

@@ -10,7 +10,7 @@
 <VERB id="V4" spans="207~210" text="saw" category="VBD" />
 <VERB id="V5" spans="233~237" text="went" category="VBD" />
 <VERB id="V6" spans="281~284" text="has" category="VBZ" />
-<VERB id="V7" spans="298~308" text="emblazoned" category="VBD" />
+<VERB id="V7" spans="298~308" text="emblazoned" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="building" toID="V1" toText="said" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="building" toID="V2" toText="was" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="building" toID="V3" toText="landed" />

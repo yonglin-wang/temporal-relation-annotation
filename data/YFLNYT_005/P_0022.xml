@@ -6,7 +6,7 @@
 <VERB id="V0" spans="42~44" text="is" category="VBZ" />
 <VERB id="V1" spans="79~84" text="added" category="VBD" />
 <VERB id="V2" spans="99~103" text="have" category="VBP" />
-<VERB id="V3" spans="150~154" text="come" category="VBN" />
+<VERB id="V3" spans="150~154" text="come" category="VBP" />
 <VERB id="V4" spans="179~181" text="is" category="VBZ" />
 <VERB id="V5" spans="197~204" text="replace" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="added" />

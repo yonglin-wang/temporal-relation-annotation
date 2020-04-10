@@ -5,34 +5,26 @@
 <TAGS>
 <VERB id="V0" spans="27~33" text="facing" category="VBG" />
 <VERB id="V1" spans="67~75" text="migrates" category="VBZ" />
-<VERB id="V2" spans="101~105" text="does" category="VBZ" />
-<VERB id="V3" spans="125~133" text="confined" category="VBD" />
+<VERB id="V3" spans="125~133" text="confined" category="VBN" />
 <VERB id="V4" spans="176~180" text="work" category="VB" />
 <VERB id="V5" spans="185~188" text="dig" category="VB" />
 <VERB id="V6" spans="228~235" text="crosses" category="VBZ" />
 <VERB id="V7" spans="330~337" text="upended" category="VBN" />
 <VERB id="V8" spans="361~367" text="grinds" category="VBZ" />
+<VERB id="V9" spans="110~113" text="ask" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="facing" toID="V1" toText="migrates" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="facing" toID="V2" toText="does" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="facing" toID="V3" toText="confined" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="facing" toID="V4" toText="work" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="facing" toID="V5" toText="dig" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="facing" toID="V6" toText="crosses" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="facing" toID="V7" toText="upended" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="facing" toID="V8" toText="grinds" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="migrates" toID="V2" toText="does" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="migrates" toID="V3" toText="confined" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="migrates" toID="V4" toText="work" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="migrates" toID="V5" toText="dig" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="migrates" toID="V6" toText="crosses" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="migrates" toID="V7" toText="upended" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="migrates" toID="V8" toText="grinds" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="does" toID="V3" toText="confined" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="does" toID="V4" toText="work" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="does" toID="V5" toText="dig" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="does" toID="V6" toText="crosses" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="does" toID="V7" toText="upended" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="does" toID="V8" toText="grinds" />
 <EVENT_ORDER id="E21" fromID="V3" fromText="confined" toID="V4" toText="work" />
 <EVENT_ORDER id="E22" fromID="V3" fromText="confined" toID="V5" toText="dig" />
 <EVENT_ORDER id="E23" fromID="V3" fromText="confined" toID="V6" toText="crosses" />

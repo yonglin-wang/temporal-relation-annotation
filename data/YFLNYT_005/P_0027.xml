@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Meanwhile, a Democratic group called Pacronym planned to spend $2.5 million attacking Mr. Trump for his “incompetence” in responding to the virus.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="30~36" text="called" category="VBD" />
+<VERB id="V0" spans="30~36" text="called" category="VBN" />
 <VERB id="V1" spans="46~53" text="planned" category="VBD" />
 <VERB id="V2" spans="57~62" text="spend" category="VB" />
 <VERB id="V3" spans="76~85" text="attacking" category="VBG" />

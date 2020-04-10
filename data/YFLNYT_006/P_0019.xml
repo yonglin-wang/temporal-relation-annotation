@@ -11,12 +11,12 @@
 <VERB id="V5" spans="163~168" text="began" category="VBD" />
 <VERB id="V6" spans="172~176" text="fear" category="VB" />
 <VERB id="V7" spans="198~208" text="contracted" category="VBN" />
-<VERB id="V8" spans="216~222" text="spread" category="VBD" />
+<VERB id="V8" spans="216~222" text="spread" category="VBN" />
 <VERB id="V9" spans="272~277" text="began" category="VBD" />
 <VERB id="V10" spans="278~285" text="working" category="VBG" />
 <VERB id="V11" spans="316~324" text="attended" category="VBD" />
 <VERB id="V12" spans="351~359" text="attended" category="VBD" />
-<VERB id="V13" spans="394~401" text="arrived" category="VBN" />
+<VERB id="V13" spans="394~401" text="arrived" category="VBD" />
 <VERB id="V14" spans="452~458" text="closed" category="VBD" />
 <VERB id="V15" spans="462~466" text="work" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="had" toID="V1" toText="told" />
