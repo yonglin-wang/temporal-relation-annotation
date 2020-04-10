@@ -3,10 +3,9 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Mr. Trump’s allies are aware that his re-election now hangs almost entirely on how he handles the crisis. And the question is whether he will be seen as President George W. Bush was in the immediate aftermath of the attacks of Sept. 11, 2001, when he was widely viewed as bringing the nation together, or if he will be compared to Mr. Bush amid the fallout from Hurricane Katrina, when he tried to minimize a crisis that eventually became too big for him to ignore, and during which Mr. Bush praised cabinet officials even as the federal government bungled the response.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="19~22" text="are" category="VBP" />
+<VERB id="V0" spans="19~22" text="are" category="VBZ" />
 <VERB id="V1" spans="54~59" text="hangs" category="VBZ" />
 <VERB id="V2" spans="86~93" text="handles" category="VBZ" />
-<VERB id="V3" spans="100~102" text="is" category="VBZ" />
 <VERB id="V4" spans="145~149" text="seen" category="VBN" />
 <VERB id="V5" spans="178~181" text="was" category="VBD" />
 <VERB id="V6" spans="251~254" text="was" category="VBD" />
@@ -21,7 +20,6 @@
 <VERB id="V15" spans="549~556" text="bungled" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="hangs" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="handles" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="is" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="seen" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="was" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="are" toID="V6" toText="was" />
@@ -35,7 +33,6 @@
 <EVENT_ORDER id="E13" fromID="V0" fromText="are" toID="V14" toText="praised" />
 <EVENT_ORDER id="E14" fromID="V0" fromText="are" toID="V15" toText="bungled" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="hangs" toID="V2" toText="handles" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="hangs" toID="V3" toText="is" />
 <EVENT_ORDER id="E17" fromID="V1" fromText="hangs" toID="V4" toText="seen" />
 <EVENT_ORDER id="E18" fromID="V1" fromText="hangs" toID="V5" toText="was" />
 <EVENT_ORDER id="E19" fromID="V1" fromText="hangs" toID="V6" toText="was" />
@@ -48,7 +45,6 @@
 <EVENT_ORDER id="E26" fromID="V1" fromText="hangs" toID="V13" toText="ignore" />
 <EVENT_ORDER id="E27" fromID="V1" fromText="hangs" toID="V14" toText="praised" />
 <EVENT_ORDER id="E28" fromID="V1" fromText="hangs" toID="V15" toText="bungled" />
-<EVENT_ORDER id="E29" fromID="V2" fromText="handles" toID="V3" toText="is" />
 <EVENT_ORDER id="E30" fromID="V2" fromText="handles" toID="V4" toText="seen" />
 <EVENT_ORDER id="E31" fromID="V2" fromText="handles" toID="V5" toText="was" />
 <EVENT_ORDER id="E32" fromID="V2" fromText="handles" toID="V6" toText="was" />
@@ -61,18 +57,6 @@
 <EVENT_ORDER id="E39" fromID="V2" fromText="handles" toID="V13" toText="ignore" />
 <EVENT_ORDER id="E40" fromID="V2" fromText="handles" toID="V14" toText="praised" />
 <EVENT_ORDER id="E41" fromID="V2" fromText="handles" toID="V15" toText="bungled" />
-<EVENT_ORDER id="E42" fromID="V3" fromText="is" toID="V4" toText="seen" />
-<EVENT_ORDER id="E43" fromID="V3" fromText="is" toID="V5" toText="was" />
-<EVENT_ORDER id="E44" fromID="V3" fromText="is" toID="V6" toText="was" />
-<EVENT_ORDER id="E45" fromID="V3" fromText="is" toID="V7" toText="viewed" />
-<EVENT_ORDER id="E46" fromID="V3" fromText="is" toID="V8" toText="bringing" />
-<EVENT_ORDER id="E47" fromID="V3" fromText="is" toID="V9" toText="compared" />
-<EVENT_ORDER id="E48" fromID="V3" fromText="is" toID="V10" toText="tried" />
-<EVENT_ORDER id="E49" fromID="V3" fromText="is" toID="V11" toText="minimize" />
-<EVENT_ORDER id="E50" fromID="V3" fromText="is" toID="V12" toText="became" />
-<EVENT_ORDER id="E51" fromID="V3" fromText="is" toID="V13" toText="ignore" />
-<EVENT_ORDER id="E52" fromID="V3" fromText="is" toID="V14" toText="praised" />
-<EVENT_ORDER id="E53" fromID="V3" fromText="is" toID="V15" toText="bungled" />
 <EVENT_ORDER id="E54" fromID="V4" fromText="seen" toID="V5" toText="was" />
 <EVENT_ORDER id="E55" fromID="V4" fromText="seen" toID="V6" toText="was" />
 <EVENT_ORDER id="E56" fromID="V4" fromText="seen" toID="V7" toText="viewed" />

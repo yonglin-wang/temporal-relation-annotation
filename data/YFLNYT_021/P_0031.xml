@@ -3,23 +3,14 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Some of Mr. Trump’s highest-profile political adversaries leading states that have become epicenters of the virus have been striking conciliatory notes as they seek federal assistance. Mr. Cuomo said the president was “fully engaged” on the crisis. Gov. Gavin Newsom, Democrat of California, described a recent phone conversation with Mr. Trump as “a privilege.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="18~19" text="s" category="VBD" />
 <VERB id="V1" spans="58~65" text="leading" category="VBG" />
 <VERB id="V2" spans="83~89" text="become" category="VBN" />
 <VERB id="V3" spans="124~132" text="striking" category="VBG" />
-<VERB id="V4" spans="160~164" text="seek" category="VBP" />
+<VERB id="V4" spans="160~164" text="seek" category="VBZ" />
 <VERB id="V5" spans="195~199" text="said" category="VBD" />
 <VERB id="V6" spans="214~217" text="was" category="VBD" />
 <VERB id="V7" spans="225~232" text="engaged" category="VBD" />
 <VERB id="V8" spans="292~301" text="described" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="leading" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="become" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="striking" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="seek" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="said" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="was" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="engaged" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="described" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="leading" toID="V2" toText="become" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="leading" toID="V3" toText="striking" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="leading" toID="V4" toText="seek" />
