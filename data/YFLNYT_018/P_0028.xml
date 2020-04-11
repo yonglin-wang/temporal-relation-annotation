@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[While some Democrats worry about running yet another candidate of Mr. Trump’s generation for president, Ms. Buell said in an interview that 2020 might be too soon for some of the party’s biggest talents — like Ms. Harris, who took office in January, and Gavin Newsom, the lieutenant governor of California, who is running for governor.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="21~26" text="worry" category="VBP" />
+<VERB id="V0" spans="21~26" text="worry" category="VBZ" />
 <VERB id="V1" spans="33~40" text="running" category="VBG" />
 <VERB id="V2" spans="114~118" text="said" category="VBD" />
 <VERB id="V3" spans="151~153" text="be" category="VB" />

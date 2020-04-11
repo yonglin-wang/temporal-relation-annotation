@@ -3,14 +3,14 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“They have their own agenda, and their agenda is not your agenda,” he told the appreciative audience. “They could not defeat us in the primaries, and they could not defeat us in the general election, and we will continue to expose them for what they are, and most important, we will continue to win, win, win.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="6~10" text="have" category="VBP" />
+<VERB id="V0" spans="6~10" text="have" category="VBZ" />
 <VERB id="V1" spans="46~48" text="is" category="VBZ" />
 <VERB id="V2" spans="70~74" text="told" category="VBD" />
 <VERB id="V3" spans="118~124" text="defeat" category="VB" />
 <VERB id="V4" spans="165~171" text="defeat" category="VB" />
 <VERB id="V5" spans="212~220" text="continue" category="VB" />
 <VERB id="V6" spans="224~230" text="expose" category="VB" />
-<VERB id="V7" spans="250~253" text="are" category="VBP" />
+<VERB id="V7" spans="250~253" text="are" category="VBZ" />
 <VERB id="V8" spans="283~291" text="continue" category="VB" />
 <VERB id="V9" spans="295~298" text="win" category="VB" />
 <VERB id="V10" spans="300~303" text="win" category="VB" />

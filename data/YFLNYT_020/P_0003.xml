@@ -4,7 +4,6 @@
 <TEXT><![CDATA[American diplomats in Kabul must tiptoe between two rival Afghan leaders — President Ashraf Ghani and Abdullah Abdullah — who have each declared themselves the winner of national elections held last fall. The United States Embassy sees helping to resolve the political dispute as a core mission, but Afghan officials have soured on the State Department and its negotiated peace agreement with the Taliban, signed last month.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="33~39" text="tiptoe" category="VB" />
-<VERB id="V1" spans="126~130" text="have" category="VBP" />
 <VERB id="V2" spans="136~144" text="declared" category="VBN" />
 <VERB id="V3" spans="189~193" text="held" category="VBD" />
 <VERB id="V4" spans="231~235" text="sees" category="VBZ" />
@@ -12,7 +11,6 @@
 <VERB id="V6" spans="247~254" text="resolve" category="VB" />
 <VERB id="V7" spans="322~328" text="soured" category="VBN" />
 <VERB id="V8" spans="406~412" text="signed" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="tiptoe" toID="V1" toText="have" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="tiptoe" toID="V2" toText="declared" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="tiptoe" toID="V3" toText="held" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="tiptoe" toID="V4" toText="sees" />
@@ -20,13 +18,6 @@
 <EVENT_ORDER id="E5" fromID="V0" fromText="tiptoe" toID="V6" toText="resolve" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="tiptoe" toID="V7" toText="soured" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="tiptoe" toID="V8" toText="signed" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="have" toID="V2" toText="declared" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="have" toID="V3" toText="held" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="have" toID="V4" toText="sees" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="have" toID="V5" toText="helping" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="have" toID="V6" toText="resolve" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="have" toID="V7" toText="soured" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="have" toID="V8" toText="signed" />
 <EVENT_ORDER id="E15" fromID="V2" fromText="declared" toID="V3" toText="held" />
 <EVENT_ORDER id="E16" fromID="V2" fromText="declared" toID="V4" toText="sees" />
 <EVENT_ORDER id="E17" fromID="V2" fromText="declared" toID="V5" toText="helping" />

@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Democratic power brokers acknowledge that the field could grow further after the 2018 elections if a backlash against Mr. Trump brings a throng of new faces into high office.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="25~36" text="acknowledge" category="VBP" />
+<VERB id="V0" spans="25~36" text="acknowledge" category="VBZ" />
 <VERB id="V1" spans="58~62" text="grow" category="VB" />
 <VERB id="V2" spans="128~134" text="brings" category="VBZ" />
 <VERB id="V3" spans="151~156" text="faces" category="VBZ" />

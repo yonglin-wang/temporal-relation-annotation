@@ -3,8 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Some practices, like videoconferencing and telecommuting, may gain ground, Mr. Duhigg said, for a reward of saved time and trouble. He expressed doubts, however, that leisure travel behavior would see a similar shift. “It seems unlikely to me that people will say, ‘You know, I loved not taking vacations. I learned staying at home with my kids is so rewarding!’”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="21~38" text="videoconferencing" category="VBG" />
-<VERB id="V1" spans="43~56" text="telecommuting" category="VBG" />
 <VERB id="V2" spans="62~66" text="gain" category="VB" />
 <VERB id="V3" spans="86~90" text="said" category="VBD" />
 <VERB id="V4" spans="135~144" text="expressed" category="VBD" />
@@ -17,31 +15,6 @@
 <VERB id="V11" spans="308~315" text="learned" category="VBD" />
 <VERB id="V12" spans="316~323" text="staying" category="VBG" />
 <VERB id="V13" spans="345~347" text="is" category="VBZ" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="videoconferencing" toID="V1" toText="telecommuting" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="videoconferencing" toID="V2" toText="gain" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="videoconferencing" toID="V3" toText="said" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="videoconferencing" toID="V4" toText="expressed" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="videoconferencing" toID="V5" toText="see" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="videoconferencing" toID="V6" toText="seems" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="videoconferencing" toID="V7" toText="say" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="videoconferencing" toID="V8" toText="know" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="videoconferencing" toID="V9" toText="loved" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="videoconferencing" toID="V10" toText="taking" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="videoconferencing" toID="V11" toText="learned" />
-<EVENT_ORDER id="E11" fromID="V0" fromText="videoconferencing" toID="V12" toText="staying" />
-<EVENT_ORDER id="E12" fromID="V0" fromText="videoconferencing" toID="V13" toText="is" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="telecommuting" toID="V2" toText="gain" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="telecommuting" toID="V3" toText="said" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="telecommuting" toID="V4" toText="expressed" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="telecommuting" toID="V5" toText="see" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="telecommuting" toID="V6" toText="seems" />
-<EVENT_ORDER id="E18" fromID="V1" fromText="telecommuting" toID="V7" toText="say" />
-<EVENT_ORDER id="E19" fromID="V1" fromText="telecommuting" toID="V8" toText="know" />
-<EVENT_ORDER id="E20" fromID="V1" fromText="telecommuting" toID="V9" toText="loved" />
-<EVENT_ORDER id="E21" fromID="V1" fromText="telecommuting" toID="V10" toText="taking" />
-<EVENT_ORDER id="E22" fromID="V1" fromText="telecommuting" toID="V11" toText="learned" />
-<EVENT_ORDER id="E23" fromID="V1" fromText="telecommuting" toID="V12" toText="staying" />
-<EVENT_ORDER id="E24" fromID="V1" fromText="telecommuting" toID="V13" toText="is" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="gain" toID="V3" toText="said" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="gain" toID="V4" toText="expressed" />
 <EVENT_ORDER id="E27" fromID="V2" fromText="gain" toID="V5" toText="see" />

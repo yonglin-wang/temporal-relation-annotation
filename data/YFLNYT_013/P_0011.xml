@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[If you’re at home staring at your computer without the prying eyes of your co-workers, you may be tempted to shop online a bit more. Or maybe you’ll avoid the supermarket or mass transit by ordering your groceries. A bump in online shopping might be bad for your wallet, but it could be good for the planet, Dr. Nicholas said. She cited research suggesting that people who decide to use online ordering and package delivery could well be reducing their effect on climate change, thanks to the benefits of logistically organized, centralized delivery routes and driving less.  “I would expect in general that having fewer vehicles on the road is better for the climate,” she said. (While online shopping can reduce greenhouse gases, it is most effective when you order in bulk to limit the number of trips delivery vehicles make to your home.)]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="7~9" text="re" category="VB" />
+<VERB id="V0" spans="7~9" text="re" category="VBP" />
 <VERB id="V1" spans="55~61" text="prying" category="VBG" />
 <VERB id="V2" spans="98~105" text="tempted" category="VBN" />
 <VERB id="V3" spans="109~113" text="shop" category="VB" />

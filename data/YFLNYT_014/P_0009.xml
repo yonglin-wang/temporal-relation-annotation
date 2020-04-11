@@ -16,7 +16,6 @@
 <VERB id="V10" spans="366~370" text="seen" category="VBN" />
 <VERB id="V11" spans="419~428" text="according" category="VBG" />
 <VERB id="V12" spans="447~452" text="heard" category="VBD" />
-<VERB id="V13" spans="471~472" text="s" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="pressed" toID="V1" toText="spoke" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="pressed" toID="V2" toText="voted" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="pressed" toID="V3" toText="dined" />
@@ -29,7 +28,6 @@
 <EVENT_ORDER id="E9" fromID="V0" fromText="pressed" toID="V10" toText="seen" />
 <EVENT_ORDER id="E10" fromID="V0" fromText="pressed" toID="V11" toText="according" />
 <EVENT_ORDER id="E11" fromID="V0" fromText="pressed" toID="V12" toText="heard" />
-<EVENT_ORDER id="E12" fromID="V0" fromText="pressed" toID="V13" toText="s" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="spoke" toID="V2" toText="voted" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="spoke" toID="V3" toText="dined" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="spoke" toID="V4" toText="closed" />
@@ -41,7 +39,6 @@
 <EVENT_ORDER id="E21" fromID="V1" fromText="spoke" toID="V10" toText="seen" />
 <EVENT_ORDER id="E22" fromID="V1" fromText="spoke" toID="V11" toText="according" />
 <EVENT_ORDER id="E23" fromID="V1" fromText="spoke" toID="V12" toText="heard" />
-<EVENT_ORDER id="E24" fromID="V1" fromText="spoke" toID="V13" toText="s" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="voted" toID="V3" toText="dined" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="voted" toID="V4" toText="closed" />
 <EVENT_ORDER id="E27" fromID="V2" fromText="voted" toID="V5" toText="sitting" />
@@ -52,7 +49,6 @@
 <EVENT_ORDER id="E32" fromID="V2" fromText="voted" toID="V10" toText="seen" />
 <EVENT_ORDER id="E33" fromID="V2" fromText="voted" toID="V11" toText="according" />
 <EVENT_ORDER id="E34" fromID="V2" fromText="voted" toID="V12" toText="heard" />
-<EVENT_ORDER id="E35" fromID="V2" fromText="voted" toID="V13" toText="s" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="dined" toID="V4" toText="closed" />
 <EVENT_ORDER id="E37" fromID="V3" fromText="dined" toID="V5" toText="sitting" />
 <EVENT_ORDER id="E38" fromID="V3" fromText="dined" toID="V6" toText="being" />
@@ -62,7 +58,6 @@
 <EVENT_ORDER id="E42" fromID="V3" fromText="dined" toID="V10" toText="seen" />
 <EVENT_ORDER id="E43" fromID="V3" fromText="dined" toID="V11" toText="according" />
 <EVENT_ORDER id="E44" fromID="V3" fromText="dined" toID="V12" toText="heard" />
-<EVENT_ORDER id="E45" fromID="V3" fromText="dined" toID="V13" toText="s" />
 <EVENT_ORDER id="E46" fromID="V4" fromText="closed" toID="V5" toText="sitting" />
 <EVENT_ORDER id="E47" fromID="V4" fromText="closed" toID="V6" toText="being" />
 <EVENT_ORDER id="E48" fromID="V4" fromText="closed" toID="V7" toText="informed" />
@@ -71,7 +66,6 @@
 <EVENT_ORDER id="E51" fromID="V4" fromText="closed" toID="V10" toText="seen" />
 <EVENT_ORDER id="E52" fromID="V4" fromText="closed" toID="V11" toText="according" />
 <EVENT_ORDER id="E53" fromID="V4" fromText="closed" toID="V12" toText="heard" />
-<EVENT_ORDER id="E54" fromID="V4" fromText="closed" toID="V13" toText="s" />
 <EVENT_ORDER id="E55" fromID="V5" fromText="sitting" toID="V6" toText="being" />
 <EVENT_ORDER id="E56" fromID="V5" fromText="sitting" toID="V7" toText="informed" />
 <EVENT_ORDER id="E57" fromID="V5" fromText="sitting" toID="V8" toText="rose" />
@@ -79,34 +73,26 @@
 <EVENT_ORDER id="E59" fromID="V5" fromText="sitting" toID="V10" toText="seen" />
 <EVENT_ORDER id="E60" fromID="V5" fromText="sitting" toID="V11" toText="according" />
 <EVENT_ORDER id="E61" fromID="V5" fromText="sitting" toID="V12" toText="heard" />
-<EVENT_ORDER id="E62" fromID="V5" fromText="sitting" toID="V13" toText="s" />
 <EVENT_ORDER id="E63" fromID="V6" fromText="being" toID="V7" toText="informed" />
 <EVENT_ORDER id="E64" fromID="V6" fromText="being" toID="V8" toText="rose" />
 <EVENT_ORDER id="E65" fromID="V6" fromText="being" toID="V9" toText="tell" />
 <EVENT_ORDER id="E66" fromID="V6" fromText="being" toID="V10" toText="seen" />
 <EVENT_ORDER id="E67" fromID="V6" fromText="being" toID="V11" toText="according" />
 <EVENT_ORDER id="E68" fromID="V6" fromText="being" toID="V12" toText="heard" />
-<EVENT_ORDER id="E69" fromID="V6" fromText="being" toID="V13" toText="s" />
 <EVENT_ORDER id="E70" fromID="V7" fromText="informed" toID="V8" toText="rose" />
 <EVENT_ORDER id="E71" fromID="V7" fromText="informed" toID="V9" toText="tell" />
 <EVENT_ORDER id="E72" fromID="V7" fromText="informed" toID="V10" toText="seen" />
 <EVENT_ORDER id="E73" fromID="V7" fromText="informed" toID="V11" toText="according" />
 <EVENT_ORDER id="E74" fromID="V7" fromText="informed" toID="V12" toText="heard" />
-<EVENT_ORDER id="E75" fromID="V7" fromText="informed" toID="V13" toText="s" />
 <EVENT_ORDER id="E76" fromID="V8" fromText="rose" toID="V9" toText="tell" />
 <EVENT_ORDER id="E77" fromID="V8" fromText="rose" toID="V10" toText="seen" />
 <EVENT_ORDER id="E78" fromID="V8" fromText="rose" toID="V11" toText="according" />
 <EVENT_ORDER id="E79" fromID="V8" fromText="rose" toID="V12" toText="heard" />
-<EVENT_ORDER id="E80" fromID="V8" fromText="rose" toID="V13" toText="s" />
 <EVENT_ORDER id="E81" fromID="V9" fromText="tell" toID="V10" toText="seen" />
 <EVENT_ORDER id="E82" fromID="V9" fromText="tell" toID="V11" toText="according" />
 <EVENT_ORDER id="E83" fromID="V9" fromText="tell" toID="V12" toText="heard" />
-<EVENT_ORDER id="E84" fromID="V9" fromText="tell" toID="V13" toText="s" />
 <EVENT_ORDER id="E85" fromID="V10" fromText="seen" toID="V11" toText="according" />
 <EVENT_ORDER id="E86" fromID="V10" fromText="seen" toID="V12" toText="heard" />
-<EVENT_ORDER id="E87" fromID="V10" fromText="seen" toID="V13" toText="s" />
 <EVENT_ORDER id="E88" fromID="V11" fromText="according" toID="V12" toText="heard" />
-<EVENT_ORDER id="E89" fromID="V11" fromText="according" toID="V13" toText="s" />
-<EVENT_ORDER id="E90" fromID="V12" fromText="heard" toID="V13" toText="s" />
 </TAGS>
 </TemporalRelationTask>

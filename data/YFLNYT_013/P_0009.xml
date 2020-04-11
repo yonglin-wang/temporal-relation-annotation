@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[For people who turn their thermostats down while they are out of the house, staying home means more heat, and more greenhouse gases. But when it comes to the greenhouse gas impact of heating your home, “Where you live is by far the biggest factor in determining your carbon footprint,” Dr. Jones said. “If you live in a cold climate, heating your home can more than offset the savings from driving your vehicle.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="15~19" text="turn" category="VBP" />
+<VERB id="V0" spans="15~19" text="turn" category="VBZ" />
 <VERB id="V1" spans="54~57" text="are" category="VBP" />
 <VERB id="V2" spans="76~83" text="staying" category="VBG" />
 <VERB id="V3" spans="89~94" text="means" category="VBZ" />

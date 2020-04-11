@@ -5,11 +5,11 @@
 <TAGS>
 <VERB id="V0" spans="36~45" text="reporting" category="VBG" />
 <VERB id="V1" spans="86~90" text="said" category="VBD" />
-<VERB id="V2" spans="153~156" text="are" category="VBP" />
+<VERB id="V2" spans="153~156" text="are" category="VBZ" />
 <VERB id="V3" spans="189~193" text="said" category="VBD" />
-<VERB id="V4" spans="237~244" text="require" category="VBP" />
+<VERB id="V4" spans="237~244" text="require" category="VBZ" />
 <VERB id="V5" spans="323~327" text="left" category="VBN" />
-<VERB id="V6" spans="341~344" text="are" category="VBP" />
+<VERB id="V6" spans="341~344" text="are" category="VBZ" />
 <VERB id="V7" spans="360~364" text="died" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="reporting" toID="V1" toText="said" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="reporting" toID="V2" toText="are" />

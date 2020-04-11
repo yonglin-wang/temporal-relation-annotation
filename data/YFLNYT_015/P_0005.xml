@@ -3,19 +3,12 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Mr. Bloomberg’s presidential campaign had promised at its outset that it would finance a field program through the November election, attracting staff members like Ms. Conrad with generous pay and benefits. Then, upon his withdrawal from the race earlier this month, Bloomberg officials said the former New York mayor would continue to employ some of his campaign’s field staff through an independent campaign organization.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="14~15" text="s" category="VBZ" />
 <VERB id="V1" spans="42~50" text="promised" category="VBN" />
 <VERB id="V2" spans="79~86" text="finance" category="VB" />
 <VERB id="V3" spans="134~144" text="attracting" category="VBG" />
 <VERB id="V4" spans="287~291" text="said" category="VBD" />
 <VERB id="V5" spans="324~332" text="continue" category="VB" />
 <VERB id="V6" spans="336~342" text="employ" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="promised" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="finance" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="attracting" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="said" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="continue" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="employ" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="promised" toID="V2" toText="finance" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="promised" toID="V3" toText="attracting" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="promised" toID="V4" toText="said" />

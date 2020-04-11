@@ -4,7 +4,7 @@
 <TEXT><![CDATA[There are other possible pluses, strategists say, including his age, 59; his religious background as a Catholic, potentially popular in Rust Belt states; and his current occupation as governor, an executive-branch position that has allowed politicians to rack up résumé-building accomplishments. The role, however, can come with unflattering headlines.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="6~9" text="are" category="VBP" />
-<VERB id="V1" spans="45~48" text="say" category="VBP" />
+<VERB id="V1" spans="45~48" text="say" category="VBZ" />
 <VERB id="V2" spans="50~59" text="including" category="VBG" />
 <VERB id="V3" spans="232~239" text="allowed" category="VBN" />
 <VERB id="V4" spans="255~259" text="rack" category="VB" />

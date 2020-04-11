@@ -5,11 +5,11 @@
 <TAGS>
 <VERB id="V0" spans="4~12" text="proposed" category="VBN" />
 <VERB id="V1" spans="21~32" text="articulated" category="VBN" />
-<VERB id="V2" spans="45~52" text="include" category="VBP" />
+<VERB id="V2" spans="45~52" text="include" category="VBZ" />
 <VERB id="V3" spans="53~59" text="moving" category="VBG" />
 <VERB id="V4" spans="133~141" text="selected" category="VBN" />
 <VERB id="V5" spans="143~152" text="modifying" category="VBG" />
-<VERB id="V6" spans="176~182" text="govern" category="VBP" />
+<VERB id="V6" spans="176~182" text="govern" category="VBZ" />
 <VERB id="V7" spans="217~222" text="allow" category="VB" />
 <VERB id="V8" spans="241~249" text="allowing" category="VBG" />
 <VERB id="V9" spans="281~287" text="select" category="VB" />

@@ -4,7 +4,6 @@
 <TEXT><![CDATA[Last week, Joe Biden was denouncing the president’s herky-jerky response to the virus and offering his own proposals on how to handle it. How does he adjust now that Trump has changed his tune and is working on a bipartisan plan to address the crisis?]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="25~35" text="denouncing" category="VBG" />
-<VERB id="V1" spans="43~44" text="s" category="VBD" />
 <VERB id="V2" spans="90~98" text="offering" category="VBG" />
 <VERB id="V3" spans="127~133" text="handle" category="VB" />
 <VERB id="V4" spans="142~146" text="does" category="VBZ" />
@@ -12,7 +11,6 @@
 <VERB id="V6" spans="176~183" text="changed" category="VBN" />
 <VERB id="V7" spans="200~207" text="working" category="VBG" />
 <VERB id="V8" spans="232~239" text="address" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="denouncing" toID="V1" toText="s" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="denouncing" toID="V2" toText="offering" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="denouncing" toID="V3" toText="handle" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="denouncing" toID="V4" toText="does" />
@@ -20,13 +18,6 @@
 <EVENT_ORDER id="E5" fromID="V0" fromText="denouncing" toID="V6" toText="changed" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="denouncing" toID="V7" toText="working" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="denouncing" toID="V8" toText="address" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="s" toID="V2" toText="offering" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="s" toID="V3" toText="handle" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="s" toID="V4" toText="does" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="s" toID="V5" toText="adjust" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="s" toID="V6" toText="changed" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="s" toID="V7" toText="working" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="s" toID="V8" toText="address" />
 <EVENT_ORDER id="E15" fromID="V2" fromText="offering" toID="V3" toText="handle" />
 <EVENT_ORDER id="E16" fromID="V2" fromText="offering" toID="V4" toText="does" />
 <EVENT_ORDER id="E17" fromID="V2" fromText="offering" toID="V5" toText="adjust" />
