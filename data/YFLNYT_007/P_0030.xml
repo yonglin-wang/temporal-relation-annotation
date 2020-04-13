@@ -3,11 +3,8 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[American companies that manufacture face masks, medical wipes and other supplies are already operating around the clock to meet elevated demand.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="81~84" text="are" category="VBP" />
 <VERB id="V1" spans="93~102" text="operating" category="VBG" />
 <VERB id="V2" spans="123~127" text="meet" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="operating" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="meet" />
 <EVENT_ORDER id="E2" fromID="V1" fromText="operating" toID="V2" toText="meet" />
 </TAGS>
 </TemporalRelationTask>

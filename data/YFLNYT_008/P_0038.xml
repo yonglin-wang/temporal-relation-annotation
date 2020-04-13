@@ -6,7 +6,7 @@
 <VERB id="V0" spans="22~29" text="pledged" category="VBD" />
 <VERB id="V1" spans="37~40" text="lay" category="VB" />
 <VERB id="V2" spans="65~72" text="receive" category="VB" />
-<VERB id="V3" spans="94~104" text="structured" category="VBD" />
+<VERB id="V3" spans="94~104" text="structured" category="VBN" />
 <VERB id="V4" spans="118~128" text="guaranteed" category="VBN" />
 <VERB id="V5" spans="165~171" text="needed" category="VBD" />
 <VERB id="V6" spans="175~179" text="stay" category="VB" />
