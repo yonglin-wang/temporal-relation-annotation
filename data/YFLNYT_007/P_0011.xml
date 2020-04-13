@@ -4,23 +4,16 @@
 <TEXT><![CDATA[Yet as that debate has played out in the White House Situation Room, Mr. Trump’s son-in-law, Jared Kushner, has thrown out the established government plan for dealing with pandemics, after concluding it was insufficient because it never envisioned a pandemic of this breadth.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="23~29" text="played" category="VBN" />
-<VERB id="V1" spans="50~51" text="s" category="VBD" />
 <VERB id="V2" spans="112~118" text="thrown" category="VBN" />
 <VERB id="V3" spans="159~166" text="dealing" category="VBG" />
 <VERB id="V4" spans="189~199" text="concluding" category="VBG" />
 <VERB id="V5" spans="203~206" text="was" category="VBD" />
 <VERB id="V6" spans="237~247" text="envisioned" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="played" toID="V1" toText="s" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="played" toID="V2" toText="thrown" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="played" toID="V3" toText="dealing" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="played" toID="V4" toText="concluding" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="played" toID="V5" toText="was" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="played" toID="V6" toText="envisioned" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="s" toID="V2" toText="thrown" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="s" toID="V3" toText="dealing" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="s" toID="V4" toText="concluding" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="s" toID="V5" toText="was" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="s" toID="V6" toText="envisioned" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="thrown" toID="V3" toText="dealing" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="thrown" toID="V4" toText="concluding" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="thrown" toID="V5" toText="was" />
