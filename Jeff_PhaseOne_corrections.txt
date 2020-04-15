@@ -6,3 +6,47 @@ example:
 has 12-5 (=the non-event verb "has" has been deleted from article YFLNYT_012's 5th paragraph, namely P_0005.xml)
 
 your record:
+were		25-1
+s		25-3
+don		25-5
+is		25-8
+is		25-8
+did		25-12
+don		25-17
+t		25-17
+concerned	25-21
+is		25-22
+don		25-22
+doesn		25-23
+doesn		25-24
+frustrated	25-25
+wouldn		25-26
+frustrated	25-27
+don		25-28
+s		25-28
+alienated	25-28
+ostracized	25-28
+being		25-28
+didn		25-28
+alienated	25-29
+favored		25-29
+ignored		25-32
+patronized	25-32
+
+
+New main verbs identified in the format of "<verb text> <article ID>-<Paragraph number> <reason>":
+
+vote		25-5	"don't vote" the original verb identified is don
+is		25-8	the original "is" identified is h"is" and admin"is"tration
+is		25-8	the original "is" identified is h"is" and admin"is"tration
+upend		25-12	unidentified
+speak		25-18	unidentified
+re		25-21	"'re concerned" the original verb identified is concerned
+impact		25-23	"doesn't impact" the original verb identified is doesn
+support		25-24	"doesn't support" the original verb identified is doesn
+vote		25-26	"wouldn't vote" the original verb identified is wouldn
+are		25-27	"are frustrated" the original verb identified his are
+appreciate	25-28	"don't appreciate" the original verb identified is don
+s		25-28	the original "s" identified is becau"s"e
+sign		25-28	"didn't sign up for" the original verb identified is didn
+were		25-29	"were alienated PP and bitter" the original verb identified is alienated
