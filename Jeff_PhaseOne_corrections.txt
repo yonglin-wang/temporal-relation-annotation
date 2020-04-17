@@ -33,6 +33,39 @@ favored		25-29
 ignored		25-32
 patronized	25-32
 
+stunning	26-1
+has		26-1
+left		26-3
+is		26-3
+overriding	26-3
+s		26-4
+don		26-6
+going		26-6
+s		26-7
+growing		26-8
+had		26-9
+statewide	26-9
+s		26-9
+growing		26-10
+leading		26-12
+had		26-12
+according	26-12
+growing		26-14
+are		26-14
+had		26-14
+working		26-14
+repeated	26-16
+s		26-20
+does		26-20
+being		26-22
+don		26-23
+striking	26-26
+referring	26-27
+is		26-29
+hunting		26-30
+sitting		26-31
+Sometimes	26-32
+s		26-36
 
 New main verbs identified in the format of "<verb text> <article ID>-<Paragraph number> <reason>":
 
