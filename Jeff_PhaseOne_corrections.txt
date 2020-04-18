@@ -82,6 +82,13 @@ remaining	27-11
 has		27-12
 is		27-12
 
+s		28-3
+s		28-4
+s		28-7
+are		28-8
+were		28-8
+s		28-12
+
 
 
 New main verbs identified in the format of "<verb text> <article ID>-<Paragraph number> <reason>":
