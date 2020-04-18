@@ -67,6 +67,23 @@ sitting		26-31
 Sometimes	26-32
 s		26-36
 
+s		27-1
+has		27-3
+been		27-3
+s		27-5
+remaining	27-5
+is		27-6
+remaining	27-6
+do		27-8
+pledged		27-8
+coming		27-11
+have		27-11
+remaining	27-11
+has		27-12
+is		27-12
+
+
+
 New main verbs identified in the format of "<verb text> <article ID>-<Paragraph number> <reason>":
 
 vote		25-5	"don't vote" the original verb identified is don
