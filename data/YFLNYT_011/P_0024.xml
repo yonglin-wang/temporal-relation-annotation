@@ -4,32 +4,19 @@
 <TEXT><![CDATA[The chancellor thanked the many Germans who have radically changed their lifestyles. And she warned those who have not yet done so that the rules are not optional.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="15~22" text="thanked" category="VBD" />
-<VERB id="V1" spans="44~48" text="have" category="VBP" />
 <VERB id="V2" spans="59~66" text="changed" category="VBN" />
 <VERB id="V3" spans="93~99" text="warned" category="VBD" />
-<VERB id="V4" spans="110~114" text="have" category="VBP" />
 <VERB id="V5" spans="123~127" text="done" category="VBN" />
 <VERB id="V6" spans="146~149" text="are" category="VBP" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="thanked" toID="V1" toText="have" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="thanked" toID="V2" toText="changed" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="thanked" toID="V3" toText="warned" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="thanked" toID="V4" toText="have" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="thanked" toID="V5" toText="done" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="thanked" toID="V6" toText="are" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="have" toID="V2" toText="changed" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="have" toID="V3" toText="warned" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="have" toID="V4" toText="have" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="have" toID="V5" toText="done" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="have" toID="V6" toText="are" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="changed" toID="V3" toText="warned" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="changed" toID="V4" toText="have" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="changed" toID="V5" toText="done" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="changed" toID="V6" toText="are" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="warned" toID="V4" toText="have" />
 <EVENT_ORDER id="E16" fromID="V3" fromText="warned" toID="V5" toText="done" />
 <EVENT_ORDER id="E17" fromID="V3" fromText="warned" toID="V6" toText="are" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="have" toID="V5" toText="done" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="have" toID="V6" toText="are" />
 <EVENT_ORDER id="E20" fromID="V5" fromText="done" toID="V6" toText="are" />
 </TAGS>
 </TemporalRelationTask>
