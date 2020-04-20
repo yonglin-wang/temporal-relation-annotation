@@ -7,22 +7,16 @@
 <VERB id="V1" spans="38~41" text="has" category="VBZ" />
 <VERB id="V2" spans="72~76" text="said" category="VBD" />
 <VERB id="V3" spans="78~87" text="referring" category="VBG" />
-<VERB id="V4" spans="110~119" text="regularly" category="VB" />
 <VERB id="V5" spans="120~123" text="see" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="exposed" toID="V1" toText="has" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="exposed" toID="V2" toText="said" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="exposed" toID="V3" toText="referring" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="exposed" toID="V4" toText="regularly" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="exposed" toID="V5" toText="see" />
 <EVENT_ORDER id="E5" fromID="V1" fromText="has" toID="V2" toText="said" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="has" toID="V3" toText="referring" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="has" toID="V4" toText="regularly" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="has" toID="V5" toText="see" />
 <EVENT_ORDER id="E9" fromID="V2" fromText="said" toID="V3" toText="referring" />
-<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="regularly" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V5" toText="see" />
-<EVENT_ORDER id="E12" fromID="V3" fromText="referring" toID="V4" toText="regularly" />
 <EVENT_ORDER id="E13" fromID="V3" fromText="referring" toID="V5" toText="see" />
-<EVENT_ORDER id="E14" fromID="V4" fromText="regularly" toID="V5" toText="see" />
 </TAGS>
 </TemporalRelationTask>

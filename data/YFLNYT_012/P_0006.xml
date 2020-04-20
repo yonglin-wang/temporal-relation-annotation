@@ -3,7 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Trump has historically been great at raising money online — and besides, polling shows that Republicans are overwhelmingly likely to say they think the threat of the coronavirus has been overblown by the media. Josh Holmes, a top Republican strategist, told our reporter Shane Goldmacher that by avoiding mentioning the virus, Trump’s team appears to be taking an “if it’s not broken, don’t fix it” approach to messaging.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="6~9" text="has" category="VBZ" />
 <VERB id="V1" spans="23~27" text="been" category="VBN" />
 <VERB id="V2" spans="37~44" text="raising" category="VBG" />
 <VERB id="V3" spans="104~107" text="are" category="VBP" />
@@ -16,20 +15,7 @@
 <VERB id="V10" spans="340~347" text="appears" category="VBZ" />
 <VERB id="V11" spans="354~360" text="taking" category="VBG" />
 <VERB id="V12" spans="377~383" text="broken" category="VB" />
-<VERB id="V13" spans="385~388" text="don" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="been" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="raising" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="are" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="say" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="think" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="has" toID="V6" toText="overblown" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="has" toID="V7" toText="told" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="has" toID="V8" toText="avoiding" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="has" toID="V9" toText="mentioning" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="has" toID="V10" toText="appears" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="has" toID="V11" toText="taking" />
-<EVENT_ORDER id="E11" fromID="V0" fromText="has" toID="V12" toText="broken" />
-<EVENT_ORDER id="E12" fromID="V0" fromText="has" toID="V13" toText="don" />
+<VERB id="V14" spans="391~394" text="fix" category="VB" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="been" toID="V2" toText="raising" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="been" toID="V3" toText="are" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="been" toID="V4" toText="say" />
@@ -41,7 +27,6 @@
 <EVENT_ORDER id="E21" fromID="V1" fromText="been" toID="V10" toText="appears" />
 <EVENT_ORDER id="E22" fromID="V1" fromText="been" toID="V11" toText="taking" />
 <EVENT_ORDER id="E23" fromID="V1" fromText="been" toID="V12" toText="broken" />
-<EVENT_ORDER id="E24" fromID="V1" fromText="been" toID="V13" toText="don" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="raising" toID="V3" toText="are" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="raising" toID="V4" toText="say" />
 <EVENT_ORDER id="E27" fromID="V2" fromText="raising" toID="V5" toText="think" />
@@ -52,7 +37,6 @@
 <EVENT_ORDER id="E32" fromID="V2" fromText="raising" toID="V10" toText="appears" />
 <EVENT_ORDER id="E33" fromID="V2" fromText="raising" toID="V11" toText="taking" />
 <EVENT_ORDER id="E34" fromID="V2" fromText="raising" toID="V12" toText="broken" />
-<EVENT_ORDER id="E35" fromID="V2" fromText="raising" toID="V13" toText="don" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="are" toID="V4" toText="say" />
 <EVENT_ORDER id="E37" fromID="V3" fromText="are" toID="V5" toText="think" />
 <EVENT_ORDER id="E38" fromID="V3" fromText="are" toID="V6" toText="overblown" />
@@ -62,7 +46,6 @@
 <EVENT_ORDER id="E42" fromID="V3" fromText="are" toID="V10" toText="appears" />
 <EVENT_ORDER id="E43" fromID="V3" fromText="are" toID="V11" toText="taking" />
 <EVENT_ORDER id="E44" fromID="V3" fromText="are" toID="V12" toText="broken" />
-<EVENT_ORDER id="E45" fromID="V3" fromText="are" toID="V13" toText="don" />
 <EVENT_ORDER id="E46" fromID="V4" fromText="say" toID="V5" toText="think" />
 <EVENT_ORDER id="E47" fromID="V4" fromText="say" toID="V6" toText="overblown" />
 <EVENT_ORDER id="E48" fromID="V4" fromText="say" toID="V7" toText="told" />
@@ -71,7 +54,6 @@
 <EVENT_ORDER id="E51" fromID="V4" fromText="say" toID="V10" toText="appears" />
 <EVENT_ORDER id="E52" fromID="V4" fromText="say" toID="V11" toText="taking" />
 <EVENT_ORDER id="E53" fromID="V4" fromText="say" toID="V12" toText="broken" />
-<EVENT_ORDER id="E54" fromID="V4" fromText="say" toID="V13" toText="don" />
 <EVENT_ORDER id="E55" fromID="V5" fromText="think" toID="V6" toText="overblown" />
 <EVENT_ORDER id="E56" fromID="V5" fromText="think" toID="V7" toText="told" />
 <EVENT_ORDER id="E57" fromID="V5" fromText="think" toID="V8" toText="avoiding" />
@@ -79,34 +61,26 @@
 <EVENT_ORDER id="E59" fromID="V5" fromText="think" toID="V10" toText="appears" />
 <EVENT_ORDER id="E60" fromID="V5" fromText="think" toID="V11" toText="taking" />
 <EVENT_ORDER id="E61" fromID="V5" fromText="think" toID="V12" toText="broken" />
-<EVENT_ORDER id="E62" fromID="V5" fromText="think" toID="V13" toText="don" />
 <EVENT_ORDER id="E63" fromID="V6" fromText="overblown" toID="V7" toText="told" />
 <EVENT_ORDER id="E64" fromID="V6" fromText="overblown" toID="V8" toText="avoiding" />
 <EVENT_ORDER id="E65" fromID="V6" fromText="overblown" toID="V9" toText="mentioning" />
 <EVENT_ORDER id="E66" fromID="V6" fromText="overblown" toID="V10" toText="appears" />
 <EVENT_ORDER id="E67" fromID="V6" fromText="overblown" toID="V11" toText="taking" />
 <EVENT_ORDER id="E68" fromID="V6" fromText="overblown" toID="V12" toText="broken" />
-<EVENT_ORDER id="E69" fromID="V6" fromText="overblown" toID="V13" toText="don" />
 <EVENT_ORDER id="E70" fromID="V7" fromText="told" toID="V8" toText="avoiding" />
 <EVENT_ORDER id="E71" fromID="V7" fromText="told" toID="V9" toText="mentioning" />
 <EVENT_ORDER id="E72" fromID="V7" fromText="told" toID="V10" toText="appears" />
 <EVENT_ORDER id="E73" fromID="V7" fromText="told" toID="V11" toText="taking" />
 <EVENT_ORDER id="E74" fromID="V7" fromText="told" toID="V12" toText="broken" />
-<EVENT_ORDER id="E75" fromID="V7" fromText="told" toID="V13" toText="don" />
 <EVENT_ORDER id="E76" fromID="V8" fromText="avoiding" toID="V9" toText="mentioning" />
 <EVENT_ORDER id="E77" fromID="V8" fromText="avoiding" toID="V10" toText="appears" />
 <EVENT_ORDER id="E78" fromID="V8" fromText="avoiding" toID="V11" toText="taking" />
 <EVENT_ORDER id="E79" fromID="V8" fromText="avoiding" toID="V12" toText="broken" />
-<EVENT_ORDER id="E80" fromID="V8" fromText="avoiding" toID="V13" toText="don" />
 <EVENT_ORDER id="E81" fromID="V9" fromText="mentioning" toID="V10" toText="appears" />
 <EVENT_ORDER id="E82" fromID="V9" fromText="mentioning" toID="V11" toText="taking" />
 <EVENT_ORDER id="E83" fromID="V9" fromText="mentioning" toID="V12" toText="broken" />
-<EVENT_ORDER id="E84" fromID="V9" fromText="mentioning" toID="V13" toText="don" />
 <EVENT_ORDER id="E85" fromID="V10" fromText="appears" toID="V11" toText="taking" />
 <EVENT_ORDER id="E86" fromID="V10" fromText="appears" toID="V12" toText="broken" />
-<EVENT_ORDER id="E87" fromID="V10" fromText="appears" toID="V13" toText="don" />
 <EVENT_ORDER id="E88" fromID="V11" fromText="taking" toID="V12" toText="broken" />
-<EVENT_ORDER id="E89" fromID="V11" fromText="taking" toID="V13" toText="don" />
-<EVENT_ORDER id="E90" fromID="V12" fromText="broken" toID="V13" toText="don" />
 </TAGS>
 </TemporalRelationTask>

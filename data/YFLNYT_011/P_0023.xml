@@ -6,28 +6,21 @@
 <VERB id="V0" spans="27~34" text="imposed" category="VBN" />
 <VERB id="V1" spans="61~70" text="announced" category="VBN" />
 <VERB id="V2" spans="93~97" text="said" category="VBD" />
-<VERB id="V3" spans="115~119" text="were" category="VBD" />
 <VERB id="V4" spans="124~133" text="following" category="VBG" />
 <VERB id="V5" spans="141~151" text="distancing" category="VBG" />
 <VERB id="V6" spans="163~166" text="set" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="imposed" toID="V1" toText="announced" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="imposed" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="imposed" toID="V3" toText="were" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="imposed" toID="V4" toText="following" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="imposed" toID="V5" toText="distancing" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="imposed" toID="V6" toText="set" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="announced" toID="V2" toText="said" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="announced" toID="V3" toText="were" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="announced" toID="V4" toText="following" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="announced" toID="V5" toText="distancing" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="announced" toID="V6" toText="set" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V3" toText="were" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="said" toID="V4" toText="following" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V5" toText="distancing" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V6" toText="set" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="were" toID="V4" toText="following" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="were" toID="V5" toText="distancing" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="were" toID="V6" toText="set" />
 <EVENT_ORDER id="E18" fromID="V4" fromText="following" toID="V5" toText="distancing" />
 <EVENT_ORDER id="E19" fromID="V4" fromText="following" toID="V6" toText="set" />
 <EVENT_ORDER id="E20" fromID="V5" fromText="distancing" toID="V6" toText="set" />

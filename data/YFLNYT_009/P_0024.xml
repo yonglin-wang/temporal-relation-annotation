@@ -3,9 +3,8 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“This is unbelievable,” Ms. Collins fumed, as other Republicans pushed to allow her to weigh in. She walked over to Mr. Schumer, pointing at him, and said: “You are objecting to my speaking? This is appalling.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="3~5" text="is" category="VBZ" />
 <VERB id="V1" spans="36~41" text="fumed" category="VBD" />
-<VERB id="V2" spans="64~70" text="pushed" category="VBN" />
+<VERB id="V2" spans="64~70" text="pushed" category="VBD" />
 <VERB id="V3" spans="74~79" text="allow" category="VB" />
 <VERB id="V4" spans="87~92" text="weigh" category="VB" />
 <VERB id="V5" spans="101~107" text="walked" category="VBD" />
@@ -13,15 +12,7 @@
 <VERB id="V7" spans="150~154" text="said" category="VBD" />
 <VERB id="V8" spans="165~174" text="objecting" category="VBG" />
 <VERB id="V9" spans="199~208" text="appalling" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="fumed" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="pushed" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="allow" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="weigh" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="walked" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="pointing" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="said" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="objecting" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="is" toID="V9" toText="appalling" />
+<VERB id="V10" spans="6~8" text="is" category="VBZ" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="fumed" toID="V2" toText="pushed" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="fumed" toID="V3" toText="allow" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="fumed" toID="V4" toText="weigh" />
