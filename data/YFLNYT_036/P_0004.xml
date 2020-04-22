@@ -3,7 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Instead, Mr. Trump, who has always scripted his presidency like a reality show, has found his new favorite stage: the dust-covered briefing room, unused for months since Sarah Huckabee Sanders, his previous press secretary, ended daily sessions with reporters. Now, the briefings offer him a unique perch from which he can try to rebrand himself as a “wartime president” and demonstrate his focus on a pandemic he only weeks ago dismissed.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="24~27" text="has" category="VBZ" />
 <VERB id="V1" spans="35~43" text="scripted" category="VBN" />
 <VERB id="V2" spans="84~89" text="found" category="VBN" />
 <VERB id="V3" spans="224~229" text="ended" category="VBD" />
@@ -12,14 +11,6 @@
 <VERB id="V6" spans="330~337" text="rebrand" category="VB" />
 <VERB id="V7" spans="375~386" text="demonstrate" category="VB" />
 <VERB id="V8" spans="429~438" text="dismissed" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="scripted" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="found" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="ended" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="offer" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="try" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="has" toID="V6" toText="rebrand" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="has" toID="V7" toText="demonstrate" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="has" toID="V8" toText="dismissed" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="scripted" toID="V2" toText="found" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="scripted" toID="V3" toText="ended" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="scripted" toID="V4" toText="offer" />
