@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[When a half dozen other senators were exposed to individuals who had tested positive for the virus, they voluntarily self-isolated, as top health officials have advised. They also made sure to communicate with constituents that following the guidelines was an important matter of life and death, even for their elected leaders. Senator Cory Gardner, Republican of Colorado, has been absent from the Senate for much of the week for that reason.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="38~45" text="exposed" category="VBN" />
+<VERB id="V1" spans="69~75" text="tested" category="VBN" />
+<VERB id="V2" spans="161~168" text="advised" category="VBN" />
+<VERB id="V3" spans="180~184" text="made" category="VBD" />
+<VERB id="V4" spans="193~204" text="communicate" category="VB" />
+<VERB id="V5" spans="228~237" text="following" category="VBG" />
+<VERB id="V6" spans="253~256" text="was" category="VBD" />
+<VERB id="V7" spans="383~389" text="absent" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="exposed" toID="V1" toText="tested" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="exposed" toID="V2" toText="advised" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="exposed" toID="V3" toText="made" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="exposed" toID="V4" toText="communicate" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="exposed" toID="V5" toText="following" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="exposed" toID="V6" toText="was" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="exposed" toID="V7" toText="absent" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="tested" toID="V2" toText="advised" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="tested" toID="V3" toText="made" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="tested" toID="V4" toText="communicate" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="tested" toID="V5" toText="following" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="tested" toID="V6" toText="was" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="tested" toID="V7" toText="absent" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="advised" toID="V3" toText="made" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="advised" toID="V4" toText="communicate" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="advised" toID="V5" toText="following" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="advised" toID="V6" toText="was" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="advised" toID="V7" toText="absent" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="made" toID="V4" toText="communicate" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="made" toID="V5" toText="following" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="made" toID="V6" toText="was" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="made" toID="V7" toText="absent" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="communicate" toID="V5" toText="following" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="communicate" toID="V6" toText="was" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="communicate" toID="V7" toText="absent" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="following" toID="V6" toText="was" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="following" toID="V7" toText="absent" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="was" toID="V7" toText="absent" />
+</TAGS>
+</TemporalRelationTask>

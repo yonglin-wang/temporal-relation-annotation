@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[And chief executives “aren’t prepared for the scrutiny,” Mr. Gergen said. “It’s especially tough to work with the press. They’re used to having layers of people around them, but in politics you’re out there dealing with reporters every day.”]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="68~72" text="said" category="VBD" />
+<VERB id="V2" spans="78~79" text="s" category="VBZ" />
+<VERB id="V3" spans="100~104" text="work" category="VB" />
+<VERB id="V4" spans="129~133" text="used" category="VBN" />
+<VERB id="V5" spans="137~143" text="having" category="VBG" />
+<VERB id="V6" spans="194~196" text="re" category="VB" />
+<VERB id="V7" spans="207~214" text="dealing" category="VBG" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V2" toText="s" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V3" toText="work" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V4" toText="used" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V5" toText="having" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="said" toID="V6" toText="re" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="said" toID="V7" toText="dealing" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="s" toID="V3" toText="work" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="s" toID="V4" toText="used" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="s" toID="V5" toText="having" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="s" toID="V6" toText="re" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="s" toID="V7" toText="dealing" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="work" toID="V4" toText="used" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="work" toID="V5" toText="having" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="work" toID="V6" toText="re" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="work" toID="V7" toText="dealing" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="used" toID="V5" toText="having" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="used" toID="V6" toText="re" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="used" toID="V7" toText="dealing" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="having" toID="V6" toText="re" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="having" toID="V7" toText="dealing" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="re" toID="V7" toText="dealing" />
+</TAGS>
+</TemporalRelationTask>

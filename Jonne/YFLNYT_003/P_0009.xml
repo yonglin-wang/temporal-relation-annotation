@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Ms. Gillibrand is honest about what she did and didn’t know at the beginning of her tenure in the Senate. She is willing to admit her mistakes and the gaps in her knowledge. Swelling support for her comes at a time when her closest colleague, Mr. Schumer, a fellow Democrat who is the Senate minority leader, has been the target of repeated protests from constituents who are either aggrieved over his approval of some of Mr. Trump’s cabinet nominees or who simply want to let him know they expect him to lead the resistance without wavering.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~17" text="is" category="VBZ" />
+<VERB id="V3" spans="55~59" text="know" category="VBP" />
+<VERB id="V4" spans="110~112" text="is" category="VBZ" />
+<VERB id="V5" spans="124~129" text="admit" category="VB" />
+<VERB id="V6" spans="174~182" text="Swelling" category="VBG" />
+<VERB id="V7" spans="199~204" text="comes" category="VBZ" />
+<VERB id="V8" spans="278~280" text="is" category="VBZ" />
+<VERB id="V9" spans="313~317" text="been" category="VBN" />
+<VERB id="V10" spans="372~375" text="are" category="VBP" />
+<VERB id="V11" spans="383~392" text="aggrieved" category="VBN" />
+<VERB id="V13" spans="465~469" text="want" category="VBP" />
+<VERB id="V14" spans="473~476" text="let" category="VB" />
+<VERB id="V15" spans="481~485" text="know" category="VB" />
+<VERB id="V16" spans="491~497" text="expect" category="VBP" />
+<VERB id="V17" spans="505~509" text="lead" category="VB" />
+<VERB id="V18" spans="533~541" text="wavering" category="VBG" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="know" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="is" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="admit" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="Swelling" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="comes" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="is" toID="V9" toText="been" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="is" toID="V10" toText="are" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="is" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="is" toID="V13" toText="want" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="is" toID="V14" toText="let" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="is" toID="V15" toText="know" />
+<EVENT_ORDER id="E15" fromID="V0" fromText="is" toID="V16" toText="expect" />
+<EVENT_ORDER id="E16" fromID="V0" fromText="is" toID="V17" toText="lead" />
+<EVENT_ORDER id="E17" fromID="V0" fromText="is" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E51" fromID="V3" fromText="know" toID="V4" toText="is" />
+<EVENT_ORDER id="E52" fromID="V3" fromText="know" toID="V5" toText="admit" />
+<EVENT_ORDER id="E53" fromID="V3" fromText="know" toID="V6" toText="Swelling" />
+<EVENT_ORDER id="E54" fromID="V3" fromText="know" toID="V7" toText="comes" />
+<EVENT_ORDER id="E55" fromID="V3" fromText="know" toID="V8" toText="is" />
+<EVENT_ORDER id="E56" fromID="V3" fromText="know" toID="V9" toText="been" />
+<EVENT_ORDER id="E57" fromID="V3" fromText="know" toID="V10" toText="are" />
+<EVENT_ORDER id="E58" fromID="V3" fromText="know" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E60" fromID="V3" fromText="know" toID="V13" toText="want" />
+<EVENT_ORDER id="E61" fromID="V3" fromText="know" toID="V14" toText="let" />
+<EVENT_ORDER id="E62" fromID="V3" fromText="know" toID="V15" toText="know" />
+<EVENT_ORDER id="E63" fromID="V3" fromText="know" toID="V16" toText="expect" />
+<EVENT_ORDER id="E64" fromID="V3" fromText="know" toID="V17" toText="lead" />
+<EVENT_ORDER id="E65" fromID="V3" fromText="know" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E66" fromID="V4" fromText="is" toID="V5" toText="admit" />
+<EVENT_ORDER id="E67" fromID="V4" fromText="is" toID="V6" toText="Swelling" />
+<EVENT_ORDER id="E68" fromID="V4" fromText="is" toID="V7" toText="comes" />
+<EVENT_ORDER id="E69" fromID="V4" fromText="is" toID="V8" toText="is" />
+<EVENT_ORDER id="E70" fromID="V4" fromText="is" toID="V9" toText="been" />
+<EVENT_ORDER id="E71" fromID="V4" fromText="is" toID="V10" toText="are" />
+<EVENT_ORDER id="E72" fromID="V4" fromText="is" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E74" fromID="V4" fromText="is" toID="V13" toText="want" />
+<EVENT_ORDER id="E75" fromID="V4" fromText="is" toID="V14" toText="let" />
+<EVENT_ORDER id="E76" fromID="V4" fromText="is" toID="V15" toText="know" />
+<EVENT_ORDER id="E77" fromID="V4" fromText="is" toID="V16" toText="expect" />
+<EVENT_ORDER id="E78" fromID="V4" fromText="is" toID="V17" toText="lead" />
+<EVENT_ORDER id="E79" fromID="V4" fromText="is" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E80" fromID="V5" fromText="admit" toID="V6" toText="Swelling" />
+<EVENT_ORDER id="E81" fromID="V5" fromText="admit" toID="V7" toText="comes" />
+<EVENT_ORDER id="E82" fromID="V5" fromText="admit" toID="V8" toText="is" />
+<EVENT_ORDER id="E83" fromID="V5" fromText="admit" toID="V9" toText="been" />
+<EVENT_ORDER id="E84" fromID="V5" fromText="admit" toID="V10" toText="are" />
+<EVENT_ORDER id="E85" fromID="V5" fromText="admit" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E87" fromID="V5" fromText="admit" toID="V13" toText="want" />
+<EVENT_ORDER id="E88" fromID="V5" fromText="admit" toID="V14" toText="let" />
+<EVENT_ORDER id="E89" fromID="V5" fromText="admit" toID="V15" toText="know" />
+<EVENT_ORDER id="E90" fromID="V5" fromText="admit" toID="V16" toText="expect" />
+<EVENT_ORDER id="E91" fromID="V5" fromText="admit" toID="V17" toText="lead" />
+<EVENT_ORDER id="E92" fromID="V5" fromText="admit" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E93" fromID="V6" fromText="Swelling" toID="V7" toText="comes" />
+<EVENT_ORDER id="E94" fromID="V6" fromText="Swelling" toID="V8" toText="is" />
+<EVENT_ORDER id="E95" fromID="V6" fromText="Swelling" toID="V9" toText="been" />
+<EVENT_ORDER id="E96" fromID="V6" fromText="Swelling" toID="V10" toText="are" />
+<EVENT_ORDER id="E97" fromID="V6" fromText="Swelling" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E99" fromID="V6" fromText="Swelling" toID="V13" toText="want" />
+<EVENT_ORDER id="E100" fromID="V6" fromText="Swelling" toID="V14" toText="let" />
+<EVENT_ORDER id="E101" fromID="V6" fromText="Swelling" toID="V15" toText="know" />
+<EVENT_ORDER id="E102" fromID="V6" fromText="Swelling" toID="V16" toText="expect" />
+<EVENT_ORDER id="E103" fromID="V6" fromText="Swelling" toID="V17" toText="lead" />
+<EVENT_ORDER id="E104" fromID="V6" fromText="Swelling" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E105" fromID="V7" fromText="comes" toID="V8" toText="is" />
+<EVENT_ORDER id="E106" fromID="V7" fromText="comes" toID="V9" toText="been" />
+<EVENT_ORDER id="E107" fromID="V7" fromText="comes" toID="V10" toText="are" />
+<EVENT_ORDER id="E108" fromID="V7" fromText="comes" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E110" fromID="V7" fromText="comes" toID="V13" toText="want" />
+<EVENT_ORDER id="E111" fromID="V7" fromText="comes" toID="V14" toText="let" />
+<EVENT_ORDER id="E112" fromID="V7" fromText="comes" toID="V15" toText="know" />
+<EVENT_ORDER id="E113" fromID="V7" fromText="comes" toID="V16" toText="expect" />
+<EVENT_ORDER id="E114" fromID="V7" fromText="comes" toID="V17" toText="lead" />
+<EVENT_ORDER id="E115" fromID="V7" fromText="comes" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E116" fromID="V8" fromText="is" toID="V9" toText="been" />
+<EVENT_ORDER id="E117" fromID="V8" fromText="is" toID="V10" toText="are" />
+<EVENT_ORDER id="E118" fromID="V8" fromText="is" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E120" fromID="V8" fromText="is" toID="V13" toText="want" />
+<EVENT_ORDER id="E121" fromID="V8" fromText="is" toID="V14" toText="let" />
+<EVENT_ORDER id="E122" fromID="V8" fromText="is" toID="V15" toText="know" />
+<EVENT_ORDER id="E123" fromID="V8" fromText="is" toID="V16" toText="expect" />
+<EVENT_ORDER id="E124" fromID="V8" fromText="is" toID="V17" toText="lead" />
+<EVENT_ORDER id="E125" fromID="V8" fromText="is" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E126" fromID="V9" fromText="been" toID="V10" toText="are" />
+<EVENT_ORDER id="E127" fromID="V9" fromText="been" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E129" fromID="V9" fromText="been" toID="V13" toText="want" />
+<EVENT_ORDER id="E130" fromID="V9" fromText="been" toID="V14" toText="let" />
+<EVENT_ORDER id="E131" fromID="V9" fromText="been" toID="V15" toText="know" />
+<EVENT_ORDER id="E132" fromID="V9" fromText="been" toID="V16" toText="expect" />
+<EVENT_ORDER id="E133" fromID="V9" fromText="been" toID="V17" toText="lead" />
+<EVENT_ORDER id="E134" fromID="V9" fromText="been" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E135" fromID="V10" fromText="are" toID="V11" toText="aggrieved" />
+<EVENT_ORDER id="E137" fromID="V10" fromText="are" toID="V13" toText="want" />
+<EVENT_ORDER id="E138" fromID="V10" fromText="are" toID="V14" toText="let" />
+<EVENT_ORDER id="E139" fromID="V10" fromText="are" toID="V15" toText="know" />
+<EVENT_ORDER id="E140" fromID="V10" fromText="are" toID="V16" toText="expect" />
+<EVENT_ORDER id="E141" fromID="V10" fromText="are" toID="V17" toText="lead" />
+<EVENT_ORDER id="E142" fromID="V10" fromText="are" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E144" fromID="V11" fromText="aggrieved" toID="V13" toText="want" />
+<EVENT_ORDER id="E145" fromID="V11" fromText="aggrieved" toID="V14" toText="let" />
+<EVENT_ORDER id="E146" fromID="V11" fromText="aggrieved" toID="V15" toText="know" />
+<EVENT_ORDER id="E147" fromID="V11" fromText="aggrieved" toID="V16" toText="expect" />
+<EVENT_ORDER id="E148" fromID="V11" fromText="aggrieved" toID="V17" toText="lead" />
+<EVENT_ORDER id="E149" fromID="V11" fromText="aggrieved" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E156" fromID="V13" fromText="want" toID="V14" toText="let" />
+<EVENT_ORDER id="E157" fromID="V13" fromText="want" toID="V15" toText="know" />
+<EVENT_ORDER id="E158" fromID="V13" fromText="want" toID="V16" toText="expect" />
+<EVENT_ORDER id="E159" fromID="V13" fromText="want" toID="V17" toText="lead" />
+<EVENT_ORDER id="E160" fromID="V13" fromText="want" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E161" fromID="V14" fromText="let" toID="V15" toText="know" />
+<EVENT_ORDER id="E162" fromID="V14" fromText="let" toID="V16" toText="expect" />
+<EVENT_ORDER id="E163" fromID="V14" fromText="let" toID="V17" toText="lead" />
+<EVENT_ORDER id="E164" fromID="V14" fromText="let" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E165" fromID="V15" fromText="know" toID="V16" toText="expect" />
+<EVENT_ORDER id="E166" fromID="V15" fromText="know" toID="V17" toText="lead" />
+<EVENT_ORDER id="E167" fromID="V15" fromText="know" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E168" fromID="V16" fromText="expect" toID="V17" toText="lead" />
+<EVENT_ORDER id="E169" fromID="V16" fromText="expect" toID="V18" toText="wavering" />
+<EVENT_ORDER id="E170" fromID="V17" fromText="lead" toID="V18" toText="wavering" />
+</TAGS>
+</TemporalRelationTask>

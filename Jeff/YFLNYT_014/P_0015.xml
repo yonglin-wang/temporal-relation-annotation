@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Very, very unhappy to hear that Rand Paul has been diagnosed with Covid-19 — wish him the very best,” a visibly shaken Mr. Romney told reporters outside the Republican luncheon. He added, “And of course all senators are going to take steps to make sure that we don’t in any way spread this virus ourselves.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="23~27" text="hear" category="VB" />
+<VERB id="V1" spans="52~61" text="diagnosed" category="VBN" />
+<VERB id="V2" spans="78~82" text="wish" category="VBD" />
+<VERB id="V3" spans="131~135" text="told" category="VBD" />
+<VERB id="V4" spans="182~187" text="added" category="VBD" />
+<VERB id="V5" spans="221~226" text="going" category="VBG" />
+<VERB id="V6" spans="230~234" text="take" category="VB" />
+<VERB id="V7" spans="244~248" text="make" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="hear" toID="V1" toText="diagnosed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="hear" toID="V2" toText="wish" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="hear" toID="V3" toText="told" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="hear" toID="V4" toText="added" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="hear" toID="V5" toText="going" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="hear" toID="V6" toText="take" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="hear" toID="V7" toText="make" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="diagnosed" toID="V2" toText="wish" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="diagnosed" toID="V3" toText="told" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="diagnosed" toID="V4" toText="added" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="diagnosed" toID="V5" toText="going" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="diagnosed" toID="V6" toText="take" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="diagnosed" toID="V7" toText="make" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="wish" toID="V3" toText="told" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="wish" toID="V4" toText="added" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="wish" toID="V5" toText="going" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="wish" toID="V6" toText="take" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="wish" toID="V7" toText="make" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="told" toID="V4" toText="added" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="told" toID="V5" toText="going" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="told" toID="V6" toText="take" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="told" toID="V7" toText="make" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="added" toID="V5" toText="going" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="added" toID="V6" toText="take" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="added" toID="V7" toText="make" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="going" toID="V6" toText="take" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="going" toID="V7" toText="make" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="take" toID="V7" toText="make" />
+</TAGS>
+</TemporalRelationTask>

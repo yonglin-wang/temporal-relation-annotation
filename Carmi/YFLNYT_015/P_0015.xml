@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Ms. Conrad, who took a leave of absence to join the campaign last month, said Friday that she would be unable to reclaim her job as a labor union representative before the end of the year.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~20" text="took" category="VBD" />
+<VERB id="V1" spans="43~47" text="join" category="VB" />
+<VERB id="V2" spans="73~77" text="said" category="VBD" />
+<VERB id="V3" spans="100~102" text="be" category="VB" />
+<VERB id="V4" spans="113~120" text="reclaim" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="took" toID="V1" toText="join" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="took" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="took" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="took" toID="V4" toText="reclaim" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="join" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="join" toID="V3" toText="be" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="join" toID="V4" toText="reclaim" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="said" toID="V3" toText="be" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="reclaim" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="be" toID="V4" toText="reclaim" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Two other members of Congress — Representative Mario Diaz-Balart, Republican of Florida, and Representative Ben McAdams, Democrat of Utah — have also tested positive for Covid-19. Mr. McAdams said in a statement on Sunday that he had been hospitalized and given oxygen over the weekend, but that his condition had stabilized.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="150~156" text="tested" category="VBN" />
+<VERB id="V2" spans="192~196" text="said" category="VBD" />
+<VERB id="V3" spans="239~251" text="hospitalized" category="VBN" />
+<VERB id="V4" spans="256~261" text="given" category="VBN" />
+<VERB id="V5" spans="314~324" text="stabilized" category="VBN" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="tested" toID="V2" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="tested" toID="V3" toText="hospitalized" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="tested" toID="V4" toText="given" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="tested" toID="V5" toText="stabilized" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="said" toID="V3" toText="hospitalized" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="given" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V5" toText="stabilized" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="hospitalized" toID="V4" toText="given" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="hospitalized" toID="V5" toText="stabilized" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="given" toID="V5" toText="stabilized" />
+</TAGS>
+</TemporalRelationTask>

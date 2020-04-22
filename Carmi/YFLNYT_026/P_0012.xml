@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Schumer announced on Friday that he was supporting Representative Keith Ellison of Minnesota, a leading House progressive, to be the chairman of the Democratic National Committee. And earlier in the week, Mr. Schumer said in a private meeting at the A.F.L.-C.I.O. that while Democrats had been at the forefront of cultural change in the country on matters of race, gender and sexuality, they had not been talking in similarly transformational language on economics, according to a labor official in the room.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="12~21" text="announced" category="VBD" />
+<VERB id="V1" spans="44~54" text="supporting" category="VBG" />
+<VERB id="V3" spans="130~132" text="be" category="VB" />
+<VERB id="V4" spans="221~225" text="said" category="VBD" />
+<VERB id="V5" spans="293~297" text="been" category="VBN" />
+<VERB id="V7" spans="409~416" text="talking" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="announced" toID="V1" toText="supporting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="announced" toID="V3" toText="be" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="announced" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="announced" toID="V5" toText="been" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="announced" toID="V7" toText="talking" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="supporting" toID="V3" toText="be" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="supporting" toID="V4" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="supporting" toID="V5" toText="been" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="supporting" toID="V7" toText="talking" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="be" toID="V4" toText="said" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="be" toID="V5" toText="been" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="be" toID="V7" toText="talking" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="said" toID="V5" toText="been" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="said" toID="V7" toText="talking" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="been" toID="V7" toText="talking" />
+</TAGS>
+</TemporalRelationTask>

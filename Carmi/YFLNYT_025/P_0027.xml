@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Much like young Democrats, many young Republicans say they are frustrated at the degree to which their views isolate them within the party.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="50~53" text="say" category="VBP" />
+<VERB id="V2" spans="109~116" text="isolate" category="VBP" />
+<VERB id="V3" spans="59~62" text="are" category="VBP" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="say" toID="V2" toText="isolate" />
+</TAGS>
+</TemporalRelationTask>

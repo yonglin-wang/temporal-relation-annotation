@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[On April 4, Alaska, Hawaii and Wyoming are scheduled to hold party-run contests, a format where Mr. Sanders has generally excelled. All of this leads into Wisconsin on April 7, which is probably a better state for Mr. Sanders than the nation as a whole.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="43~52" text="scheduled" category="VBN" />
+<VERB id="V1" spans="56~60" text="hold" category="VB" />
+<VERB id="V3" spans="122~130" text="excelled" category="VBN" />
+<VERB id="V4" spans="144~149" text="leads" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="scheduled" toID="V1" toText="hold" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="scheduled" toID="V3" toText="excelled" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="scheduled" toID="V4" toText="leads" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="hold" toID="V3" toText="excelled" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="hold" toID="V4" toText="leads" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="excelled" toID="V4" toText="leads" />
+</TAGS>
+</TemporalRelationTask>

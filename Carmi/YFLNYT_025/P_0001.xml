@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The oldest of them were just out of college on 9/11; the youngest were not yet born. Over the two decades that followed, they all came of age under storm clouds: of war, of recession, of mass shootings, wildfires and now a pandemic.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~23" text="were" category="VBD" />
+<VERB id="V2" spans="79~83" text="born" category="VBN" />
+<VERB id="V3" spans="111~119" text="followed" category="VBD" />
+<VERB id="V4" spans="130~134" text="came" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="were" toID="V2" toText="born" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="were" toID="V3" toText="followed" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="were" toID="V4" toText="came" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="born" toID="V3" toText="followed" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="born" toID="V4" toText="came" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="followed" toID="V4" toText="came" />
+</TAGS>
+</TemporalRelationTask>

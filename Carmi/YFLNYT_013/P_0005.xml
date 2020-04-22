@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[People are staying home and flying less. That’s good for the planet, Dr. Nicholas said. “For average Americans, the biggest source of greenhouse gas emissions is driving,” she said. Anything that reduces driving, including working from home, “has a big impact on our climate pollution.” Avoiding air travel can have a large effect as well: one round-trip flight from New York to London, she said, produces as much greenhouse gas emissions as the preventive climate impact of nearly eight years of recycling. Dr. Nicholas was an author of a 2018 study that examines greenhouse gas emissions reductions in actions people take to fight climate change, and is currently writing a book about personal action and the climate crisis.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="11~18" text="staying" category="VBG" />
+<VERB id="V1" spans="28~34" text="flying" category="VBG" />
+<VERB id="V2" spans="82~86" text="said" category="VBD" />
+<VERB id="V3" spans="162~169" text="driving" category="VBG" />
+<VERB id="V4" spans="176~180" text="said" category="VBD" />
+<VERB id="V5" spans="196~203" text="reduces" category="VBZ" />
+<VERB id="V6" spans="213~222" text="including" category="VBG" />
+<VERB id="V7" spans="223~230" text="working" category="VBG" />
+<VERB id="V8" spans="243~246" text="has" category="VBZ" />
+<VERB id="V9" spans="311~315" text="have" category="VB" />
+<VERB id="V10" spans="391~395" text="said" category="VBD" />
+<VERB id="V11" spans="397~405" text="produces" category="VBZ" />
+<VERB id="V12" spans="521~524" text="was" category="VBD" />
+<VERB id="V13" spans="556~564" text="examines" category="VBZ" />
+<VERB id="V14" spans="619~623" text="take" category="VBP" />
+<VERB id="V15" spans="627~632" text="fight" category="VB" />
+<VERB id="V16" spans="653~655" text="is" category="VBZ" />
+<VERB id="V17" spans="666~673" text="writing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="staying" toID="V1" toText="flying" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="staying" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="staying" toID="V3" toText="driving" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="staying" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="staying" toID="V5" toText="reduces" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="staying" toID="V6" toText="including" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="staying" toID="V7" toText="working" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="staying" toID="V8" toText="has" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="staying" toID="V9" toText="have" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="staying" toID="V10" toText="said" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="staying" toID="V11" toText="produces" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="staying" toID="V12" toText="was" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="staying" toID="V13" toText="examines" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="staying" toID="V14" toText="take" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="staying" toID="V15" toText="fight" />
+<EVENT_ORDER id="E15" fromID="V0" fromText="staying" toID="V16" toText="is" />
+<EVENT_ORDER id="E16" fromID="V0" fromText="staying" toID="V17" toText="writing" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="flying" toID="V2" toText="said" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="flying" toID="V3" toText="driving" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="flying" toID="V4" toText="said" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="flying" toID="V5" toText="reduces" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="flying" toID="V6" toText="including" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="flying" toID="V7" toText="working" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="flying" toID="V8" toText="has" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="flying" toID="V9" toText="have" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="flying" toID="V10" toText="said" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="flying" toID="V11" toText="produces" />
+<EVENT_ORDER id="E27" fromID="V1" fromText="flying" toID="V12" toText="was" />
+<EVENT_ORDER id="E28" fromID="V1" fromText="flying" toID="V13" toText="examines" />
+<EVENT_ORDER id="E29" fromID="V1" fromText="flying" toID="V14" toText="take" />
+<EVENT_ORDER id="E30" fromID="V1" fromText="flying" toID="V15" toText="fight" />
+<EVENT_ORDER id="E31" fromID="V1" fromText="flying" toID="V16" toText="is" />
+<EVENT_ORDER id="E32" fromID="V1" fromText="flying" toID="V17" toText="writing" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="said" toID="V3" toText="driving" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="said" toID="V4" toText="said" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="said" toID="V5" toText="reduces" />
+<EVENT_ORDER id="E36" fromID="V2" fromText="said" toID="V6" toText="including" />
+<EVENT_ORDER id="E37" fromID="V2" fromText="said" toID="V7" toText="working" />
+<EVENT_ORDER id="E38" fromID="V2" fromText="said" toID="V8" toText="has" />
+<EVENT_ORDER id="E39" fromID="V2" fromText="said" toID="V9" toText="have" />
+<EVENT_ORDER id="E40" fromID="V2" fromText="said" toID="V10" toText="said" />
+<EVENT_ORDER id="E41" fromID="V2" fromText="said" toID="V11" toText="produces" />
+<EVENT_ORDER id="E42" fromID="V2" fromText="said" toID="V12" toText="was" />
+<EVENT_ORDER id="E43" fromID="V2" fromText="said" toID="V13" toText="examines" />
+<EVENT_ORDER id="E44" fromID="V2" fromText="said" toID="V14" toText="take" />
+<EVENT_ORDER id="E45" fromID="V2" fromText="said" toID="V15" toText="fight" />
+<EVENT_ORDER id="E46" fromID="V2" fromText="said" toID="V16" toText="is" />
+<EVENT_ORDER id="E47" fromID="V2" fromText="said" toID="V17" toText="writing" />
+<EVENT_ORDER id="E48" fromID="V3" fromText="driving" toID="V4" toText="said" />
+<EVENT_ORDER id="E49" fromID="V3" fromText="driving" toID="V5" toText="reduces" />
+<EVENT_ORDER id="E50" fromID="V3" fromText="driving" toID="V6" toText="including" />
+<EVENT_ORDER id="E51" fromID="V3" fromText="driving" toID="V7" toText="working" />
+<EVENT_ORDER id="E52" fromID="V3" fromText="driving" toID="V8" toText="has" />
+<EVENT_ORDER id="E53" fromID="V3" fromText="driving" toID="V9" toText="have" />
+<EVENT_ORDER id="E54" fromID="V3" fromText="driving" toID="V10" toText="said" />
+<EVENT_ORDER id="E55" fromID="V3" fromText="driving" toID="V11" toText="produces" />
+<EVENT_ORDER id="E56" fromID="V3" fromText="driving" toID="V12" toText="was" />
+<EVENT_ORDER id="E57" fromID="V3" fromText="driving" toID="V13" toText="examines" />
+<EVENT_ORDER id="E58" fromID="V3" fromText="driving" toID="V14" toText="take" />
+<EVENT_ORDER id="E59" fromID="V3" fromText="driving" toID="V15" toText="fight" />
+<EVENT_ORDER id="E60" fromID="V3" fromText="driving" toID="V16" toText="is" />
+<EVENT_ORDER id="E61" fromID="V3" fromText="driving" toID="V17" toText="writing" />
+<EVENT_ORDER id="E62" fromID="V4" fromText="said" toID="V5" toText="reduces" />
+<EVENT_ORDER id="E63" fromID="V4" fromText="said" toID="V6" toText="including" />
+<EVENT_ORDER id="E64" fromID="V4" fromText="said" toID="V7" toText="working" />
+<EVENT_ORDER id="E65" fromID="V4" fromText="said" toID="V8" toText="has" />
+<EVENT_ORDER id="E66" fromID="V4" fromText="said" toID="V9" toText="have" />
+<EVENT_ORDER id="E67" fromID="V4" fromText="said" toID="V10" toText="said" />
+<EVENT_ORDER id="E68" fromID="V4" fromText="said" toID="V11" toText="produces" />
+<EVENT_ORDER id="E69" fromID="V4" fromText="said" toID="V12" toText="was" />
+<EVENT_ORDER id="E70" fromID="V4" fromText="said" toID="V13" toText="examines" />
+<EVENT_ORDER id="E71" fromID="V4" fromText="said" toID="V14" toText="take" />
+<EVENT_ORDER id="E72" fromID="V4" fromText="said" toID="V15" toText="fight" />
+<EVENT_ORDER id="E73" fromID="V4" fromText="said" toID="V16" toText="is" />
+<EVENT_ORDER id="E74" fromID="V4" fromText="said" toID="V17" toText="writing" />
+<EVENT_ORDER id="E75" fromID="V5" fromText="reduces" toID="V6" toText="including" />
+<EVENT_ORDER id="E76" fromID="V5" fromText="reduces" toID="V7" toText="working" />
+<EVENT_ORDER id="E77" fromID="V5" fromText="reduces" toID="V8" toText="has" />
+<EVENT_ORDER id="E78" fromID="V5" fromText="reduces" toID="V9" toText="have" />
+<EVENT_ORDER id="E79" fromID="V5" fromText="reduces" toID="V10" toText="said" />
+<EVENT_ORDER id="E80" fromID="V5" fromText="reduces" toID="V11" toText="produces" />
+<EVENT_ORDER id="E81" fromID="V5" fromText="reduces" toID="V12" toText="was" />
+<EVENT_ORDER id="E82" fromID="V5" fromText="reduces" toID="V13" toText="examines" />
+<EVENT_ORDER id="E83" fromID="V5" fromText="reduces" toID="V14" toText="take" />
+<EVENT_ORDER id="E84" fromID="V5" fromText="reduces" toID="V15" toText="fight" />
+<EVENT_ORDER id="E85" fromID="V5" fromText="reduces" toID="V16" toText="is" />
+<EVENT_ORDER id="E86" fromID="V5" fromText="reduces" toID="V17" toText="writing" />
+<EVENT_ORDER id="E87" fromID="V6" fromText="including" toID="V7" toText="working" />
+<EVENT_ORDER id="E88" fromID="V6" fromText="including" toID="V8" toText="has" />
+<EVENT_ORDER id="E89" fromID="V6" fromText="including" toID="V9" toText="have" />
+<EVENT_ORDER id="E90" fromID="V6" fromText="including" toID="V10" toText="said" />
+<EVENT_ORDER id="E91" fromID="V6" fromText="including" toID="V11" toText="produces" />
+<EVENT_ORDER id="E92" fromID="V6" fromText="including" toID="V12" toText="was" />
+<EVENT_ORDER id="E93" fromID="V6" fromText="including" toID="V13" toText="examines" />
+<EVENT_ORDER id="E94" fromID="V6" fromText="including" toID="V14" toText="take" />
+<EVENT_ORDER id="E95" fromID="V6" fromText="including" toID="V15" toText="fight" />
+<EVENT_ORDER id="E96" fromID="V6" fromText="including" toID="V16" toText="is" />
+<EVENT_ORDER id="E97" fromID="V6" fromText="including" toID="V17" toText="writing" />
+<EVENT_ORDER id="E98" fromID="V7" fromText="working" toID="V8" toText="has" />
+<EVENT_ORDER id="E99" fromID="V7" fromText="working" toID="V9" toText="have" />
+<EVENT_ORDER id="E100" fromID="V7" fromText="working" toID="V10" toText="said" />
+<EVENT_ORDER id="E101" fromID="V7" fromText="working" toID="V11" toText="produces" />
+<EVENT_ORDER id="E102" fromID="V7" fromText="working" toID="V12" toText="was" />
+<EVENT_ORDER id="E103" fromID="V7" fromText="working" toID="V13" toText="examines" />
+<EVENT_ORDER id="E104" fromID="V7" fromText="working" toID="V14" toText="take" />
+<EVENT_ORDER id="E105" fromID="V7" fromText="working" toID="V15" toText="fight" />
+<EVENT_ORDER id="E106" fromID="V7" fromText="working" toID="V16" toText="is" />
+<EVENT_ORDER id="E107" fromID="V7" fromText="working" toID="V17" toText="writing" />
+<EVENT_ORDER id="E108" fromID="V8" fromText="has" toID="V9" toText="have" />
+<EVENT_ORDER id="E109" fromID="V8" fromText="has" toID="V10" toText="said" />
+<EVENT_ORDER id="E110" fromID="V8" fromText="has" toID="V11" toText="produces" />
+<EVENT_ORDER id="E111" fromID="V8" fromText="has" toID="V12" toText="was" />
+<EVENT_ORDER id="E112" fromID="V8" fromText="has" toID="V13" toText="examines" />
+<EVENT_ORDER id="E113" fromID="V8" fromText="has" toID="V14" toText="take" />
+<EVENT_ORDER id="E114" fromID="V8" fromText="has" toID="V15" toText="fight" />
+<EVENT_ORDER id="E115" fromID="V8" fromText="has" toID="V16" toText="is" />
+<EVENT_ORDER id="E116" fromID="V8" fromText="has" toID="V17" toText="writing" />
+<EVENT_ORDER id="E117" fromID="V9" fromText="have" toID="V10" toText="said" />
+<EVENT_ORDER id="E118" fromID="V9" fromText="have" toID="V11" toText="produces" />
+<EVENT_ORDER id="E119" fromID="V9" fromText="have" toID="V12" toText="was" />
+<EVENT_ORDER id="E120" fromID="V9" fromText="have" toID="V13" toText="examines" />
+<EVENT_ORDER id="E121" fromID="V9" fromText="have" toID="V14" toText="take" />
+<EVENT_ORDER id="E122" fromID="V9" fromText="have" toID="V15" toText="fight" />
+<EVENT_ORDER id="E123" fromID="V9" fromText="have" toID="V16" toText="is" />
+<EVENT_ORDER id="E124" fromID="V9" fromText="have" toID="V17" toText="writing" />
+<EVENT_ORDER id="E125" fromID="V10" fromText="said" toID="V11" toText="produces" />
+<EVENT_ORDER id="E126" fromID="V10" fromText="said" toID="V12" toText="was" />
+<EVENT_ORDER id="E127" fromID="V10" fromText="said" toID="V13" toText="examines" />
+<EVENT_ORDER id="E128" fromID="V10" fromText="said" toID="V14" toText="take" />
+<EVENT_ORDER id="E129" fromID="V10" fromText="said" toID="V15" toText="fight" />
+<EVENT_ORDER id="E130" fromID="V10" fromText="said" toID="V16" toText="is" />
+<EVENT_ORDER id="E131" fromID="V10" fromText="said" toID="V17" toText="writing" />
+<EVENT_ORDER id="E132" fromID="V11" fromText="produces" toID="V12" toText="was" />
+<EVENT_ORDER id="E133" fromID="V11" fromText="produces" toID="V13" toText="examines" />
+<EVENT_ORDER id="E134" fromID="V11" fromText="produces" toID="V14" toText="take" />
+<EVENT_ORDER id="E135" fromID="V11" fromText="produces" toID="V15" toText="fight" />
+<EVENT_ORDER id="E136" fromID="V11" fromText="produces" toID="V16" toText="is" />
+<EVENT_ORDER id="E137" fromID="V11" fromText="produces" toID="V17" toText="writing" />
+<EVENT_ORDER id="E138" fromID="V12" fromText="was" toID="V13" toText="examines" />
+<EVENT_ORDER id="E139" fromID="V12" fromText="was" toID="V14" toText="take" />
+<EVENT_ORDER id="E140" fromID="V12" fromText="was" toID="V15" toText="fight" />
+<EVENT_ORDER id="E141" fromID="V12" fromText="was" toID="V16" toText="is" />
+<EVENT_ORDER id="E142" fromID="V12" fromText="was" toID="V17" toText="writing" />
+<EVENT_ORDER id="E143" fromID="V13" fromText="examines" toID="V14" toText="take" />
+<EVENT_ORDER id="E144" fromID="V13" fromText="examines" toID="V15" toText="fight" />
+<EVENT_ORDER id="E145" fromID="V13" fromText="examines" toID="V16" toText="is" />
+<EVENT_ORDER id="E146" fromID="V13" fromText="examines" toID="V17" toText="writing" />
+<EVENT_ORDER id="E147" fromID="V14" fromText="take" toID="V15" toText="fight" />
+<EVENT_ORDER id="E148" fromID="V14" fromText="take" toID="V16" toText="is" />
+<EVENT_ORDER id="E149" fromID="V14" fromText="take" toID="V17" toText="writing" />
+<EVENT_ORDER id="E150" fromID="V15" fromText="fight" toID="V16" toText="is" />
+<EVENT_ORDER id="E151" fromID="V15" fromText="fight" toID="V17" toText="writing" />
+<EVENT_ORDER id="E152" fromID="V16" fromText="is" toID="V17" toText="writing" />
+</TAGS>
+</TemporalRelationTask>

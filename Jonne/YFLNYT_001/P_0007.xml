@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Boldface corporate names widely discussed as contenders for the next Democratic presidential nomination include chief executives like Howard Schultz of Starbucks, Robert A. Iger of Disney and Marc Benioff of Salesforce.com, along with Sheryl Sandberg, the Facebook chief operating officer, and Oprah Winfrey, chairwoman and chief executive of Harpo Inc., which owns half of the Oprah Winfrey Network.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="32~41" text="discussed" category="VBN" />
+<VERB id="V1" spans="104~111" text="include" category="VBP" />
+<VERB id="V3" spans="361~365" text="owns" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="discussed" toID="V1" toText="include" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="discussed" toID="V3" toText="owns" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="include" toID="V3" toText="owns" />
+</TAGS>
+</TemporalRelationTask>

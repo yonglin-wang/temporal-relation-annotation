@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In November, for the first time, the new generations will have enough electoral clout to seriously compete with the old. But, with Senator Bernie Sanders’s campaign barely clinging to life, many feel more disillusioned than empowered.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="58~62" text="have" category="VB" />
+<VERB id="V1" spans="99~106" text="compete" category="VB" />
+<VERB id="V3" spans="172~180" text="clinging" category="VBG" />
+<VERB id="V4" spans="195~199" text="feel" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="have" toID="V1" toText="compete" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="have" toID="V3" toText="clinging" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="have" toID="V4" toText="feel" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="compete" toID="V3" toText="clinging" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="compete" toID="V4" toText="feel" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="clinging" toID="V4" toText="feel" />
+</TAGS>
+</TemporalRelationTask>

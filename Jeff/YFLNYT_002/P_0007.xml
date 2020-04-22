@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[She also cited her relationship with Mr. Biden’s son Beau, who served in the Delaware Army National Guard and died in 2015.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~14" text="cited" category="VBD" />
+<VERB id="V2" spans="63~69" text="served" category="VBD" />
+<VERB id="V3" spans="110~114" text="died" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="cited" toID="V2" toText="served" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="cited" toID="V3" toText="died" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="served" toID="V3" toText="died" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Paul had been informed last weekend that he had attended a fund-raiser in Kentucky with two individuals who later tested positive for Covid-19, a warning that sent a handful of other prominent elected officials into self-quarantine out of caution.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="18~26" text="informed" category="VBN" />
+<VERB id="V1" spans="52~60" text="attended" category="VBN" />
+<VERB id="V2" spans="118~124" text="tested" category="VBD" />
+<VERB id="V3" spans="163~167" text="sent" category="VBD" />
+<VERB id="V4" spans="197~204" text="elected" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="informed" toID="V1" toText="attended" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="informed" toID="V2" toText="tested" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="informed" toID="V3" toText="sent" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="informed" toID="V4" toText="elected" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="attended" toID="V2" toText="tested" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="attended" toID="V3" toText="sent" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="attended" toID="V4" toText="elected" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="tested" toID="V3" toText="sent" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="tested" toID="V4" toText="elected" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="sent" toID="V4" toText="elected" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[If you’re at home staring at your computer without the prying eyes of your co-workers, you may be tempted to shop online a bit more. Or maybe you’ll avoid the supermarket or mass transit by ordering your groceries. A bump in online shopping might be bad for your wallet, but it could be good for the planet, Dr. Nicholas said. She cited research suggesting that people who decide to use online ordering and package delivery could well be reducing their effect on climate change, thanks to the benefits of logistically organized, centralized delivery routes and driving less.  “I would expect in general that having fewer vehicles on the road is better for the climate,” she said. (While online shopping can reduce greenhouse gases, it is most effective when you order in bulk to limit the number of trips delivery vehicles make to your home.)]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="7~9" text="re" category="VBP" />
+<VERB id="V1" spans="55~61" text="prying" category="VBG" />
+<VERB id="V2" spans="98~105" text="tempted" category="VBN" />
+<VERB id="V3" spans="109~113" text="shop" category="VB" />
+<VERB id="V4" spans="190~198" text="ordering" category="VBG" />
+<VERB id="V5" spans="247~249" text="be" category="VB" />
+<VERB id="V6" spans="284~286" text="be" category="VB" />
+<VERB id="V7" spans="321~325" text="said" category="VBD" />
+<VERB id="V8" spans="331~336" text="cited" category="VBD" />
+<VERB id="V9" spans="373~379" text="decide" category="VBP" />
+<VERB id="V10" spans="383~386" text="use" category="VB" />
+<VERB id="V11" spans="438~446" text="reducing" category="VBG" />
+<VERB id="V12" spans="518~527" text="organized" category="VBN" />
+<VERB id="V13" spans="561~568" text="driving" category="VBG" />
+<VERB id="V14" spans="585~591" text="expect" category="VB" />
+<VERB id="V15" spans="608~614" text="having" category="VBG" />
+<VERB id="V16" spans="642~644" text="is" category="VBZ" />
+<VERB id="V17" spans="674~678" text="said" category="VBD" />
+<VERB id="V18" spans="707~713" text="reduce" category="VB" />
+<VERB id="V19" spans="735~737" text="is" category="VBZ" />
+<VERB id="V20" spans="779~784" text="limit" category="VB" />
+<VERB id="V21" spans="823~827" text="make" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="re" toID="V1" toText="prying" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="re" toID="V2" toText="tempted" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="re" toID="V3" toText="shop" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="re" toID="V4" toText="ordering" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="re" toID="V5" toText="be" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="re" toID="V6" toText="be" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="re" toID="V7" toText="said" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="re" toID="V8" toText="cited" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="re" toID="V9" toText="decide" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="re" toID="V10" toText="use" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="re" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="re" toID="V12" toText="organized" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="re" toID="V13" toText="driving" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="re" toID="V14" toText="expect" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="re" toID="V15" toText="having" />
+<EVENT_ORDER id="E15" fromID="V0" fromText="re" toID="V16" toText="is" />
+<EVENT_ORDER id="E16" fromID="V0" fromText="re" toID="V17" toText="said" />
+<EVENT_ORDER id="E17" fromID="V0" fromText="re" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E18" fromID="V0" fromText="re" toID="V19" toText="is" />
+<EVENT_ORDER id="E19" fromID="V0" fromText="re" toID="V20" toText="limit" />
+<EVENT_ORDER id="E20" fromID="V0" fromText="re" toID="V21" toText="make" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="prying" toID="V2" toText="tempted" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="prying" toID="V3" toText="shop" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="prying" toID="V4" toText="ordering" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="prying" toID="V5" toText="be" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="prying" toID="V6" toText="be" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="prying" toID="V7" toText="said" />
+<EVENT_ORDER id="E27" fromID="V1" fromText="prying" toID="V8" toText="cited" />
+<EVENT_ORDER id="E28" fromID="V1" fromText="prying" toID="V9" toText="decide" />
+<EVENT_ORDER id="E29" fromID="V1" fromText="prying" toID="V10" toText="use" />
+<EVENT_ORDER id="E30" fromID="V1" fromText="prying" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E31" fromID="V1" fromText="prying" toID="V12" toText="organized" />
+<EVENT_ORDER id="E32" fromID="V1" fromText="prying" toID="V13" toText="driving" />
+<EVENT_ORDER id="E33" fromID="V1" fromText="prying" toID="V14" toText="expect" />
+<EVENT_ORDER id="E34" fromID="V1" fromText="prying" toID="V15" toText="having" />
+<EVENT_ORDER id="E35" fromID="V1" fromText="prying" toID="V16" toText="is" />
+<EVENT_ORDER id="E36" fromID="V1" fromText="prying" toID="V17" toText="said" />
+<EVENT_ORDER id="E37" fromID="V1" fromText="prying" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E38" fromID="V1" fromText="prying" toID="V19" toText="is" />
+<EVENT_ORDER id="E39" fromID="V1" fromText="prying" toID="V20" toText="limit" />
+<EVENT_ORDER id="E40" fromID="V1" fromText="prying" toID="V21" toText="make" />
+<EVENT_ORDER id="E41" fromID="V2" fromText="tempted" toID="V3" toText="shop" />
+<EVENT_ORDER id="E42" fromID="V2" fromText="tempted" toID="V4" toText="ordering" />
+<EVENT_ORDER id="E43" fromID="V2" fromText="tempted" toID="V5" toText="be" />
+<EVENT_ORDER id="E44" fromID="V2" fromText="tempted" toID="V6" toText="be" />
+<EVENT_ORDER id="E45" fromID="V2" fromText="tempted" toID="V7" toText="said" />
+<EVENT_ORDER id="E46" fromID="V2" fromText="tempted" toID="V8" toText="cited" />
+<EVENT_ORDER id="E47" fromID="V2" fromText="tempted" toID="V9" toText="decide" />
+<EVENT_ORDER id="E48" fromID="V2" fromText="tempted" toID="V10" toText="use" />
+<EVENT_ORDER id="E49" fromID="V2" fromText="tempted" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E50" fromID="V2" fromText="tempted" toID="V12" toText="organized" />
+<EVENT_ORDER id="E51" fromID="V2" fromText="tempted" toID="V13" toText="driving" />
+<EVENT_ORDER id="E52" fromID="V2" fromText="tempted" toID="V14" toText="expect" />
+<EVENT_ORDER id="E53" fromID="V2" fromText="tempted" toID="V15" toText="having" />
+<EVENT_ORDER id="E54" fromID="V2" fromText="tempted" toID="V16" toText="is" />
+<EVENT_ORDER id="E55" fromID="V2" fromText="tempted" toID="V17" toText="said" />
+<EVENT_ORDER id="E56" fromID="V2" fromText="tempted" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E57" fromID="V2" fromText="tempted" toID="V19" toText="is" />
+<EVENT_ORDER id="E58" fromID="V2" fromText="tempted" toID="V20" toText="limit" />
+<EVENT_ORDER id="E59" fromID="V2" fromText="tempted" toID="V21" toText="make" />
+<EVENT_ORDER id="E60" fromID="V3" fromText="shop" toID="V4" toText="ordering" />
+<EVENT_ORDER id="E61" fromID="V3" fromText="shop" toID="V5" toText="be" />
+<EVENT_ORDER id="E62" fromID="V3" fromText="shop" toID="V6" toText="be" />
+<EVENT_ORDER id="E63" fromID="V3" fromText="shop" toID="V7" toText="said" />
+<EVENT_ORDER id="E64" fromID="V3" fromText="shop" toID="V8" toText="cited" />
+<EVENT_ORDER id="E65" fromID="V3" fromText="shop" toID="V9" toText="decide" />
+<EVENT_ORDER id="E66" fromID="V3" fromText="shop" toID="V10" toText="use" />
+<EVENT_ORDER id="E67" fromID="V3" fromText="shop" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E68" fromID="V3" fromText="shop" toID="V12" toText="organized" />
+<EVENT_ORDER id="E69" fromID="V3" fromText="shop" toID="V13" toText="driving" />
+<EVENT_ORDER id="E70" fromID="V3" fromText="shop" toID="V14" toText="expect" />
+<EVENT_ORDER id="E71" fromID="V3" fromText="shop" toID="V15" toText="having" />
+<EVENT_ORDER id="E72" fromID="V3" fromText="shop" toID="V16" toText="is" />
+<EVENT_ORDER id="E73" fromID="V3" fromText="shop" toID="V17" toText="said" />
+<EVENT_ORDER id="E74" fromID="V3" fromText="shop" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E75" fromID="V3" fromText="shop" toID="V19" toText="is" />
+<EVENT_ORDER id="E76" fromID="V3" fromText="shop" toID="V20" toText="limit" />
+<EVENT_ORDER id="E77" fromID="V3" fromText="shop" toID="V21" toText="make" />
+<EVENT_ORDER id="E78" fromID="V4" fromText="ordering" toID="V5" toText="be" />
+<EVENT_ORDER id="E79" fromID="V4" fromText="ordering" toID="V6" toText="be" />
+<EVENT_ORDER id="E80" fromID="V4" fromText="ordering" toID="V7" toText="said" />
+<EVENT_ORDER id="E81" fromID="V4" fromText="ordering" toID="V8" toText="cited" />
+<EVENT_ORDER id="E82" fromID="V4" fromText="ordering" toID="V9" toText="decide" />
+<EVENT_ORDER id="E83" fromID="V4" fromText="ordering" toID="V10" toText="use" />
+<EVENT_ORDER id="E84" fromID="V4" fromText="ordering" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E85" fromID="V4" fromText="ordering" toID="V12" toText="organized" />
+<EVENT_ORDER id="E86" fromID="V4" fromText="ordering" toID="V13" toText="driving" />
+<EVENT_ORDER id="E87" fromID="V4" fromText="ordering" toID="V14" toText="expect" />
+<EVENT_ORDER id="E88" fromID="V4" fromText="ordering" toID="V15" toText="having" />
+<EVENT_ORDER id="E89" fromID="V4" fromText="ordering" toID="V16" toText="is" />
+<EVENT_ORDER id="E90" fromID="V4" fromText="ordering" toID="V17" toText="said" />
+<EVENT_ORDER id="E91" fromID="V4" fromText="ordering" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E92" fromID="V4" fromText="ordering" toID="V19" toText="is" />
+<EVENT_ORDER id="E93" fromID="V4" fromText="ordering" toID="V20" toText="limit" />
+<EVENT_ORDER id="E94" fromID="V4" fromText="ordering" toID="V21" toText="make" />
+<EVENT_ORDER id="E95" fromID="V5" fromText="be" toID="V6" toText="be" />
+<EVENT_ORDER id="E96" fromID="V5" fromText="be" toID="V7" toText="said" />
+<EVENT_ORDER id="E97" fromID="V5" fromText="be" toID="V8" toText="cited" />
+<EVENT_ORDER id="E98" fromID="V5" fromText="be" toID="V9" toText="decide" />
+<EVENT_ORDER id="E99" fromID="V5" fromText="be" toID="V10" toText="use" />
+<EVENT_ORDER id="E100" fromID="V5" fromText="be" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E101" fromID="V5" fromText="be" toID="V12" toText="organized" />
+<EVENT_ORDER id="E102" fromID="V5" fromText="be" toID="V13" toText="driving" />
+<EVENT_ORDER id="E103" fromID="V5" fromText="be" toID="V14" toText="expect" />
+<EVENT_ORDER id="E104" fromID="V5" fromText="be" toID="V15" toText="having" />
+<EVENT_ORDER id="E105" fromID="V5" fromText="be" toID="V16" toText="is" />
+<EVENT_ORDER id="E106" fromID="V5" fromText="be" toID="V17" toText="said" />
+<EVENT_ORDER id="E107" fromID="V5" fromText="be" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E108" fromID="V5" fromText="be" toID="V19" toText="is" />
+<EVENT_ORDER id="E109" fromID="V5" fromText="be" toID="V20" toText="limit" />
+<EVENT_ORDER id="E110" fromID="V5" fromText="be" toID="V21" toText="make" />
+<EVENT_ORDER id="E111" fromID="V6" fromText="be" toID="V7" toText="said" />
+<EVENT_ORDER id="E112" fromID="V6" fromText="be" toID="V8" toText="cited" />
+<EVENT_ORDER id="E113" fromID="V6" fromText="be" toID="V9" toText="decide" />
+<EVENT_ORDER id="E114" fromID="V6" fromText="be" toID="V10" toText="use" />
+<EVENT_ORDER id="E115" fromID="V6" fromText="be" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E116" fromID="V6" fromText="be" toID="V12" toText="organized" />
+<EVENT_ORDER id="E117" fromID="V6" fromText="be" toID="V13" toText="driving" />
+<EVENT_ORDER id="E118" fromID="V6" fromText="be" toID="V14" toText="expect" />
+<EVENT_ORDER id="E119" fromID="V6" fromText="be" toID="V15" toText="having" />
+<EVENT_ORDER id="E120" fromID="V6" fromText="be" toID="V16" toText="is" />
+<EVENT_ORDER id="E121" fromID="V6" fromText="be" toID="V17" toText="said" />
+<EVENT_ORDER id="E122" fromID="V6" fromText="be" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E123" fromID="V6" fromText="be" toID="V19" toText="is" />
+<EVENT_ORDER id="E124" fromID="V6" fromText="be" toID="V20" toText="limit" />
+<EVENT_ORDER id="E125" fromID="V6" fromText="be" toID="V21" toText="make" />
+<EVENT_ORDER id="E126" fromID="V7" fromText="said" toID="V8" toText="cited" />
+<EVENT_ORDER id="E127" fromID="V7" fromText="said" toID="V9" toText="decide" />
+<EVENT_ORDER id="E128" fromID="V7" fromText="said" toID="V10" toText="use" />
+<EVENT_ORDER id="E129" fromID="V7" fromText="said" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E130" fromID="V7" fromText="said" toID="V12" toText="organized" />
+<EVENT_ORDER id="E131" fromID="V7" fromText="said" toID="V13" toText="driving" />
+<EVENT_ORDER id="E132" fromID="V7" fromText="said" toID="V14" toText="expect" />
+<EVENT_ORDER id="E133" fromID="V7" fromText="said" toID="V15" toText="having" />
+<EVENT_ORDER id="E134" fromID="V7" fromText="said" toID="V16" toText="is" />
+<EVENT_ORDER id="E135" fromID="V7" fromText="said" toID="V17" toText="said" />
+<EVENT_ORDER id="E136" fromID="V7" fromText="said" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E137" fromID="V7" fromText="said" toID="V19" toText="is" />
+<EVENT_ORDER id="E138" fromID="V7" fromText="said" toID="V20" toText="limit" />
+<EVENT_ORDER id="E139" fromID="V7" fromText="said" toID="V21" toText="make" />
+<EVENT_ORDER id="E140" fromID="V8" fromText="cited" toID="V9" toText="decide" />
+<EVENT_ORDER id="E141" fromID="V8" fromText="cited" toID="V10" toText="use" />
+<EVENT_ORDER id="E142" fromID="V8" fromText="cited" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E143" fromID="V8" fromText="cited" toID="V12" toText="organized" />
+<EVENT_ORDER id="E144" fromID="V8" fromText="cited" toID="V13" toText="driving" />
+<EVENT_ORDER id="E145" fromID="V8" fromText="cited" toID="V14" toText="expect" />
+<EVENT_ORDER id="E146" fromID="V8" fromText="cited" toID="V15" toText="having" />
+<EVENT_ORDER id="E147" fromID="V8" fromText="cited" toID="V16" toText="is" />
+<EVENT_ORDER id="E148" fromID="V8" fromText="cited" toID="V17" toText="said" />
+<EVENT_ORDER id="E149" fromID="V8" fromText="cited" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E150" fromID="V8" fromText="cited" toID="V19" toText="is" />
+<EVENT_ORDER id="E151" fromID="V8" fromText="cited" toID="V20" toText="limit" />
+<EVENT_ORDER id="E152" fromID="V8" fromText="cited" toID="V21" toText="make" />
+<EVENT_ORDER id="E153" fromID="V9" fromText="decide" toID="V10" toText="use" />
+<EVENT_ORDER id="E154" fromID="V9" fromText="decide" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E155" fromID="V9" fromText="decide" toID="V12" toText="organized" />
+<EVENT_ORDER id="E156" fromID="V9" fromText="decide" toID="V13" toText="driving" />
+<EVENT_ORDER id="E157" fromID="V9" fromText="decide" toID="V14" toText="expect" />
+<EVENT_ORDER id="E158" fromID="V9" fromText="decide" toID="V15" toText="having" />
+<EVENT_ORDER id="E159" fromID="V9" fromText="decide" toID="V16" toText="is" />
+<EVENT_ORDER id="E160" fromID="V9" fromText="decide" toID="V17" toText="said" />
+<EVENT_ORDER id="E161" fromID="V9" fromText="decide" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E162" fromID="V9" fromText="decide" toID="V19" toText="is" />
+<EVENT_ORDER id="E163" fromID="V9" fromText="decide" toID="V20" toText="limit" />
+<EVENT_ORDER id="E164" fromID="V9" fromText="decide" toID="V21" toText="make" />
+<EVENT_ORDER id="E165" fromID="V10" fromText="use" toID="V11" toText="reducing" />
+<EVENT_ORDER id="E166" fromID="V10" fromText="use" toID="V12" toText="organized" />
+<EVENT_ORDER id="E167" fromID="V10" fromText="use" toID="V13" toText="driving" />
+<EVENT_ORDER id="E168" fromID="V10" fromText="use" toID="V14" toText="expect" />
+<EVENT_ORDER id="E169" fromID="V10" fromText="use" toID="V15" toText="having" />
+<EVENT_ORDER id="E170" fromID="V10" fromText="use" toID="V16" toText="is" />
+<EVENT_ORDER id="E171" fromID="V10" fromText="use" toID="V17" toText="said" />
+<EVENT_ORDER id="E172" fromID="V10" fromText="use" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E173" fromID="V10" fromText="use" toID="V19" toText="is" />
+<EVENT_ORDER id="E174" fromID="V10" fromText="use" toID="V20" toText="limit" />
+<EVENT_ORDER id="E175" fromID="V10" fromText="use" toID="V21" toText="make" />
+<EVENT_ORDER id="E176" fromID="V11" fromText="reducing" toID="V12" toText="organized" />
+<EVENT_ORDER id="E177" fromID="V11" fromText="reducing" toID="V13" toText="driving" />
+<EVENT_ORDER id="E178" fromID="V11" fromText="reducing" toID="V14" toText="expect" />
+<EVENT_ORDER id="E179" fromID="V11" fromText="reducing" toID="V15" toText="having" />
+<EVENT_ORDER id="E180" fromID="V11" fromText="reducing" toID="V16" toText="is" />
+<EVENT_ORDER id="E181" fromID="V11" fromText="reducing" toID="V17" toText="said" />
+<EVENT_ORDER id="E182" fromID="V11" fromText="reducing" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E183" fromID="V11" fromText="reducing" toID="V19" toText="is" />
+<EVENT_ORDER id="E184" fromID="V11" fromText="reducing" toID="V20" toText="limit" />
+<EVENT_ORDER id="E185" fromID="V11" fromText="reducing" toID="V21" toText="make" />
+<EVENT_ORDER id="E186" fromID="V12" fromText="organized" toID="V13" toText="driving" />
+<EVENT_ORDER id="E187" fromID="V12" fromText="organized" toID="V14" toText="expect" />
+<EVENT_ORDER id="E188" fromID="V12" fromText="organized" toID="V15" toText="having" />
+<EVENT_ORDER id="E189" fromID="V12" fromText="organized" toID="V16" toText="is" />
+<EVENT_ORDER id="E190" fromID="V12" fromText="organized" toID="V17" toText="said" />
+<EVENT_ORDER id="E191" fromID="V12" fromText="organized" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E192" fromID="V12" fromText="organized" toID="V19" toText="is" />
+<EVENT_ORDER id="E193" fromID="V12" fromText="organized" toID="V20" toText="limit" />
+<EVENT_ORDER id="E194" fromID="V12" fromText="organized" toID="V21" toText="make" />
+<EVENT_ORDER id="E195" fromID="V13" fromText="driving" toID="V14" toText="expect" />
+<EVENT_ORDER id="E196" fromID="V13" fromText="driving" toID="V15" toText="having" />
+<EVENT_ORDER id="E197" fromID="V13" fromText="driving" toID="V16" toText="is" />
+<EVENT_ORDER id="E198" fromID="V13" fromText="driving" toID="V17" toText="said" />
+<EVENT_ORDER id="E199" fromID="V13" fromText="driving" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E200" fromID="V13" fromText="driving" toID="V19" toText="is" />
+<EVENT_ORDER id="E201" fromID="V13" fromText="driving" toID="V20" toText="limit" />
+<EVENT_ORDER id="E202" fromID="V13" fromText="driving" toID="V21" toText="make" />
+<EVENT_ORDER id="E203" fromID="V14" fromText="expect" toID="V15" toText="having" />
+<EVENT_ORDER id="E204" fromID="V14" fromText="expect" toID="V16" toText="is" />
+<EVENT_ORDER id="E205" fromID="V14" fromText="expect" toID="V17" toText="said" />
+<EVENT_ORDER id="E206" fromID="V14" fromText="expect" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E207" fromID="V14" fromText="expect" toID="V19" toText="is" />
+<EVENT_ORDER id="E208" fromID="V14" fromText="expect" toID="V20" toText="limit" />
+<EVENT_ORDER id="E209" fromID="V14" fromText="expect" toID="V21" toText="make" />
+<EVENT_ORDER id="E210" fromID="V15" fromText="having" toID="V16" toText="is" />
+<EVENT_ORDER id="E211" fromID="V15" fromText="having" toID="V17" toText="said" />
+<EVENT_ORDER id="E212" fromID="V15" fromText="having" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E213" fromID="V15" fromText="having" toID="V19" toText="is" />
+<EVENT_ORDER id="E214" fromID="V15" fromText="having" toID="V20" toText="limit" />
+<EVENT_ORDER id="E215" fromID="V15" fromText="having" toID="V21" toText="make" />
+<EVENT_ORDER id="E216" fromID="V16" fromText="is" toID="V17" toText="said" />
+<EVENT_ORDER id="E217" fromID="V16" fromText="is" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E218" fromID="V16" fromText="is" toID="V19" toText="is" />
+<EVENT_ORDER id="E219" fromID="V16" fromText="is" toID="V20" toText="limit" />
+<EVENT_ORDER id="E220" fromID="V16" fromText="is" toID="V21" toText="make" />
+<EVENT_ORDER id="E221" fromID="V17" fromText="said" toID="V18" toText="reduce" />
+<EVENT_ORDER id="E222" fromID="V17" fromText="said" toID="V19" toText="is" />
+<EVENT_ORDER id="E223" fromID="V17" fromText="said" toID="V20" toText="limit" />
+<EVENT_ORDER id="E224" fromID="V17" fromText="said" toID="V21" toText="make" />
+<EVENT_ORDER id="E225" fromID="V18" fromText="reduce" toID="V19" toText="is" />
+<EVENT_ORDER id="E226" fromID="V18" fromText="reduce" toID="V20" toText="limit" />
+<EVENT_ORDER id="E227" fromID="V18" fromText="reduce" toID="V21" toText="make" />
+<EVENT_ORDER id="E228" fromID="V19" fromText="is" toID="V20" toText="limit" />
+<EVENT_ORDER id="E229" fromID="V19" fromText="is" toID="V21" toText="make" />
+<EVENT_ORDER id="E230" fromID="V20" fromText="limit" toID="V21" toText="make" />
+</TAGS>
+</TemporalRelationTask>

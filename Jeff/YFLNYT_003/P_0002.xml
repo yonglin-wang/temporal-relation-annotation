@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Recounting the skepticism that surrounded her, Senator Gillibrand wrote in her 2014 memoir, “Off the Sidelines,” that she was regarded as “a parakeet,” without original thoughts of her own. Upon Ms. Gillibrand’s appointment, the Spanish-language newspaper El Diario ran an unflattering picture of her with the headline: “Anti-inmigrante.” Representative Nydia M. Velázquez considered her a poor choice for the job; others compared her to Tracy Flick, invoking Reese Witherspoon’s portrayal of a grating teenager whose averageness is obscured by her ruthless desire to ascend in the movie “Election.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~10" text="Recounting" category="VBG" />
+<VERB id="V1" spans="31~41" text="surrounded" category="VBD" />
+<VERB id="V2" spans="66~71" text="wrote" category="VBD" />
+<VERB id="V3" spans="126~134" text="regarded" category="VBN" />
+<VERB id="V5" spans="373~383" text="considered" category="VBD" />
+<VERB id="V6" spans="422~430" text="compared" category="VBN" />
+<VERB id="V7" spans="451~459" text="invoking" category="VBG" />
+<VERB id="V9" spans="533~541" text="obscured" category="VBN" />
+<VERB id="V10" spans="568~574" text="ascend" category="VB" />
+<VERB id="V11" spans="266~269" text="ran" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Recounting" toID="V1" toText="surrounded" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Recounting" toID="V2" toText="wrote" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Recounting" toID="V3" toText="regarded" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="Recounting" toID="V5" toText="considered" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="Recounting" toID="V6" toText="compared" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="Recounting" toID="V7" toText="invoking" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="Recounting" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="Recounting" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="surrounded" toID="V2" toText="wrote" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="surrounded" toID="V3" toText="regarded" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="surrounded" toID="V5" toText="considered" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="surrounded" toID="V6" toText="compared" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="surrounded" toID="V7" toText="invoking" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="surrounded" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="surrounded" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="wrote" toID="V3" toText="regarded" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="wrote" toID="V5" toText="considered" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="wrote" toID="V6" toText="compared" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="wrote" toID="V7" toText="invoking" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="wrote" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="wrote" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="regarded" toID="V5" toText="considered" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="regarded" toID="V6" toText="compared" />
+<EVENT_ORDER id="E30" fromID="V3" fromText="regarded" toID="V7" toText="invoking" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="regarded" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="regarded" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="considered" toID="V6" toText="compared" />
+<EVENT_ORDER id="E41" fromID="V5" fromText="considered" toID="V7" toText="invoking" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="considered" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E44" fromID="V5" fromText="considered" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E45" fromID="V6" fromText="compared" toID="V7" toText="invoking" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="compared" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E48" fromID="V6" fromText="compared" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E50" fromID="V7" fromText="invoking" toID="V9" toText="obscured" />
+<EVENT_ORDER id="E51" fromID="V7" fromText="invoking" toID="V10" toText="ascend" />
+<EVENT_ORDER id="E54" fromID="V9" fromText="obscured" toID="V10" toText="ascend" />
+</TAGS>
+</TemporalRelationTask>

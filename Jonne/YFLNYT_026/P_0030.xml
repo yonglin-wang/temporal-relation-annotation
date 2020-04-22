@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“We have to be bigger than a coastal party,” said Gov. Steve Bullock of Montana, who eked out re-election last week and went deer hunting with his son over the weekend.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="4~8" text="have" category="VBP" />
+<VERB id="V1" spans="12~14" text="be" category="VB" />
+<VERB id="V2" spans="45~49" text="said" category="VBD" />
+<VERB id="V3" spans="85~89" text="eked" category="VBD" />
+<VERB id="V4" spans="120~124" text="went" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="have" toID="V1" toText="be" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="have" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="have" toID="V3" toText="eked" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="have" toID="V4" toText="went" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="be" toID="V2" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="be" toID="V3" toText="eked" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="be" toID="V4" toText="went" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="said" toID="V3" toText="eked" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="went" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="eked" toID="V4" toText="went" />
+</TAGS>
+</TemporalRelationTask>

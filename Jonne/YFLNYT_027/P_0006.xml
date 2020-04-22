@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The breadth of Mr. Biden’s advantage denies Mr. Sanders any realistic opportunity for a comeback. Perhaps Mr. Sanders will win a party-run primary or caucus — in Alaska, Hawaii or Wyoming over coming weeks — as he did in North Dakota last week. Otherwise Mr. Biden is the favorite in every remaining primary state. And without victories, Mr. Sanders will be deprived of opportunities to claim the momentum and favorable news coverage to change the trajectory of the race.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="37~43" text="denies" category="VBZ" />
+<VERB id="V1" spans="123~126" text="win" category="VB" />
+<VERB id="V2" spans="214~217" text="did" category="VBD" />
+<VERB id="V5" spans="358~366" text="deprived" category="VBN" />
+<VERB id="V6" spans="387~392" text="claim" category="VB" />
+<VERB id="V7" spans="437~443" text="change" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="denies" toID="V1" toText="win" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="denies" toID="V2" toText="did" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="denies" toID="V5" toText="deprived" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="denies" toID="V6" toText="claim" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="denies" toID="V7" toText="change" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="win" toID="V2" toText="did" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="win" toID="V5" toText="deprived" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="win" toID="V6" toText="claim" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="win" toID="V7" toText="change" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="did" toID="V5" toText="deprived" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="did" toID="V6" toText="claim" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="did" toID="V7" toText="change" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="deprived" toID="V6" toText="claim" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="deprived" toID="V7" toText="change" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="claim" toID="V7" toText="change" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I’ve never commented about a fellow Senator’s choices/actions. Never once,” Senator Kyrsten Sinema, Democrat of Arizona, who is known to frequent the senators-only pool, wrote on Twitter. “This, America, is absolutely irresponsible. You cannot be near other people while waiting for coronavirus test results. It endangers others & likely increases the spread of the virus.” (A spokesman for Ms. Sinema said she had been practicing social distancing and had not been to the pool in two weeks.)]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="12~21" text="commented" category="VBN" />
+<VERB id="V1" spans="129~134" text="known" category="VBN" />
+<VERB id="V2" spans="138~146" text="frequent" category="VB" />
+<VERB id="V3" spans="171~176" text="wrote" category="VBD" />
+<VERB id="V4" spans="192~194" text="is" category="VBZ" />
+<VERB id="V5" spans="245~247" text="be" category="VB" />
+<VERB id="V6" spans="272~279" text="waiting" category="VBG" />
+<VERB id="V7" spans="313~322" text="endangers" category="VBZ" />
+<VERB id="V8" spans="339~348" text="increases" category="VBZ" />
+<VERB id="V9" spans="403~407" text="said" category="VBD" />
+<VERB id="V10" spans="421~431" text="practicing" category="VBG" />
+<VERB id="V12" spans="462~466" text="been" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="commented" toID="V1" toText="known" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="commented" toID="V2" toText="frequent" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="commented" toID="V3" toText="wrote" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="commented" toID="V4" toText="is" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="commented" toID="V5" toText="be" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="commented" toID="V6" toText="waiting" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="commented" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="commented" toID="V8" toText="increases" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="commented" toID="V9" toText="said" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="commented" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="commented" toID="V12" toText="been" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="known" toID="V2" toText="frequent" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="known" toID="V3" toText="wrote" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="known" toID="V4" toText="is" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="known" toID="V5" toText="be" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="known" toID="V6" toText="waiting" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="known" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="known" toID="V8" toText="increases" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="known" toID="V9" toText="said" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="known" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="known" toID="V12" toText="been" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="frequent" toID="V3" toText="wrote" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="frequent" toID="V4" toText="is" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="frequent" toID="V5" toText="be" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="frequent" toID="V6" toText="waiting" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="frequent" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="frequent" toID="V8" toText="increases" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="frequent" toID="V9" toText="said" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="frequent" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="frequent" toID="V12" toText="been" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="wrote" toID="V4" toText="is" />
+<EVENT_ORDER id="E34" fromID="V3" fromText="wrote" toID="V5" toText="be" />
+<EVENT_ORDER id="E35" fromID="V3" fromText="wrote" toID="V6" toText="waiting" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="wrote" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="wrote" toID="V8" toText="increases" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="wrote" toID="V9" toText="said" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="wrote" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="wrote" toID="V12" toText="been" />
+<EVENT_ORDER id="E42" fromID="V4" fromText="is" toID="V5" toText="be" />
+<EVENT_ORDER id="E43" fromID="V4" fromText="is" toID="V6" toText="waiting" />
+<EVENT_ORDER id="E44" fromID="V4" fromText="is" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E45" fromID="V4" fromText="is" toID="V8" toText="increases" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="is" toID="V9" toText="said" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="is" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="is" toID="V12" toText="been" />
+<EVENT_ORDER id="E50" fromID="V5" fromText="be" toID="V6" toText="waiting" />
+<EVENT_ORDER id="E51" fromID="V5" fromText="be" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E52" fromID="V5" fromText="be" toID="V8" toText="increases" />
+<EVENT_ORDER id="E53" fromID="V5" fromText="be" toID="V9" toText="said" />
+<EVENT_ORDER id="E54" fromID="V5" fromText="be" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="be" toID="V12" toText="been" />
+<EVENT_ORDER id="E57" fromID="V6" fromText="waiting" toID="V7" toText="endangers" />
+<EVENT_ORDER id="E58" fromID="V6" fromText="waiting" toID="V8" toText="increases" />
+<EVENT_ORDER id="E59" fromID="V6" fromText="waiting" toID="V9" toText="said" />
+<EVENT_ORDER id="E60" fromID="V6" fromText="waiting" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E62" fromID="V6" fromText="waiting" toID="V12" toText="been" />
+<EVENT_ORDER id="E63" fromID="V7" fromText="endangers" toID="V8" toText="increases" />
+<EVENT_ORDER id="E64" fromID="V7" fromText="endangers" toID="V9" toText="said" />
+<EVENT_ORDER id="E65" fromID="V7" fromText="endangers" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E67" fromID="V7" fromText="endangers" toID="V12" toText="been" />
+<EVENT_ORDER id="E68" fromID="V8" fromText="increases" toID="V9" toText="said" />
+<EVENT_ORDER id="E69" fromID="V8" fromText="increases" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E71" fromID="V8" fromText="increases" toID="V12" toText="been" />
+<EVENT_ORDER id="E72" fromID="V9" fromText="said" toID="V10" toText="practicing" />
+<EVENT_ORDER id="E74" fromID="V9" fromText="said" toID="V12" toText="been" />
+<EVENT_ORDER id="E76" fromID="V10" fromText="practicing" toID="V12" toText="been" />
+</TAGS>
+</TemporalRelationTask>

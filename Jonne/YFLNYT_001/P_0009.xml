@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I feel many of these chief executives are responding to a public longing for a strongman, or woman, a strong leader,” Mr. Gergen said. “There’s a sense that’s why Trump got elected. You’re seeing the same thing in Europe, in Asia, in a long list of countries. People are dissatisfied with standard politicians. Military types and business people with a strong track record offer an attractive alternative.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~7" text="feel" category="VBP" />
+<VERB id="V1" spans="43~53" text="responding" category="VBG" />
+<VERB id="V2" spans="130~134" text="said" category="VBD" />
+<VERB id="V3" spans="143~144" text="s" category="VBZ" />
+<VERB id="V4" spans="170~173" text="got" category="VBD" />
+<VERB id="V7" spans="190~196" text="seeing" category="VBG" />
+<VERB id="V8" spans="272~284" text="dissatisfied" category="VBN" />
+<VERB id="V9" spans="374~379" text="offer" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="feel" toID="V1" toText="responding" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="feel" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="feel" toID="V3" toText="s" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="feel" toID="V4" toText="got" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="feel" toID="V7" toText="seeing" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="feel" toID="V8" toText="dissatisfied" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="responding" toID="V2" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="responding" toID="V3" toText="s" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="responding" toID="V4" toText="got" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="responding" toID="V7" toText="seeing" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="responding" toID="V8" toText="dissatisfied" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V3" toText="s" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V4" toText="got" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V7" toText="seeing" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V8" toText="dissatisfied" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="s" toID="V4" toText="got" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="s" toID="V7" toText="seeing" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="s" toID="V8" toText="dissatisfied" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="got" toID="V7" toText="seeing" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="got" toID="V8" toText="dissatisfied" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="seeing" toID="V8" toText="dissatisfied" />
+</TAGS>
+</TemporalRelationTask>

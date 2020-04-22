@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Michael R. Bloomberg on Friday abandoned plans to form a new super PAC for the presidential race and employ his campaign organizers through November, instead opting to give $18 million to the Democratic National Committee for the party’s battleground states program and disband the army of field workers he had assembled across the country.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="31~40" text="abandoned" category="VBD" />
+<VERB id="V1" spans="50~54" text="form" category="VB" />
+<VERB id="V2" spans="101~107" text="employ" category="VB" />
+<VERB id="V3" spans="158~164" text="opting" category="VBG" />
+<VERB id="V4" spans="168~172" text="give" category="VB" />
+<VERB id="V6" spans="270~277" text="disband" category="VB" />
+<VERB id="V7" spans="311~320" text="assembled" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="abandoned" toID="V1" toText="form" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="abandoned" toID="V2" toText="employ" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="abandoned" toID="V3" toText="opting" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="abandoned" toID="V4" toText="give" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="abandoned" toID="V6" toText="disband" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="abandoned" toID="V7" toText="assembled" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="form" toID="V2" toText="employ" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="form" toID="V3" toText="opting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="form" toID="V4" toText="give" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="form" toID="V6" toText="disband" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="form" toID="V7" toText="assembled" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="employ" toID="V3" toText="opting" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="employ" toID="V4" toText="give" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="employ" toID="V6" toText="disband" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="employ" toID="V7" toText="assembled" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="opting" toID="V4" toText="give" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="opting" toID="V6" toText="disband" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="opting" toID="V7" toText="assembled" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="give" toID="V6" toText="disband" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="give" toID="V7" toText="assembled" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="disband" toID="V7" toText="assembled" />
+</TAGS>
+</TemporalRelationTask>

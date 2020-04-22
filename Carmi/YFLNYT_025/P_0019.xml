@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Young conservatives, of course, do not want the same policies as young liberals — but many of them express the same disillusionment with their leaders, and the same sense that neither party is addressing their needs.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="39~43" text="want" category="VB" />
+<VERB id="V2" spans="99~106" text="express" category="VBP" />
+<VERB id="V3" spans="193~203" text="addressing" category="VBG" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="want" toID="V2" toText="express" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="want" toID="V3" toText="addressing" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="express" toID="V3" toText="addressing" />
+</TAGS>
+</TemporalRelationTask>

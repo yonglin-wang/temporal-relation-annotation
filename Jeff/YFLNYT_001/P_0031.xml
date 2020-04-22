@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“That’s what I thought,” Ms. Winfrey replied. “I thought, ‘Oh gee, I don’t have the experience, I don’t know enough.’ And now I’m thinking, ‘Oh! Oh.’”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="6~7" text="s" category="VBP" />
+<VERB id="V1" spans="15~22" text="thought" category="VBD" />
+<VERB id="V2" spans="37~44" text="replied" category="VBD" />
+<VERB id="V3" spans="49~56" text="thought" category="VBD" />
+<VERB id="V5" spans="75~79" text="have" category="VBP" />
+<VERB id="V7" spans="104~108" text="know" category="VBP" />
+<VERB id="V8" spans="130~138" text="thinking" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="thought" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="replied" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="thought" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="have" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="know" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="thought" toID="V2" toText="replied" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="thought" toID="V3" toText="thought" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="thought" toID="V5" toText="have" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="thought" toID="V7" toText="know" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="replied" toID="V3" toText="thought" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="replied" toID="V5" toText="have" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="replied" toID="V7" toText="know" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="thought" toID="V5" toText="have" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="thought" toID="V7" toText="know" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="have" toID="V7" toText="know" />
+</TAGS>
+</TemporalRelationTask>

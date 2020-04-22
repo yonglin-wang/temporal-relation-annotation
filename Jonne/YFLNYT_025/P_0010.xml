@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[They also think more is needed — and that, too, is a function of experience.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~15" text="think" category="VBP" />
+<VERB id="V1" spans="24~30" text="needed" category="VBN" />
+<VERB id="V2" spans="48~50" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="think" toID="V1" toText="needed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="think" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="needed" toID="V2" toText="is" />
+</TAGS>
+</TemporalRelationTask>

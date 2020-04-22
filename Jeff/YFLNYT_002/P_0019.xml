@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Our Democratic Party, unfortunately, is not the party that is of, by and for the people,” she said at a debate in November. “It is a party that has been and continues to be influenced by the foreign policy establishment in Washington, represented by Hillary Clinton and others’ foreign policy, by the military industrial complex and other greedy corporate interests.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="38~40" text="is" category="VBZ" />
+<VERB id="V1" spans="60~62" text="is" category="VBZ" />
+<VERB id="V2" spans="95~99" text="said" category="VBD" />
+<VERB id="V3" spans="129~131" text="is" category="VBZ" />
+<VERB id="V5" spans="158~167" text="continues" category="VBZ" />
+<VERB id="V6" spans="174~184" text="influenced" category="VBN" />
+<VERB id="V7" spans="236~247" text="represented" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="is" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="continues" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="influenced" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="represented" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V3" toText="is" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V5" toText="continues" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V6" toText="influenced" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="is" toID="V7" toText="represented" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V3" toText="is" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V5" toText="continues" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V6" toText="influenced" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V7" toText="represented" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="is" toID="V5" toText="continues" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="is" toID="V6" toText="influenced" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="is" toID="V7" toText="represented" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="continues" toID="V6" toText="influenced" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="continues" toID="V7" toText="represented" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="influenced" toID="V7" toText="represented" />
+</TAGS>
+</TemporalRelationTask>

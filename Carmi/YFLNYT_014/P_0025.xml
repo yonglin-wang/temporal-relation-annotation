@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Representative John Yarmuth, Democrat of Kentucky and the chairman of the House Budget Committee, announced that he would self-quarantine for two weeks while awaiting the results of his test, which later came back negative.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="98~107" text="announced" category="VBD" />
+<VERB id="V1" spans="158~166" text="awaiting" category="VBG" />
+<VERB id="V2" spans="204~208" text="came" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="announced" toID="V1" toText="awaiting" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="announced" toID="V2" toText="came" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="awaiting" toID="V2" toText="came" />
+</TAGS>
+</TemporalRelationTask>

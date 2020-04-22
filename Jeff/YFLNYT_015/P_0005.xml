@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Bloomberg’s presidential campaign had promised at its outset that it would finance a field program through the November election, attracting staff members like Ms. Conrad with generous pay and benefits. Then, upon his withdrawal from the race earlier this month, Bloomberg officials said the former New York mayor would continue to employ some of his campaign’s field staff through an independent campaign organization.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="42~50" text="promised" category="VBN" />
+<VERB id="V2" spans="79~86" text="finance" category="VB" />
+<VERB id="V3" spans="134~144" text="attracting" category="VBG" />
+<VERB id="V4" spans="287~291" text="said" category="VBD" />
+<VERB id="V5" spans="324~332" text="continue" category="VB" />
+<VERB id="V6" spans="336~342" text="employ" category="VB" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="promised" toID="V2" toText="finance" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="promised" toID="V3" toText="attracting" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="promised" toID="V4" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="promised" toID="V5" toText="continue" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="promised" toID="V6" toText="employ" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="finance" toID="V3" toText="attracting" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="finance" toID="V4" toText="said" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="finance" toID="V5" toText="continue" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="finance" toID="V6" toText="employ" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="attracting" toID="V4" toText="said" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="attracting" toID="V5" toText="continue" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="attracting" toID="V6" toText="employ" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="said" toID="V5" toText="continue" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="said" toID="V6" toText="employ" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="continue" toID="V6" toText="employ" />
+</TAGS>
+</TemporalRelationTask>

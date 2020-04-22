@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[On Friday’s call with former campaign employees, Dan Kanninen, the campaign’s states director, communicated the decision to those it affected most directly.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="95~107" text="communicated" category="VBD" />
+<VERB id="V2" spans="133~141" text="affected" category="VBD" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="communicated" toID="V2" toText="affected" />
+</TAGS>
+</TemporalRelationTask>

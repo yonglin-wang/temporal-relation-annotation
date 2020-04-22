@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[He pressed on with his Washington schedule anyway. On Wednesday afternoon, he spoke and voted on the Senate floor. He dined at the Republicans’ closed luncheon on Thursday and on Friday, sitting with fellow senators. And after being informed of the diagnosis on Sunday, Senator Jerry Moran, Republican of Kansas, rose to tell fellow Republicans at lunch that he had seen Mr. Paul that morning at the senators-only gym, according to two people who heard him and Mr. Moran’s spokesman.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~10" text="pressed" category="VBD" />
+<VERB id="V1" spans="78~83" text="spoke" category="VBD" />
+<VERB id="V2" spans="88~93" text="voted" category="VBD" />
+<VERB id="V3" spans="118~123" text="dined" category="VBD" />
+<VERB id="V4" spans="144~150" text="closed" category="VBN" />
+<VERB id="V5" spans="187~194" text="sitting" category="VBG" />
+<VERB id="V6" spans="227~232" text="being" category="VBG" />
+<VERB id="V7" spans="233~241" text="informed" category="VBN" />
+<VERB id="V8" spans="313~317" text="rose" category="VBD" />
+<VERB id="V9" spans="321~325" text="tell" category="VB" />
+<VERB id="V10" spans="366~370" text="seen" category="VBN" />
+<VERB id="V11" spans="419~428" text="according" category="VBG" />
+<VERB id="V12" spans="447~452" text="heard" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="pressed" toID="V1" toText="spoke" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="pressed" toID="V2" toText="voted" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="pressed" toID="V3" toText="dined" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="pressed" toID="V4" toText="closed" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="pressed" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="pressed" toID="V6" toText="being" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="pressed" toID="V7" toText="informed" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="pressed" toID="V8" toText="rose" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="pressed" toID="V9" toText="tell" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="pressed" toID="V10" toText="seen" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="pressed" toID="V11" toText="according" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="pressed" toID="V12" toText="heard" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="spoke" toID="V2" toText="voted" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="spoke" toID="V3" toText="dined" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="spoke" toID="V4" toText="closed" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="spoke" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="spoke" toID="V6" toText="being" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="spoke" toID="V7" toText="informed" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="spoke" toID="V8" toText="rose" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="spoke" toID="V9" toText="tell" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="spoke" toID="V10" toText="seen" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="spoke" toID="V11" toText="according" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="spoke" toID="V12" toText="heard" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="voted" toID="V3" toText="dined" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="voted" toID="V4" toText="closed" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="voted" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="voted" toID="V6" toText="being" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="voted" toID="V7" toText="informed" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="voted" toID="V8" toText="rose" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="voted" toID="V9" toText="tell" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="voted" toID="V10" toText="seen" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="voted" toID="V11" toText="according" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="voted" toID="V12" toText="heard" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="dined" toID="V4" toText="closed" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="dined" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="dined" toID="V6" toText="being" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="dined" toID="V7" toText="informed" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="dined" toID="V8" toText="rose" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="dined" toID="V9" toText="tell" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="dined" toID="V10" toText="seen" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="dined" toID="V11" toText="according" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="dined" toID="V12" toText="heard" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="closed" toID="V5" toText="sitting" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="closed" toID="V6" toText="being" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="closed" toID="V7" toText="informed" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="closed" toID="V8" toText="rose" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="closed" toID="V9" toText="tell" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="closed" toID="V10" toText="seen" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="closed" toID="V11" toText="according" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="closed" toID="V12" toText="heard" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="sitting" toID="V6" toText="being" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="sitting" toID="V7" toText="informed" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="sitting" toID="V8" toText="rose" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="sitting" toID="V9" toText="tell" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="sitting" toID="V10" toText="seen" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="sitting" toID="V11" toText="according" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="sitting" toID="V12" toText="heard" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="being" toID="V7" toText="informed" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="being" toID="V8" toText="rose" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="being" toID="V9" toText="tell" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="being" toID="V10" toText="seen" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="being" toID="V11" toText="according" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="being" toID="V12" toText="heard" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="informed" toID="V8" toText="rose" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="informed" toID="V9" toText="tell" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="informed" toID="V10" toText="seen" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="informed" toID="V11" toText="according" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="informed" toID="V12" toText="heard" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="rose" toID="V9" toText="tell" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="rose" toID="V10" toText="seen" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="rose" toID="V11" toText="according" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="rose" toID="V12" toText="heard" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="tell" toID="V10" toText="seen" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="tell" toID="V11" toText="according" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="tell" toID="V12" toText="heard" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="seen" toID="V11" toText="according" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="seen" toID="V12" toText="heard" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="according" toID="V12" toText="heard" />
+</TAGS>
+</TemporalRelationTask>

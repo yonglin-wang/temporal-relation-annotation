@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[While the country has moved steadily to the left on such social issues as same-sex marriage and gender equity, it is increasingly apparent that Democrats cannot win in much of the country without a more coherent and overriding economic message.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~27" text="moved" category="VBN" />
+<VERB id="V3" spans="161~164" text="win" category="VB" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="moved" toID="V3" toText="win" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Ms. Sandberg’s coming nationwide tour to promote the new book she co-authored, “Option B,” which describes coming to terms with her husband’s sudden death in 2015 and other stories of coping with adversity, has fueled speculation (and possible wishful thinking) that the book could be a springboard for a presidential campaign.]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="41~48" text="promote" category="VB" />
+<VERB id="V3" spans="97~106" text="describes" category="VBZ" />
+<VERB id="V4" spans="107~113" text="coming" category="VBG" />
+<VERB id="V5" spans="184~190" text="coping" category="VBG" />
+<VERB id="V6" spans="211~217" text="fueled" category="VBN" />
+<VERB id="V7" spans="282~284" text="be" category="VB" />
+<VERB id="V8" spans="66~77" text="co-authored" category="VBD" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="promote" toID="V3" toText="describes" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="promote" toID="V4" toText="coming" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="promote" toID="V5" toText="coping" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="promote" toID="V6" toText="fueled" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="promote" toID="V7" toText="be" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="describes" toID="V4" toText="coming" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="describes" toID="V5" toText="coping" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="describes" toID="V6" toText="fueled" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="describes" toID="V7" toText="be" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="coming" toID="V5" toText="coping" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="coming" toID="V6" toText="fueled" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="coming" toID="V7" toText="be" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="coping" toID="V6" toText="fueled" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="coping" toID="V7" toText="be" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="fueled" toID="V7" toText="be" />
+</TAGS>
+</TemporalRelationTask>

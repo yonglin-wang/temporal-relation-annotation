@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For people who turn their thermostats down while they are out of the house, staying home means more heat, and more greenhouse gases. But when it comes to the greenhouse gas impact of heating your home, “Where you live is by far the biggest factor in determining your carbon footprint,” Dr. Jones said. “If you live in a cold climate, heating your home can more than offset the savings from driving your vehicle.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~19" text="turn" category="VBZ" />
+<VERB id="V1" spans="54~57" text="are" category="VBP" />
+<VERB id="V2" spans="76~83" text="staying" category="VBG" />
+<VERB id="V3" spans="89~94" text="means" category="VBZ" />
+<VERB id="V4" spans="145~150" text="comes" category="VBZ" />
+<VERB id="V5" spans="183~190" text="heating" category="VBG" />
+<VERB id="V6" spans="213~217" text="live" category="VBP" />
+<VERB id="V7" spans="218~220" text="is" category="VBZ" />
+<VERB id="V8" spans="250~261" text="determining" category="VBG" />
+<VERB id="V9" spans="296~300" text="said" category="VBD" />
+<VERB id="V10" spans="310~314" text="live" category="VBP" />
+<VERB id="V11" spans="334~341" text="heating" category="VBG" />
+<VERB id="V12" spans="366~372" text="offset" category="VB" />
+<VERB id="V13" spans="390~397" text="driving" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="turn" toID="V1" toText="are" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="turn" toID="V2" toText="staying" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="turn" toID="V3" toText="means" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="turn" toID="V4" toText="comes" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="turn" toID="V5" toText="heating" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="turn" toID="V6" toText="live" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="turn" toID="V7" toText="is" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="turn" toID="V8" toText="determining" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="turn" toID="V9" toText="said" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="turn" toID="V10" toText="live" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="turn" toID="V11" toText="heating" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="turn" toID="V12" toText="offset" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="turn" toID="V13" toText="driving" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="are" toID="V2" toText="staying" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="are" toID="V3" toText="means" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="are" toID="V4" toText="comes" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="are" toID="V5" toText="heating" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="are" toID="V6" toText="live" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="are" toID="V7" toText="is" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="are" toID="V8" toText="determining" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="are" toID="V9" toText="said" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="are" toID="V10" toText="live" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="are" toID="V11" toText="heating" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="are" toID="V12" toText="offset" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="are" toID="V13" toText="driving" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="staying" toID="V3" toText="means" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="staying" toID="V4" toText="comes" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="staying" toID="V5" toText="heating" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="staying" toID="V6" toText="live" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="staying" toID="V7" toText="is" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="staying" toID="V8" toText="determining" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="staying" toID="V9" toText="said" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="staying" toID="V10" toText="live" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="staying" toID="V11" toText="heating" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="staying" toID="V12" toText="offset" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="staying" toID="V13" toText="driving" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="means" toID="V4" toText="comes" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="means" toID="V5" toText="heating" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="means" toID="V6" toText="live" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="means" toID="V7" toText="is" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="means" toID="V8" toText="determining" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="means" toID="V9" toText="said" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="means" toID="V10" toText="live" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="means" toID="V11" toText="heating" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="means" toID="V12" toText="offset" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="means" toID="V13" toText="driving" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="comes" toID="V5" toText="heating" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="comes" toID="V6" toText="live" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="comes" toID="V7" toText="is" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="comes" toID="V8" toText="determining" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="comes" toID="V9" toText="said" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="comes" toID="V10" toText="live" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="comes" toID="V11" toText="heating" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="comes" toID="V12" toText="offset" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="comes" toID="V13" toText="driving" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="heating" toID="V6" toText="live" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="heating" toID="V7" toText="is" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="heating" toID="V8" toText="determining" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="heating" toID="V9" toText="said" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="heating" toID="V10" toText="live" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="heating" toID="V11" toText="heating" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="heating" toID="V12" toText="offset" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="heating" toID="V13" toText="driving" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="live" toID="V7" toText="is" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="live" toID="V8" toText="determining" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="live" toID="V9" toText="said" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="live" toID="V10" toText="live" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="live" toID="V11" toText="heating" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="live" toID="V12" toText="offset" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="live" toID="V13" toText="driving" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="is" toID="V8" toText="determining" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="is" toID="V9" toText="said" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="is" toID="V10" toText="live" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="is" toID="V11" toText="heating" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="is" toID="V12" toText="offset" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="is" toID="V13" toText="driving" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="determining" toID="V9" toText="said" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="determining" toID="V10" toText="live" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="determining" toID="V11" toText="heating" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="determining" toID="V12" toText="offset" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="determining" toID="V13" toText="driving" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="said" toID="V10" toText="live" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="said" toID="V11" toText="heating" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="said" toID="V12" toText="offset" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="said" toID="V13" toText="driving" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="live" toID="V11" toText="heating" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="live" toID="V12" toText="offset" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="live" toID="V13" toText="driving" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="heating" toID="V12" toText="offset" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="heating" toID="V13" toText="driving" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="offset" toID="V13" toText="driving" />
+</TAGS>
+</TemporalRelationTask>

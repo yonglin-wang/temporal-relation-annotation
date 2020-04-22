@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[She expressed particular concern about losing health care at the end of the month in the face of the coronavirus outbreak.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="4~13" text="expressed" category="VBD" />
+<VERB id="V1" spans="39~45" text="losing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="expressed" toID="V1" toText="losing" />
+</TAGS>
+</TemporalRelationTask>

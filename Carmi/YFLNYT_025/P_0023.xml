@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Blair Egan, 22, said she had argued over climate change with older Republicans, including her father, who she said “isn’t thinking about what the world’s going to look like 50 years down the line because it honestly doesn’t impact him.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~20" text="said" category="VBD" />
+<VERB id="V1" spans="29~35" text="argued" category="VBN" />
+<VERB id="V2" spans="80~89" text="including" category="VBG" />
+<VERB id="V3" spans="110~114" text="said" category="VBD" />
+<VERB id="V4" spans="122~130" text="thinking" category="VBG" />
+<VERB id="V5" spans="154~159" text="going" category="VBG" />
+<VERB id="V6" spans="163~167" text="look" category="VB" />
+<VERB id="V8" spans="224~230" text="impact" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="argued" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="including" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="thinking" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="going" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="look" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="argued" toID="V2" toText="including" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="argued" toID="V3" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="argued" toID="V4" toText="thinking" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="argued" toID="V5" toText="going" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="argued" toID="V6" toText="look" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="including" toID="V3" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="including" toID="V4" toText="thinking" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="including" toID="V5" toText="going" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="including" toID="V6" toText="look" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="said" toID="V4" toText="thinking" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="said" toID="V5" toText="going" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="said" toID="V6" toText="look" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="thinking" toID="V5" toText="going" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="thinking" toID="V6" toText="look" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="going" toID="V6" toText="look" />
+</TAGS>
+</TemporalRelationTask>

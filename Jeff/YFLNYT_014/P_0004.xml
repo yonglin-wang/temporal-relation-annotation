@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The news set off a frantic race to retrace the steps of Mr. Paul, who had continued to show up in the Senate — even using the private senators’ gym, where he swam laps in the pool on Sunday morning — until he received the results of his coronavirus test sometime after his workout.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~12" text="set" category="VBN" />
+<VERB id="V1" spans="35~42" text="retrace" category="VB" />
+<VERB id="V2" spans="74~83" text="continued" category="VBN" />
+<VERB id="V3" spans="87~91" text="show" category="VB" />
+<VERB id="V4" spans="116~121" text="using" category="VBG" />
+<VERB id="V5" spans="158~162" text="swam" category="VBZ" />
+<VERB id="V6" spans="209~217" text="received" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="set" toID="V1" toText="retrace" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="set" toID="V2" toText="continued" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="set" toID="V3" toText="show" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="set" toID="V4" toText="using" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="set" toID="V5" toText="swam" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="set" toID="V6" toText="received" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="retrace" toID="V2" toText="continued" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="retrace" toID="V3" toText="show" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="retrace" toID="V4" toText="using" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="retrace" toID="V5" toText="swam" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="retrace" toID="V6" toText="received" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="continued" toID="V3" toText="show" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="continued" toID="V4" toText="using" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="continued" toID="V5" toText="swam" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="continued" toID="V6" toText="received" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="show" toID="V4" toText="using" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="show" toID="V5" toText="swam" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="show" toID="V6" toText="received" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="using" toID="V5" toText="swam" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="using" toID="V6" toText="received" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="swam" toID="V6" toText="received" />
+</TAGS>
+</TemporalRelationTask>

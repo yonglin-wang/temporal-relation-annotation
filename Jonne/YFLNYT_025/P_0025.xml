@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Both she and Ms. Castro are loath to vote for Mr. Trump — who Ms. Egan argued used conservative ideas “as a smoke screen for a message and platform that’s based in anxiety, fear, suspicion and conspiracy” — but are deeply frustrated that their choice is him or a Democrat with whom they disagree on important policies.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~27" text="are" category="VBP" />
+<VERB id="V1" spans="37~41" text="vote" category="VB" />
+<VERB id="V2" spans="71~77" text="argued" category="VBD" />
+<VERB id="V3" spans="78~82" text="used" category="VBD" />
+<VERB id="V4" spans="155~160" text="based" category="VBN" />
+<VERB id="V5" spans="211~214" text="are" category="VBP" />
+<VERB id="V7" spans="251~253" text="is" category="VBZ" />
+<VERB id="V8" spans="287~295" text="disagree" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="vote" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="argued" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="used" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="based" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="are" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="are" toID="V7" toText="is" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="are" toID="V8" toText="disagree" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="vote" toID="V2" toText="argued" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="vote" toID="V3" toText="used" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="vote" toID="V4" toText="based" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="vote" toID="V5" toText="are" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="vote" toID="V7" toText="is" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="vote" toID="V8" toText="disagree" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="argued" toID="V3" toText="used" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="argued" toID="V4" toText="based" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="argued" toID="V5" toText="are" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="argued" toID="V7" toText="is" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="argued" toID="V8" toText="disagree" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="used" toID="V4" toText="based" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="used" toID="V5" toText="are" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="used" toID="V7" toText="is" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="used" toID="V8" toText="disagree" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="based" toID="V5" toText="are" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="based" toID="V7" toText="is" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="based" toID="V8" toText="disagree" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="are" toID="V7" toText="is" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="are" toID="V8" toText="disagree" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="is" toID="V8" toText="disagree" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Hours later, Mr. Gor was more specific. He said the senator had decided to undergo testing “after attending an event where two individuals subsequently tested positive for Covid-19, even though he wasn’t aware of any direct contact with either one of them.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="21~24" text="was" category="VBD" />
+<VERB id="V1" spans="43~47" text="said" category="VBD" />
+<VERB id="V2" spans="64~71" text="decided" category="VBN" />
+<VERB id="V3" spans="75~82" text="undergo" category="VB" />
+<VERB id="V4" spans="83~90" text="testing" category="VBG" />
+<VERB id="V5" spans="98~107" text="attending" category="VBG" />
+<VERB id="V6" spans="152~158" text="tested" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="decided" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="undergo" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="testing" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="attending" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="tested" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V2" toText="decided" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V3" toText="undergo" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V4" toText="testing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V5" toText="attending" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="said" toID="V6" toText="tested" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="decided" toID="V3" toText="undergo" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="decided" toID="V4" toText="testing" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="decided" toID="V5" toText="attending" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="decided" toID="V6" toText="tested" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="undergo" toID="V4" toText="testing" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="undergo" toID="V5" toText="attending" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="undergo" toID="V6" toText="tested" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="testing" toID="V5" toText="attending" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="testing" toID="V6" toText="tested" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="attending" toID="V6" toText="tested" />
+</TAGS>
+</TemporalRelationTask>

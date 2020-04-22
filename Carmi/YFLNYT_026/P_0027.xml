@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Jason Kander, a Missouri Democrat who lost to Senator Roy Blunt by just three percentage points while Mrs. Clinton lost the state by 19, dismissed what he called “the old construct about Blue Dogs,” referring to the moderate-to-conservative Democratic group that was once robust in the South and in border states.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="38~42" text="lost" category="VBD" />
+<VERB id="V1" spans="115~119" text="lost" category="VBD" />
+<VERB id="V2" spans="137~146" text="dismissed" category="VBD" />
+<VERB id="V3" spans="155~161" text="called" category="VBD" />
+<VERB id="V5" spans="263~266" text="was" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="lost" toID="V1" toText="lost" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="lost" toID="V2" toText="dismissed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="lost" toID="V3" toText="called" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="lost" toID="V5" toText="was" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="lost" toID="V2" toText="dismissed" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="lost" toID="V3" toText="called" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="lost" toID="V5" toText="was" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="dismissed" toID="V3" toText="called" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="dismissed" toID="V5" toText="was" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="called" toID="V5" toText="was" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But many of them also oppose what they see as an outdated Democratic establishment. And they don’t necessarily think replacing Mr. Trump will make their lives better.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~28" text="oppose" category="VBP" />
+<VERB id="V1" spans="39~42" text="see" category="VBP" />
+<VERB id="V4" spans="111~116" text="think" category="VBP" />
+<VERB id="V5" spans="117~126" text="replacing" category="VBG" />
+<VERB id="V6" spans="142~146" text="make" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="oppose" toID="V1" toText="see" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="oppose" toID="V4" toText="think" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="oppose" toID="V5" toText="replacing" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="oppose" toID="V6" toText="make" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="see" toID="V4" toText="think" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="see" toID="V5" toText="replacing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="see" toID="V6" toText="make" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="think" toID="V5" toText="replacing" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="think" toID="V6" toText="make" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="replacing" toID="V6" toText="make" />
+</TAGS>
+</TemporalRelationTask>

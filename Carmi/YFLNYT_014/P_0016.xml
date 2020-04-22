@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[At a news conference at the White House on Sunday evening, President Trump appeared to take some satisfaction in the situation of Mr. Romney, who voted last month to remove him from office on impeachment charges.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="75~83" text="appeared" category="VBD" />
+<VERB id="V1" spans="87~91" text="take" category="VB" />
+<VERB id="V2" spans="146~151" text="voted" category="VBD" />
+<VERB id="V3" spans="166~172" text="remove" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="appeared" toID="V1" toText="take" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="appeared" toID="V2" toText="voted" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="appeared" toID="V3" toText="remove" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="take" toID="V2" toText="voted" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="take" toID="V3" toText="remove" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="voted" toID="V3" toText="remove" />
+</TAGS>
+</TemporalRelationTask>
