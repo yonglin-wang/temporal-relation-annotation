@@ -7,22 +7,16 @@
 <VERB id="V1" spans="43~47" text="left" category="VBD" />
 <VERB id="V2" spans="84~91" text="reduced" category="VBD" />
 <VERB id="V3" spans="154~160" text="taking" category="VBG" />
-<VERB id="V4" spans="212~215" text="are" category="VBP" />
 <VERB id="V5" spans="224~231" text="turning" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="Bruised" toID="V1" toText="left" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="Bruised" toID="V2" toText="reduced" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="Bruised" toID="V3" toText="taking" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="Bruised" toID="V4" toText="are" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="Bruised" toID="V5" toText="turning" />
 <EVENT_ORDER id="E5" fromID="V1" fromText="left" toID="V2" toText="reduced" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="left" toID="V3" toText="taking" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="left" toID="V4" toText="are" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="left" toID="V5" toText="turning" />
 <EVENT_ORDER id="E9" fromID="V2" fromText="reduced" toID="V3" toText="taking" />
-<EVENT_ORDER id="E10" fromID="V2" fromText="reduced" toID="V4" toText="are" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="reduced" toID="V5" toText="turning" />
-<EVENT_ORDER id="E12" fromID="V3" fromText="taking" toID="V4" toText="are" />
 <EVENT_ORDER id="E13" fromID="V3" fromText="taking" toID="V5" toText="turning" />
-<EVENT_ORDER id="E14" fromID="V4" fromText="are" toID="V5" toText="turning" />
 </TAGS>
 </TemporalRelationTask>
