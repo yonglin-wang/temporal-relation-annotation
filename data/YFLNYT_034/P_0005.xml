@@ -3,11 +3,8 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[It’s really two distinct crises the Fed is trying to solve, with overlapping tools.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="25~31" text="crises" category="VBZ" />
 <VERB id="V1" spans="43~49" text="trying" category="VBG" />
 <VERB id="V2" spans="53~58" text="solve" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="crises" toID="V1" toText="trying" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="crises" toID="V2" toText="solve" />
 <EVENT_ORDER id="E2" fromID="V1" fromText="trying" toID="V2" toText="solve" />
 </TAGS>
 </TemporalRelationTask>
