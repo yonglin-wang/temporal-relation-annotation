@@ -4,32 +4,19 @@
 <TEXT><![CDATA[Mr. Biden had begun last month with a disappointing fourth-place finish in Iowa, dropped to fifth place in New Hampshire and nudged upward to second in Nevada. Big donors sat on the sidelines, drawn to the idea of the self-funding Mr. Bloomberg, at least until his own disastrous debate performance. Small contributors were filling the coffers of Mr. Biden’s rivals.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="14~19" text="begun" category="VBN" />
-<VERB id="V1" spans="81~88" text="dropped" category="VBD" />
-<VERB id="V2" spans="92~97" text="fifth" category="VB" />
-<VERB id="V3" spans="125~131" text="nudged" category="VBD" />
-<VERB id="V4" spans="142~148" text="second" category="VB" />
+<VERB id="V1" spans="81~88" text="dropped" category="VBN" />
+<VERB id="V3" spans="125~131" text="nudged" category="VBN" />
 <VERB id="V5" spans="171~174" text="sat" category="VBD" />
 <VERB id="V6" spans="324~331" text="filling" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="begun" toID="V1" toText="dropped" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="begun" toID="V2" toText="fifth" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="begun" toID="V3" toText="nudged" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="begun" toID="V4" toText="second" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="begun" toID="V5" toText="sat" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="begun" toID="V6" toText="filling" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="dropped" toID="V2" toText="fifth" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="dropped" toID="V3" toText="nudged" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="dropped" toID="V4" toText="second" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="dropped" toID="V5" toText="sat" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="dropped" toID="V6" toText="filling" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="fifth" toID="V3" toText="nudged" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="fifth" toID="V4" toText="second" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="fifth" toID="V5" toText="sat" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="fifth" toID="V6" toText="filling" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="nudged" toID="V4" toText="second" />
 <EVENT_ORDER id="E16" fromID="V3" fromText="nudged" toID="V5" toText="sat" />
 <EVENT_ORDER id="E17" fromID="V3" fromText="nudged" toID="V6" toText="filling" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="second" toID="V5" toText="sat" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="second" toID="V6" toText="filling" />
 <EVENT_ORDER id="E20" fromID="V5" fromText="sat" toID="V6" toText="filling" />
 </TAGS>
 </TemporalRelationTask>
