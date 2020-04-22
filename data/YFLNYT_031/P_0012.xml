@@ -3,28 +3,10 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Mr. Biden’s remaining opponent in the primary race, Senator Bernie Sanders of Vermont, has also shifted to campaigning virtually. Mr. Sanders held a live-streamed event on the coronavirus from Burlington, Vt., on Sunday, one of several such events he has done in recent days.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="10~11" text="s" category="VBD" />
-<VERB id="V1" spans="12~21" text="remaining" category="VBG" />
-<VERB id="V2" spans="87~90" text="has" category="VBZ" />
 <VERB id="V3" spans="96~103" text="shifted" category="VBN" />
 <VERB id="V4" spans="107~118" text="campaigning" category="VBG" />
 <VERB id="V5" spans="142~146" text="held" category="VBD" />
 <VERB id="V6" spans="255~259" text="done" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="remaining" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="has" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="shifted" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="campaigning" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="held" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="done" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="remaining" toID="V2" toText="has" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="remaining" toID="V3" toText="shifted" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="remaining" toID="V4" toText="campaigning" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="remaining" toID="V5" toText="held" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="remaining" toID="V6" toText="done" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="has" toID="V3" toText="shifted" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="has" toID="V4" toText="campaigning" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="has" toID="V5" toText="held" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="has" toID="V6" toText="done" />
 <EVENT_ORDER id="E15" fromID="V3" fromText="shifted" toID="V4" toText="campaigning" />
 <EVENT_ORDER id="E16" fromID="V3" fromText="shifted" toID="V5" toText="held" />
 <EVENT_ORDER id="E17" fromID="V3" fromText="shifted" toID="V6" toText="done" />
