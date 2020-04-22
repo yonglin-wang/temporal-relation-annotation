@@ -10,7 +10,7 @@
 <VERB id="V4" spans="122~129" text="present" category="VBP" />
 <VERB id="V5" spans="166~172" text="writes" category="VBZ" />
 <VERB id="V6" spans="191~195" text="gets" category="VBZ" />
-<VERB id="V7" spans="238~240" text="re" category="VB" />
+<VERB id="V7" spans="238~240" text="re" category="VBP" />
 <VERB id="V8" spans="253~256" text="try" category="VB" />
 <VERB id="V9" spans="261~267" text="answer" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="described" toID="V1" toText="become" />

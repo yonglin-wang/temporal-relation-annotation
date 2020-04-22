@@ -19,6 +19,7 @@
 <VERB id="V13" spans="369~380" text="recognizing" category="VBG" />
 <VERB id="V14" spans="413~416" text="see" category="VBP" />
 <VERB id="V15" spans="447~451" text="live" category="VB" />
+<VERB id="V16" spans="178~183" text="speak" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="is" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="lives" />

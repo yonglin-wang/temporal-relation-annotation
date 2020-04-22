@@ -3,11 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“He doesn’t talk about it very much, and he doesn’t talk about it very convincingly,” she said.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="4~9" text="doesn" category="VBZ" />
-<VERB id="V1" spans="44~49" text="doesn" category="VBZ" />
 <VERB id="V2" spans="90~94" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="doesn" toID="V1" toText="doesn" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="doesn" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V1" fromText="doesn" toID="V2" toText="said" />
 </TAGS>
 </TemporalRelationTask>

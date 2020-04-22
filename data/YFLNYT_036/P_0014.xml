@@ -12,7 +12,6 @@
 <VERB id="V6" spans="240~244" text="have" category="VBP" />
 <VERB id="V7" spans="248~251" text="say" category="VB" />
 <VERB id="V8" spans="300~307" text="happens" category="VBZ" />
-<VERB id="V9" spans="316~321" text="going" category="VBG" />
 <VERB id="V10" spans="325~329" text="keep" category="VB" />
 <VERB id="V11" spans="330~337" text="pushing" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="keep" toID="V1" toText="saying" />
@@ -23,7 +22,6 @@
 <EVENT_ORDER id="E5" fromID="V0" fromText="keep" toID="V6" toText="have" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="keep" toID="V7" toText="say" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="keep" toID="V8" toText="happens" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="keep" toID="V9" toText="going" />
 <EVENT_ORDER id="E9" fromID="V0" fromText="keep" toID="V10" toText="keep" />
 <EVENT_ORDER id="E10" fromID="V0" fromText="keep" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="saying" toID="V2" toText="is" />
@@ -33,7 +31,6 @@
 <EVENT_ORDER id="E15" fromID="V1" fromText="saying" toID="V6" toText="have" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="saying" toID="V7" toText="say" />
 <EVENT_ORDER id="E17" fromID="V1" fromText="saying" toID="V8" toText="happens" />
-<EVENT_ORDER id="E18" fromID="V1" fromText="saying" toID="V9" toText="going" />
 <EVENT_ORDER id="E19" fromID="V1" fromText="saying" toID="V10" toText="keep" />
 <EVENT_ORDER id="E20" fromID="V1" fromText="saying" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E21" fromID="V2" fromText="is" toID="V3" toText="get" />
@@ -42,7 +39,6 @@
 <EVENT_ORDER id="E24" fromID="V2" fromText="is" toID="V6" toText="have" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="is" toID="V7" toText="say" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="is" toID="V8" toText="happens" />
-<EVENT_ORDER id="E27" fromID="V2" fromText="is" toID="V9" toText="going" />
 <EVENT_ORDER id="E28" fromID="V2" fromText="is" toID="V10" toText="keep" />
 <EVENT_ORDER id="E29" fromID="V2" fromText="is" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E30" fromID="V3" fromText="get" toID="V4" toText="said" />
@@ -50,36 +46,28 @@
 <EVENT_ORDER id="E32" fromID="V3" fromText="get" toID="V6" toText="have" />
 <EVENT_ORDER id="E33" fromID="V3" fromText="get" toID="V7" toText="say" />
 <EVENT_ORDER id="E34" fromID="V3" fromText="get" toID="V8" toText="happens" />
-<EVENT_ORDER id="E35" fromID="V3" fromText="get" toID="V9" toText="going" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="get" toID="V10" toText="keep" />
 <EVENT_ORDER id="E37" fromID="V3" fromText="get" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E38" fromID="V4" fromText="said" toID="V5" toText="dealing" />
 <EVENT_ORDER id="E39" fromID="V4" fromText="said" toID="V6" toText="have" />
 <EVENT_ORDER id="E40" fromID="V4" fromText="said" toID="V7" toText="say" />
 <EVENT_ORDER id="E41" fromID="V4" fromText="said" toID="V8" toText="happens" />
-<EVENT_ORDER id="E42" fromID="V4" fromText="said" toID="V9" toText="going" />
 <EVENT_ORDER id="E43" fromID="V4" fromText="said" toID="V10" toText="keep" />
 <EVENT_ORDER id="E44" fromID="V4" fromText="said" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E45" fromID="V5" fromText="dealing" toID="V6" toText="have" />
 <EVENT_ORDER id="E46" fromID="V5" fromText="dealing" toID="V7" toText="say" />
 <EVENT_ORDER id="E47" fromID="V5" fromText="dealing" toID="V8" toText="happens" />
-<EVENT_ORDER id="E48" fromID="V5" fromText="dealing" toID="V9" toText="going" />
 <EVENT_ORDER id="E49" fromID="V5" fromText="dealing" toID="V10" toText="keep" />
 <EVENT_ORDER id="E50" fromID="V5" fromText="dealing" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E51" fromID="V6" fromText="have" toID="V7" toText="say" />
 <EVENT_ORDER id="E52" fromID="V6" fromText="have" toID="V8" toText="happens" />
-<EVENT_ORDER id="E53" fromID="V6" fromText="have" toID="V9" toText="going" />
 <EVENT_ORDER id="E54" fromID="V6" fromText="have" toID="V10" toText="keep" />
 <EVENT_ORDER id="E55" fromID="V6" fromText="have" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E56" fromID="V7" fromText="say" toID="V8" toText="happens" />
-<EVENT_ORDER id="E57" fromID="V7" fromText="say" toID="V9" toText="going" />
 <EVENT_ORDER id="E58" fromID="V7" fromText="say" toID="V10" toText="keep" />
 <EVENT_ORDER id="E59" fromID="V7" fromText="say" toID="V11" toText="pushing" />
-<EVENT_ORDER id="E60" fromID="V8" fromText="happens" toID="V9" toText="going" />
 <EVENT_ORDER id="E61" fromID="V8" fromText="happens" toID="V10" toText="keep" />
 <EVENT_ORDER id="E62" fromID="V8" fromText="happens" toID="V11" toText="pushing" />
-<EVENT_ORDER id="E63" fromID="V9" fromText="going" toID="V10" toText="keep" />
-<EVENT_ORDER id="E64" fromID="V9" fromText="going" toID="V11" toText="pushing" />
 <EVENT_ORDER id="E65" fromID="V10" fromText="keep" toID="V11" toText="pushing" />
 </TAGS>
 </TemporalRelationTask>

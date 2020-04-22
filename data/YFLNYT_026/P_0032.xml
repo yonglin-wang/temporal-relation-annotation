@@ -3,15 +3,10 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“Sometimes it’s easier, certainly, to be able to run against the White House and have that contrast,” Mr. Bullock said.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="1~10" text="Sometimes" category="VBZ" />
 <VERB id="V1" spans="38~40" text="be" category="VB" />
 <VERB id="V2" spans="49~52" text="run" category="VB" />
-<VERB id="V3" spans="81~85" text="have" category="VBP" />
+<VERB id="V3" spans="81~85" text="have" category="VB" />
 <VERB id="V4" spans="114~118" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="Sometimes" toID="V1" toText="be" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="Sometimes" toID="V2" toText="run" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="Sometimes" toID="V3" toText="have" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="Sometimes" toID="V4" toText="said" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="be" toID="V2" toText="run" />
 <EVENT_ORDER id="E5" fromID="V1" fromText="be" toID="V3" toText="have" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="be" toID="V4" toText="said" />

@@ -3,8 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The Fed’s new open-ended quantitative easing — signaling it will buy Treasury bonds and mortgage-related securities in whatever quantities are needed — is aimed at the first goal, of making financial markets function more like usual. In the last three weeks, financial markets have frozen up as all sorts of investors hoard cash and dump everything else.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="8~9" text="s" category="VBD" />
-<VERB id="V1" spans="38~44" text="easing" category="VBG" />
 <VERB id="V2" spans="47~56" text="signaling" category="VBG" />
 <VERB id="V3" spans="65~68" text="buy" category="VB" />
 <VERB id="V4" spans="143~149" text="needed" category="VBN" />
@@ -12,24 +10,7 @@
 <VERB id="V6" spans="183~189" text="making" category="VBG" />
 <VERB id="V7" spans="208~216" text="function" category="VBP" />
 <VERB id="V8" spans="282~288" text="frozen" category="VBN" />
-<VERB id="V9" spans="333~337" text="dump" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="easing" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="signaling" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="buy" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="needed" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="aimed" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="making" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="function" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="frozen" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="s" toID="V9" toText="dump" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="easing" toID="V2" toText="signaling" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="easing" toID="V3" toText="buy" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="easing" toID="V4" toText="needed" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="easing" toID="V5" toText="aimed" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="easing" toID="V6" toText="making" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="easing" toID="V7" toText="function" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="easing" toID="V8" toText="frozen" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="easing" toID="V9" toText="dump" />
+<VERB id="V9" spans="333~337" text="dump" category="VBP" />
 <EVENT_ORDER id="E17" fromID="V2" fromText="signaling" toID="V3" toText="buy" />
 <EVENT_ORDER id="E18" fromID="V2" fromText="signaling" toID="V4" toText="needed" />
 <EVENT_ORDER id="E19" fromID="V2" fromText="signaling" toID="V5" toText="aimed" />

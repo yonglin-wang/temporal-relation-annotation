@@ -3,15 +3,8 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“He has time and time again treated constituents like they don’t matter to him,” she said.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="4~7" text="has" category="VBZ" />
 <VERB id="V1" spans="28~35" text="treated" category="VBD" />
-<VERB id="V2" spans="59~62" text="don" category="VBP" />
 <VERB id="V3" spans="85~89" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="treated" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="don" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="said" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="treated" toID="V2" toText="don" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="treated" toID="V3" toText="said" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="don" toID="V3" toText="said" />
 </TAGS>
 </TemporalRelationTask>

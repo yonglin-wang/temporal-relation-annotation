@@ -5,22 +5,16 @@
 <TAGS>
 <VERB id="V0" spans="4~13" text="returning" category="VBG" />
 <VERB id="V1" spans="51~62" text="functioning" category="VBG" />
-<VERB id="V2" spans="63~66" text="won" category="VBD" />
 <VERB id="V3" spans="69~71" text="be" category="VB" />
 <VERB id="V4" spans="80~85" text="given" category="VBN" />
 <VERB id="V5" spans="155~160" text="comes" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="returning" toID="V1" toText="functioning" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="returning" toID="V2" toText="won" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="returning" toID="V3" toText="be" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="returning" toID="V4" toText="given" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="returning" toID="V5" toText="comes" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="functioning" toID="V2" toText="won" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="functioning" toID="V3" toText="be" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="functioning" toID="V4" toText="given" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="functioning" toID="V5" toText="comes" />
-<EVENT_ORDER id="E9" fromID="V2" fromText="won" toID="V3" toText="be" />
-<EVENT_ORDER id="E10" fromID="V2" fromText="won" toID="V4" toText="given" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="won" toID="V5" toText="comes" />
 <EVENT_ORDER id="E12" fromID="V3" fromText="be" toID="V4" toText="given" />
 <EVENT_ORDER id="E13" fromID="V3" fromText="be" toID="V5" toText="comes" />
 <EVENT_ORDER id="E14" fromID="V4" fromText="given" toID="V5" toText="comes" />

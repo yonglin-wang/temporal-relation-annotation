@@ -6,7 +6,7 @@
 <VERB id="V0" spans="9~13" text="left" category="VBD" />
 <VERB id="V1" spans="40~46" text="wanted" category="VBD" />
 <VERB id="V2" spans="50~57" text="rebrand" category="VB" />
-<VERB id="V3" spans="85~89" text="lose" category="VBP" />
+<VERB id="V3" spans="85~89" text="lose" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="left" toID="V1" toText="wanted" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="left" toID="V2" toText="rebrand" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="left" toID="V3" toText="lose" />

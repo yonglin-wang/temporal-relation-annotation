@@ -11,10 +11,10 @@
 <VERB id="V5" spans="156~161" text="works" category="VBZ" />
 <VERB id="V6" spans="207~210" text="are" category="VBP" />
 <VERB id="V7" spans="227~235" text="advocate" category="VB" />
-<VERB id="V8" spans="274~283" text="concerned" category="VBN" />
 <VERB id="V9" spans="299~302" text="see" category="VBP" />
 <VERB id="V10" spans="335~340" text="think" category="VBP" />
-<VERB id="V11" spans="346~347" text="s" category="VBD" />
+<VERB id="V11" spans="346~347" text="s" category="VBZ" />
+<VERB id="V12" spans="271~273" text="re" category="VBP" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="preserving" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="preserving" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="said" />
@@ -22,7 +22,6 @@
 <EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="works" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="are" toID="V6" toText="are" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="are" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="are" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E8" fromID="V0" fromText="are" toID="V9" toText="see" />
 <EVENT_ORDER id="E9" fromID="V0" fromText="are" toID="V10" toText="think" />
 <EVENT_ORDER id="E10" fromID="V0" fromText="are" toID="V11" toText="s" />
@@ -32,7 +31,6 @@
 <EVENT_ORDER id="E14" fromID="V1" fromText="preserving" toID="V5" toText="works" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="preserving" toID="V6" toText="are" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="preserving" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="preserving" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E18" fromID="V1" fromText="preserving" toID="V9" toText="see" />
 <EVENT_ORDER id="E19" fromID="V1" fromText="preserving" toID="V10" toText="think" />
 <EVENT_ORDER id="E20" fromID="V1" fromText="preserving" toID="V11" toText="s" />
@@ -41,7 +39,6 @@
 <EVENT_ORDER id="E23" fromID="V2" fromText="preserving" toID="V5" toText="works" />
 <EVENT_ORDER id="E24" fromID="V2" fromText="preserving" toID="V6" toText="are" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="preserving" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E26" fromID="V2" fromText="preserving" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E27" fromID="V2" fromText="preserving" toID="V9" toText="see" />
 <EVENT_ORDER id="E28" fromID="V2" fromText="preserving" toID="V10" toText="think" />
 <EVENT_ORDER id="E29" fromID="V2" fromText="preserving" toID="V11" toText="s" />
@@ -49,35 +46,27 @@
 <EVENT_ORDER id="E31" fromID="V3" fromText="said" toID="V5" toText="works" />
 <EVENT_ORDER id="E32" fromID="V3" fromText="said" toID="V6" toText="are" />
 <EVENT_ORDER id="E33" fromID="V3" fromText="said" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E34" fromID="V3" fromText="said" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E35" fromID="V3" fromText="said" toID="V9" toText="see" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="said" toID="V10" toText="think" />
 <EVENT_ORDER id="E37" fromID="V3" fromText="said" toID="V11" toText="s" />
 <EVENT_ORDER id="E38" fromID="V4" fromText="grew" toID="V5" toText="works" />
 <EVENT_ORDER id="E39" fromID="V4" fromText="grew" toID="V6" toText="are" />
 <EVENT_ORDER id="E40" fromID="V4" fromText="grew" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E41" fromID="V4" fromText="grew" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E42" fromID="V4" fromText="grew" toID="V9" toText="see" />
 <EVENT_ORDER id="E43" fromID="V4" fromText="grew" toID="V10" toText="think" />
 <EVENT_ORDER id="E44" fromID="V4" fromText="grew" toID="V11" toText="s" />
 <EVENT_ORDER id="E45" fromID="V5" fromText="works" toID="V6" toText="are" />
 <EVENT_ORDER id="E46" fromID="V5" fromText="works" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E47" fromID="V5" fromText="works" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E48" fromID="V5" fromText="works" toID="V9" toText="see" />
 <EVENT_ORDER id="E49" fromID="V5" fromText="works" toID="V10" toText="think" />
 <EVENT_ORDER id="E50" fromID="V5" fromText="works" toID="V11" toText="s" />
 <EVENT_ORDER id="E51" fromID="V6" fromText="are" toID="V7" toText="advocate" />
-<EVENT_ORDER id="E52" fromID="V6" fromText="are" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E53" fromID="V6" fromText="are" toID="V9" toText="see" />
 <EVENT_ORDER id="E54" fromID="V6" fromText="are" toID="V10" toText="think" />
 <EVENT_ORDER id="E55" fromID="V6" fromText="are" toID="V11" toText="s" />
-<EVENT_ORDER id="E56" fromID="V7" fromText="advocate" toID="V8" toText="concerned" />
 <EVENT_ORDER id="E57" fromID="V7" fromText="advocate" toID="V9" toText="see" />
 <EVENT_ORDER id="E58" fromID="V7" fromText="advocate" toID="V10" toText="think" />
 <EVENT_ORDER id="E59" fromID="V7" fromText="advocate" toID="V11" toText="s" />
-<EVENT_ORDER id="E60" fromID="V8" fromText="concerned" toID="V9" toText="see" />
-<EVENT_ORDER id="E61" fromID="V8" fromText="concerned" toID="V10" toText="think" />
-<EVENT_ORDER id="E62" fromID="V8" fromText="concerned" toID="V11" toText="s" />
 <EVENT_ORDER id="E63" fromID="V9" fromText="see" toID="V10" toText="think" />
 <EVENT_ORDER id="E64" fromID="V9" fromText="see" toID="V11" toText="s" />
 <EVENT_ORDER id="E65" fromID="V10" fromText="think" toID="V11" toText="s" />
