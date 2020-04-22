@@ -4,7 +4,7 @@
 <TEXT><![CDATA[Other popular suggestions included Senator Catherine Cortez Masto of Nevada and Representative Val Demings of Florida. The Democrats interviewed also proposed seven other women, including Govs. Gretchen Whitmer of Michigan and Michelle Lujan Grisham of New Mexico.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="26~34" text="included" category="VBD" />
-<VERB id="V1" spans="133~144" text="interviewed" category="VBD" />
+<VERB id="V1" spans="133~144" text="interviewed" category="VBN" />
 <VERB id="V2" spans="150~158" text="proposed" category="VBN" />
 <VERB id="V3" spans="178~187" text="including" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="included" toID="V1" toText="interviewed" />
