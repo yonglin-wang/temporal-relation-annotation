@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Those circumstances have obviously changed drastically. With Mr. Trump in office, the next Democratic race appears wide open, and many friends and potential donors are urging Mr. Schultz to run.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="35~42" text="changed" category="VBN" />
+<VERB id="V2" spans="107~114" text="appears" category="VBZ" />
+<VERB id="V3" spans="168~174" text="urging" category="VBG" />
+<VERB id="V4" spans="190~193" text="run" category="VB" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="changed" toID="V2" toText="appears" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="changed" toID="V3" toText="urging" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="changed" toID="V4" toText="run" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="appears" toID="V3" toText="urging" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="appears" toID="V4" toText="run" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="urging" toID="V4" toText="run" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The problem is circular and self-reinforcing. Just when millennial and Gen Z voters have the most power to choose their leaders, many feel no one is speaking to them. So many of them don’t vote. So many candidates continue not to speak to them. So they get still more disillusioned.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="12~14" text="is" category="VBZ" />
+<VERB id="V1" spans="84~88" text="have" category="VBP" />
+<VERB id="V2" spans="107~113" text="choose" category="VB" />
+<VERB id="V3" spans="134~138" text="feel" category="VBP" />
+<VERB id="V4" spans="149~157" text="speaking" category="VBG" />
+<VERB id="V6" spans="214~222" text="continue" category="VBP" />
+<VERB id="V7" spans="230~235" text="speak" category="VB" />
+<VERB id="V8" spans="253~256" text="get" category="VBP" />
+<VERB id="V9" spans="189~193" text="vote" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="have" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="choose" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="feel" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="speaking" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="continue" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="speak" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="get" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="have" toID="V2" toText="choose" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="have" toID="V3" toText="feel" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="have" toID="V4" toText="speaking" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="have" toID="V6" toText="continue" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="have" toID="V7" toText="speak" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="have" toID="V8" toText="get" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="choose" toID="V3" toText="feel" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="choose" toID="V4" toText="speaking" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="choose" toID="V6" toText="continue" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="choose" toID="V7" toText="speak" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="choose" toID="V8" toText="get" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="feel" toID="V4" toText="speaking" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="feel" toID="V6" toText="continue" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="feel" toID="V7" toText="speak" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="feel" toID="V8" toText="get" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="speaking" toID="V6" toText="continue" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="speaking" toID="V7" toText="speak" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="speaking" toID="V8" toText="get" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="continue" toID="V7" toText="speak" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="continue" toID="V8" toText="get" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="speak" toID="V8" toText="get" />
+</TAGS>
+</TemporalRelationTask>

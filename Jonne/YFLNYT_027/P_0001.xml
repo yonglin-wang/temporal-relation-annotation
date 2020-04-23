@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Biden’s three victories give him an all but insurmountable lead, even as postponed primaries could draw out the process.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="24~28" text="give" category="VBP" />
+<VERB id="V2" spans="99~103" text="draw" category="VB" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="give" toID="V2" toText="draw" />
+</TAGS>
+</TemporalRelationTask>

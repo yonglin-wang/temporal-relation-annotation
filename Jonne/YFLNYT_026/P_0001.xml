@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[WASHINGTON — The Democrats’ stunning defeat in the presidential race and continued struggles in lower-level contests have jolted party leaders into concluding that their emphasis on cultural issues has all but crippled them by diverting voters’ attention from the core Democratic message of economic fairness.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="122~128" text="jolted" category="VBN" />
+<VERB id="V2" spans="148~158" text="concluding" category="VBG" />
+<VERB id="V4" spans="210~218" text="crippled" category="VBN" />
+<VERB id="V5" spans="227~236" text="diverting" category="VBG" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="jolted" toID="V2" toText="concluding" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="jolted" toID="V4" toText="crippled" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="jolted" toID="V5" toText="diverting" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="concluding" toID="V4" toText="crippled" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="concluding" toID="V5" toText="diverting" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="crippled" toID="V5" toText="diverting" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Last year Mr. Iger, 66, told The Hollywood Reporter that “a lot of people — a lot — have urged me to seek political office,” and last week the entertainment publication fueled renewed speculation when it reported that Mr. Iger had discussed the possibility with Mr. Bloomberg.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~28" text="told" category="VBD" />
+<VERB id="V1" spans="89~94" text="urged" category="VBN" />
+<VERB id="V2" spans="101~105" text="seek" category="VB" />
+<VERB id="V3" spans="169~175" text="fueled" category="VBD" />
+<VERB id="V5" spans="204~212" text="reported" category="VBD" />
+<VERB id="V6" spans="231~240" text="discussed" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="told" toID="V1" toText="urged" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="told" toID="V2" toText="seek" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="told" toID="V3" toText="fueled" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="told" toID="V5" toText="reported" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="told" toID="V6" toText="discussed" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="urged" toID="V2" toText="seek" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="urged" toID="V3" toText="fueled" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="urged" toID="V5" toText="reported" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="urged" toID="V6" toText="discussed" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="seek" toID="V3" toText="fueled" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="seek" toID="V5" toText="reported" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="seek" toID="V6" toText="discussed" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="fueled" toID="V5" toText="reported" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="fueled" toID="V6" toText="discussed" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="reported" toID="V6" toText="discussed" />
+</TAGS>
+</TemporalRelationTask>

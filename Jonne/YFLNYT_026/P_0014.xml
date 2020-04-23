@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Randi Weingarten, the president of the American Federation of Teachers, said the growing importance of social issues in the national debate and Democrats’ reliance on wealthy donors on the two coasts who are more focused on cultural liberalism than on economic solidarity had, together, left the party somewhat disconnected from the working class.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="72~76" text="said" category="VBD" />
+<VERB id="V4" spans="287~291" text="left" category="VBD" />
+<VERB id="V5" spans="311~323" text="disconnected" category="VBD" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="left" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="disconnected" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="left" toID="V5" toText="disconnected" />
+</TAGS>
+</TemporalRelationTask>

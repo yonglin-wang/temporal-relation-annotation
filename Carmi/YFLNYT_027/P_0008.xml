@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Of course, news organizations do not project the winner of nominating contests until a candidate amasses a majority of pledged delegates. Anything can happen.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="37~44" text="project" category="VB" />
+<VERB id="V2" spans="59~69" text="nominating" category="VBG" />
+<VERB id="V3" spans="97~104" text="amasses" category="VBZ" />
+<VERB id="V5" spans="151~157" text="happen" category="VB" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="project" toID="V2" toText="nominating" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="project" toID="V3" toText="amasses" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="project" toID="V5" toText="happen" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="nominating" toID="V3" toText="amasses" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="nominating" toID="V5" toText="happen" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="amasses" toID="V5" toText="happen" />
+</TAGS>
+</TemporalRelationTask>

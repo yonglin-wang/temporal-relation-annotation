@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Perhaps no emblem of the establishment was a better foil for Ms. Gabbard than Mrs. Clinton, who suggested in October that Russia was backing Ms. Gabbard’s campaign and that Republicans were “grooming” her as a third-party candidate. Ms. Gabbard pushed back fiercely, calling Mrs. Clinton “the queen of warmongers, embodiment of corruption and personification of the rot that has sickened the Democratic Party for so long” and then suing her for defamation.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="39~42" text="was" category="VBD" />
+<VERB id="V1" spans="96~105" text="suggested" category="VBD" />
+<VERB id="V2" spans="133~140" text="backing" category="VBG" />
+<VERB id="V4" spans="191~199" text="grooming" category="VBG" />
+<VERB id="V5" spans="245~251" text="pushed" category="VBD" />
+<VERB id="V6" spans="267~274" text="calling" category="VBG" />
+<VERB id="V7" spans="379~387" text="sickened" category="VBN" />
+<VERB id="V8" spans="431~436" text="suing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="suggested" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="backing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="grooming" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="pushed" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="calling" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="sickened" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="was" toID="V8" toText="suing" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="suggested" toID="V2" toText="backing" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="suggested" toID="V4" toText="grooming" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="suggested" toID="V5" toText="pushed" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="suggested" toID="V6" toText="calling" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="suggested" toID="V7" toText="sickened" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="suggested" toID="V8" toText="suing" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="backing" toID="V4" toText="grooming" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="backing" toID="V5" toText="pushed" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="backing" toID="V6" toText="calling" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="backing" toID="V7" toText="sickened" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="backing" toID="V8" toText="suing" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="grooming" toID="V5" toText="pushed" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="grooming" toID="V6" toText="calling" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="grooming" toID="V7" toText="sickened" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="grooming" toID="V8" toText="suing" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="pushed" toID="V6" toText="calling" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="pushed" toID="V7" toText="sickened" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="pushed" toID="V8" toText="suing" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="calling" toID="V7" toText="sickened" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="calling" toID="V8" toText="suing" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="sickened" toID="V8" toText="suing" />
+</TAGS>
+</TemporalRelationTask>

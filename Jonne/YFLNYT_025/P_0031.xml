@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I still feel like I relate more to Republicans than Democrats,” said Hannah Daniel, 21, a student at Union University in Tennessee. “But I really do feel a bit politically homeless.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~13" text="feel" category="VBP" />
+<VERB id="V1" spans="21~27" text="relate" category="VBP" />
+<VERB id="V2" spans="65~69" text="said" category="VBD" />
+<VERB id="V3" spans="150~154" text="feel" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="feel" toID="V1" toText="relate" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="feel" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="feel" toID="V3" toText="feel" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="relate" toID="V2" toText="said" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="relate" toID="V3" toText="feel" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="feel" />
+</TAGS>
+</TemporalRelationTask>

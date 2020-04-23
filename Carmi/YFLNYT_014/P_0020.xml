@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Others who had recently been near Mr. Paul sought guidance on Sunday from Brian P. Monahan, the attending physician of Congress, though they continued to move through the Capitol.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="11~14" text="had" category="VBD" />
+<VERB id="V1" spans="24~28" text="been" category="VBN" />
+<VERB id="V2" spans="43~49" text="sought" category="VBD" />
+<VERB id="V3" spans="96~105" text="attending" category="VBG" />
+<VERB id="V4" spans="141~150" text="continued" category="VBD" />
+<VERB id="V5" spans="154~158" text="move" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="had" toID="V1" toText="been" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="had" toID="V2" toText="sought" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="had" toID="V3" toText="attending" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="had" toID="V4" toText="continued" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="had" toID="V5" toText="move" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="been" toID="V2" toText="sought" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="been" toID="V3" toText="attending" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="been" toID="V4" toText="continued" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="been" toID="V5" toText="move" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="sought" toID="V3" toText="attending" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="sought" toID="V4" toText="continued" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="sought" toID="V5" toText="move" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="attending" toID="V4" toText="continued" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="attending" toID="V5" toText="move" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="continued" toID="V5" toText="move" />
+</TAGS>
+</TemporalRelationTask>

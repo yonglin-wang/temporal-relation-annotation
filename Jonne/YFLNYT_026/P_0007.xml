@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[AllofUs, an activist group led by young people, staged a sit-in at Senator Chuck Schumer's office to protest Democratic Party leadership.
+Over President Obama’s two terms, Democrats have embraced a down-the-line cultural liberalism that energized his coalition of millennials, minorities and college-educated whites.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~30" text="led" category="VBN" />
+<VERB id="V1" spans="48~54" text="staged" category="VBD" />
+<VERB id="V2" spans="101~108" text="protest" category="VB" />
+<VERB id="V4" spans="187~195" text="embraced" category="VBN" />
+<VERB id="V5" spans="237~246" text="energized" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="led" toID="V1" toText="staged" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="led" toID="V2" toText="protest" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="led" toID="V4" toText="embraced" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="led" toID="V5" toText="energized" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="staged" toID="V2" toText="protest" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="staged" toID="V4" toText="embraced" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="staged" toID="V5" toText="energized" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="protest" toID="V4" toText="embraced" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="protest" toID="V5" toText="energized" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="embraced" toID="V5" toText="energized" />
+</TAGS>
+</TemporalRelationTask>

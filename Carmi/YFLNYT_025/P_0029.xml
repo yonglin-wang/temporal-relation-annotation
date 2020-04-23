@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Their elders may say much of what is true now was also true decades ago. Boomers grew up with the threat of nuclear extinction and the view that previous generations had made a mess of everything from war and peace to sex. Many young Democrats were alienated from the party establishment and bitter when their favored candidates lost to more conventional ones. Rare is the political moment when the choices of the young trump those of older generations.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="17~20" text="say" category="VB" />
+<VERB id="V1" spans="34~36" text="is" category="VBZ" />
+<VERB id="V2" spans="46~49" text="was" category="VBD" />
+<VERB id="V3" spans="81~85" text="grew" category="VBD" />
+<VERB id="V4" spans="170~174" text="made" category="VBN" />
+<VERB id="V7" spans="329~333" text="lost" category="VBD" />
+<VERB id="V8" spans="366~368" text="is" category="VBZ" />
+<VERB id="V9" spans="420~425" text="trump" category="VBP" />
+<VERB id="V10" spans="244~248" text="were" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="say" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="say" toID="V2" toText="was" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="say" toID="V3" toText="grew" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="say" toID="V4" toText="made" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="say" toID="V7" toText="lost" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="say" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="say" toID="V9" toText="trump" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V2" toText="was" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V3" toText="grew" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V4" toText="made" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="is" toID="V7" toText="lost" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="is" toID="V8" toText="is" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="is" toID="V9" toText="trump" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="was" toID="V3" toText="grew" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="was" toID="V4" toText="made" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="was" toID="V7" toText="lost" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="was" toID="V8" toText="is" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="was" toID="V9" toText="trump" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="grew" toID="V4" toText="made" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="grew" toID="V7" toText="lost" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="grew" toID="V8" toText="is" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="grew" toID="V9" toText="trump" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="made" toID="V7" toText="lost" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="made" toID="V8" toText="is" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="made" toID="V9" toText="trump" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="lost" toID="V8" toText="is" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="lost" toID="V9" toText="trump" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="is" toID="V9" toText="trump" />
+</TAGS>
+</TemporalRelationTask>

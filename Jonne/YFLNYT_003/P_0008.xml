@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[It is precisely that impression — that she isn’t scheming, that she isn’t tacking left simply for political utility, even if, in fact, she might be — that could put her ahead of Gov. Andrew M. Cuomo, a mentor, in a race for the Democratic presidential nomination in 2020. Both have been talked about as prospective candidates. Liberals like the governor more than they used to, and he has seemingly become more progressive, standing up for a $15-an-hour minimum wage and behaving as a champion of the marginalized, a warrior against future and present Trump-based indignities. On Saturday night, when people flocked to Kennedy International Airport to protest the executive order on immigration, the governor ordered the Port Authority to reverse its decision to allow only those holding plane tickets to board the AirTrain, proclaiming that the voices of New Yorkers would be heard. Still, he has never shaken the impression that expedience is his first calling.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="3~5" text="is" category="VBZ" />
+<VERB id="V1" spans="43~46" text="isn" category="VBZ" />
+<VERB id="V2" spans="68~71" text="isn" category="VBZ" />
+<VERB id="V3" spans="74~81" text="tacking" category="VBG" />
+<VERB id="V5" spans="161~164" text="put" category="VB" />
+<VERB id="V6" spans="287~293" text="talked" category="VBN" />
+<VERB id="V7" spans="369~373" text="used" category="VBD" />
+<VERB id="V9" spans="399~405" text="become" category="VBN" />
+<VERB id="V10" spans="424~432" text="standing" category="VBG" />
+<VERB id="V11" spans="501~513" text="marginalized" category="VBN" />
+<VERB id="V12" spans="608~615" text="flocked" category="VBD" />
+<VERB id="V13" spans="652~659" text="protest" category="VB" />
+<VERB id="V14" spans="709~716" text="ordered" category="VBD" />
+<VERB id="V15" spans="739~746" text="reverse" category="VB" />
+<VERB id="V16" spans="763~768" text="allow" category="VB" />
+<VERB id="V17" spans="780~787" text="holding" category="VBG" />
+<VERB id="V18" spans="825~836" text="proclaiming" category="VBG" />
+<VERB id="V19" spans="877~882" text="heard" category="VBN" />
+<VERB id="V21" spans="904~910" text="shaken" category="VBN" />
+<VERB id="V22" spans="942~944" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="isn" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="isn" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="tacking" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="put" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="talked" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="used" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="is" toID="V9" toText="become" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="is" toID="V10" toText="standing" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="is" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="is" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="is" toID="V13" toText="protest" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="is" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="is" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E15" fromID="V0" fromText="is" toID="V16" toText="allow" />
+<EVENT_ORDER id="E16" fromID="V0" fromText="is" toID="V17" toText="holding" />
+<EVENT_ORDER id="E17" fromID="V0" fromText="is" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E18" fromID="V0" fromText="is" toID="V19" toText="heard" />
+<EVENT_ORDER id="E20" fromID="V0" fromText="is" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E21" fromID="V0" fromText="is" toID="V22" toText="is" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="isn" toID="V2" toText="isn" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="isn" toID="V3" toText="tacking" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="isn" toID="V5" toText="put" />
+<EVENT_ORDER id="E27" fromID="V1" fromText="isn" toID="V6" toText="talked" />
+<EVENT_ORDER id="E28" fromID="V1" fromText="isn" toID="V7" toText="used" />
+<EVENT_ORDER id="E30" fromID="V1" fromText="isn" toID="V9" toText="become" />
+<EVENT_ORDER id="E31" fromID="V1" fromText="isn" toID="V10" toText="standing" />
+<EVENT_ORDER id="E32" fromID="V1" fromText="isn" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E33" fromID="V1" fromText="isn" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E34" fromID="V1" fromText="isn" toID="V13" toText="protest" />
+<EVENT_ORDER id="E35" fromID="V1" fromText="isn" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E36" fromID="V1" fromText="isn" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E37" fromID="V1" fromText="isn" toID="V16" toText="allow" />
+<EVENT_ORDER id="E38" fromID="V1" fromText="isn" toID="V17" toText="holding" />
+<EVENT_ORDER id="E39" fromID="V1" fromText="isn" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E40" fromID="V1" fromText="isn" toID="V19" toText="heard" />
+<EVENT_ORDER id="E42" fromID="V1" fromText="isn" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E43" fromID="V1" fromText="isn" toID="V22" toText="is" />
+<EVENT_ORDER id="E45" fromID="V2" fromText="isn" toID="V3" toText="tacking" />
+<EVENT_ORDER id="E47" fromID="V2" fromText="isn" toID="V5" toText="put" />
+<EVENT_ORDER id="E48" fromID="V2" fromText="isn" toID="V6" toText="talked" />
+<EVENT_ORDER id="E49" fromID="V2" fromText="isn" toID="V7" toText="used" />
+<EVENT_ORDER id="E51" fromID="V2" fromText="isn" toID="V9" toText="become" />
+<EVENT_ORDER id="E52" fromID="V2" fromText="isn" toID="V10" toText="standing" />
+<EVENT_ORDER id="E53" fromID="V2" fromText="isn" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E54" fromID="V2" fromText="isn" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E55" fromID="V2" fromText="isn" toID="V13" toText="protest" />
+<EVENT_ORDER id="E56" fromID="V2" fromText="isn" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E57" fromID="V2" fromText="isn" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E58" fromID="V2" fromText="isn" toID="V16" toText="allow" />
+<EVENT_ORDER id="E59" fromID="V2" fromText="isn" toID="V17" toText="holding" />
+<EVENT_ORDER id="E60" fromID="V2" fromText="isn" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E61" fromID="V2" fromText="isn" toID="V19" toText="heard" />
+<EVENT_ORDER id="E63" fromID="V2" fromText="isn" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E64" fromID="V2" fromText="isn" toID="V22" toText="is" />
+<EVENT_ORDER id="E67" fromID="V3" fromText="tacking" toID="V5" toText="put" />
+<EVENT_ORDER id="E68" fromID="V3" fromText="tacking" toID="V6" toText="talked" />
+<EVENT_ORDER id="E69" fromID="V3" fromText="tacking" toID="V7" toText="used" />
+<EVENT_ORDER id="E71" fromID="V3" fromText="tacking" toID="V9" toText="become" />
+<EVENT_ORDER id="E72" fromID="V3" fromText="tacking" toID="V10" toText="standing" />
+<EVENT_ORDER id="E73" fromID="V3" fromText="tacking" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E74" fromID="V3" fromText="tacking" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E75" fromID="V3" fromText="tacking" toID="V13" toText="protest" />
+<EVENT_ORDER id="E76" fromID="V3" fromText="tacking" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E77" fromID="V3" fromText="tacking" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E78" fromID="V3" fromText="tacking" toID="V16" toText="allow" />
+<EVENT_ORDER id="E79" fromID="V3" fromText="tacking" toID="V17" toText="holding" />
+<EVENT_ORDER id="E80" fromID="V3" fromText="tacking" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E81" fromID="V3" fromText="tacking" toID="V19" toText="heard" />
+<EVENT_ORDER id="E83" fromID="V3" fromText="tacking" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E84" fromID="V3" fromText="tacking" toID="V22" toText="is" />
+<EVENT_ORDER id="E105" fromID="V5" fromText="put" toID="V6" toText="talked" />
+<EVENT_ORDER id="E106" fromID="V5" fromText="put" toID="V7" toText="used" />
+<EVENT_ORDER id="E108" fromID="V5" fromText="put" toID="V9" toText="become" />
+<EVENT_ORDER id="E109" fromID="V5" fromText="put" toID="V10" toText="standing" />
+<EVENT_ORDER id="E110" fromID="V5" fromText="put" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E111" fromID="V5" fromText="put" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E112" fromID="V5" fromText="put" toID="V13" toText="protest" />
+<EVENT_ORDER id="E113" fromID="V5" fromText="put" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E114" fromID="V5" fromText="put" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E115" fromID="V5" fromText="put" toID="V16" toText="allow" />
+<EVENT_ORDER id="E116" fromID="V5" fromText="put" toID="V17" toText="holding" />
+<EVENT_ORDER id="E117" fromID="V5" fromText="put" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E118" fromID="V5" fromText="put" toID="V19" toText="heard" />
+<EVENT_ORDER id="E120" fromID="V5" fromText="put" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E121" fromID="V5" fromText="put" toID="V22" toText="is" />
+<EVENT_ORDER id="E123" fromID="V6" fromText="talked" toID="V7" toText="used" />
+<EVENT_ORDER id="E125" fromID="V6" fromText="talked" toID="V9" toText="become" />
+<EVENT_ORDER id="E126" fromID="V6" fromText="talked" toID="V10" toText="standing" />
+<EVENT_ORDER id="E127" fromID="V6" fromText="talked" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E128" fromID="V6" fromText="talked" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E129" fromID="V6" fromText="talked" toID="V13" toText="protest" />
+<EVENT_ORDER id="E130" fromID="V6" fromText="talked" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E131" fromID="V6" fromText="talked" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E132" fromID="V6" fromText="talked" toID="V16" toText="allow" />
+<EVENT_ORDER id="E133" fromID="V6" fromText="talked" toID="V17" toText="holding" />
+<EVENT_ORDER id="E134" fromID="V6" fromText="talked" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E135" fromID="V6" fromText="talked" toID="V19" toText="heard" />
+<EVENT_ORDER id="E137" fromID="V6" fromText="talked" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E138" fromID="V6" fromText="talked" toID="V22" toText="is" />
+<EVENT_ORDER id="E141" fromID="V7" fromText="used" toID="V9" toText="become" />
+<EVENT_ORDER id="E142" fromID="V7" fromText="used" toID="V10" toText="standing" />
+<EVENT_ORDER id="E143" fromID="V7" fromText="used" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E144" fromID="V7" fromText="used" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E145" fromID="V7" fromText="used" toID="V13" toText="protest" />
+<EVENT_ORDER id="E146" fromID="V7" fromText="used" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E147" fromID="V7" fromText="used" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E148" fromID="V7" fromText="used" toID="V16" toText="allow" />
+<EVENT_ORDER id="E149" fromID="V7" fromText="used" toID="V17" toText="holding" />
+<EVENT_ORDER id="E150" fromID="V7" fromText="used" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E151" fromID="V7" fromText="used" toID="V19" toText="heard" />
+<EVENT_ORDER id="E153" fromID="V7" fromText="used" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E154" fromID="V7" fromText="used" toID="V22" toText="is" />
+<EVENT_ORDER id="E171" fromID="V9" fromText="become" toID="V10" toText="standing" />
+<EVENT_ORDER id="E172" fromID="V9" fromText="become" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E173" fromID="V9" fromText="become" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E174" fromID="V9" fromText="become" toID="V13" toText="protest" />
+<EVENT_ORDER id="E175" fromID="V9" fromText="become" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E176" fromID="V9" fromText="become" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E177" fromID="V9" fromText="become" toID="V16" toText="allow" />
+<EVENT_ORDER id="E178" fromID="V9" fromText="become" toID="V17" toText="holding" />
+<EVENT_ORDER id="E179" fromID="V9" fromText="become" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E180" fromID="V9" fromText="become" toID="V19" toText="heard" />
+<EVENT_ORDER id="E182" fromID="V9" fromText="become" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E183" fromID="V9" fromText="become" toID="V22" toText="is" />
+<EVENT_ORDER id="E185" fromID="V10" fromText="standing" toID="V11" toText="marginalized" />
+<EVENT_ORDER id="E186" fromID="V10" fromText="standing" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E187" fromID="V10" fromText="standing" toID="V13" toText="protest" />
+<EVENT_ORDER id="E188" fromID="V10" fromText="standing" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E189" fromID="V10" fromText="standing" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E190" fromID="V10" fromText="standing" toID="V16" toText="allow" />
+<EVENT_ORDER id="E191" fromID="V10" fromText="standing" toID="V17" toText="holding" />
+<EVENT_ORDER id="E192" fromID="V10" fromText="standing" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E193" fromID="V10" fromText="standing" toID="V19" toText="heard" />
+<EVENT_ORDER id="E195" fromID="V10" fromText="standing" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E196" fromID="V10" fromText="standing" toID="V22" toText="is" />
+<EVENT_ORDER id="E198" fromID="V11" fromText="marginalized" toID="V12" toText="flocked" />
+<EVENT_ORDER id="E199" fromID="V11" fromText="marginalized" toID="V13" toText="protest" />
+<EVENT_ORDER id="E200" fromID="V11" fromText="marginalized" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E201" fromID="V11" fromText="marginalized" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E202" fromID="V11" fromText="marginalized" toID="V16" toText="allow" />
+<EVENT_ORDER id="E203" fromID="V11" fromText="marginalized" toID="V17" toText="holding" />
+<EVENT_ORDER id="E204" fromID="V11" fromText="marginalized" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E205" fromID="V11" fromText="marginalized" toID="V19" toText="heard" />
+<EVENT_ORDER id="E207" fromID="V11" fromText="marginalized" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E208" fromID="V11" fromText="marginalized" toID="V22" toText="is" />
+<EVENT_ORDER id="E210" fromID="V12" fromText="flocked" toID="V13" toText="protest" />
+<EVENT_ORDER id="E211" fromID="V12" fromText="flocked" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E212" fromID="V12" fromText="flocked" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E213" fromID="V12" fromText="flocked" toID="V16" toText="allow" />
+<EVENT_ORDER id="E214" fromID="V12" fromText="flocked" toID="V17" toText="holding" />
+<EVENT_ORDER id="E215" fromID="V12" fromText="flocked" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E216" fromID="V12" fromText="flocked" toID="V19" toText="heard" />
+<EVENT_ORDER id="E218" fromID="V12" fromText="flocked" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E219" fromID="V12" fromText="flocked" toID="V22" toText="is" />
+<EVENT_ORDER id="E221" fromID="V13" fromText="protest" toID="V14" toText="ordered" />
+<EVENT_ORDER id="E222" fromID="V13" fromText="protest" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E223" fromID="V13" fromText="protest" toID="V16" toText="allow" />
+<EVENT_ORDER id="E224" fromID="V13" fromText="protest" toID="V17" toText="holding" />
+<EVENT_ORDER id="E225" fromID="V13" fromText="protest" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E226" fromID="V13" fromText="protest" toID="V19" toText="heard" />
+<EVENT_ORDER id="E228" fromID="V13" fromText="protest" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E229" fromID="V13" fromText="protest" toID="V22" toText="is" />
+<EVENT_ORDER id="E231" fromID="V14" fromText="ordered" toID="V15" toText="reverse" />
+<EVENT_ORDER id="E232" fromID="V14" fromText="ordered" toID="V16" toText="allow" />
+<EVENT_ORDER id="E233" fromID="V14" fromText="ordered" toID="V17" toText="holding" />
+<EVENT_ORDER id="E234" fromID="V14" fromText="ordered" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E235" fromID="V14" fromText="ordered" toID="V19" toText="heard" />
+<EVENT_ORDER id="E237" fromID="V14" fromText="ordered" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E238" fromID="V14" fromText="ordered" toID="V22" toText="is" />
+<EVENT_ORDER id="E240" fromID="V15" fromText="reverse" toID="V16" toText="allow" />
+<EVENT_ORDER id="E241" fromID="V15" fromText="reverse" toID="V17" toText="holding" />
+<EVENT_ORDER id="E242" fromID="V15" fromText="reverse" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E243" fromID="V15" fromText="reverse" toID="V19" toText="heard" />
+<EVENT_ORDER id="E245" fromID="V15" fromText="reverse" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E246" fromID="V15" fromText="reverse" toID="V22" toText="is" />
+<EVENT_ORDER id="E248" fromID="V16" fromText="allow" toID="V17" toText="holding" />
+<EVENT_ORDER id="E249" fromID="V16" fromText="allow" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E250" fromID="V16" fromText="allow" toID="V19" toText="heard" />
+<EVENT_ORDER id="E252" fromID="V16" fromText="allow" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E253" fromID="V16" fromText="allow" toID="V22" toText="is" />
+<EVENT_ORDER id="E255" fromID="V17" fromText="holding" toID="V18" toText="proclaiming" />
+<EVENT_ORDER id="E256" fromID="V17" fromText="holding" toID="V19" toText="heard" />
+<EVENT_ORDER id="E258" fromID="V17" fromText="holding" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E259" fromID="V17" fromText="holding" toID="V22" toText="is" />
+<EVENT_ORDER id="E261" fromID="V18" fromText="proclaiming" toID="V19" toText="heard" />
+<EVENT_ORDER id="E263" fromID="V18" fromText="proclaiming" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E264" fromID="V18" fromText="proclaiming" toID="V22" toText="is" />
+<EVENT_ORDER id="E267" fromID="V19" fromText="heard" toID="V21" toText="shaken" />
+<EVENT_ORDER id="E268" fromID="V19" fromText="heard" toID="V22" toText="is" />
+<EVENT_ORDER id="E273" fromID="V21" fromText="shaken" toID="V22" toText="is" />
+</TAGS>
+</TemporalRelationTask>

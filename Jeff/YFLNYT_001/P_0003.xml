@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Trump had no political or military experience, the traditional routes to high political office. Virtually his only qualification was his business career, and a checkered one at that, considering his own brush with personal bankruptcy.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="10~13" text="had" category="VBD" />
+<VERB id="V2" spans="133~136" text="was" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="had" toID="V2" toText="was" />
+</TAGS>
+</TemporalRelationTask>

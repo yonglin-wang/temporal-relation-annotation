@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The good news for Democratic officeholders and candidates — and something many of them gingerly brought up — is that they may fare better the next two years thanks to Mr. Trump than they would have if Mrs. Clinton had been elected. The party of the sitting president often loses seats in the first midterm election, and many Democrats expect a backlash to Mr. Trump if he is unable to fulfill his grandiose promises.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="96~103" text="brought" category="VBD" />
+<VERB id="V1" spans="109~111" text="is" category="VBZ" />
+<VERB id="V2" spans="126~130" text="fare" category="VB" />
+<VERB id="V3" spans="193~197" text="have" category="VB" />
+<VERB id="V4" spans="223~230" text="elected" category="VBN" />
+<VERB id="V6" spans="273~278" text="loses" category="VBZ" />
+<VERB id="V7" spans="335~341" text="expect" category="VBP" />
+<VERB id="V8" spans="372~374" text="is" category="VBZ" />
+<VERB id="V9" spans="385~392" text="fulfill" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="brought" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="brought" toID="V2" toText="fare" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="brought" toID="V3" toText="have" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="brought" toID="V4" toText="elected" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="brought" toID="V6" toText="loses" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="brought" toID="V7" toText="expect" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="brought" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="brought" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V2" toText="fare" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V3" toText="have" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V4" toText="elected" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="is" toID="V6" toText="loses" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="is" toID="V7" toText="expect" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="is" toID="V8" toText="is" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="is" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="fare" toID="V3" toText="have" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="fare" toID="V4" toText="elected" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="fare" toID="V6" toText="loses" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="fare" toID="V7" toText="expect" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="fare" toID="V8" toText="is" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="fare" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="have" toID="V4" toText="elected" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="have" toID="V6" toText="loses" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="have" toID="V7" toText="expect" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="have" toID="V8" toText="is" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="have" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="elected" toID="V6" toText="loses" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="elected" toID="V7" toText="expect" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="elected" toID="V8" toText="is" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="elected" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="loses" toID="V7" toText="expect" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="loses" toID="V8" toText="is" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="loses" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="expect" toID="V8" toText="is" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="expect" toID="V9" toText="fulfill" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="is" toID="V9" toText="fulfill" />
+</TAGS>
+</TemporalRelationTask>

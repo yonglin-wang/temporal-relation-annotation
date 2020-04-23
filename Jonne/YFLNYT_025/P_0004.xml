@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In the Democratic primary race, most millennial and Gen Z voters — meaning, roughly, people ages 18 to 39 — have supported Mr. Sanders, of Vermont, or Senator Elizabeth Warren of Massachusetts, and few are enthusiastic about former Vice President Joseph R. Biden Jr. On the Republican side, young voters are less likely than older ones to support President Trump, and some conservatives have left the party altogether.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="92~96" text="ages" category="VBZ" />
+<VERB id="V1" spans="113~122" text="supported" category="VBN" />
+<VERB id="V2" spans="202~205" text="are" category="VBP" />
+<VERB id="V3" spans="304~307" text="are" category="VBP" />
+<VERB id="V4" spans="339~346" text="support" category="VB" />
+<VERB id="V5" spans="392~396" text="left" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="ages" toID="V1" toText="supported" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="ages" toID="V2" toText="are" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="ages" toID="V3" toText="are" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="ages" toID="V4" toText="support" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="ages" toID="V5" toText="left" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="supported" toID="V2" toText="are" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="supported" toID="V3" toText="are" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="supported" toID="V4" toText="support" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="supported" toID="V5" toText="left" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="are" toID="V3" toText="are" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="are" toID="V4" toText="support" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="are" toID="V5" toText="left" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="are" toID="V4" toText="support" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="are" toID="V5" toText="left" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="support" toID="V5" toText="left" />
+</TAGS>
+</TemporalRelationTask>

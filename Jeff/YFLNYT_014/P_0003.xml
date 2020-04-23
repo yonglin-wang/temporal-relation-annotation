@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Senator Rand Paul had tested positive for the coronavirus, Senator Mitch McConnell, the majority leader, told fellow Republicans over lunch. It was the news that lawmakers had been dreading for weeks as they went about their travel- and handshake-heavy routines while the disease circulated around the country.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~28" text="tested" category="VBN" />
+<VERB id="V1" spans="105~109" text="told" category="VBD" />
+<VERB id="V2" spans="144~147" text="was" category="VBD" />
+<VERB id="V3" spans="181~189" text="dreading" category="VBG" />
+<VERB id="V4" spans="208~212" text="went" category="VBD" />
+<VERB id="V5" spans="280~290" text="circulated" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="tested" toID="V1" toText="told" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="tested" toID="V2" toText="was" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="tested" toID="V3" toText="dreading" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="tested" toID="V4" toText="went" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="tested" toID="V5" toText="circulated" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="told" toID="V2" toText="was" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="told" toID="V3" toText="dreading" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="told" toID="V4" toText="went" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="told" toID="V5" toText="circulated" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="was" toID="V3" toText="dreading" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="was" toID="V4" toText="went" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="was" toID="V5" toText="circulated" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="dreading" toID="V4" toText="went" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="dreading" toID="V5" toText="circulated" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="went" toID="V5" toText="circulated" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Bernie Sanders has not yet been mathematically eliminated. And as the coronavirus outbreak causes many states to delay their primaries, it may be months until Mr. Biden wins an outright majority of delegates and becomes the presumptive Democratic nominee for president.]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="47~57" text="eliminated" category="VBN" />
+<VERB id="V3" spans="91~97" text="causes" category="VBZ" />
+<VERB id="V4" spans="113~118" text="delay" category="VB" />
+<VERB id="V5" spans="143~145" text="be" category="VB" />
+<VERB id="V6" spans="169~173" text="wins" category="VBZ" />
+<VERB id="V7" spans="212~219" text="becomes" category="VBZ" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="eliminated" toID="V3" toText="causes" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="eliminated" toID="V4" toText="delay" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="eliminated" toID="V5" toText="be" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="eliminated" toID="V6" toText="wins" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="eliminated" toID="V7" toText="becomes" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="causes" toID="V4" toText="delay" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="causes" toID="V5" toText="be" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="causes" toID="V6" toText="wins" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="causes" toID="V7" toText="becomes" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="delay" toID="V5" toText="be" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="delay" toID="V6" toText="wins" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="delay" toID="V7" toText="becomes" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="be" toID="V6" toText="wins" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="be" toID="V7" toText="becomes" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="wins" toID="V7" toText="becomes" />
+</TAGS>
+</TemporalRelationTask>

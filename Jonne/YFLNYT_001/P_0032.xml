@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But when Mr. Rubenstein began to ask, “As you consider whether you are going to run for president of the United States or not. ..,” she interjected, “No, that won’t be happening.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~29" text="began" category="VBD" />
+<VERB id="V1" spans="33~36" text="ask" category="VB" />
+<VERB id="V2" spans="46~54" text="consider" category="VBP" />
+<VERB id="V3" spans="71~76" text="going" category="VBG" />
+<VERB id="V4" spans="80~83" text="run" category="VB" />
+<VERB id="V5" spans="136~147" text="interjected" category="VBD" />
+<VERB id="V7" spans="168~177" text="happening" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="began" toID="V1" toText="ask" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="began" toID="V2" toText="consider" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="began" toID="V3" toText="going" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="began" toID="V4" toText="run" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="began" toID="V5" toText="interjected" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="began" toID="V7" toText="happening" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="ask" toID="V2" toText="consider" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="ask" toID="V3" toText="going" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="ask" toID="V4" toText="run" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="ask" toID="V5" toText="interjected" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="ask" toID="V7" toText="happening" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="consider" toID="V3" toText="going" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="consider" toID="V4" toText="run" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="consider" toID="V5" toText="interjected" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="consider" toID="V7" toText="happening" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="going" toID="V4" toText="run" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="going" toID="V5" toText="interjected" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="going" toID="V7" toText="happening" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="run" toID="V5" toText="interjected" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="run" toID="V7" toText="happening" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="interjected" toID="V7" toText="happening" />
+</TAGS>
+</TemporalRelationTask>

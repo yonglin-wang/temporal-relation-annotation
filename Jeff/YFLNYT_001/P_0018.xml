@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[People who have discussed a possible presidential run with Mr. Iger told me that his discussion with Mr. Bloomberg, some years ago, focused more on a possible run for mayor of New York City, where Mr. Iger has an apartment. New York has long welcomed nonresident candidates like Mrs. Clinton, so Mr. Iger’s California residency isn’t seen as an obstacle.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~25" text="discussed" category="VBN" />
+<VERB id="V1" spans="68~72" text="told" category="VBD" />
+<VERB id="V2" spans="132~139" text="focused" category="VBD" />
+<VERB id="V3" spans="206~209" text="has" category="VBZ" />
+<VERB id="V5" spans="242~250" text="welcomed" category="VBN" />
+<VERB id="V7" spans="334~338" text="seen" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="discussed" toID="V1" toText="told" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="discussed" toID="V2" toText="focused" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="discussed" toID="V3" toText="has" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="discussed" toID="V5" toText="welcomed" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="discussed" toID="V7" toText="seen" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="told" toID="V2" toText="focused" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="told" toID="V3" toText="has" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="told" toID="V5" toText="welcomed" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="told" toID="V7" toText="seen" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="focused" toID="V3" toText="has" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="focused" toID="V5" toText="welcomed" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="focused" toID="V7" toText="seen" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="has" toID="V5" toText="welcomed" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="has" toID="V7" toText="seen" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="welcomed" toID="V7" toText="seen" />
+</TAGS>
+</TemporalRelationTask>

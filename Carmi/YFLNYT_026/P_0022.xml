@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Other Democrats are more explicit about their concerns with Mr. Sanders’s broadsides, especially on trade, which Mr. Sanders and Mr. Trump used to great effect in the campaign. It is an issue that highlights regional differences among Democrats from states that have been hit hard by manufacturing plants’ being shut down and replaced overseas, and those from states that depend on a robust export market.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~19" text="are" category="VBP" />
+<VERB id="V1" spans="139~143" text="used" category="VBD" />
+<VERB id="V2" spans="180~182" text="is" category="VBZ" />
+<VERB id="V3" spans="197~207" text="highlights" category="VBZ" />
+<VERB id="V4" spans="272~275" text="hit" category="VBN" />
+<VERB id="V5" spans="284~297" text="manufacturing" category="VBG" />
+<VERB id="V7" spans="312~316" text="shut" category="VBN" />
+<VERB id="V8" spans="372~378" text="depend" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="used" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="highlights" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="hit" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="manufacturing" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="are" toID="V7" toText="shut" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="are" toID="V8" toText="depend" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="used" toID="V2" toText="is" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="used" toID="V3" toText="highlights" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="used" toID="V4" toText="hit" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="used" toID="V5" toText="manufacturing" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="used" toID="V7" toText="shut" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="used" toID="V8" toText="depend" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="is" toID="V3" toText="highlights" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="is" toID="V4" toText="hit" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="is" toID="V5" toText="manufacturing" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="is" toID="V7" toText="shut" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="is" toID="V8" toText="depend" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="highlights" toID="V4" toText="hit" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="highlights" toID="V5" toText="manufacturing" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="highlights" toID="V7" toText="shut" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="highlights" toID="V8" toText="depend" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="hit" toID="V5" toText="manufacturing" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="hit" toID="V7" toText="shut" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="hit" toID="V8" toText="depend" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="manufacturing" toID="V7" toText="shut" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="manufacturing" toID="V8" toText="depend" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="shut" toID="V8" toText="depend" />
+</TAGS>
+</TemporalRelationTask>

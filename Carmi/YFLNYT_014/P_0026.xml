@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In an email to The New York Times on Sunday, Mr. Gor did not explain why Mr. Paul had been in the Senate gym Sunday morning if he knew he could have the disease. Mr. Gor did not disclose precisely when Mr. Paul had been tested.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="53~56" text="did" category="VBD" />
+<VERB id="V1" spans="61~68" text="explain" category="VB" />
+<VERB id="V2" spans="86~90" text="been" category="VBN" />
+<VERB id="V3" spans="130~134" text="knew" category="VBD" />
+<VERB id="V4" spans="144~148" text="have" category="VB" />
+<VERB id="V5" spans="170~173" text="did" category="VBD" />
+<VERB id="V6" spans="178~186" text="disclose" category="VB" />
+<VERB id="V7" spans="220~226" text="tested" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="did" toID="V1" toText="explain" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="did" toID="V2" toText="been" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="did" toID="V3" toText="knew" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="did" toID="V4" toText="have" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="did" toID="V5" toText="did" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="did" toID="V6" toText="disclose" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="did" toID="V7" toText="tested" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="explain" toID="V2" toText="been" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="explain" toID="V3" toText="knew" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="explain" toID="V4" toText="have" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="explain" toID="V5" toText="did" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="explain" toID="V6" toText="disclose" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="explain" toID="V7" toText="tested" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="been" toID="V3" toText="knew" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="been" toID="V4" toText="have" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="been" toID="V5" toText="did" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="been" toID="V6" toText="disclose" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="been" toID="V7" toText="tested" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="knew" toID="V4" toText="have" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="knew" toID="V5" toText="did" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="knew" toID="V6" toText="disclose" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="knew" toID="V7" toText="tested" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="have" toID="V5" toText="did" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="have" toID="V6" toText="disclose" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="have" toID="V7" toText="tested" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="did" toID="V6" toText="disclose" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="did" toID="V7" toText="tested" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="disclose" toID="V7" toText="tested" />
+</TAGS>
+</TemporalRelationTask>

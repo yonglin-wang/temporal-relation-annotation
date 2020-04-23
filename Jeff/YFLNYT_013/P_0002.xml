@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The biggest sources of carbon emissions caused by our lifestyles come from three activities, said Kimberly Nicholas, a researcher at the Lund University Center for Sustainability Studies in Sweden: “Any time you can avoid getting on a plane, getting in a car or eating animal products, that’s a substantial climate savings.” Many people trying to avoid the coronavirus are already two-thirds of the way there.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="40~46" text="caused" category="VBN" />
+<VERB id="V1" spans="65~69" text="come" category="VBP" />
+<VERB id="V2" spans="93~97" text="said" category="VBD" />
+<VERB id="V3" spans="216~221" text="avoid" category="VB" />
+<VERB id="V4" spans="222~229" text="getting" category="VBG" />
+<VERB id="V5" spans="242~249" text="getting" category="VBG" />
+<VERB id="V6" spans="262~268" text="eating" category="VBG" />
+<VERB id="V8" spans="337~343" text="trying" category="VBG" />
+<VERB id="V9" spans="347~352" text="avoid" category="VB" />
+<VERB id="V10" spans="369~372" text="are" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="caused" toID="V1" toText="come" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="caused" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="caused" toID="V3" toText="avoid" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="caused" toID="V4" toText="getting" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="caused" toID="V5" toText="getting" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="caused" toID="V6" toText="eating" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="caused" toID="V8" toText="trying" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="caused" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="caused" toID="V10" toText="are" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="come" toID="V2" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="come" toID="V3" toText="avoid" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="come" toID="V4" toText="getting" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="come" toID="V5" toText="getting" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="come" toID="V6" toText="eating" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="come" toID="V8" toText="trying" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="come" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="come" toID="V10" toText="are" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V3" toText="avoid" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V4" toText="getting" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="said" toID="V5" toText="getting" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="said" toID="V6" toText="eating" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="said" toID="V8" toText="trying" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="said" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="said" toID="V10" toText="are" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="avoid" toID="V4" toText="getting" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="avoid" toID="V5" toText="getting" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="avoid" toID="V6" toText="eating" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="avoid" toID="V8" toText="trying" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="avoid" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="avoid" toID="V10" toText="are" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="getting" toID="V5" toText="getting" />
+<EVENT_ORDER id="E35" fromID="V4" fromText="getting" toID="V6" toText="eating" />
+<EVENT_ORDER id="E37" fromID="V4" fromText="getting" toID="V8" toText="trying" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="getting" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E39" fromID="V4" fromText="getting" toID="V10" toText="are" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="getting" toID="V6" toText="eating" />
+<EVENT_ORDER id="E42" fromID="V5" fromText="getting" toID="V8" toText="trying" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="getting" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E44" fromID="V5" fromText="getting" toID="V10" toText="are" />
+<EVENT_ORDER id="E46" fromID="V6" fromText="eating" toID="V8" toText="trying" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="eating" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E48" fromID="V6" fromText="eating" toID="V10" toText="are" />
+<EVENT_ORDER id="E52" fromID="V8" fromText="trying" toID="V9" toText="avoid" />
+<EVENT_ORDER id="E53" fromID="V8" fromText="trying" toID="V10" toText="are" />
+<EVENT_ORDER id="E54" fromID="V9" fromText="avoid" toID="V10" toText="are" />
+</TAGS>
+</TemporalRelationTask>

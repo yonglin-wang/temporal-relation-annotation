@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Their open frustration is really exhaustion, some said: at educating themselves, explaining themselves and still feeling ignored or patronized.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="23~25" text="is" category="VBZ" />
+<VERB id="V1" spans="50~54" text="said" category="VBD" />
+<VERB id="V2" spans="59~68" text="educating" category="VBG" />
+<VERB id="V3" spans="81~91" text="explaining" category="VBG" />
+<VERB id="V4" spans="113~120" text="feeling" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="educating" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="explaining" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="feeling" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V2" toText="educating" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V3" toText="explaining" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V4" toText="feeling" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="educating" toID="V3" toText="explaining" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="educating" toID="V4" toText="feeling" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="explaining" toID="V4" toText="feeling" />
+</TAGS>
+</TemporalRelationTask>

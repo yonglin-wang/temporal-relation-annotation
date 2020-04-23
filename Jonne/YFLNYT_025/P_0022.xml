@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Climate change is also a big issue for young Republicans, just as it is for young Democrats. They don’t necessarily support proposals like the Green New Deal. But they do want the government to take urgent action, and the resistance at the top of their party has been alienating.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~17" text="is" category="VBZ" />
+<VERB id="V3" spans="116~123" text="support" category="VB" />
+<VERB id="V4" spans="171~175" text="want" category="VB" />
+<VERB id="V5" spans="194~198" text="take" category="VB" />
+<VERB id="V6" spans="268~278" text="alienating" category="VBG" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="support" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="want" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="take" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="alienating" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="support" toID="V4" toText="want" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="support" toID="V5" toText="take" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="support" toID="V6" toText="alienating" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="want" toID="V5" toText="take" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="want" toID="V6" toText="alienating" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="take" toID="V6" toText="alienating" />
+</TAGS>
+</TemporalRelationTask>

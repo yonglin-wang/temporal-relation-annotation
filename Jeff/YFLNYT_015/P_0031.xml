@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“With this transfer from the Bloomberg campaign, Mayor Bloomberg and his team are making good on their commitment to beating Donald Trump,” said Tom Perez, the D.N.C. chairman. “This will help us invest in more organizers across the country to elect the next president and help Democrats win up and down the ballot.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="82~88" text="making" category="VBG" />
+<VERB id="V1" spans="117~124" text="beating" category="VBG" />
+<VERB id="V2" spans="140~144" text="said" category="VBD" />
+<VERB id="V3" spans="188~192" text="help" category="VB" />
+<VERB id="V4" spans="196~202" text="invest" category="VB" />
+<VERB id="V5" spans="244~249" text="elect" category="VB" />
+<VERB id="V6" spans="288~291" text="win" category="VBP" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="making" toID="V1" toText="beating" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="making" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="making" toID="V3" toText="help" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="making" toID="V4" toText="invest" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="making" toID="V5" toText="elect" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="making" toID="V6" toText="win" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="beating" toID="V2" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="beating" toID="V3" toText="help" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="beating" toID="V4" toText="invest" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="beating" toID="V5" toText="elect" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="beating" toID="V6" toText="win" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V3" toText="help" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="said" toID="V4" toText="invest" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V5" toText="elect" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V6" toText="win" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="help" toID="V4" toText="invest" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="help" toID="V5" toText="elect" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="help" toID="V6" toText="win" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="invest" toID="V5" toText="elect" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="invest" toID="V6" toText="win" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="elect" toID="V6" toText="win" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Those crises, especially the Great Recession, stunted millennials’ professional and financial growth in ways that did not resolve after the recession ended. Now, the coronavirus threatens to once again upend any gains they have made.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~53" text="stunted" category="VBD" />
+<VERB id="V2" spans="122~129" text="resolve" category="VB" />
+<VERB id="V3" spans="150~155" text="ended" category="VBD" />
+<VERB id="V4" spans="178~187" text="threatens" category="VBZ" />
+<VERB id="V5" spans="228~232" text="made" category="VBN" />
+<VERB id="V6" spans="202~207" text="upend" category="VB" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="stunted" toID="V2" toText="resolve" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="stunted" toID="V3" toText="ended" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="stunted" toID="V4" toText="threatens" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="stunted" toID="V5" toText="made" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="resolve" toID="V3" toText="ended" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="resolve" toID="V4" toText="threatens" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="resolve" toID="V5" toText="made" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="ended" toID="V4" toText="threatens" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="ended" toID="V5" toText="made" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="threatens" toID="V5" toText="made" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[At least for now, the coming states that have not delayed their contests are relatively favorable to Mr. Sanders. Puerto Rico, on March 29, is a wild card, but that makes it better for Mr. Sanders than any remaining state.]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="50~57" text="delayed" category="VBN" />
+<VERB id="V3" spans="73~76" text="are" category="VBP" />
+<VERB id="V4" spans="140~142" text="is" category="VBZ" />
+<VERB id="V5" spans="165~170" text="makes" category="VBZ" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="delayed" toID="V3" toText="are" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="delayed" toID="V4" toText="is" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="delayed" toID="V5" toText="makes" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="are" toID="V4" toText="is" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="are" toID="V5" toText="makes" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="is" toID="V5" toText="makes" />
+</TAGS>
+</TemporalRelationTask>

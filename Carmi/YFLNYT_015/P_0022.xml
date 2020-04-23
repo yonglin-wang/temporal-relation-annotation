@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I can’t emphasize enough how much things have changed in the intervening days since March 3, and even the days before,” he said, referencing the Super Tuesday contests in which Mr. Biden won decisive victories and Mr. Bloomberg won only the caucuses in American Samoa.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="9~18" text="emphasize" category="VB" />
+<VERB id="V1" spans="47~54" text="changed" category="VBN" />
+<VERB id="V2" spans="124~128" text="said" category="VBD" />
+<VERB id="V3" spans="130~141" text="referencing" category="VBG" />
+<VERB id="V4" spans="188~191" text="won" category="VBD" />
+<VERB id="V5" spans="229~232" text="won" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="emphasize" toID="V1" toText="changed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="emphasize" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="emphasize" toID="V3" toText="referencing" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="emphasize" toID="V4" toText="won" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="emphasize" toID="V5" toText="won" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="changed" toID="V2" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="changed" toID="V3" toText="referencing" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="changed" toID="V4" toText="won" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="changed" toID="V5" toText="won" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="said" toID="V3" toText="referencing" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="won" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V5" toText="won" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="referencing" toID="V4" toText="won" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="referencing" toID="V5" toText="won" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="won" toID="V5" toText="won" />
+</TAGS>
+</TemporalRelationTask>

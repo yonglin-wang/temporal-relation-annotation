@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The reversal — which came on the same day that election authorities reported he had spent more than $900 million on his campaign — prompted an outcry from former staff members, who said it was particularly startling for Mr. Bloomberg’s campaign to shatter their expectations of employment and health benefits in the middle of a major public-health crisis.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="21~25" text="came" category="VBD" />
+<VERB id="V1" spans="68~76" text="reported" category="VBD" />
+<VERB id="V2" spans="84~89" text="spent" category="VBN" />
+<VERB id="V3" spans="131~139" text="prompted" category="VBD" />
+<VERB id="V4" spans="181~185" text="said" category="VBD" />
+<VERB id="V5" spans="189~192" text="was" category="VBD" />
+<VERB id="V6" spans="206~215" text="startling" category="VBG" />
+<VERB id="V8" spans="248~255" text="shatter" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="came" toID="V1" toText="reported" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="came" toID="V2" toText="spent" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="came" toID="V3" toText="prompted" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="came" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="came" toID="V5" toText="was" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="came" toID="V6" toText="startling" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="came" toID="V8" toText="shatter" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="reported" toID="V2" toText="spent" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="reported" toID="V3" toText="prompted" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="reported" toID="V4" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="reported" toID="V5" toText="was" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="reported" toID="V6" toText="startling" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="reported" toID="V8" toText="shatter" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="spent" toID="V3" toText="prompted" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="spent" toID="V4" toText="said" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="spent" toID="V5" toText="was" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="spent" toID="V6" toText="startling" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="spent" toID="V8" toText="shatter" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="prompted" toID="V4" toText="said" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="prompted" toID="V5" toText="was" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="prompted" toID="V6" toText="startling" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="prompted" toID="V8" toText="shatter" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="said" toID="V5" toText="was" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="said" toID="V6" toText="startling" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="said" toID="V8" toText="shatter" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="was" toID="V6" toText="startling" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="was" toID="V8" toText="shatter" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="startling" toID="V8" toText="shatter" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I’ve been called a RINO more times than I can count, which I don’t appreciate, because that’s their way of questioning my integrity and my principles,” Ms. Egan said. “There are plenty of other young Republicans, even if they’re not saying it, who feel alienated or ostracized because they’re being asked to support an ideology they didn’t sign up for.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="11~17" text="called" category="VBN" />
+<VERB id="V1" spans="47~52" text="count" category="VB" />
+<VERB id="V4" spans="108~119" text="questioning" category="VBG" />
+<VERB id="V5" spans="162~166" text="said" category="VBD" />
+<VERB id="V6" spans="175~178" text="are" category="VBP" />
+<VERB id="V7" spans="234~240" text="saying" category="VBG" />
+<VERB id="V8" spans="249~253" text="feel" category="VBP" />
+<VERB id="V12" spans="300~305" text="asked" category="VBD" />
+<VERB id="V13" spans="309~316" text="support" category="VB" />
+<VERB id="V15" spans="93~94" text="s" category="VBZ" />
+<VERB id="V16" spans="341~345" text="sign" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="called" toID="V1" toText="count" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="called" toID="V4" toText="questioning" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="called" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="called" toID="V6" toText="are" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="called" toID="V7" toText="saying" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="called" toID="V8" toText="feel" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="called" toID="V12" toText="asked" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="called" toID="V13" toText="support" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="count" toID="V4" toText="questioning" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="count" toID="V5" toText="said" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="count" toID="V6" toText="are" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="count" toID="V7" toText="saying" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="count" toID="V8" toText="feel" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="count" toID="V12" toText="asked" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="count" toID="V13" toText="support" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="questioning" toID="V5" toText="said" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="questioning" toID="V6" toText="are" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="questioning" toID="V7" toText="saying" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="questioning" toID="V8" toText="feel" />
+<EVENT_ORDER id="E57" fromID="V4" fromText="questioning" toID="V12" toText="asked" />
+<EVENT_ORDER id="E58" fromID="V4" fromText="questioning" toID="V13" toText="support" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="said" toID="V6" toText="are" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="said" toID="V7" toText="saying" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="said" toID="V8" toText="feel" />
+<EVENT_ORDER id="E66" fromID="V5" fromText="said" toID="V12" toText="asked" />
+<EVENT_ORDER id="E67" fromID="V5" fromText="said" toID="V13" toText="support" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="are" toID="V7" toText="saying" />
+<EVENT_ORDER id="E70" fromID="V6" fromText="are" toID="V8" toText="feel" />
+<EVENT_ORDER id="E74" fromID="V6" fromText="are" toID="V12" toText="asked" />
+<EVENT_ORDER id="E75" fromID="V6" fromText="are" toID="V13" toText="support" />
+<EVENT_ORDER id="E77" fromID="V7" fromText="saying" toID="V8" toText="feel" />
+<EVENT_ORDER id="E81" fromID="V7" fromText="saying" toID="V12" toText="asked" />
+<EVENT_ORDER id="E82" fromID="V7" fromText="saying" toID="V13" toText="support" />
+<EVENT_ORDER id="E87" fromID="V8" fromText="feel" toID="V12" toText="asked" />
+<EVENT_ORDER id="E88" fromID="V8" fromText="feel" toID="V13" toText="support" />
+<EVENT_ORDER id="E102" fromID="V12" fromText="asked" toID="V13" toText="support" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Ms. Gillibrand has been alone among Senate Democrats in voting against all but one of the president’s cabinet picks and posts requiring Senate confirmation (she voted in favor of Nikki R. Haley’s appointment as United States ambassador to the United Nations). Senator Elizabeth Warren of Massachusetts, to the disappointment of many of her admirers, advanced Ben Carson as housing secretary. Young progressive women in New York who have suddenly been making activism as much a part of their daily habits as chia seed pudding have become infatuated with Ms. Gillibrand, who has long drawn the adoration of the Sheryl Sandbergs of the world — members of the celebrity-feminist corporate class that we now know women seeking the presidency cannot rely on solely.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~23" text="been" category="VBN" />
+<VERB id="V1" spans="56~62" text="voting" category="VBG" />
+<VERB id="V3" spans="126~135" text="requiring" category="VBG" />
+<VERB id="V4" spans="161~166" text="voted" category="VBD" />
+<VERB id="V5" spans="350~358" text="advanced" category="VBD" />
+<VERB id="V6" spans="432~436" text="have" category="VBP" />
+<VERB id="V7" spans="451~457" text="making" category="VBG" />
+<VERB id="V9" spans="530~536" text="become" category="VBN" />
+<VERB id="V12" spans="582~587" text="drawn" category="VBN" />
+<VERB id="V13" spans="703~707" text="know" category="VBP" />
+<VERB id="V14" spans="714~721" text="seeking" category="VBG" />
+<VERB id="V15" spans="744~748" text="rely" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="voting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="requiring" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="voted" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="been" toID="V5" toText="advanced" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="been" toID="V6" toText="have" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="been" toID="V7" toText="making" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="been" toID="V9" toText="become" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="been" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="been" toID="V13" toText="know" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="been" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="been" toID="V15" toText="rely" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="voting" toID="V3" toText="requiring" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="voting" toID="V4" toText="voted" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="voting" toID="V5" toText="advanced" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="voting" toID="V6" toText="have" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="voting" toID="V7" toText="making" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="voting" toID="V9" toText="become" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="voting" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="voting" toID="V13" toText="know" />
+<EVENT_ORDER id="E27" fromID="V1" fromText="voting" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E28" fromID="V1" fromText="voting" toID="V15" toText="rely" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="requiring" toID="V4" toText="voted" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="requiring" toID="V5" toText="advanced" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="requiring" toID="V6" toText="have" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="requiring" toID="V7" toText="making" />
+<EVENT_ORDER id="E47" fromID="V3" fromText="requiring" toID="V9" toText="become" />
+<EVENT_ORDER id="E50" fromID="V3" fromText="requiring" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E51" fromID="V3" fromText="requiring" toID="V13" toText="know" />
+<EVENT_ORDER id="E52" fromID="V3" fromText="requiring" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E53" fromID="V3" fromText="requiring" toID="V15" toText="rely" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="voted" toID="V5" toText="advanced" />
+<EVENT_ORDER id="E55" fromID="V4" fromText="voted" toID="V6" toText="have" />
+<EVENT_ORDER id="E56" fromID="V4" fromText="voted" toID="V7" toText="making" />
+<EVENT_ORDER id="E58" fromID="V4" fromText="voted" toID="V9" toText="become" />
+<EVENT_ORDER id="E61" fromID="V4" fromText="voted" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E62" fromID="V4" fromText="voted" toID="V13" toText="know" />
+<EVENT_ORDER id="E63" fromID="V4" fromText="voted" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E64" fromID="V4" fromText="voted" toID="V15" toText="rely" />
+<EVENT_ORDER id="E65" fromID="V5" fromText="advanced" toID="V6" toText="have" />
+<EVENT_ORDER id="E66" fromID="V5" fromText="advanced" toID="V7" toText="making" />
+<EVENT_ORDER id="E68" fromID="V5" fromText="advanced" toID="V9" toText="become" />
+<EVENT_ORDER id="E71" fromID="V5" fromText="advanced" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E72" fromID="V5" fromText="advanced" toID="V13" toText="know" />
+<EVENT_ORDER id="E73" fromID="V5" fromText="advanced" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E74" fromID="V5" fromText="advanced" toID="V15" toText="rely" />
+<EVENT_ORDER id="E75" fromID="V6" fromText="have" toID="V7" toText="making" />
+<EVENT_ORDER id="E77" fromID="V6" fromText="have" toID="V9" toText="become" />
+<EVENT_ORDER id="E80" fromID="V6" fromText="have" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E81" fromID="V6" fromText="have" toID="V13" toText="know" />
+<EVENT_ORDER id="E82" fromID="V6" fromText="have" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E83" fromID="V6" fromText="have" toID="V15" toText="rely" />
+<EVENT_ORDER id="E85" fromID="V7" fromText="making" toID="V9" toText="become" />
+<EVENT_ORDER id="E88" fromID="V7" fromText="making" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E89" fromID="V7" fromText="making" toID="V13" toText="know" />
+<EVENT_ORDER id="E90" fromID="V7" fromText="making" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E91" fromID="V7" fromText="making" toID="V15" toText="rely" />
+<EVENT_ORDER id="E101" fromID="V9" fromText="become" toID="V12" toText="drawn" />
+<EVENT_ORDER id="E102" fromID="V9" fromText="become" toID="V13" toText="know" />
+<EVENT_ORDER id="E103" fromID="V9" fromText="become" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E104" fromID="V9" fromText="become" toID="V15" toText="rely" />
+<EVENT_ORDER id="E114" fromID="V12" fromText="drawn" toID="V13" toText="know" />
+<EVENT_ORDER id="E115" fromID="V12" fromText="drawn" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E116" fromID="V12" fromText="drawn" toID="V15" toText="rely" />
+<EVENT_ORDER id="E117" fromID="V13" fromText="know" toID="V14" toText="seeking" />
+<EVENT_ORDER id="E118" fromID="V13" fromText="know" toID="V15" toText="rely" />
+<EVENT_ORDER id="E119" fromID="V14" fromText="seeking" toID="V15" toText="rely" />
+</TAGS>
+</TemporalRelationTask>

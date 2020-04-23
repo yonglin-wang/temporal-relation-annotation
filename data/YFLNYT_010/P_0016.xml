@@ -3,7 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Much of his time is now spent fielding calls from patients who wonder if they should stop taking their immunosuppressive medications in order to minimize risk of serious infection. Following a joint advisory from American gastroenterological associations, Dr. Jain has told patients to continue their course of normal treatment.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="9~11" text="is" category="VBZ" />
 <VERB id="V1" spans="30~38" text="fielding" category="VBG" />
 <VERB id="V2" spans="63~69" text="wonder" category="VBP" />
 <VERB id="V3" spans="85~89" text="stop" category="VB" />
@@ -12,14 +11,6 @@
 <VERB id="V6" spans="181~190" text="Following" category="VBG" />
 <VERB id="V7" spans="269~273" text="told" category="VBN" />
 <VERB id="V8" spans="286~294" text="continue" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="fielding" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="wonder" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="stop" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="taking" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="minimize" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="Following" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="told" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="continue" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="fielding" toID="V2" toText="wonder" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="fielding" toID="V3" toText="stop" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="fielding" toID="V4" toText="taking" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The result is perhaps the most profound generational gap since the 1960s: between the Generation X, baby boomer and Silent Generation voters who remember one world, and the millennial and Generation Z voters for whom that world never existed.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="11~13" text="is" category="VBZ" />
+<VERB id="V1" spans="145~153" text="remember" category="VBP" />
+<VERB id="V2" spans="234~241" text="existed" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="remember" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="existed" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="remember" toID="V2" toText="existed" />
+</TAGS>
+</TemporalRelationTask>

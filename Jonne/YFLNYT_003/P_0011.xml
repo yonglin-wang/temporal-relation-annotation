@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But the fear of compromise is profound. “This isn’t the time for elected officials to be overly tactical,” Bill Lipton, state director of the progressive Working Families Party, told me. “This is the time for people to demonstrate the moral clarity to inspire millions of people to get involved in politics and start a movement. And Kirsten deserves credit for really doing that.”]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="65~72" text="elected" category="VBN" />
+<VERB id="V2" spans="86~88" text="be" category="VB" />
+<VERB id="V3" spans="178~182" text="told" category="VBD" />
+<VERB id="V5" spans="219~230" text="demonstrate" category="VB" />
+<VERB id="V6" spans="252~259" text="inspire" category="VB" />
+<VERB id="V7" spans="282~285" text="get" category="VB" />
+<VERB id="V8" spans="286~294" text="involved" category="VBN" />
+<VERB id="V9" spans="311~316" text="start" category="VB" />
+<VERB id="V10" spans="341~349" text="deserves" category="VBZ" />
+<VERB id="V11" spans="368~373" text="doing" category="VBG" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="elected" toID="V2" toText="be" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="elected" toID="V3" toText="told" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="elected" toID="V5" toText="demonstrate" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="elected" toID="V6" toText="inspire" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="elected" toID="V7" toText="get" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="elected" toID="V8" toText="involved" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="elected" toID="V9" toText="start" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="elected" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="elected" toID="V11" toText="doing" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="be" toID="V3" toText="told" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="be" toID="V5" toText="demonstrate" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="be" toID="V6" toText="inspire" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="be" toID="V7" toText="get" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="be" toID="V8" toText="involved" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="be" toID="V9" toText="start" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="be" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="be" toID="V11" toText="doing" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="told" toID="V5" toText="demonstrate" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="told" toID="V6" toText="inspire" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="told" toID="V7" toText="get" />
+<EVENT_ORDER id="E34" fromID="V3" fromText="told" toID="V8" toText="involved" />
+<EVENT_ORDER id="E35" fromID="V3" fromText="told" toID="V9" toText="start" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="told" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="told" toID="V11" toText="doing" />
+<EVENT_ORDER id="E45" fromID="V5" fromText="demonstrate" toID="V6" toText="inspire" />
+<EVENT_ORDER id="E46" fromID="V5" fromText="demonstrate" toID="V7" toText="get" />
+<EVENT_ORDER id="E47" fromID="V5" fromText="demonstrate" toID="V8" toText="involved" />
+<EVENT_ORDER id="E48" fromID="V5" fromText="demonstrate" toID="V9" toText="start" />
+<EVENT_ORDER id="E49" fromID="V5" fromText="demonstrate" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E50" fromID="V5" fromText="demonstrate" toID="V11" toText="doing" />
+<EVENT_ORDER id="E51" fromID="V6" fromText="inspire" toID="V7" toText="get" />
+<EVENT_ORDER id="E52" fromID="V6" fromText="inspire" toID="V8" toText="involved" />
+<EVENT_ORDER id="E53" fromID="V6" fromText="inspire" toID="V9" toText="start" />
+<EVENT_ORDER id="E54" fromID="V6" fromText="inspire" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E55" fromID="V6" fromText="inspire" toID="V11" toText="doing" />
+<EVENT_ORDER id="E56" fromID="V7" fromText="get" toID="V8" toText="involved" />
+<EVENT_ORDER id="E57" fromID="V7" fromText="get" toID="V9" toText="start" />
+<EVENT_ORDER id="E58" fromID="V7" fromText="get" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E59" fromID="V7" fromText="get" toID="V11" toText="doing" />
+<EVENT_ORDER id="E60" fromID="V8" fromText="involved" toID="V9" toText="start" />
+<EVENT_ORDER id="E61" fromID="V8" fromText="involved" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E62" fromID="V8" fromText="involved" toID="V11" toText="doing" />
+<EVENT_ORDER id="E63" fromID="V9" fromText="start" toID="V10" toText="deserves" />
+<EVENT_ORDER id="E64" fromID="V9" fromText="start" toID="V11" toText="doing" />
+<EVENT_ORDER id="E65" fromID="V10" fromText="deserves" toID="V11" toText="doing" />
+</TAGS>
+</TemporalRelationTask>

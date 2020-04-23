@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Campaign buttons emblazoned with “Vote for Benioff” and “Marc Benioff for President” circulated two years ago at Salesforce’s annual Dreamforce conference in San Francisco, which draws hundreds of thousands of participants and has been viewed by some as a likely launching pad for any Benioff campaign.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="17~27" text="emblazoned" category="VBD" />
+<VERB id="V1" spans="85~95" text="circulated" category="VBD" />
+<VERB id="V3" spans="179~184" text="draws" category="VBZ" />
+<VERB id="V4" spans="236~242" text="viewed" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="emblazoned" toID="V1" toText="circulated" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="emblazoned" toID="V3" toText="draws" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="emblazoned" toID="V4" toText="viewed" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="circulated" toID="V3" toText="draws" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="circulated" toID="V4" toText="viewed" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="draws" toID="V4" toText="viewed" />
+</TAGS>
+</TemporalRelationTask>

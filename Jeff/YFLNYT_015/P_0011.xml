@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Those verbal promises were first tested on March 9, less than a week after Mr. Bloomberg exited the race, when many field organizers were laid off and told they would be paid through the end of the month. Employees were encouraged to reapply to work for Mr. Bloomberg’s organization in six battleground states: Arizona, Florida, Michigan, North Carolina, Pennsylvania and Wisconsin.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="22~26" text="were" category="VBD" />
+<VERB id="V1" spans="33~39" text="tested" category="VBN" />
+<VERB id="V2" spans="89~95" text="exited" category="VBD" />
+<VERB id="V3" spans="138~142" text="laid" category="VBN" />
+<VERB id="V4" spans="151~155" text="told" category="VBD" />
+<VERB id="V5" spans="170~174" text="paid" category="VBN" />
+<VERB id="V6" spans="220~230" text="encouraged" category="VBN" />
+<VERB id="V7" spans="234~241" text="reapply" category="VB" />
+<VERB id="V8" spans="245~249" text="work" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="were" toID="V1" toText="tested" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="were" toID="V2" toText="exited" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="were" toID="V3" toText="laid" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="were" toID="V4" toText="told" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="were" toID="V5" toText="paid" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="were" toID="V6" toText="encouraged" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="were" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="were" toID="V8" toText="work" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="tested" toID="V2" toText="exited" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="tested" toID="V3" toText="laid" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="tested" toID="V4" toText="told" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="tested" toID="V5" toText="paid" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="tested" toID="V6" toText="encouraged" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="tested" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="tested" toID="V8" toText="work" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="exited" toID="V3" toText="laid" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="exited" toID="V4" toText="told" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="exited" toID="V5" toText="paid" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="exited" toID="V6" toText="encouraged" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="exited" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="exited" toID="V8" toText="work" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="laid" toID="V4" toText="told" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="laid" toID="V5" toText="paid" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="laid" toID="V6" toText="encouraged" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="laid" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="laid" toID="V8" toText="work" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="told" toID="V5" toText="paid" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="told" toID="V6" toText="encouraged" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="told" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="told" toID="V8" toText="work" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="paid" toID="V6" toText="encouraged" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="paid" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="paid" toID="V8" toText="work" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="encouraged" toID="V7" toText="reapply" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="encouraged" toID="V8" toText="work" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="reapply" toID="V8" toText="work" />
+</TAGS>
+</TemporalRelationTask>

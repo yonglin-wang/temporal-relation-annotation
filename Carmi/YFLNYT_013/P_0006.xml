@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The actual effects on your greenhouse gas emissions of staying home will greatly depend on where you live, Dr. Jones said. For the roughly 25 percent of Americans living in the suburbs and another 25 percent in rural areas, cutting out a commute often means driving far less. But about 50 percent of Americans live in urban areas, and for those who use mass transit, avoiding a commute doesn’t necessarily cause much of a dip in emissions. The University of California, Berkeley, has suspended in-person instruction, and Dr. Jones said, “I commute by train and the train is going with or without me and everyone else, so I don’t think there’s an impact there.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="55~62" text="staying" category="VBG" />
+<VERB id="V1" spans="81~87" text="depend" category="VB" />
+<VERB id="V2" spans="101~105" text="live" category="VBP" />
+<VERB id="V3" spans="117~121" text="said" category="VBD" />
+<VERB id="V4" spans="163~169" text="living" category="VBG" />
+<VERB id="V5" spans="224~231" text="cutting" category="VBG" />
+<VERB id="V6" spans="252~257" text="means" category="VBZ" />
+<VERB id="V7" spans="258~265" text="driving" category="VBG" />
+<VERB id="V8" spans="310~314" text="live" category="VBP" />
+<VERB id="V9" spans="349~352" text="use" category="VBP" />
+<VERB id="V10" spans="367~375" text="avoiding" category="VBG" />
+<VERB id="V12" spans="484~493" text="suspended" category="VBN" />
+<VERB id="V13" spans="531~535" text="said" category="VBD" />
+<VERB id="V14" spans="540~547" text="commute" category="VBP" />
+<VERB id="V15" spans="574~579" text="going" category="VBG" />
+<VERB id="V17" spans="629~634" text="think" category="VBP" />
+<VERB id="V18" spans="641~642" text="s" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="staying" toID="V1" toText="depend" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="staying" toID="V2" toText="live" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="staying" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="staying" toID="V4" toText="living" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="staying" toID="V5" toText="cutting" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="staying" toID="V6" toText="means" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="staying" toID="V7" toText="driving" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="staying" toID="V8" toText="live" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="staying" toID="V9" toText="use" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="staying" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="staying" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="staying" toID="V13" toText="said" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="staying" toID="V14" toText="commute" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="staying" toID="V15" toText="going" />
+<EVENT_ORDER id="E16" fromID="V0" fromText="staying" toID="V17" toText="think" />
+<EVENT_ORDER id="E17" fromID="V0" fromText="staying" toID="V18" toText="s" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="depend" toID="V2" toText="live" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="depend" toID="V3" toText="said" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="depend" toID="V4" toText="living" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="depend" toID="V5" toText="cutting" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="depend" toID="V6" toText="means" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="depend" toID="V7" toText="driving" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="depend" toID="V8" toText="live" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="depend" toID="V9" toText="use" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="depend" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E28" fromID="V1" fromText="depend" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E29" fromID="V1" fromText="depend" toID="V13" toText="said" />
+<EVENT_ORDER id="E30" fromID="V1" fromText="depend" toID="V14" toText="commute" />
+<EVENT_ORDER id="E31" fromID="V1" fromText="depend" toID="V15" toText="going" />
+<EVENT_ORDER id="E33" fromID="V1" fromText="depend" toID="V17" toText="think" />
+<EVENT_ORDER id="E34" fromID="V1" fromText="depend" toID="V18" toText="s" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="live" toID="V3" toText="said" />
+<EVENT_ORDER id="E36" fromID="V2" fromText="live" toID="V4" toText="living" />
+<EVENT_ORDER id="E37" fromID="V2" fromText="live" toID="V5" toText="cutting" />
+<EVENT_ORDER id="E38" fromID="V2" fromText="live" toID="V6" toText="means" />
+<EVENT_ORDER id="E39" fromID="V2" fromText="live" toID="V7" toText="driving" />
+<EVENT_ORDER id="E40" fromID="V2" fromText="live" toID="V8" toText="live" />
+<EVENT_ORDER id="E41" fromID="V2" fromText="live" toID="V9" toText="use" />
+<EVENT_ORDER id="E42" fromID="V2" fromText="live" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E44" fromID="V2" fromText="live" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E45" fromID="V2" fromText="live" toID="V13" toText="said" />
+<EVENT_ORDER id="E46" fromID="V2" fromText="live" toID="V14" toText="commute" />
+<EVENT_ORDER id="E47" fromID="V2" fromText="live" toID="V15" toText="going" />
+<EVENT_ORDER id="E49" fromID="V2" fromText="live" toID="V17" toText="think" />
+<EVENT_ORDER id="E50" fromID="V2" fromText="live" toID="V18" toText="s" />
+<EVENT_ORDER id="E51" fromID="V3" fromText="said" toID="V4" toText="living" />
+<EVENT_ORDER id="E52" fromID="V3" fromText="said" toID="V5" toText="cutting" />
+<EVENT_ORDER id="E53" fromID="V3" fromText="said" toID="V6" toText="means" />
+<EVENT_ORDER id="E54" fromID="V3" fromText="said" toID="V7" toText="driving" />
+<EVENT_ORDER id="E55" fromID="V3" fromText="said" toID="V8" toText="live" />
+<EVENT_ORDER id="E56" fromID="V3" fromText="said" toID="V9" toText="use" />
+<EVENT_ORDER id="E57" fromID="V3" fromText="said" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E59" fromID="V3" fromText="said" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E60" fromID="V3" fromText="said" toID="V13" toText="said" />
+<EVENT_ORDER id="E61" fromID="V3" fromText="said" toID="V14" toText="commute" />
+<EVENT_ORDER id="E62" fromID="V3" fromText="said" toID="V15" toText="going" />
+<EVENT_ORDER id="E64" fromID="V3" fromText="said" toID="V17" toText="think" />
+<EVENT_ORDER id="E65" fromID="V3" fromText="said" toID="V18" toText="s" />
+<EVENT_ORDER id="E66" fromID="V4" fromText="living" toID="V5" toText="cutting" />
+<EVENT_ORDER id="E67" fromID="V4" fromText="living" toID="V6" toText="means" />
+<EVENT_ORDER id="E68" fromID="V4" fromText="living" toID="V7" toText="driving" />
+<EVENT_ORDER id="E69" fromID="V4" fromText="living" toID="V8" toText="live" />
+<EVENT_ORDER id="E70" fromID="V4" fromText="living" toID="V9" toText="use" />
+<EVENT_ORDER id="E71" fromID="V4" fromText="living" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E73" fromID="V4" fromText="living" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E74" fromID="V4" fromText="living" toID="V13" toText="said" />
+<EVENT_ORDER id="E75" fromID="V4" fromText="living" toID="V14" toText="commute" />
+<EVENT_ORDER id="E76" fromID="V4" fromText="living" toID="V15" toText="going" />
+<EVENT_ORDER id="E78" fromID="V4" fromText="living" toID="V17" toText="think" />
+<EVENT_ORDER id="E79" fromID="V4" fromText="living" toID="V18" toText="s" />
+<EVENT_ORDER id="E80" fromID="V5" fromText="cutting" toID="V6" toText="means" />
+<EVENT_ORDER id="E81" fromID="V5" fromText="cutting" toID="V7" toText="driving" />
+<EVENT_ORDER id="E82" fromID="V5" fromText="cutting" toID="V8" toText="live" />
+<EVENT_ORDER id="E83" fromID="V5" fromText="cutting" toID="V9" toText="use" />
+<EVENT_ORDER id="E84" fromID="V5" fromText="cutting" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E86" fromID="V5" fromText="cutting" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E87" fromID="V5" fromText="cutting" toID="V13" toText="said" />
+<EVENT_ORDER id="E88" fromID="V5" fromText="cutting" toID="V14" toText="commute" />
+<EVENT_ORDER id="E89" fromID="V5" fromText="cutting" toID="V15" toText="going" />
+<EVENT_ORDER id="E91" fromID="V5" fromText="cutting" toID="V17" toText="think" />
+<EVENT_ORDER id="E92" fromID="V5" fromText="cutting" toID="V18" toText="s" />
+<EVENT_ORDER id="E93" fromID="V6" fromText="means" toID="V7" toText="driving" />
+<EVENT_ORDER id="E94" fromID="V6" fromText="means" toID="V8" toText="live" />
+<EVENT_ORDER id="E95" fromID="V6" fromText="means" toID="V9" toText="use" />
+<EVENT_ORDER id="E96" fromID="V6" fromText="means" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E98" fromID="V6" fromText="means" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E99" fromID="V6" fromText="means" toID="V13" toText="said" />
+<EVENT_ORDER id="E100" fromID="V6" fromText="means" toID="V14" toText="commute" />
+<EVENT_ORDER id="E101" fromID="V6" fromText="means" toID="V15" toText="going" />
+<EVENT_ORDER id="E103" fromID="V6" fromText="means" toID="V17" toText="think" />
+<EVENT_ORDER id="E104" fromID="V6" fromText="means" toID="V18" toText="s" />
+<EVENT_ORDER id="E105" fromID="V7" fromText="driving" toID="V8" toText="live" />
+<EVENT_ORDER id="E106" fromID="V7" fromText="driving" toID="V9" toText="use" />
+<EVENT_ORDER id="E107" fromID="V7" fromText="driving" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E109" fromID="V7" fromText="driving" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E110" fromID="V7" fromText="driving" toID="V13" toText="said" />
+<EVENT_ORDER id="E111" fromID="V7" fromText="driving" toID="V14" toText="commute" />
+<EVENT_ORDER id="E112" fromID="V7" fromText="driving" toID="V15" toText="going" />
+<EVENT_ORDER id="E114" fromID="V7" fromText="driving" toID="V17" toText="think" />
+<EVENT_ORDER id="E115" fromID="V7" fromText="driving" toID="V18" toText="s" />
+<EVENT_ORDER id="E116" fromID="V8" fromText="live" toID="V9" toText="use" />
+<EVENT_ORDER id="E117" fromID="V8" fromText="live" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E119" fromID="V8" fromText="live" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E120" fromID="V8" fromText="live" toID="V13" toText="said" />
+<EVENT_ORDER id="E121" fromID="V8" fromText="live" toID="V14" toText="commute" />
+<EVENT_ORDER id="E122" fromID="V8" fromText="live" toID="V15" toText="going" />
+<EVENT_ORDER id="E124" fromID="V8" fromText="live" toID="V17" toText="think" />
+<EVENT_ORDER id="E125" fromID="V8" fromText="live" toID="V18" toText="s" />
+<EVENT_ORDER id="E126" fromID="V9" fromText="use" toID="V10" toText="avoiding" />
+<EVENT_ORDER id="E128" fromID="V9" fromText="use" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E129" fromID="V9" fromText="use" toID="V13" toText="said" />
+<EVENT_ORDER id="E130" fromID="V9" fromText="use" toID="V14" toText="commute" />
+<EVENT_ORDER id="E131" fromID="V9" fromText="use" toID="V15" toText="going" />
+<EVENT_ORDER id="E133" fromID="V9" fromText="use" toID="V17" toText="think" />
+<EVENT_ORDER id="E134" fromID="V9" fromText="use" toID="V18" toText="s" />
+<EVENT_ORDER id="E136" fromID="V10" fromText="avoiding" toID="V12" toText="suspended" />
+<EVENT_ORDER id="E137" fromID="V10" fromText="avoiding" toID="V13" toText="said" />
+<EVENT_ORDER id="E138" fromID="V10" fromText="avoiding" toID="V14" toText="commute" />
+<EVENT_ORDER id="E139" fromID="V10" fromText="avoiding" toID="V15" toText="going" />
+<EVENT_ORDER id="E141" fromID="V10" fromText="avoiding" toID="V17" toText="think" />
+<EVENT_ORDER id="E142" fromID="V10" fromText="avoiding" toID="V18" toText="s" />
+<EVENT_ORDER id="E150" fromID="V12" fromText="suspended" toID="V13" toText="said" />
+<EVENT_ORDER id="E151" fromID="V12" fromText="suspended" toID="V14" toText="commute" />
+<EVENT_ORDER id="E152" fromID="V12" fromText="suspended" toID="V15" toText="going" />
+<EVENT_ORDER id="E154" fromID="V12" fromText="suspended" toID="V17" toText="think" />
+<EVENT_ORDER id="E155" fromID="V12" fromText="suspended" toID="V18" toText="s" />
+<EVENT_ORDER id="E156" fromID="V13" fromText="said" toID="V14" toText="commute" />
+<EVENT_ORDER id="E157" fromID="V13" fromText="said" toID="V15" toText="going" />
+<EVENT_ORDER id="E159" fromID="V13" fromText="said" toID="V17" toText="think" />
+<EVENT_ORDER id="E160" fromID="V13" fromText="said" toID="V18" toText="s" />
+<EVENT_ORDER id="E161" fromID="V14" fromText="commute" toID="V15" toText="going" />
+<EVENT_ORDER id="E163" fromID="V14" fromText="commute" toID="V17" toText="think" />
+<EVENT_ORDER id="E164" fromID="V14" fromText="commute" toID="V18" toText="s" />
+<EVENT_ORDER id="E166" fromID="V15" fromText="going" toID="V17" toText="think" />
+<EVENT_ORDER id="E167" fromID="V15" fromText="going" toID="V18" toText="s" />
+<EVENT_ORDER id="E170" fromID="V17" fromText="think" toID="V18" toText="s" />
+</TAGS>
+</TemporalRelationTask>

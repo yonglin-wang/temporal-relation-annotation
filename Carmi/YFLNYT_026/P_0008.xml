@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But the growing nationalization of politics and the Democrats’ drift to the left doomed a number of candidates running in more conservative states during the 2014 midterm elections, when turnout fell.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="81~87" text="doomed" category="VBD" />
+<VERB id="V2" spans="111~118" text="running" category="VBG" />
+<VERB id="V3" spans="195~199" text="fell" category="VBD" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="doomed" toID="V2" toText="running" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="doomed" toID="V3" toText="fell" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="running" toID="V3" toText="fell" />
+</TAGS>
+</TemporalRelationTask>

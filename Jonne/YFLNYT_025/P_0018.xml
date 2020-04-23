@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Beating Trump is important to me, but that is not the primary issue of this campaign,” said Adam Miller, 24, who lives in Chicago and voted for Mr. Sanders. “When I hear Bernie speak about the bold action he wants to take against climate change, I see a future where I can consider starting a family again. When he talks about canceling student debt, medical debt and recognizing health care as a human right, I see a life for myself where I can live without these financial burdens.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~17" text="is" category="VBZ" />
+<VERB id="V1" spans="44~46" text="is" category="VBZ" />
+<VERB id="V2" spans="88~92" text="said" category="VBD" />
+<VERB id="V3" spans="114~119" text="lives" category="VBZ" />
+<VERB id="V4" spans="135~140" text="voted" category="VBD" />
+<VERB id="V5" spans="166~170" text="hear" category="VBP" />
+<VERB id="V6" spans="209~214" text="wants" category="VBZ" />
+<VERB id="V7" spans="218~222" text="take" category="VB" />
+<VERB id="V8" spans="249~252" text="see" category="VBP" />
+<VERB id="V9" spans="274~282" text="consider" category="VB" />
+<VERB id="V10" spans="283~291" text="starting" category="VBG" />
+<VERB id="V11" spans="316~321" text="talks" category="VBZ" />
+<VERB id="V12" spans="328~337" text="canceling" category="VBG" />
+<VERB id="V13" spans="369~380" text="recognizing" category="VBG" />
+<VERB id="V14" spans="413~416" text="see" category="VBP" />
+<VERB id="V15" spans="447~451" text="live" category="VB" />
+<VERB id="V16" spans="178~183" text="speak" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="lives" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="voted" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="hear" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="wants" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="take" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="see" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="is" toID="V9" toText="consider" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="is" toID="V10" toText="starting" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="is" toID="V11" toText="talks" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="is" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="is" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="is" toID="V14" toText="see" />
+<EVENT_ORDER id="E14" fromID="V0" fromText="is" toID="V15" toText="live" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="is" toID="V3" toText="lives" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="is" toID="V4" toText="voted" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="is" toID="V5" toText="hear" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="is" toID="V6" toText="wants" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="is" toID="V7" toText="take" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="is" toID="V8" toText="see" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="is" toID="V9" toText="consider" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="is" toID="V10" toText="starting" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="is" toID="V11" toText="talks" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="is" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="is" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E27" fromID="V1" fromText="is" toID="V14" toText="see" />
+<EVENT_ORDER id="E28" fromID="V1" fromText="is" toID="V15" toText="live" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="said" toID="V3" toText="lives" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="said" toID="V4" toText="voted" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="said" toID="V5" toText="hear" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="said" toID="V6" toText="wants" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="said" toID="V7" toText="take" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="said" toID="V8" toText="see" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="said" toID="V9" toText="consider" />
+<EVENT_ORDER id="E36" fromID="V2" fromText="said" toID="V10" toText="starting" />
+<EVENT_ORDER id="E37" fromID="V2" fromText="said" toID="V11" toText="talks" />
+<EVENT_ORDER id="E38" fromID="V2" fromText="said" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E39" fromID="V2" fromText="said" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E40" fromID="V2" fromText="said" toID="V14" toText="see" />
+<EVENT_ORDER id="E41" fromID="V2" fromText="said" toID="V15" toText="live" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="lives" toID="V4" toText="voted" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="lives" toID="V5" toText="hear" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="lives" toID="V6" toText="wants" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="lives" toID="V7" toText="take" />
+<EVENT_ORDER id="E46" fromID="V3" fromText="lives" toID="V8" toText="see" />
+<EVENT_ORDER id="E47" fromID="V3" fromText="lives" toID="V9" toText="consider" />
+<EVENT_ORDER id="E48" fromID="V3" fromText="lives" toID="V10" toText="starting" />
+<EVENT_ORDER id="E49" fromID="V3" fromText="lives" toID="V11" toText="talks" />
+<EVENT_ORDER id="E50" fromID="V3" fromText="lives" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E51" fromID="V3" fromText="lives" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E52" fromID="V3" fromText="lives" toID="V14" toText="see" />
+<EVENT_ORDER id="E53" fromID="V3" fromText="lives" toID="V15" toText="live" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="voted" toID="V5" toText="hear" />
+<EVENT_ORDER id="E55" fromID="V4" fromText="voted" toID="V6" toText="wants" />
+<EVENT_ORDER id="E56" fromID="V4" fromText="voted" toID="V7" toText="take" />
+<EVENT_ORDER id="E57" fromID="V4" fromText="voted" toID="V8" toText="see" />
+<EVENT_ORDER id="E58" fromID="V4" fromText="voted" toID="V9" toText="consider" />
+<EVENT_ORDER id="E59" fromID="V4" fromText="voted" toID="V10" toText="starting" />
+<EVENT_ORDER id="E60" fromID="V4" fromText="voted" toID="V11" toText="talks" />
+<EVENT_ORDER id="E61" fromID="V4" fromText="voted" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E62" fromID="V4" fromText="voted" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E63" fromID="V4" fromText="voted" toID="V14" toText="see" />
+<EVENT_ORDER id="E64" fromID="V4" fromText="voted" toID="V15" toText="live" />
+<EVENT_ORDER id="E65" fromID="V5" fromText="hear" toID="V6" toText="wants" />
+<EVENT_ORDER id="E66" fromID="V5" fromText="hear" toID="V7" toText="take" />
+<EVENT_ORDER id="E67" fromID="V5" fromText="hear" toID="V8" toText="see" />
+<EVENT_ORDER id="E68" fromID="V5" fromText="hear" toID="V9" toText="consider" />
+<EVENT_ORDER id="E69" fromID="V5" fromText="hear" toID="V10" toText="starting" />
+<EVENT_ORDER id="E70" fromID="V5" fromText="hear" toID="V11" toText="talks" />
+<EVENT_ORDER id="E71" fromID="V5" fromText="hear" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E72" fromID="V5" fromText="hear" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E73" fromID="V5" fromText="hear" toID="V14" toText="see" />
+<EVENT_ORDER id="E74" fromID="V5" fromText="hear" toID="V15" toText="live" />
+<EVENT_ORDER id="E75" fromID="V6" fromText="wants" toID="V7" toText="take" />
+<EVENT_ORDER id="E76" fromID="V6" fromText="wants" toID="V8" toText="see" />
+<EVENT_ORDER id="E77" fromID="V6" fromText="wants" toID="V9" toText="consider" />
+<EVENT_ORDER id="E78" fromID="V6" fromText="wants" toID="V10" toText="starting" />
+<EVENT_ORDER id="E79" fromID="V6" fromText="wants" toID="V11" toText="talks" />
+<EVENT_ORDER id="E80" fromID="V6" fromText="wants" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E81" fromID="V6" fromText="wants" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E82" fromID="V6" fromText="wants" toID="V14" toText="see" />
+<EVENT_ORDER id="E83" fromID="V6" fromText="wants" toID="V15" toText="live" />
+<EVENT_ORDER id="E84" fromID="V7" fromText="take" toID="V8" toText="see" />
+<EVENT_ORDER id="E85" fromID="V7" fromText="take" toID="V9" toText="consider" />
+<EVENT_ORDER id="E86" fromID="V7" fromText="take" toID="V10" toText="starting" />
+<EVENT_ORDER id="E87" fromID="V7" fromText="take" toID="V11" toText="talks" />
+<EVENT_ORDER id="E88" fromID="V7" fromText="take" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E89" fromID="V7" fromText="take" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E90" fromID="V7" fromText="take" toID="V14" toText="see" />
+<EVENT_ORDER id="E91" fromID="V7" fromText="take" toID="V15" toText="live" />
+<EVENT_ORDER id="E92" fromID="V8" fromText="see" toID="V9" toText="consider" />
+<EVENT_ORDER id="E93" fromID="V8" fromText="see" toID="V10" toText="starting" />
+<EVENT_ORDER id="E94" fromID="V8" fromText="see" toID="V11" toText="talks" />
+<EVENT_ORDER id="E95" fromID="V8" fromText="see" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E96" fromID="V8" fromText="see" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E97" fromID="V8" fromText="see" toID="V14" toText="see" />
+<EVENT_ORDER id="E98" fromID="V8" fromText="see" toID="V15" toText="live" />
+<EVENT_ORDER id="E99" fromID="V9" fromText="consider" toID="V10" toText="starting" />
+<EVENT_ORDER id="E100" fromID="V9" fromText="consider" toID="V11" toText="talks" />
+<EVENT_ORDER id="E101" fromID="V9" fromText="consider" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E102" fromID="V9" fromText="consider" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E103" fromID="V9" fromText="consider" toID="V14" toText="see" />
+<EVENT_ORDER id="E104" fromID="V9" fromText="consider" toID="V15" toText="live" />
+<EVENT_ORDER id="E105" fromID="V10" fromText="starting" toID="V11" toText="talks" />
+<EVENT_ORDER id="E106" fromID="V10" fromText="starting" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E107" fromID="V10" fromText="starting" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E108" fromID="V10" fromText="starting" toID="V14" toText="see" />
+<EVENT_ORDER id="E109" fromID="V10" fromText="starting" toID="V15" toText="live" />
+<EVENT_ORDER id="E110" fromID="V11" fromText="talks" toID="V12" toText="canceling" />
+<EVENT_ORDER id="E111" fromID="V11" fromText="talks" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E112" fromID="V11" fromText="talks" toID="V14" toText="see" />
+<EVENT_ORDER id="E113" fromID="V11" fromText="talks" toID="V15" toText="live" />
+<EVENT_ORDER id="E114" fromID="V12" fromText="canceling" toID="V13" toText="recognizing" />
+<EVENT_ORDER id="E115" fromID="V12" fromText="canceling" toID="V14" toText="see" />
+<EVENT_ORDER id="E116" fromID="V12" fromText="canceling" toID="V15" toText="live" />
+<EVENT_ORDER id="E117" fromID="V13" fromText="recognizing" toID="V14" toText="see" />
+<EVENT_ORDER id="E118" fromID="V13" fromText="recognizing" toID="V15" toText="live" />
+<EVENT_ORDER id="E119" fromID="V14" fromText="see" toID="V15" toText="live" />
+</TAGS>
+</TemporalRelationTask>

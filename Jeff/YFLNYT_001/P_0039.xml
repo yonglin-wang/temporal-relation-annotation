@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“You have to anticipate how they’ll come after you, because they will,” Mr. Loeser said. “Oprah is one of the most beloved people in America. But has anyone gone through every minute and every hour of every show she’s ever done to see if there’s anything controversial? Because someone will.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="5~9" text="have" category="VBP" />
+<VERB id="V1" spans="13~23" text="anticipate" category="VB" />
+<VERB id="V2" spans="36~40" text="come" category="VBP" />
+<VERB id="V3" spans="83~87" text="said" category="VBD" />
+<VERB id="V4" spans="96~98" text="is" category="VBZ" />
+<VERB id="V6" spans="157~161" text="gone" category="VBN" />
+<VERB id="V7" spans="223~227" text="done" category="VBN" />
+<VERB id="V8" spans="231~234" text="see" category="VB" />
+<VERB id="V9" spans="244~245" text="s" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="have" toID="V1" toText="anticipate" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="have" toID="V2" toText="come" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="have" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="have" toID="V4" toText="is" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="have" toID="V6" toText="gone" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="have" toID="V7" toText="done" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="have" toID="V8" toText="see" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="have" toID="V9" toText="s" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="anticipate" toID="V2" toText="come" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="anticipate" toID="V3" toText="said" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="anticipate" toID="V4" toText="is" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="anticipate" toID="V6" toText="gone" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="anticipate" toID="V7" toText="done" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="anticipate" toID="V8" toText="see" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="anticipate" toID="V9" toText="s" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="come" toID="V3" toText="said" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="come" toID="V4" toText="is" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="come" toID="V6" toText="gone" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="come" toID="V7" toText="done" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="come" toID="V8" toText="see" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="come" toID="V9" toText="s" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="said" toID="V4" toText="is" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="said" toID="V6" toText="gone" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="said" toID="V7" toText="done" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="said" toID="V8" toText="see" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="said" toID="V9" toText="s" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="is" toID="V6" toText="gone" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="is" toID="V7" toText="done" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="is" toID="V8" toText="see" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="is" toID="V9" toText="s" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="gone" toID="V7" toText="done" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="gone" toID="V8" toText="see" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="gone" toID="V9" toText="s" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="done" toID="V8" toText="see" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="done" toID="V9" toText="s" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="see" toID="V9" toText="s" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Now, without rebuking the still-popular president directly, many Democrats share a growing recognition that Mr. Obama’s way may not be the best course in a country where many voters have experienced little income growth and where high-paying jobs can be scarce.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~21" text="rebuking" category="VBG" />
+<VERB id="V2" spans="132~134" text="be" category="VB" />
+<VERB id="V3" spans="187~198" text="experienced" category="VBN" />
+<VERB id="V4" spans="251~253" text="be" category="VB" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="rebuking" toID="V2" toText="be" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="rebuking" toID="V3" toText="experienced" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="rebuking" toID="V4" toText="be" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="be" toID="V3" toText="experienced" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="be" toID="V4" toText="be" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="experienced" toID="V4" toText="be" />
+</TAGS>
+</TemporalRelationTask>

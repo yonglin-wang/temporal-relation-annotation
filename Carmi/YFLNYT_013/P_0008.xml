@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Dr. Nicholas said that where you eat is not as important as what you eat; “eating beef has a disproportionate climate impact,” she said, while eating foods “lower on the food chain” such as plants results in a much smaller carbon footprint. So here’s your chance for a twofer: save the planet by working down the stockpiles of rice and beans that you panic-bought along with all that toilet paper.
+Your Questions About Food and Climate Change, AnsweredApril 30, 2019]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="13~17" text="said" category="VBD" />
+<VERB id="V1" spans="33~36" text="eat" category="VBP" />
+<VERB id="V2" spans="37~39" text="is" category="VBZ" />
+<VERB id="V3" spans="69~72" text="eat" category="VBP" />
+<VERB id="V4" spans="75~81" text="eating" category="VBG" />
+<VERB id="V5" spans="87~90" text="has" category="VBZ" />
+<VERB id="V6" spans="131~135" text="said" category="VBD" />
+<VERB id="V7" spans="143~149" text="eating" category="VBG" />
+<VERB id="V9" spans="277~281" text="save" category="VB" />
+<VERB id="V10" spans="296~303" text="working" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="eat" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="is" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="eat" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="eating" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="has" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="said" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="eating" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="said" toID="V9" toText="save" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="said" toID="V10" toText="working" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="eat" toID="V2" toText="is" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="eat" toID="V3" toText="eat" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="eat" toID="V4" toText="eating" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="eat" toID="V5" toText="has" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="eat" toID="V6" toText="said" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="eat" toID="V7" toText="eating" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="eat" toID="V9" toText="save" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="eat" toID="V10" toText="working" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="is" toID="V3" toText="eat" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="is" toID="V4" toText="eating" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="is" toID="V5" toText="has" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="is" toID="V6" toText="said" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="is" toID="V7" toText="eating" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="is" toID="V9" toText="save" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="is" toID="V10" toText="working" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="eat" toID="V4" toText="eating" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="eat" toID="V5" toText="has" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="eat" toID="V6" toText="said" />
+<EVENT_ORDER id="E30" fromID="V3" fromText="eat" toID="V7" toText="eating" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="eat" toID="V9" toText="save" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="eat" toID="V10" toText="working" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="eating" toID="V5" toText="has" />
+<EVENT_ORDER id="E35" fromID="V4" fromText="eating" toID="V6" toText="said" />
+<EVENT_ORDER id="E36" fromID="V4" fromText="eating" toID="V7" toText="eating" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="eating" toID="V9" toText="save" />
+<EVENT_ORDER id="E39" fromID="V4" fromText="eating" toID="V10" toText="working" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="has" toID="V6" toText="said" />
+<EVENT_ORDER id="E41" fromID="V5" fromText="has" toID="V7" toText="eating" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="has" toID="V9" toText="save" />
+<EVENT_ORDER id="E44" fromID="V5" fromText="has" toID="V10" toText="working" />
+<EVENT_ORDER id="E45" fromID="V6" fromText="said" toID="V7" toText="eating" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="said" toID="V9" toText="save" />
+<EVENT_ORDER id="E48" fromID="V6" fromText="said" toID="V10" toText="working" />
+<EVENT_ORDER id="E50" fromID="V7" fromText="eating" toID="V9" toText="save" />
+<EVENT_ORDER id="E51" fromID="V7" fromText="eating" toID="V10" toText="working" />
+<EVENT_ORDER id="E54" fromID="V9" fromText="save" toID="V10" toText="working" />
+</TAGS>
+</TemporalRelationTask>
