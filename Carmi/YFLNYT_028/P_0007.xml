@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Meredith McGehee, the policy chief at the government reform policy group Issue One, said that Mr. Trump’s early fund-raising showed there were few downsides to seeking donations so early in his presidency. Mr. Trump lacks the campaign infrastructure of past presidents and needs to build a foundation of support ahead of an expected fund-raising push by Democrats, she said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="84~88" text="said" category="VBD" />
+<VERB id="V2" spans="125~131" text="showed" category="VBD" />
+<VERB id="V3" spans="138~142" text="were" category="VBD" />
+<VERB id="V4" spans="160~167" text="seeking" category="VBG" />
+<VERB id="V5" spans="216~221" text="lacks" category="VBZ" />
+<VERB id="V6" spans="282~287" text="build" category="VB" />
+<VERB id="V7" spans="369~373" text="said" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="showed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="were" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="seeking" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="lacks" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="build" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="said" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="showed" toID="V3" toText="were" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="showed" toID="V4" toText="seeking" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="showed" toID="V5" toText="lacks" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="showed" toID="V6" toText="build" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="showed" toID="V7" toText="said" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="were" toID="V4" toText="seeking" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="were" toID="V5" toText="lacks" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="were" toID="V6" toText="build" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="were" toID="V7" toText="said" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="seeking" toID="V5" toText="lacks" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="seeking" toID="V6" toText="build" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="seeking" toID="V7" toText="said" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="lacks" toID="V6" toText="build" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="lacks" toID="V7" toText="said" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="build" toID="V7" toText="said" />
+</TAGS>
+</TemporalRelationTask>

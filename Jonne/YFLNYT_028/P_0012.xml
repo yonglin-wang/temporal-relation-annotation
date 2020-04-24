@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“It’s the same story of a president who has chosen not to disentangle himself from his business interests,” Ms. McGehee said.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="44~50" text="chosen" category="VBN" />
+<VERB id="V2" spans="58~69" text="disentangle" category="VB" />
+<VERB id="V3" spans="120~124" text="said" category="VBD" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="chosen" toID="V2" toText="disentangle" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="chosen" toID="V3" toText="said" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="disentangle" toID="V3" toText="said" />
+</TAGS>
+</TemporalRelationTask>

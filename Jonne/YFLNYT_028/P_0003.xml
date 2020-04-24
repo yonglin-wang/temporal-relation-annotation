@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[A vast majority of Mr. Trump’s donors gave small amounts, and relatively little came in large checks from wealthy Republican benefactors. That suggests that Mr. Trump is relying heavily on the grass-roots donors who provided much of the cash — aside from his own fortune — he used for his campaign.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="38~42" text="gave" category="VBD" />
+<VERB id="V2" spans="80~84" text="came" category="VBD" />
+<VERB id="V3" spans="143~151" text="suggests" category="VBZ" />
+<VERB id="V4" spans="170~177" text="relying" category="VBG" />
+<VERB id="V5" spans="216~224" text="provided" category="VBD" />
+<VERB id="V6" spans="276~280" text="used" category="VBD" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="gave" toID="V2" toText="came" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="gave" toID="V3" toText="suggests" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="gave" toID="V4" toText="relying" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="gave" toID="V5" toText="provided" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="gave" toID="V6" toText="used" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="came" toID="V3" toText="suggests" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="came" toID="V4" toText="relying" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="came" toID="V5" toText="provided" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="came" toID="V6" toText="used" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="suggests" toID="V4" toText="relying" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="suggests" toID="V5" toText="provided" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="suggests" toID="V6" toText="used" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="relying" toID="V5" toText="provided" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="relying" toID="V6" toText="used" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="provided" toID="V6" toText="used" />
+</TAGS>
+</TemporalRelationTask>
