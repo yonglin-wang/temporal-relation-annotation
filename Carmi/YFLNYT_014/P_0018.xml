@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Asked by a reporter if he was being sarcastic, Mr. Trump looked down and shook his head.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~5" text="Asked" category="VBN" />
+<VERB id="V1" spans="30~35" text="being" category="VBG" />
+<VERB id="V2" spans="57~63" text="looked" category="VBD" />
+<VERB id="V3" spans="73~78" text="shook" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Asked" toID="V1" toText="being" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Asked" toID="V2" toText="looked" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Asked" toID="V3" toText="shook" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="being" toID="V2" toText="looked" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="being" toID="V3" toText="shook" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="looked" toID="V3" toText="shook" />
+</TAGS>
+</TemporalRelationTask>

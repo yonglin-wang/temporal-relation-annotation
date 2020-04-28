@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Some practices, like videoconferencing and telecommuting, may gain ground, Mr. Duhigg said, for a reward of saved time and trouble. He expressed doubts, however, that leisure travel behavior would see a similar shift. “It seems unlikely to me that people will say, ‘You know, I loved not taking vacations. I learned staying at home with my kids is so rewarding!’”]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="62~66" text="gain" category="VB" />
+<VERB id="V3" spans="86~90" text="said" category="VBD" />
+<VERB id="V4" spans="135~144" text="expressed" category="VBD" />
+<VERB id="V5" spans="197~200" text="see" category="VB" />
+<VERB id="V6" spans="222~227" text="seems" category="VBZ" />
+<VERB id="V7" spans="260~263" text="say" category="VB" />
+<VERB id="V8" spans="270~274" text="know" category="VBP" />
+<VERB id="V9" spans="278~283" text="loved" category="VBD" />
+<VERB id="V10" spans="288~294" text="taking" category="VBG" />
+<VERB id="V11" spans="308~315" text="learned" category="VBD" />
+<VERB id="V12" spans="316~323" text="staying" category="VBG" />
+<VERB id="V13" spans="345~347" text="is" category="VBZ" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="gain" toID="V3" toText="said" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="gain" toID="V4" toText="expressed" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="gain" toID="V5" toText="see" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="gain" toID="V6" toText="seems" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="gain" toID="V7" toText="say" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="gain" toID="V8" toText="know" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="gain" toID="V9" toText="loved" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="gain" toID="V10" toText="taking" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="gain" toID="V11" toText="learned" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="gain" toID="V12" toText="staying" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="gain" toID="V13" toText="is" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="said" toID="V4" toText="expressed" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="said" toID="V5" toText="see" />
+<EVENT_ORDER id="E38" fromID="V3" fromText="said" toID="V6" toText="seems" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="said" toID="V7" toText="say" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="said" toID="V8" toText="know" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="said" toID="V9" toText="loved" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="said" toID="V10" toText="taking" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="said" toID="V11" toText="learned" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="said" toID="V12" toText="staying" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="said" toID="V13" toText="is" />
+<EVENT_ORDER id="E46" fromID="V4" fromText="expressed" toID="V5" toText="see" />
+<EVENT_ORDER id="E47" fromID="V4" fromText="expressed" toID="V6" toText="seems" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="expressed" toID="V7" toText="say" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="expressed" toID="V8" toText="know" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="expressed" toID="V9" toText="loved" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="expressed" toID="V10" toText="taking" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="expressed" toID="V11" toText="learned" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="expressed" toID="V12" toText="staying" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="expressed" toID="V13" toText="is" />
+<EVENT_ORDER id="E55" fromID="V5" fromText="see" toID="V6" toText="seems" />
+<EVENT_ORDER id="E56" fromID="V5" fromText="see" toID="V7" toText="say" />
+<EVENT_ORDER id="E57" fromID="V5" fromText="see" toID="V8" toText="know" />
+<EVENT_ORDER id="E58" fromID="V5" fromText="see" toID="V9" toText="loved" />
+<EVENT_ORDER id="E59" fromID="V5" fromText="see" toID="V10" toText="taking" />
+<EVENT_ORDER id="E60" fromID="V5" fromText="see" toID="V11" toText="learned" />
+<EVENT_ORDER id="E61" fromID="V5" fromText="see" toID="V12" toText="staying" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="see" toID="V13" toText="is" />
+<EVENT_ORDER id="E63" fromID="V6" fromText="seems" toID="V7" toText="say" />
+<EVENT_ORDER id="E64" fromID="V6" fromText="seems" toID="V8" toText="know" />
+<EVENT_ORDER id="E65" fromID="V6" fromText="seems" toID="V9" toText="loved" />
+<EVENT_ORDER id="E66" fromID="V6" fromText="seems" toID="V10" toText="taking" />
+<EVENT_ORDER id="E67" fromID="V6" fromText="seems" toID="V11" toText="learned" />
+<EVENT_ORDER id="E68" fromID="V6" fromText="seems" toID="V12" toText="staying" />
+<EVENT_ORDER id="E69" fromID="V6" fromText="seems" toID="V13" toText="is" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="say" toID="V8" toText="know" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="say" toID="V9" toText="loved" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="say" toID="V10" toText="taking" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="say" toID="V11" toText="learned" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="say" toID="V12" toText="staying" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="say" toID="V13" toText="is" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="know" toID="V9" toText="loved" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="know" toID="V10" toText="taking" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="know" toID="V11" toText="learned" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="know" toID="V12" toText="staying" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="know" toID="V13" toText="is" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="loved" toID="V10" toText="taking" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="loved" toID="V11" toText="learned" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="loved" toID="V12" toText="staying" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="loved" toID="V13" toText="is" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="taking" toID="V11" toText="learned" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="taking" toID="V12" toText="staying" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="taking" toID="V13" toText="is" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="learned" toID="V12" toText="staying" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="learned" toID="V13" toText="is" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="staying" toID="V13" toText="is" />
+</TAGS>
+</TemporalRelationTask>

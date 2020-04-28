@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[But on Friday, campaign employees in those states learned that they would not be working through the general election either. The Bloomberg campaign circulated a new survey to employees, inviting them to add their names to a list that would be forwarded to the D.N.C. for potential hiring. The deadline to fill it out was March 25.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="50~57" text="learned" category="VBD" />
+<VERB id="V1" spans="81~88" text="working" category="VBG" />
+<VERB id="V2" spans="149~159" text="circulated" category="VBD" />
+<VERB id="V3" spans="187~195" text="inviting" category="VBG" />
+<VERB id="V4" spans="204~207" text="add" category="VB" />
+<VERB id="V5" spans="244~253" text="forwarded" category="VBN" />
+<VERB id="V6" spans="306~310" text="fill" category="VB" />
+<VERB id="V7" spans="318~321" text="was" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="learned" toID="V1" toText="working" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="learned" toID="V2" toText="circulated" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="learned" toID="V3" toText="inviting" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="learned" toID="V4" toText="add" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="learned" toID="V5" toText="forwarded" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="learned" toID="V6" toText="fill" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="learned" toID="V7" toText="was" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="working" toID="V2" toText="circulated" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="working" toID="V3" toText="inviting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="working" toID="V4" toText="add" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="working" toID="V5" toText="forwarded" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="working" toID="V6" toText="fill" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="working" toID="V7" toText="was" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="circulated" toID="V3" toText="inviting" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="circulated" toID="V4" toText="add" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="circulated" toID="V5" toText="forwarded" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="circulated" toID="V6" toText="fill" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="circulated" toID="V7" toText="was" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="inviting" toID="V4" toText="add" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="inviting" toID="V5" toText="forwarded" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="inviting" toID="V6" toText="fill" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="inviting" toID="V7" toText="was" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="add" toID="V5" toText="forwarded" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="add" toID="V6" toText="fill" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="add" toID="V7" toText="was" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="forwarded" toID="V6" toText="fill" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="forwarded" toID="V7" toText="was" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="fill" toID="V7" toText="was" />
+</TAGS>
+</TemporalRelationTask>

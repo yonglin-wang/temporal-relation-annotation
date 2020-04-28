@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“If we don’t have Democratic governors there to veto these maps after the 2020 redistricting, the next 10 years for us in Congress and state legislatures are going to be brutal,” said Gov. Terry McAuliffe of Virginia, the only Southern state that Mrs. Clinton carried last week.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="13~17" text="have" category="VB" />
+<VERB id="V2" spans="48~52" text="veto" category="VB" />
+<VERB id="V4" spans="167~169" text="be" category="VB" />
+<VERB id="V5" spans="179~183" text="said" category="VBD" />
+<VERB id="V6" spans="260~267" text="carried" category="VBD" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="have" toID="V2" toText="veto" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="have" toID="V4" toText="be" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="have" toID="V5" toText="said" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="have" toID="V6" toText="carried" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="veto" toID="V4" toText="be" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="veto" toID="V5" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="veto" toID="V6" toText="carried" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="be" toID="V5" toText="said" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="be" toID="V6" toText="carried" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="said" toID="V6" toText="carried" />
+</TAGS>
+</TemporalRelationTask>

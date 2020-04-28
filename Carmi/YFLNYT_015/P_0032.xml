@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Though some of Mr. Bloomberg’s former campaign workers have turned their organizing efforts inward, saying on Friday they were consulting with employment lawyers and challenging the campaign’s message, others expressed resignation, citing the at-will employment contracts they had signed.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="60~66" text="turned" category="VBN" />
+<VERB id="V2" spans="100~106" text="saying" category="VBG" />
+<VERB id="V3" spans="127~137" text="consulting" category="VBG" />
+<VERB id="V4" spans="166~177" text="challenging" category="VBG" />
+<VERB id="V5" spans="209~218" text="expressed" category="VBD" />
+<VERB id="V6" spans="232~238" text="citing" category="VBG" />
+<VERB id="V7" spans="281~287" text="signed" category="VBN" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="turned" toID="V2" toText="saying" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="turned" toID="V3" toText="consulting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="turned" toID="V4" toText="challenging" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="turned" toID="V5" toText="expressed" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="turned" toID="V6" toText="citing" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="turned" toID="V7" toText="signed" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="saying" toID="V3" toText="consulting" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="saying" toID="V4" toText="challenging" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="saying" toID="V5" toText="expressed" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="saying" toID="V6" toText="citing" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="saying" toID="V7" toText="signed" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="consulting" toID="V4" toText="challenging" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="consulting" toID="V5" toText="expressed" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="consulting" toID="V6" toText="citing" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="consulting" toID="V7" toText="signed" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="challenging" toID="V5" toText="expressed" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="challenging" toID="V6" toText="citing" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="challenging" toID="V7" toText="signed" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="expressed" toID="V6" toText="citing" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="expressed" toID="V7" toText="signed" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="citing" toID="V7" toText="signed" />
+</TAGS>
+</TemporalRelationTask>
