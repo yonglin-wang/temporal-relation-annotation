@@ -6,8 +6,8 @@
 <VERB id="V0" spans="9~11" text="is" category="VBZ" />
 <VERB id="V1" spans="56~66" text="struggling" category="VBG" />
 <VERB id="V2" spans="179~183" text="take" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="struggling" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="take" />
-<EVENT_ORDER id="E2" fromID="V1" fromText="struggling" toID="V2" toText="take" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="struggling" relationship="vague" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="take" relationship="vague" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="struggling" toID="V2" toText="take" relationship="before" />
 </TAGS>
 </TemporalRelationTask>
