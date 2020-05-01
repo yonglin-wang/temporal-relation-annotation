@@ -8,15 +8,15 @@
 <VERB id="V2" spans="94~101" text="brought" category="VBD" />
 <VERB id="V3" spans="184~190" text="raised" category="VBD" />
 <VERB id="V4" spans="292~299" text="brought" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="filed" toID="V1" toText="showed" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="filed" toID="V2" toText="brought" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="filed" toID="V3" toText="raised" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="filed" toID="V4" toText="brought" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="showed" toID="V2" toText="brought" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="showed" toID="V3" toText="raised" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="showed" toID="V4" toText="brought" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="brought" toID="V3" toText="raised" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="brought" toID="V4" toText="brought" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="raised" toID="V4" toText="brought" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="filed" toID="V1" toText="showed" relationship="before" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="filed" toID="V2" toText="brought" relationship="before" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="filed" toID="V3" toText="raised" relationship="after" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="filed" toID="V4" toText="brought" relationship="after" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="showed" toID="V2" toText="brought" relationship="after" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="showed" toID="V3" toText="raised" relationship="after" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="showed" toID="V4" toText="brought" relationship="after" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="brought" toID="V3" toText="raised" relationship="simultaneous" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="brought" toID="V4" toText="brought" relationship="before" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="raised" toID="V4" toText="brought" relationship="after" />
 </TAGS>
 </TemporalRelationTask>
