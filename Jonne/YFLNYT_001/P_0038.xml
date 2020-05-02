@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
 <TEXT><![CDATA[Mr. Loeser said he was helping clients assess the kind of attacks they could expect in a hard-fought campaign.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="11~15" text="said" category="VBD" />
-<VERB id="V1" spans="23~30" text="helping" category="VBG" />
-<VERB id="V2" spans="77~83" text="expect" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="helping" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="expect" />
-<EVENT_ORDER id="E2" fromID="V1" fromText="helping" toID="V2" toText="expect" />
+<VERB id="V0" spans="11~15" text="said" category="VBD"/>
+<VERB id="V1" spans="23~30" text="helping" category="VBG"/>
+<VERB id="V2" spans="77~83" text="expect" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="helping" relationship="after"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="expect" relationship="before"/>
+<EVENT_ORDER id="E2" fromID="V1" fromText="helping" toID="V2" toText="expect" relationship="before"/>
 </TAGS>
 </TemporalRelationTask>

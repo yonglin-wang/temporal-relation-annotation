@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
 <TEXT><![CDATA[President Trump is raising money toward a bid for a second term earlier than any incumbent president in recent history, pulling in tens of millions of dollars in the months after his election and through his inauguration.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="19~26" text="raising" category="VBG" />
-<VERB id="V1" spans="120~127" text="pulling" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="raising" toID="V1" toText="pulling" />
+<VERB id="V0" spans="19~26" text="raising" category="VBG"/>
+<VERB id="V1" spans="120~127" text="pulling" category="VBG"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="raising" toID="V1" toText="pulling" relationship="simultaneous"/>
 </TAGS>
 </TemporalRelationTask>

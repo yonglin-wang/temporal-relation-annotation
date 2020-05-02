@@ -1,62 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
 <TEXT><![CDATA[(Widespread reports that the Facebook founder and chief executive, Mark Zuckerberg, would run for president seem even more far-fetched. The speculation appears to have been set off by a Bloomberg News report that Mr. Zuckerberg would retain voting control of Facebook even if he sold his shares and served in a government position for up to two years. Mr. Zuckerberg has denied any interest in running.)]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="90~93" text="run" category="VB" />
-<VERB id="V1" spans="108~112" text="seem" category="VBP" />
-<VERB id="V2" spans="152~159" text="appears" category="VBZ" />
-<VERB id="V3" spans="173~176" text="set" category="VBN" />
-<VERB id="V4" spans="234~240" text="retain" category="VB" />
-<VERB id="V5" spans="241~247" text="voting" category="VBG" />
-<VERB id="V6" spans="279~283" text="sold" category="VBD" />
-<VERB id="V7" spans="299~305" text="served" category="VBD" />
-<VERB id="V8" spans="371~377" text="denied" category="VBN" />
-<VERB id="V9" spans="394~401" text="running" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="run" toID="V1" toText="seem" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="run" toID="V2" toText="appears" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="run" toID="V3" toText="set" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="run" toID="V4" toText="retain" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="run" toID="V5" toText="voting" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="run" toID="V6" toText="sold" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="run" toID="V7" toText="served" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="run" toID="V8" toText="denied" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="run" toID="V9" toText="running" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="seem" toID="V2" toText="appears" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="seem" toID="V3" toText="set" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="seem" toID="V4" toText="retain" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="seem" toID="V5" toText="voting" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="seem" toID="V6" toText="sold" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="seem" toID="V7" toText="served" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="seem" toID="V8" toText="denied" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="seem" toID="V9" toText="running" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="appears" toID="V3" toText="set" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="appears" toID="V4" toText="retain" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="appears" toID="V5" toText="voting" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="appears" toID="V6" toText="sold" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="appears" toID="V7" toText="served" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="appears" toID="V8" toText="denied" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="appears" toID="V9" toText="running" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="set" toID="V4" toText="retain" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="set" toID="V5" toText="voting" />
-<EVENT_ORDER id="E26" fromID="V3" fromText="set" toID="V6" toText="sold" />
-<EVENT_ORDER id="E27" fromID="V3" fromText="set" toID="V7" toText="served" />
-<EVENT_ORDER id="E28" fromID="V3" fromText="set" toID="V8" toText="denied" />
-<EVENT_ORDER id="E29" fromID="V3" fromText="set" toID="V9" toText="running" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="retain" toID="V5" toText="voting" />
-<EVENT_ORDER id="E31" fromID="V4" fromText="retain" toID="V6" toText="sold" />
-<EVENT_ORDER id="E32" fromID="V4" fromText="retain" toID="V7" toText="served" />
-<EVENT_ORDER id="E33" fromID="V4" fromText="retain" toID="V8" toText="denied" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="retain" toID="V9" toText="running" />
-<EVENT_ORDER id="E35" fromID="V5" fromText="voting" toID="V6" toText="sold" />
-<EVENT_ORDER id="E36" fromID="V5" fromText="voting" toID="V7" toText="served" />
-<EVENT_ORDER id="E37" fromID="V5" fromText="voting" toID="V8" toText="denied" />
-<EVENT_ORDER id="E38" fromID="V5" fromText="voting" toID="V9" toText="running" />
-<EVENT_ORDER id="E39" fromID="V6" fromText="sold" toID="V7" toText="served" />
-<EVENT_ORDER id="E40" fromID="V6" fromText="sold" toID="V8" toText="denied" />
-<EVENT_ORDER id="E41" fromID="V6" fromText="sold" toID="V9" toText="running" />
-<EVENT_ORDER id="E42" fromID="V7" fromText="served" toID="V8" toText="denied" />
-<EVENT_ORDER id="E43" fromID="V7" fromText="served" toID="V9" toText="running" />
-<EVENT_ORDER id="E44" fromID="V8" fromText="denied" toID="V9" toText="running" />
+<VERB id="V0" spans="90~93" text="run" category="VB"/>
+<VERB id="V1" spans="108~112" text="seem" category="VBP"/>
+<VERB id="V2" spans="152~159" text="appears" category="VBZ"/>
+<VERB id="V3" spans="173~176" text="set" category="VBN"/>
+<VERB id="V4" spans="234~240" text="retain" category="VB"/>
+<VERB id="V5" spans="241~247" text="voting" category="VBG"/>
+<VERB id="V6" spans="279~283" text="sold" category="VBD"/>
+<VERB id="V7" spans="299~305" text="served" category="VBD"/>
+<VERB id="V8" spans="371~377" text="denied" category="VBN"/>
+<VERB id="V9" spans="394~401" text="running" category="VBG"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="run" toID="V1" toText="seem" relationship="vague"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="run" toID="V2" toText="appears" relationship="vague"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="run" toID="V3" toText="set" relationship="vague"/>
+<EVENT_ORDER id="E3" fromID="V0" fromText="run" toID="V4" toText="retain" relationship="vague"/>
+<EVENT_ORDER id="E4" fromID="V0" fromText="run" toID="V5" toText="voting" relationship="vague"/>
+<EVENT_ORDER id="E5" fromID="V0" fromText="run" toID="V6" toText="sold" relationship="before"/>
+<EVENT_ORDER id="E6" fromID="V0" fromText="run" toID="V7" toText="served" relationship="before"/>
+<EVENT_ORDER id="E7" fromID="V0" fromText="run" toID="V8" toText="denied" relationship="after"/>
+<EVENT_ORDER id="E8" fromID="V0" fromText="run" toID="V9" toText="running" relationship="vague"/>
+<EVENT_ORDER id="E9" fromID="V1" fromText="seem" toID="V2" toText="appears" relationship="simultaneous"/>
+<EVENT_ORDER id="E10" fromID="V1" fromText="seem" toID="V3" toText="set" relationship="after"/>
+<EVENT_ORDER id="E11" fromID="V1" fromText="seem" toID="V4" toText="retain" relationship="before"/>
+<EVENT_ORDER id="E12" fromID="V1" fromText="seem" toID="V5" toText="voting" relationship="before"/>
+<EVENT_ORDER id="E13" fromID="V1" fromText="seem" toID="V6" toText="sold" relationship="vague"/>
+<EVENT_ORDER id="E14" fromID="V1" fromText="seem" toID="V7" toText="served" relationship="vague"/>
+<EVENT_ORDER id="E15" fromID="V1" fromText="seem" toID="V8" toText="denied" relationship="vague"/>
+<EVENT_ORDER id="E16" fromID="V1" fromText="seem" toID="V9" toText="running" relationship="vague"/>
+<EVENT_ORDER id="E17" fromID="V2" fromText="appears" toID="V3" toText="set" relationship="vague"/>
+<EVENT_ORDER id="E18" fromID="V2" fromText="appears" toID="V4" toText="retain" relationship="vague"/>
+<EVENT_ORDER id="E19" fromID="V2" fromText="appears" toID="V5" toText="voting" relationship="vague"/>
+<EVENT_ORDER id="E20" fromID="V2" fromText="appears" toID="V6" toText="sold" relationship="vague"/>
+<EVENT_ORDER id="E21" fromID="V2" fromText="appears" toID="V7" toText="served" relationship="vague"/>
+<EVENT_ORDER id="E22" fromID="V2" fromText="appears" toID="V8" toText="denied" relationship="vague"/>
+<EVENT_ORDER id="E23" fromID="V2" fromText="appears" toID="V9" toText="running" relationship="vague"/>
+<EVENT_ORDER id="E24" fromID="V3" fromText="set" toID="V4" toText="retain" relationship="before"/>
+<EVENT_ORDER id="E25" fromID="V3" fromText="set" toID="V5" toText="voting" relationship="after"/>
+<EVENT_ORDER id="E26" fromID="V3" fromText="set" toID="V6" toText="sold" relationship="after"/>
+<EVENT_ORDER id="E27" fromID="V3" fromText="set" toID="V7" toText="served" relationship="before"/>
+<EVENT_ORDER id="E28" fromID="V3" fromText="set" toID="V8" toText="denied" relationship="vague"/>
+<EVENT_ORDER id="E29" fromID="V3" fromText="set" toID="V9" toText="running" relationship="before"/>
+<EVENT_ORDER id="E30" fromID="V4" fromText="retain" toID="V5" toText="voting" relationship="vague"/>
+<EVENT_ORDER id="E31" fromID="V4" fromText="retain" toID="V6" toText="sold" relationship="before"/>
+<EVENT_ORDER id="E32" fromID="V4" fromText="retain" toID="V7" toText="served" relationship="before"/>
+<EVENT_ORDER id="E33" fromID="V4" fromText="retain" toID="V8" toText="denied" relationship="vague"/>
+<EVENT_ORDER id="E34" fromID="V4" fromText="retain" toID="V9" toText="running" relationship="before"/>
+<EVENT_ORDER id="E35" fromID="V5" fromText="voting" toID="V6" toText="sold" relationship="vague"/>
+<EVENT_ORDER id="E36" fromID="V5" fromText="voting" toID="V7" toText="served" relationship="vague"/>
+<EVENT_ORDER id="E37" fromID="V5" fromText="voting" toID="V8" toText="denied" relationship="before"/>
+<EVENT_ORDER id="E38" fromID="V5" fromText="voting" toID="V9" toText="running" relationship="before"/>
+<EVENT_ORDER id="E39" fromID="V6" fromText="sold" toID="V7" toText="served" relationship="before"/>
+<EVENT_ORDER id="E40" fromID="V6" fromText="sold" toID="V8" toText="denied" relationship="after"/>
+<EVENT_ORDER id="E41" fromID="V6" fromText="sold" toID="V9" toText="running" relationship="before"/>
+<EVENT_ORDER id="E42" fromID="V7" fromText="served" toID="V8" toText="denied" relationship="after"/>
+<EVENT_ORDER id="E43" fromID="V7" fromText="served" toID="V9" toText="running" relationship="after"/>
+<EVENT_ORDER id="E44" fromID="V8" fromText="denied" toID="V9" toText="running" relationship="before"/>
 </TAGS>
 </TemporalRelationTask>

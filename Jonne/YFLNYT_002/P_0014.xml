@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
 <TEXT><![CDATA[A public fight with Hillary Clinton brought attention and fund-raising dollars, keeping Ms. Gabbard on the primary debate stage and attracting some support from independent and Republican voters, particularly in libertarian-leaning New Hampshire.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="36~43" text="brought" category="VBD" />
-<VERB id="V1" spans="80~87" text="keeping" category="VBG" />
-<VERB id="V2" spans="132~142" text="attracting" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="brought" toID="V1" toText="keeping" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="brought" toID="V2" toText="attracting" />
-<EVENT_ORDER id="E2" fromID="V1" fromText="keeping" toID="V2" toText="attracting" />
+<VERB id="V0" spans="36~43" text="brought" category="VBD"/>
+<VERB id="V1" spans="80~87" text="keeping" category="VBG"/>
+<VERB id="V2" spans="132~142" text="attracting" category="VBG"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="brought" toID="V1" toText="keeping" relationship="simultaneous"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="brought" toID="V2" toText="attracting" relationship="simultaneous"/>
+<EVENT_ORDER id="E2" fromID="V1" fromText="keeping" toID="V2" toText="attracting" relationship="simultaneous"/>
 </TAGS>
 </TemporalRelationTask>
