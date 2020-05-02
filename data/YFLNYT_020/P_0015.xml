@@ -7,41 +7,32 @@
 <VERB id="V1" spans="77~80" text="led" category="VBN" />
 <VERB id="V2" spans="168~174" text="called" category="VBD" />
 <VERB id="V3" spans="210~218" text="included" category="VBD" />
-<VERB id="V4" spans="256~258" text="do" category="VBP" />
 <VERB id="V5" spans="263~272" text="negotiate" category="VB" />
-<VERB id="V6" spans="363~367" text="have" category="VBP" />
+<VERB id="V6" spans="363~367" text="have" category="VBZ" />
 <VERB id="V7" spans="418~426" text="expected" category="VBN" />
 <VERB id="V8" spans="430~435" text="carry" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="spanned" toID="V1" toText="led" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="spanned" toID="V2" toText="called" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="spanned" toID="V3" toText="included" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="spanned" toID="V4" toText="do" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="spanned" toID="V5" toText="negotiate" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="spanned" toID="V6" toText="have" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="spanned" toID="V7" toText="expected" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="spanned" toID="V8" toText="carry" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="led" toID="V2" toText="called" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="led" toID="V3" toText="included" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="led" toID="V4" toText="do" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="led" toID="V5" toText="negotiate" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="led" toID="V6" toText="have" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="led" toID="V7" toText="expected" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="led" toID="V8" toText="carry" />
 <EVENT_ORDER id="E15" fromID="V2" fromText="called" toID="V3" toText="included" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="called" toID="V4" toText="do" />
 <EVENT_ORDER id="E17" fromID="V2" fromText="called" toID="V5" toText="negotiate" />
 <EVENT_ORDER id="E18" fromID="V2" fromText="called" toID="V6" toText="have" />
 <EVENT_ORDER id="E19" fromID="V2" fromText="called" toID="V7" toText="expected" />
 <EVENT_ORDER id="E20" fromID="V2" fromText="called" toID="V8" toText="carry" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="included" toID="V4" toText="do" />
 <EVENT_ORDER id="E22" fromID="V3" fromText="included" toID="V5" toText="negotiate" />
 <EVENT_ORDER id="E23" fromID="V3" fromText="included" toID="V6" toText="have" />
 <EVENT_ORDER id="E24" fromID="V3" fromText="included" toID="V7" toText="expected" />
 <EVENT_ORDER id="E25" fromID="V3" fromText="included" toID="V8" toText="carry" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="do" toID="V5" toText="negotiate" />
-<EVENT_ORDER id="E27" fromID="V4" fromText="do" toID="V6" toText="have" />
-<EVENT_ORDER id="E28" fromID="V4" fromText="do" toID="V7" toText="expected" />
-<EVENT_ORDER id="E29" fromID="V4" fromText="do" toID="V8" toText="carry" />
 <EVENT_ORDER id="E30" fromID="V5" fromText="negotiate" toID="V6" toText="have" />
 <EVENT_ORDER id="E31" fromID="V5" fromText="negotiate" toID="V7" toText="expected" />
 <EVENT_ORDER id="E32" fromID="V5" fromText="negotiate" toID="V8" toText="carry" />

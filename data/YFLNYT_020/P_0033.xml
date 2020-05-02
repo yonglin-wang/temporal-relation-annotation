@@ -8,7 +8,7 @@
 <VERB id="V2" spans="59~63" text="keep" category="VB" />
 <VERB id="V3" spans="64~74" text="monitoring" category="VBG" />
 <VERB id="V4" spans="107~111" text="help" category="VB" />
-<VERB id="V5" spans="165~172" text="protect" category="VBP" />
+<VERB id="V5" spans="165~172" text="protect" category="VBZ" />
 <VERB id="V6" spans="197~201" text="said" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="needs" toID="V1" toText="resourced" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="needs" toID="V2" toText="keep" />

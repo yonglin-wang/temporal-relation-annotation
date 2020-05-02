@@ -9,7 +9,7 @@
 <VERB id="V3" spans="123~132" text="preparing" category="VBG" />
 <VERB id="V4" spans="146~150" text="make" category="VB" />
 <VERB id="V5" spans="209~213" text="help" category="VB" />
-<VERB id="V6" spans="226~233" text="weather" category="VBD" />
+<VERB id="V6" spans="226~233" text="weather" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="continue" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="planned" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="preparing" />

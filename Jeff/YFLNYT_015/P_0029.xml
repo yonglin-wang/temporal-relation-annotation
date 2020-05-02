@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[His $18 million contribution to the D.N.C., a figure that far exceeds individual limits, is legal, party officials said, because it is coming in the form of a transfer from the campaign. Individuals are allowed to make unlimited contributions to their own campaigns, and campaigns can make unlimited transfers to political parties.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="62~69" text="exceeds" category="VBZ" />
+<VERB id="V1" spans="89~91" text="is" category="VBZ" />
+<VERB id="V2" spans="115~119" text="said" category="VBD" />
+<VERB id="V3" spans="135~141" text="coming" category="VBG" />
+<VERB id="V4" spans="203~210" text="allowed" category="VBN" />
+<VERB id="V5" spans="214~218" text="make" category="VB" />
+<VERB id="V6" spans="285~289" text="make" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="exceeds" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="exceeds" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="exceeds" toID="V3" toText="coming" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="exceeds" toID="V4" toText="allowed" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="exceeds" toID="V5" toText="make" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="exceeds" toID="V6" toText="make" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V3" toText="coming" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="is" toID="V4" toText="allowed" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="is" toID="V5" toText="make" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V6" toText="make" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="said" toID="V3" toText="coming" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="said" toID="V4" toText="allowed" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V5" toText="make" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V6" toText="make" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="coming" toID="V4" toText="allowed" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="coming" toID="V5" toText="make" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="coming" toID="V6" toText="make" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="allowed" toID="V5" toText="make" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="allowed" toID="V6" toText="make" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="make" toID="V6" toText="make" />
+</TAGS>
+</TemporalRelationTask>

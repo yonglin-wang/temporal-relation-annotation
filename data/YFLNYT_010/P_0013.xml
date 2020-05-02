@@ -4,7 +4,6 @@
 <TEXT><![CDATA[So Dr. Khurana, reading news articles nonstop to educate herself on the virus, has done her best to counsel her patients on practical steps to prevent exposure: using credit cards instead of cash, wearing gloves when going outside and carrying personal items in sandwich bags. “I wish I had taken sandwich bags to work and given everyone a sandwich bag,” she said.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="16~23" text="reading" category="VBG" />
-<VERB id="V1" spans="38~45" text="nonstop" category="VBP" />
 <VERB id="V2" spans="49~56" text="educate" category="VB" />
 <VERB id="V3" spans="83~87" text="done" category="VBN" />
 <VERB id="V4" spans="143~150" text="prevent" category="VB" />
@@ -17,7 +16,6 @@
 <VERB id="V11" spans="314~318" text="work" category="VB" />
 <VERB id="V12" spans="323~328" text="given" category="VBN" />
 <VERB id="V13" spans="359~363" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="reading" toID="V1" toText="nonstop" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="reading" toID="V2" toText="educate" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="reading" toID="V3" toText="done" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="reading" toID="V4" toText="prevent" />
@@ -30,18 +28,6 @@
 <EVENT_ORDER id="E10" fromID="V0" fromText="reading" toID="V11" toText="work" />
 <EVENT_ORDER id="E11" fromID="V0" fromText="reading" toID="V12" toText="given" />
 <EVENT_ORDER id="E12" fromID="V0" fromText="reading" toID="V13" toText="said" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="nonstop" toID="V2" toText="educate" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="nonstop" toID="V3" toText="done" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="nonstop" toID="V4" toText="prevent" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="nonstop" toID="V5" toText="using" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="nonstop" toID="V6" toText="wearing" />
-<EVENT_ORDER id="E18" fromID="V1" fromText="nonstop" toID="V7" toText="going" />
-<EVENT_ORDER id="E19" fromID="V1" fromText="nonstop" toID="V8" toText="carrying" />
-<EVENT_ORDER id="E20" fromID="V1" fromText="nonstop" toID="V9" toText="wish" />
-<EVENT_ORDER id="E21" fromID="V1" fromText="nonstop" toID="V10" toText="taken" />
-<EVENT_ORDER id="E22" fromID="V1" fromText="nonstop" toID="V11" toText="work" />
-<EVENT_ORDER id="E23" fromID="V1" fromText="nonstop" toID="V12" toText="given" />
-<EVENT_ORDER id="E24" fromID="V1" fromText="nonstop" toID="V13" toText="said" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="educate" toID="V3" toText="done" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="educate" toID="V4" toText="prevent" />
 <EVENT_ORDER id="E27" fromID="V2" fromText="educate" toID="V5" toText="using" />

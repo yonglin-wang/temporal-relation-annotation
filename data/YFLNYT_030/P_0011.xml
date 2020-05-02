@@ -9,27 +9,20 @@
 <VERB id="V3" spans="222~228" text="direct" category="VB" />
 <VERB id="V4" spans="278~284" text="helped" category="VBD" />
 <VERB id="V5" spans="285~290" text="bring" category="VB" />
-<VERB id="V6" spans="319~323" text="wind" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="pointed" toID="V1" toText="noted" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="pointed" toID="V2" toText="helped" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="pointed" toID="V3" toText="direct" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="pointed" toID="V4" toText="helped" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="pointed" toID="V5" toText="bring" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="pointed" toID="V6" toText="wind" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="noted" toID="V2" toText="helped" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="noted" toID="V3" toText="direct" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="noted" toID="V4" toText="helped" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="noted" toID="V5" toText="bring" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="noted" toID="V6" toText="wind" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="helped" toID="V3" toText="direct" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="helped" toID="V4" toText="helped" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="helped" toID="V5" toText="bring" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="helped" toID="V6" toText="wind" />
 <EVENT_ORDER id="E15" fromID="V3" fromText="direct" toID="V4" toText="helped" />
 <EVENT_ORDER id="E16" fromID="V3" fromText="direct" toID="V5" toText="bring" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="direct" toID="V6" toText="wind" />
 <EVENT_ORDER id="E18" fromID="V4" fromText="helped" toID="V5" toText="bring" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="helped" toID="V6" toText="wind" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="bring" toID="V6" toText="wind" />
 </TAGS>
 </TemporalRelationTask>

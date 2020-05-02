@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Romney also said he felt fine but had been advised by the attending physician of Congress to isolate himself and get tested. He will be unable to see his wife, Ann, for two weeks because she has multiple sclerosis.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~20" text="said" category="VBD" />
+<VERB id="V1" spans="24~28" text="felt" category="VBD" />
+<VERB id="V2" spans="47~54" text="advised" category="VBN" />
+<VERB id="V3" spans="62~71" text="attending" category="VBG" />
+<VERB id="V4" spans="97~104" text="isolate" category="VB" />
+<VERB id="V5" spans="117~120" text="get" category="VB" />
+<VERB id="V6" spans="121~127" text="tested" category="VBN" />
+<VERB id="V7" spans="137~139" text="be" category="VB" />
+<VERB id="V8" spans="150~153" text="see" category="VB" />
+<VERB id="V9" spans="195~198" text="has" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="felt" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="advised" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="attending" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="isolate" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="get" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="tested" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="be" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="said" toID="V8" toText="see" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="said" toID="V9" toText="has" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="felt" toID="V2" toText="advised" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="felt" toID="V3" toText="attending" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="felt" toID="V4" toText="isolate" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="felt" toID="V5" toText="get" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="felt" toID="V6" toText="tested" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="felt" toID="V7" toText="be" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="felt" toID="V8" toText="see" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="felt" toID="V9" toText="has" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="advised" toID="V3" toText="attending" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="advised" toID="V4" toText="isolate" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="advised" toID="V5" toText="get" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="advised" toID="V6" toText="tested" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="advised" toID="V7" toText="be" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="advised" toID="V8" toText="see" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="advised" toID="V9" toText="has" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="attending" toID="V4" toText="isolate" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="attending" toID="V5" toText="get" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="attending" toID="V6" toText="tested" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="attending" toID="V7" toText="be" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="attending" toID="V8" toText="see" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="attending" toID="V9" toText="has" />
+<EVENT_ORDER id="E30" fromID="V4" fromText="isolate" toID="V5" toText="get" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="isolate" toID="V6" toText="tested" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="isolate" toID="V7" toText="be" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="isolate" toID="V8" toText="see" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="isolate" toID="V9" toText="has" />
+<EVENT_ORDER id="E35" fromID="V5" fromText="get" toID="V6" toText="tested" />
+<EVENT_ORDER id="E36" fromID="V5" fromText="get" toID="V7" toText="be" />
+<EVENT_ORDER id="E37" fromID="V5" fromText="get" toID="V8" toText="see" />
+<EVENT_ORDER id="E38" fromID="V5" fromText="get" toID="V9" toText="has" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="tested" toID="V7" toText="be" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="tested" toID="V8" toText="see" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="tested" toID="V9" toText="has" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="be" toID="V8" toText="see" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="be" toID="V9" toText="has" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="see" toID="V9" toText="has" />
+</TAGS>
+</TemporalRelationTask>

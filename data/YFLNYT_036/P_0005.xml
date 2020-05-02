@@ -3,17 +3,11 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The regular briefings by the administration’s coronavirus task force were originally run by Vice President Mike Pence with the purpose of transmitting to a scared public important health information that could help flatten the curve.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="20~21" text="s" category="VBD" />
 <VERB id="V1" spans="69~73" text="were" category="VBD" />
 <VERB id="V2" spans="85~88" text="run" category="VBN" />
 <VERB id="V3" spans="138~150" text="transmitting" category="VBG" />
 <VERB id="V4" spans="210~214" text="help" category="VB" />
 <VERB id="V5" spans="215~222" text="flatten" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="were" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="run" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="transmitting" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="help" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="flatten" />
 <EVENT_ORDER id="E5" fromID="V1" fromText="were" toID="V2" toText="run" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="were" toID="V3" toText="transmitting" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="were" toID="V4" toText="help" />

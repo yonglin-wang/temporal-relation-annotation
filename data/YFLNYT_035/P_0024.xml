@@ -7,29 +7,16 @@
 <VERB id="V1" spans="65~69" text="said" category="VBD" />
 <VERB id="V2" spans="126~132" text="called" category="VBD" />
 <VERB id="V3" spans="191~197" text="Coming" category="VBG" />
-<VERB id="V4" spans="219~221" text="is" category="VBZ" />
-<VERB id="V5" spans="232~237" text="going" category="VBG" />
 <VERB id="V6" spans="241~247" text="become" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="makes" toID="V1" toText="said" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="makes" toID="V2" toText="called" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="makes" toID="V3" toText="Coming" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="makes" toID="V4" toText="is" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="makes" toID="V5" toText="going" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="makes" toID="V6" toText="become" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V2" toText="called" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V3" toText="Coming" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V4" toText="is" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V5" toText="going" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V6" toText="become" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="called" toID="V3" toText="Coming" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="called" toID="V4" toText="is" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="called" toID="V5" toText="going" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="called" toID="V6" toText="become" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="Coming" toID="V4" toText="is" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="Coming" toID="V5" toText="going" />
 <EVENT_ORDER id="E17" fromID="V3" fromText="Coming" toID="V6" toText="become" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="is" toID="V5" toText="going" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="is" toID="V6" toText="become" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="going" toID="V6" toText="become" />
 </TAGS>
 </TemporalRelationTask>

@@ -3,18 +3,16 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Advisers to Mr. Sanders have said he is assessing the future of his campaign after lopsided losses last Tuesday in Florida, Arizona and Illinois. Mr. Sanders has since ceased advertising on Facebook and stopped directly asking supporters to give money to his campaign. He instead raised $2 million from his supporters for charities helping those affected by the coronavirus.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="29~33" text="said" category="VBD" />
+<VERB id="V0" spans="29~33" text="said" category="VBN" />
 <VERB id="V1" spans="40~49" text="assessing" category="VBG" />
-<VERB id="V2" spans="158~161" text="has" category="VBZ" />
 <VERB id="V3" spans="168~174" text="ceased" category="VBN" />
-<VERB id="V4" spans="203~210" text="stopped" category="VBD" />
+<VERB id="V4" spans="203~210" text="stopped" category="VBN" />
 <VERB id="V5" spans="220~226" text="asking" category="VBG" />
 <VERB id="V6" spans="241~245" text="give" category="VB" />
 <VERB id="V7" spans="280~286" text="raised" category="VBD" />
 <VERB id="V8" spans="332~339" text="helping" category="VBG" />
 <VERB id="V9" spans="346~354" text="affected" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="assessing" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="has" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="ceased" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="stopped" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="asking" />
@@ -22,7 +20,6 @@
 <EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="raised" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="said" toID="V8" toText="helping" />
 <EVENT_ORDER id="E8" fromID="V0" fromText="said" toID="V9" toText="affected" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="assessing" toID="V2" toText="has" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="assessing" toID="V3" toText="ceased" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="assessing" toID="V4" toText="stopped" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="assessing" toID="V5" toText="asking" />
@@ -30,13 +27,6 @@
 <EVENT_ORDER id="E14" fromID="V1" fromText="assessing" toID="V7" toText="raised" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="assessing" toID="V8" toText="helping" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="assessing" toID="V9" toText="affected" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="has" toID="V3" toText="ceased" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="has" toID="V4" toText="stopped" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="has" toID="V5" toText="asking" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="has" toID="V6" toText="give" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="has" toID="V7" toText="raised" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="has" toID="V8" toText="helping" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="has" toID="V9" toText="affected" />
 <EVENT_ORDER id="E24" fromID="V3" fromText="ceased" toID="V4" toText="stopped" />
 <EVENT_ORDER id="E25" fromID="V3" fromText="ceased" toID="V5" toText="asking" />
 <EVENT_ORDER id="E26" fromID="V3" fromText="ceased" toID="V6" toText="give" />

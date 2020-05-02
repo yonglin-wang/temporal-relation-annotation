@@ -6,17 +6,13 @@
 <VERB id="V0" spans="1~4" text="Are" category="VBP" />
 <VERB id="V1" spans="9~16" text="kidding" category="VBG" />
 <VERB id="V2" spans="95~103" text="demanded" category="VBD" />
-<VERB id="V3" spans="128~130" text="is" category="VBZ" />
 <VERB id="V4" spans="131~133" text="is" category="VBZ" />
+<VERB id="V5" spans="174~176" text="is" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="Are" toID="V1" toText="kidding" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="Are" toID="V2" toText="demanded" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="Are" toID="V3" toText="is" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="Are" toID="V4" toText="is" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="kidding" toID="V2" toText="demanded" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="kidding" toID="V3" toText="is" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="kidding" toID="V4" toText="is" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="demanded" toID="V3" toText="is" />
 <EVENT_ORDER id="E8" fromID="V2" fromText="demanded" toID="V4" toText="is" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="is" toID="V4" toText="is" />
 </TAGS>
 </TemporalRelationTask>

@@ -7,7 +7,7 @@
 <VERB id="V1" spans="66~70" text="were" category="VBD" />
 <VERB id="V2" spans="82~86" text="said" category="VBD" />
 <VERB id="V3" spans="197~201" text="were" category="VBD" />
-<VERB id="V4" spans="263~269" text="opened" category="VBD" />
+<VERB id="V4" spans="263~269" text="opened" category="VBN" />
 <VERB id="V5" spans="299~304" text="doing" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="gave" toID="V1" toText="were" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="gave" toID="V2" toText="said" />

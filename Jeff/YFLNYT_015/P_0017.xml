@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I was looking to get ahead and pay off medical bills,” said Ms. Conrad, whose son has Crohn’s disease and takes immunosuppressant drugs. “Now I’m looking at falling further behind on them.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="7~14" text="looking" category="VBG" />
+<VERB id="V1" spans="18~21" text="get" category="VB" />
+<VERB id="V2" spans="32~35" text="pay" category="VB" />
+<VERB id="V3" spans="56~60" text="said" category="VBD" />
+<VERB id="V4" spans="83~86" text="has" category="VBZ" />
+<VERB id="V5" spans="107~112" text="takes" category="VBZ" />
+<VERB id="V6" spans="147~154" text="looking" category="VBG" />
+<VERB id="V7" spans="158~165" text="falling" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="looking" toID="V1" toText="get" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="looking" toID="V2" toText="pay" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="looking" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="looking" toID="V4" toText="has" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="looking" toID="V5" toText="takes" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="looking" toID="V6" toText="looking" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="looking" toID="V7" toText="falling" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="get" toID="V2" toText="pay" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="get" toID="V3" toText="said" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="get" toID="V4" toText="has" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="get" toID="V5" toText="takes" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="get" toID="V6" toText="looking" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="get" toID="V7" toText="falling" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="pay" toID="V3" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="pay" toID="V4" toText="has" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="pay" toID="V5" toText="takes" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="pay" toID="V6" toText="looking" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="pay" toID="V7" toText="falling" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="said" toID="V4" toText="has" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="said" toID="V5" toText="takes" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="said" toID="V6" toText="looking" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="said" toID="V7" toText="falling" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="has" toID="V5" toText="takes" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="has" toID="V6" toText="looking" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="has" toID="V7" toText="falling" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="takes" toID="V6" toText="looking" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="takes" toID="V7" toText="falling" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="looking" toID="V7" toText="falling" />
+</TAGS>
+</TemporalRelationTask>

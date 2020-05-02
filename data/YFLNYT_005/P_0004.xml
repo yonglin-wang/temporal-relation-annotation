@@ -3,15 +3,8 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The email was not referring to the pandemic. It was about Sunday’s Democratic presidential debate.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="10~13" text="was" category="VBD" />
 <VERB id="V1" spans="18~27" text="referring" category="VBG" />
 <VERB id="V2" spans="48~51" text="was" category="VBD" />
-<VERB id="V3" spans="65~66" text="s" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="referring" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="was" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="s" />
 <EVENT_ORDER id="E3" fromID="V1" fromText="referring" toID="V2" toText="was" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="referring" toID="V3" toText="s" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="was" toID="V3" toText="s" />
 </TAGS>
 </TemporalRelationTask>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Paul, an ophthalmologist by training, was a practicing doctor before joining the Senate. Like his father, Ron Paul, a former member of Congress, he considers himself a libertarian. Last week, he was one of only three senators to vote against a multibillion-dollar rescue bill to help fight the coronavirus because its costs had not been paid for and would contribute to the national debt.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~45" text="was" category="VBD" />
+<VERB id="V1" spans="73~80" text="joining" category="VBG" />
+<VERB id="V2" spans="152~161" text="considers" category="VBZ" />
+<VERB id="V3" spans="199~202" text="was" category="VBD" />
+<VERB id="V4" spans="233~237" text="vote" category="VB" />
+<VERB id="V5" spans="283~287" text="help" category="VB" />
+<VERB id="V6" spans="288~293" text="fight" category="VB" />
+<VERB id="V7" spans="328~331" text="had" category="VBD" />
+<VERB id="V8" spans="341~345" text="paid" category="VBN" />
+<VERB id="V9" spans="360~370" text="contribute" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="joining" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="considers" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="was" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="vote" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="help" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="fight" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="had" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="was" toID="V8" toText="paid" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="was" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="joining" toID="V2" toText="considers" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="joining" toID="V3" toText="was" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="joining" toID="V4" toText="vote" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="joining" toID="V5" toText="help" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="joining" toID="V6" toText="fight" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="joining" toID="V7" toText="had" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="joining" toID="V8" toText="paid" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="joining" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="considers" toID="V3" toText="was" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="considers" toID="V4" toText="vote" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="considers" toID="V5" toText="help" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="considers" toID="V6" toText="fight" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="considers" toID="V7" toText="had" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="considers" toID="V8" toText="paid" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="considers" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="was" toID="V4" toText="vote" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="was" toID="V5" toText="help" />
+<EVENT_ORDER id="E26" fromID="V3" fromText="was" toID="V6" toText="fight" />
+<EVENT_ORDER id="E27" fromID="V3" fromText="was" toID="V7" toText="had" />
+<EVENT_ORDER id="E28" fromID="V3" fromText="was" toID="V8" toText="paid" />
+<EVENT_ORDER id="E29" fromID="V3" fromText="was" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E30" fromID="V4" fromText="vote" toID="V5" toText="help" />
+<EVENT_ORDER id="E31" fromID="V4" fromText="vote" toID="V6" toText="fight" />
+<EVENT_ORDER id="E32" fromID="V4" fromText="vote" toID="V7" toText="had" />
+<EVENT_ORDER id="E33" fromID="V4" fromText="vote" toID="V8" toText="paid" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="vote" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E35" fromID="V5" fromText="help" toID="V6" toText="fight" />
+<EVENT_ORDER id="E36" fromID="V5" fromText="help" toID="V7" toText="had" />
+<EVENT_ORDER id="E37" fromID="V5" fromText="help" toID="V8" toText="paid" />
+<EVENT_ORDER id="E38" fromID="V5" fromText="help" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E39" fromID="V6" fromText="fight" toID="V7" toText="had" />
+<EVENT_ORDER id="E40" fromID="V6" fromText="fight" toID="V8" toText="paid" />
+<EVENT_ORDER id="E41" fromID="V6" fromText="fight" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E42" fromID="V7" fromText="had" toID="V8" toText="paid" />
+<EVENT_ORDER id="E43" fromID="V7" fromText="had" toID="V9" toText="contribute" />
+<EVENT_ORDER id="E44" fromID="V8" fromText="paid" toID="V9" toText="contribute" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Bloomberg is all but certain to remain a major funder of the Democratic Party, even in the absence of an organization under his direct control.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="14~16" text="is" category="VBZ" />
+<VERB id="V1" spans="36~42" text="remain" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="remain" />
+</TAGS>
+</TemporalRelationTask>

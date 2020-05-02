@@ -6,17 +6,12 @@
 <VERB id="V0" spans="8~12" text="lead" category="VB" />
 <VERB id="V1" spans="32~37" text="doing" category="VBG" />
 <VERB id="V2" spans="58~63" text="urged" category="VBD" />
-<VERB id="V3" spans="70~71" text="s" category="VB" />
 <VERB id="V4" spans="72~74" text="be" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="lead" toID="V1" toText="doing" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="lead" toID="V2" toText="urged" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="lead" toID="V3" toText="s" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="lead" toID="V4" toText="be" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="doing" toID="V2" toText="urged" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="doing" toID="V3" toText="s" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="doing" toID="V4" toText="be" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="urged" toID="V3" toText="s" />
 <EVENT_ORDER id="E8" fromID="V2" fromText="urged" toID="V4" toText="be" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="s" toID="V4" toText="be" />
 </TAGS>
 </TemporalRelationTask>

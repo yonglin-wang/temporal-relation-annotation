@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Privately, some lawmakers were incensed that Mr. Paul had continued to circulate among colleagues when he knew he might have the virus.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="31~39" text="incensed" category="VBN" />
+<VERB id="V1" spans="58~67" text="continued" category="VBN" />
+<VERB id="V2" spans="71~80" text="circulate" category="VB" />
+<VERB id="V3" spans="106~110" text="knew" category="VBD" />
+<VERB id="V4" spans="120~124" text="have" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="incensed" toID="V1" toText="continued" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="incensed" toID="V2" toText="circulate" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="incensed" toID="V3" toText="knew" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="incensed" toID="V4" toText="have" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="continued" toID="V2" toText="circulate" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="continued" toID="V3" toText="knew" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="continued" toID="V4" toText="have" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="circulate" toID="V3" toText="knew" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="circulate" toID="V4" toText="have" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="knew" toID="V4" toText="have" />
+</TAGS>
+</TemporalRelationTask>

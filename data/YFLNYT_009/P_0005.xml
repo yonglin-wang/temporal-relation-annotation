@@ -16,6 +16,7 @@
 <VERB id="V10" spans="363~369" text="ensure" category="VB" />
 <VERB id="V11" spans="402~408" text="abused" category="VBN" />
 <VERB id="V12" spans="428~436" text="received" category="VBD" />
+<VERB id="V13" spans="63~72" text="bickering" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="dissolved" toID="V1" toText="shouting" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="dissolved" toID="V2" toText="sparred" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="dissolved" toID="V3" toText="emerging" />

@@ -5,7 +5,7 @@
 <TAGS>
 <VERB id="V0" spans="55~63" text="emerging" category="VBG" />
 <VERB id="V1" spans="65~72" text="defined" category="VBN" />
-<VERB id="V2" spans="121~124" text="are" category="VBP" />
+<VERB id="V2" spans="121~124" text="are" category="VBZ" />
 <VERB id="V3" spans="152~163" text="approaching" category="VBG" />
 <VERB id="V4" spans="195~197" text="be" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="emerging" toID="V1" toText="defined" />

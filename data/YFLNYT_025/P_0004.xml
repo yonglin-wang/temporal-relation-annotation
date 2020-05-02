@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[In the Democratic primary race, most millennial and Gen Z voters — meaning, roughly, people ages 18 to 39 — have supported Mr. Sanders, of Vermont, or Senator Elizabeth Warren of Massachusetts, and few are enthusiastic about former Vice President Joseph R. Biden Jr. On the Republican side, young voters are less likely than older ones to support President Trump, and some conservatives have left the party altogether.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="92~96" text="ages" category="VBP" />
+<VERB id="V0" spans="92~96" text="ages" category="VBZ" />
 <VERB id="V1" spans="113~122" text="supported" category="VBN" />
 <VERB id="V2" spans="202~205" text="are" category="VBP" />
 <VERB id="V3" spans="304~307" text="are" category="VBP" />

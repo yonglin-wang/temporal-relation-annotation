@@ -3,15 +3,10 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Mr. Trump’s lack of conventional qualifications for the presidency may draw outside-the-box challengers who see him as having opened a range of unconventional paths.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="10~11" text="s" category="VBD" />
 <VERB id="V1" spans="71~75" text="draw" category="VB" />
-<VERB id="V2" spans="108~111" text="see" category="VBP" />
+<VERB id="V2" spans="108~111" text="see" category="VBZ" />
 <VERB id="V3" spans="119~125" text="having" category="VBG" />
 <VERB id="V4" spans="126~132" text="opened" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="draw" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="see" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="having" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="opened" />
 <EVENT_ORDER id="E4" fromID="V1" fromText="draw" toID="V2" toText="see" />
 <EVENT_ORDER id="E5" fromID="V1" fromText="draw" toID="V3" toText="having" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="draw" toID="V4" toText="opened" />

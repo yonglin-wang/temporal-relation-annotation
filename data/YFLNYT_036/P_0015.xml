@@ -5,7 +5,7 @@
 <TAGS>
 <VERB id="V0" spans="16~24" text="disputed" category="VBD" />
 <VERB id="V1" spans="59~66" text="lobbied" category="VBN" />
-<VERB id="V2" spans="98~103" text="heard" category="VBP" />
+<VERB id="V2" spans="98~103" text="heard" category="VBN" />
 <VERB id="V3" spans="119~124" text="doing" category="VBG" />
 <VERB id="V4" spans="146~150" text="said" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="disputed" toID="V1" toText="lobbied" />

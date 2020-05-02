@@ -7,7 +7,6 @@
 <VERB id="V1" spans="48~52" text="turn" category="VB" />
 <VERB id="V2" spans="78~81" text="had" category="VBD" />
 <VERB id="V3" spans="91~93" text="do" category="VB" />
-<VERB id="V4" spans="109~114" text="being" category="VBG" />
 <VERB id="V5" spans="115~122" text="brought" category="VBN" />
 <VERB id="V6" spans="126~130" text="bear" category="VB" />
 <VERB id="V7" spans="133~138" text="given" category="VBN" />
@@ -16,7 +15,6 @@
 <EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="turn" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="had" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="do" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="being" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="brought" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="bear" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="given" />
@@ -24,30 +22,22 @@
 <EVENT_ORDER id="E8" fromID="V0" fromText="said" toID="V9" toText="provide" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="turn" toID="V2" toText="had" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="turn" toID="V3" toText="do" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="turn" toID="V4" toText="being" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="turn" toID="V5" toText="brought" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="turn" toID="V6" toText="bear" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="turn" toID="V7" toText="given" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="turn" toID="V8" toText="been" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="turn" toID="V9" toText="provide" />
 <EVENT_ORDER id="E17" fromID="V2" fromText="had" toID="V3" toText="do" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="had" toID="V4" toText="being" />
 <EVENT_ORDER id="E19" fromID="V2" fromText="had" toID="V5" toText="brought" />
 <EVENT_ORDER id="E20" fromID="V2" fromText="had" toID="V6" toText="bear" />
 <EVENT_ORDER id="E21" fromID="V2" fromText="had" toID="V7" toText="given" />
 <EVENT_ORDER id="E22" fromID="V2" fromText="had" toID="V8" toText="been" />
 <EVENT_ORDER id="E23" fromID="V2" fromText="had" toID="V9" toText="provide" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="do" toID="V4" toText="being" />
 <EVENT_ORDER id="E25" fromID="V3" fromText="do" toID="V5" toText="brought" />
 <EVENT_ORDER id="E26" fromID="V3" fromText="do" toID="V6" toText="bear" />
 <EVENT_ORDER id="E27" fromID="V3" fromText="do" toID="V7" toText="given" />
 <EVENT_ORDER id="E28" fromID="V3" fromText="do" toID="V8" toText="been" />
 <EVENT_ORDER id="E29" fromID="V3" fromText="do" toID="V9" toText="provide" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="being" toID="V5" toText="brought" />
-<EVENT_ORDER id="E31" fromID="V4" fromText="being" toID="V6" toText="bear" />
-<EVENT_ORDER id="E32" fromID="V4" fromText="being" toID="V7" toText="given" />
-<EVENT_ORDER id="E33" fromID="V4" fromText="being" toID="V8" toText="been" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="being" toID="V9" toText="provide" />
 <EVENT_ORDER id="E35" fromID="V5" fromText="brought" toID="V6" toText="bear" />
 <EVENT_ORDER id="E36" fromID="V5" fromText="brought" toID="V7" toText="given" />
 <EVENT_ORDER id="E37" fromID="V5" fromText="brought" toID="V8" toText="been" />

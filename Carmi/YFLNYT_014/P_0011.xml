@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The ripples could quickly be felt around the Capitol, one of the few places where work has continued in defiance of public health guidance that has shuttered most workplaces and discouraged large gatherings.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="29~33" text="felt" category="VBN" />
+<VERB id="V1" spans="91~100" text="continued" category="VBN" />
+<VERB id="V2" spans="148~157" text="shuttered" category="VBN" />
+<VERB id="V3" spans="178~189" text="discouraged" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="felt" toID="V1" toText="continued" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="felt" toID="V2" toText="shuttered" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="felt" toID="V3" toText="discouraged" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="continued" toID="V2" toText="shuttered" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="continued" toID="V3" toText="discouraged" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="shuttered" toID="V3" toText="discouraged" />
+</TAGS>
+</TemporalRelationTask>
