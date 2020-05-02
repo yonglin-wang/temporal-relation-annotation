@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Ms. Gabbard, who resigned her vice chairmanship at the Democratic National Committee in 2016 to endorse the presidential campaign of Senator Bernie Sanders of Vermont, Mr. Biden’s closest competitor this year, said she had “great appreciation” for Mr. Sanders’s work.]]></TEXT>
+<TEXT>Ms. Gabbard, who resigned her vice chairmanship at the Democratic National Committee in 2016 to endorse the presidential campaign of Senator Bernie Sanders of Vermont, Mr. Biden&#8217;s closest competitor this year, said she had &#8220;great appreciation&#8221; for Mr. Sanders&#8217;s work.</TEXT>
 <TAGS>
-<VERB id="V0" spans="17~25" text="resigned" category="VBD" />
-<VERB id="V1" spans="96~103" text="endorse" category="VB" />
-<VERB id="V2" spans="210~214" text="said" category="VBD" />
-<VERB id="V3" spans="219~222" text="had" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="resigned" toID="V1" toText="endorse" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="resigned" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="resigned" toID="V3" toText="had" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="endorse" toID="V2" toText="said" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="endorse" toID="V3" toText="had" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="had" />
+<VERB id="V0" spans="17~25" text="resigned" category="VBD"/>
+<VERB id="V1" spans="96~103" text="endorse" category="VB"/>
+<VERB id="V2" spans="210~214" text="said" category="VBD"/>
+<VERB id="V3" spans="219~222" text="had" category="VBD"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="resigned" toID="V1" toText="endorse" relationship="before"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="resigned" toID="V2" toText="said" relationship="before"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="resigned" toID="V3" toText="had" relationship="vague"/>
+<EVENT_ORDER id="E3" fromID="V1" fromText="endorse" toID="V2" toText="said" relationship="before"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="endorse" toID="V3" toText="had" relationship="vague"/>
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="had" relationship="vague"/>
 </TAGS>
 </TemporalRelationTask>

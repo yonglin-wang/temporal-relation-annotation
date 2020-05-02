@@ -1,35 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Mr. Trump filed for the 2020 race the day of his inauguration. Filing quickly allowed him to continue to raise money and tap the small donors whose enthusiasm was critical to his campaign, with a heavy dose of email blasts and requests for help against the proverbial Washington establishment.]]></TEXT>
+<TEXT>Mr. Trump filed for the 2020 race the day of his inauguration. Filing quickly allowed him to continue to raise money and tap the small donors whose enthusiasm was critical to his campaign, with a heavy dose of email blasts and requests for help against the proverbial Washington establishment.</TEXT>
 <TAGS>
-<VERB id="V0" spans="10~15" text="filed" category="VBD" />
-<VERB id="V1" spans="63~69" text="Filing" category="VBG" />
-<VERB id="V2" spans="78~85" text="allowed" category="VBD" />
-<VERB id="V3" spans="93~101" text="continue" category="VB" />
-<VERB id="V4" spans="105~110" text="raise" category="VB" />
-<VERB id="V5" spans="121~124" text="tap" category="VB" />
-<VERB id="V6" spans="159~162" text="was" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="filed" toID="V1" toText="Filing" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="filed" toID="V2" toText="allowed" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="filed" toID="V3" toText="continue" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="filed" toID="V4" toText="raise" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="filed" toID="V5" toText="tap" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="filed" toID="V6" toText="was" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="Filing" toID="V2" toText="allowed" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="Filing" toID="V3" toText="continue" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="Filing" toID="V4" toText="raise" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="Filing" toID="V5" toText="tap" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="Filing" toID="V6" toText="was" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="allowed" toID="V3" toText="continue" />
-<EVENT_ORDER id="E12" fromID="V2" fromText="allowed" toID="V4" toText="raise" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="allowed" toID="V5" toText="tap" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="allowed" toID="V6" toText="was" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="continue" toID="V4" toText="raise" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="continue" toID="V5" toText="tap" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="continue" toID="V6" toText="was" />
-<EVENT_ORDER id="E18" fromID="V4" fromText="raise" toID="V5" toText="tap" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="raise" toID="V6" toText="was" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="tap" toID="V6" toText="was" />
+<VERB id="V0" spans="10~15" text="filed" category="VBD"/>
+<VERB id="V1" spans="63~69" text="Filing" category="VBG"/>
+<VERB id="V2" spans="78~85" text="allowed" category="VBD"/>
+<VERB id="V3" spans="93~101" text="continue" category="VB"/>
+<VERB id="V4" spans="105~110" text="raise" category="VB"/>
+<VERB id="V5" spans="121~124" text="tap" category="VB"/>
+<VERB id="V6" spans="159~162" text="was" category="VBD"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="filed" toID="V1" toText="Filing" relationship="vague"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="filed" toID="V2" toText="allowed" relationship="before"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="filed" toID="V3" toText="continue" relationship="before"/>
+<EVENT_ORDER id="E3" fromID="V0" fromText="filed" toID="V4" toText="raise" relationship="before"/>
+<EVENT_ORDER id="E4" fromID="V0" fromText="filed" toID="V5" toText="tap" relationship="before"/>
+<EVENT_ORDER id="E5" fromID="V0" fromText="filed" toID="V6" toText="was" relationship="vague"/>
+<EVENT_ORDER id="E6" fromID="V1" fromText="Filing" toID="V2" toText="allowed" relationship="vague"/>
+<EVENT_ORDER id="E7" fromID="V1" fromText="Filing" toID="V3" toText="continue" relationship="vague"/>
+<EVENT_ORDER id="E8" fromID="V1" fromText="Filing" toID="V4" toText="raise" relationship="vague"/>
+<EVENT_ORDER id="E9" fromID="V1" fromText="Filing" toID="V5" toText="tap" relationship="vague"/>
+<EVENT_ORDER id="E10" fromID="V1" fromText="Filing" toID="V6" toText="was" relationship="vague"/>
+<EVENT_ORDER id="E11" fromID="V2" fromText="allowed" toID="V3" toText="continue" relationship="vague"/>
+<EVENT_ORDER id="E12" fromID="V2" fromText="allowed" toID="V4" toText="raise" relationship="vague"/>
+<EVENT_ORDER id="E13" fromID="V2" fromText="allowed" toID="V5" toText="tap" relationship="vague"/>
+<EVENT_ORDER id="E14" fromID="V2" fromText="allowed" toID="V6" toText="was" relationship="vague"/>
+<EVENT_ORDER id="E15" fromID="V3" fromText="continue" toID="V4" toText="raise" relationship="before"/>
+<EVENT_ORDER id="E16" fromID="V3" fromText="continue" toID="V5" toText="tap" relationship="before"/>
+<EVENT_ORDER id="E17" fromID="V3" fromText="continue" toID="V6" toText="was" relationship="vague"/>
+<EVENT_ORDER id="E18" fromID="V4" fromText="raise" toID="V5" toText="tap" relationship="simultaneous"/>
+<EVENT_ORDER id="E19" fromID="V4" fromText="raise" toID="V6" toText="was" relationship="vague"/>
+<EVENT_ORDER id="E20" fromID="V5" fromText="tap" toID="V6" toText="was" relationship="vague"/>
 </TAGS>
 </TemporalRelationTask>

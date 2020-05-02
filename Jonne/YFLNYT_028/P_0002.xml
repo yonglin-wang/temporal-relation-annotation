@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Reports filed with the Federal Election Commission on Friday showed that Mr. Trump’s campaign brought in $7.1 million during the first three months of 2017, on top of over $23 million raised with the Republican Party. By contrast, President Barack Obama and the Democratic National Committee brought in a total of about $15 million during the first three months of his first term in 2009.]]></TEXT>
+<TEXT>Reports filed with the Federal Election Commission on Friday showed that Mr. Trump&#8217;s campaign brought in $7.1 million during the first three months of 2017, on top of over $23 million raised with the Republican Party. By contrast, President Barack Obama and the Democratic National Committee brought in a total of about $15 million during the first three months of his first term in 2009.</TEXT>
 <TAGS>
-<VERB id="V0" spans="8~13" text="filed" category="VBN" />
-<VERB id="V1" spans="61~67" text="showed" category="VBD" />
-<VERB id="V2" spans="94~101" text="brought" category="VBD" />
-<VERB id="V3" spans="184~190" text="raised" category="VBN" />
-<VERB id="V4" spans="292~299" text="brought" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="filed" toID="V1" toText="showed" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="filed" toID="V2" toText="brought" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="filed" toID="V3" toText="raised" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="filed" toID="V4" toText="brought" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="showed" toID="V2" toText="brought" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="showed" toID="V3" toText="raised" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="showed" toID="V4" toText="brought" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="brought" toID="V3" toText="raised" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="brought" toID="V4" toText="brought" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="raised" toID="V4" toText="brought" />
+<VERB id="V0" spans="8~13" text="filed" category="VBN"/>
+<VERB id="V1" spans="61~67" text="showed" category="VBD"/>
+<VERB id="V2" spans="94~101" text="brought" category="VBD"/>
+<VERB id="V3" spans="184~190" text="raised" category="VBN"/>
+<VERB id="V4" spans="292~299" text="brought" category="VBD"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="filed" toID="V1" toText="showed" relationship="before"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="filed" toID="V2" toText="brought" relationship="before"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="filed" toID="V3" toText="raised" relationship="after"/>
+<EVENT_ORDER id="E3" fromID="V0" fromText="filed" toID="V4" toText="brought" relationship="after"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="showed" toID="V2" toText="brought" relationship="after"/>
+<EVENT_ORDER id="E5" fromID="V1" fromText="showed" toID="V3" toText="raised" relationship="after"/>
+<EVENT_ORDER id="E6" fromID="V1" fromText="showed" toID="V4" toText="brought" relationship="after"/>
+<EVENT_ORDER id="E7" fromID="V2" fromText="brought" toID="V3" toText="raised" relationship="simultaneous"/>
+<EVENT_ORDER id="E8" fromID="V2" fromText="brought" toID="V4" toText="brought" relationship="before"/>
+<EVENT_ORDER id="E9" fromID="V3" fromText="raised" toID="V4" toText="brought" relationship="after"/>
 </TAGS>
 </TemporalRelationTask>

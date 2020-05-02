@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[“Look at Rex Tillerson,” he added, referring to the Exxon chief turned secretary of state. “He’s extremely well regarded in corporate circles, but he’s having trouble with the press.”]]></TEXT>
+<TEXT>&#8220;Look at Rex Tillerson,&#8221; he added, referring to the Exxon chief turned secretary of state. &#8220;He&#8217;s extremely well regarded in corporate circles, but he&#8217;s having trouble with the press.&#8221;</TEXT>
 <TAGS>
-<VERB id="V0" spans="28~33" text="added" category="VBD" />
-<VERB id="V1" spans="35~44" text="referring" category="VBG" />
-<VERB id="V2" spans="64~70" text="turned" category="VBD" />
-<VERB id="V3" spans="112~120" text="regarded" category="VBN" />
-<VERB id="V4" spans="152~158" text="having" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="added" toID="V1" toText="referring" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="added" toID="V2" toText="turned" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="added" toID="V3" toText="regarded" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="added" toID="V4" toText="having" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="referring" toID="V2" toText="turned" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="referring" toID="V3" toText="regarded" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="referring" toID="V4" toText="having" />
-<EVENT_ORDER id="E7" fromID="V2" fromText="turned" toID="V3" toText="regarded" />
-<EVENT_ORDER id="E8" fromID="V2" fromText="turned" toID="V4" toText="having" />
-<EVENT_ORDER id="E9" fromID="V3" fromText="regarded" toID="V4" toText="having" />
+<VERB id="V0" spans="28~33" text="added" category="VBD"/>
+<VERB id="V1" spans="35~44" text="referring" category="VBG"/>
+<VERB id="V2" spans="64~70" text="turned" category="VBD"/>
+<VERB id="V3" spans="112~120" text="regarded" category="VBN"/>
+<VERB id="V4" spans="152~158" text="having" category="VBG"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="added" toID="V1" toText="referring" relationship="simultaneous"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="added" toID="V2" toText="turned" relationship="after"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="added" toID="V3" toText="regarded" relationship="after"/>
+<EVENT_ORDER id="E3" fromID="V0" fromText="added" toID="V4" toText="having" relationship="vague"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="referring" toID="V2" toText="turned" relationship="vague"/>
+<EVENT_ORDER id="E5" fromID="V1" fromText="referring" toID="V3" toText="regarded" relationship="after"/>
+<EVENT_ORDER id="E6" fromID="V1" fromText="referring" toID="V4" toText="having" relationship="vague"/>
+<EVENT_ORDER id="E7" fromID="V2" fromText="turned" toID="V3" toText="regarded" relationship="after"/>
+<EVENT_ORDER id="E8" fromID="V2" fromText="turned" toID="V4" toText="having" relationship="vague"/>
+<EVENT_ORDER id="E9" fromID="V3" fromText="regarded" toID="V4" toText="having" relationship="vague"/>
 </TAGS>
 </TemporalRelationTask>

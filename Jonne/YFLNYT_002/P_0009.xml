@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Ms. Gabbard, 38, announced late last year that she would not seek re-election to Congress in the fall.]]></TEXT>
+<TEXT>Ms. Gabbard, 38, announced late last year that she would not seek re-election to Congress in the fall.</TEXT>
 <TAGS>
-<VERB id="V0" spans="17~26" text="announced" category="VBN" />
-<VERB id="V1" spans="61~65" text="seek" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="announced" toID="V1" toText="seek" />
+<VERB id="V0" spans="17~26" text="announced" category="VBN"/>
+<VERB id="V1" spans="61~65" text="seek" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="announced" toID="V1" toText="seek" relationship="before"/>
 </TAGS>
 </TemporalRelationTask>

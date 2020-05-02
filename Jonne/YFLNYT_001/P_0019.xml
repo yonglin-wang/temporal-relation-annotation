@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Both Mr. Iger and Mr. Bloomberg declined to comment.]]></TEXT>
+<TEXT>Both Mr. Iger and Mr. Bloomberg declined to comment.</TEXT>
 <TAGS>
-<VERB id="V0" spans="32~40" text="declined" category="VBD" />
-<VERB id="V1" spans="44~51" text="comment" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="declined" toID="V1" toText="comment" />
+<VERB id="V0" spans="32~40" text="declined" category="VBD"/>
+<VERB id="V1" spans="44~51" text="comment" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="declined" toID="V1" toText="comment" relationship="simultaneous"/>
 </TAGS>
 </TemporalRelationTask>

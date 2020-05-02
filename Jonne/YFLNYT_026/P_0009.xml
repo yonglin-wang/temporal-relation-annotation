@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Yet despite Democrats’ near extinction in much of the South and in parts of the Great Plains — two regions that had for decades elected Democrats to statewide office — the party had little in the way of a debate about Mr. Obama’s approach.]]></TEXT>
+<TEXT>Yet despite Democrats&#8217; near extinction in much of the South and in parts of the Great Plains &#8212; two regions that had for decades elected Democrats to statewide office &#8212; the party had little in the way of a debate about Mr. Obama&#8217;s approach.</TEXT>
 <TAGS>
-<VERB id="V1" spans="128~135" text="elected" category="VBN" />
-<VERB id="V3" spans="178~181" text="had" category="VBD" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="elected" toID="V3" toText="had" />
+<VERB id="V1" spans="128~135" text="elected" category="VBN"/>
+<VERB id="V3" spans="178~181" text="had" category="VBD"/>
+<EVENT_ORDER id="E5" fromID="V1" fromText="elected" toID="V3" toText="had" relationship="vague"/>
 </TAGS>
 </TemporalRelationTask>

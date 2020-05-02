@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[The likelihood of any potential game-changing event becomes likelier with time. By this measure, the new delays in the Democratic primary schedule as a result of the coronavirus slightly widen whatever narrow path might still exist for Mr. Sanders.]]></TEXT>
+<TEXT>The likelihood of any potential game-changing event becomes likelier with time. By this measure, the new delays in the Democratic primary schedule as a result of the coronavirus slightly widen whatever narrow path might still exist for Mr. Sanders.</TEXT>
 <TAGS>
-<VERB id="V0" spans="52~59" text="becomes" category="VBZ" />
-<VERB id="V1" spans="226~231" text="exist" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="becomes" toID="V1" toText="exist" />
+<VERB id="V0" spans="52~59" text="becomes" category="VBZ"/>
+<VERB id="V1" spans="226~231" text="exist" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="becomes" toID="V1" toText="exist" relationship="before"/>
 </TAGS>
 </TemporalRelationTask>
