@@ -11,33 +11,33 @@
 <VERB id="V5" spans="262~265" text="run" category="VB" />
 <VERB id="V6" spans="290~292" text="is" category="VBZ" />
 <VERB id="V7" spans="329~333" text="does" category="VBZ" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="got" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="been" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="have" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="run" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="is" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="does" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="got" toID="V2" toText="said" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="got" toID="V3" toText="been" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="got" toID="V4" toText="have" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="got" toID="V5" toText="run" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="got" toID="V6" toText="is" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="got" toID="V7" toText="does" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V3" toText="been" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V4" toText="have" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V5" toText="run" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V6" toText="is" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V7" toText="does" />
-<EVENT_ORDER id="E18" fromID="V3" fromText="been" toID="V4" toText="have" />
-<EVENT_ORDER id="E19" fromID="V3" fromText="been" toID="V5" toText="run" />
-<EVENT_ORDER id="E20" fromID="V3" fromText="been" toID="V6" toText="is" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="been" toID="V7" toText="does" />
-<EVENT_ORDER id="E22" fromID="V4" fromText="have" toID="V5" toText="run" />
-<EVENT_ORDER id="E23" fromID="V4" fromText="have" toID="V6" toText="is" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="have" toID="V7" toText="does" />
-<EVENT_ORDER id="E25" fromID="V5" fromText="run" toID="V6" toText="is" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="run" toID="V7" toText="does" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="is" toID="V7" toText="does" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="got" relationship="vague" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" relationship="vague" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="been" relationship="after" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="have" relationship="after" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="run" relationship="after" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="is" relationship="simultaneous" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="does" relationship="before" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="got" toID="V2" toText="said" relationship="before" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="got" toID="V3" toText="been" relationship="vague" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="got" toID="V4" toText="have" relationship="vague" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="got" toID="V5" toText="run" relationship="after" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="got" toID="V6" toText="is" relationship="vague" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="got" toID="V7" toText="does" relationship="vague" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="said" toID="V3" toText="been" relationship="vague" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="said" toID="V4" toText="have" relationship="vague" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V5" toText="run" relationship="after" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V6" toText="is" relationship="vague" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V7" toText="does" relationship="vague" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="been" toID="V4" toText="have" relationship="vague" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="been" toID="V5" toText="run" relationship="vague" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="been" toID="V6" toText="is" relationship="vague" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="been" toID="V7" toText="does" relationship="before" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="have" toID="V5" toText="run" relationship="vague" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="have" toID="V6" toText="is" relationship="vague" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="have" toID="V7" toText="does" relationship="vague" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="run" toID="V6" toText="is" relationship="vague" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="run" toID="V7" toText="does" relationship="vague" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="is" toID="V7" toText="does" relationship="simultaneous" />
 </TAGS>
 </TemporalRelationTask>
