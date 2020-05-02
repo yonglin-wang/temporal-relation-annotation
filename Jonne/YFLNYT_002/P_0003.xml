@@ -1,62 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[Ms. Gabbard, who had been one of only three candidates and the only woman remaining in the Democratic primary, said she would throw her support to former Vice President Joseph R. Biden Jr., who has accumulated a nearly insurmountable lead in the delegate count. Throughout the race, her campaign struggled to gain traction, never breaking double digits in state or national polls. She won only two delegates in the primary contests, both in American Samoa, where she was born.]]></TEXT>
+<TEXT>Ms. Gabbard, who had been one of only three candidates and the only woman remaining in the Democratic primary, said she would throw her support to former Vice President Joseph R. Biden Jr., who has accumulated a nearly insurmountable lead in the delegate count. Throughout the race, her campaign struggled to gain traction, never breaking double digits in state or national polls. She won only two delegates in the primary contests, both in American Samoa, where she was born.</TEXT>
 <TAGS>
-<VERB id="V0" spans="21~25" text="been" category="VBN" />
-<VERB id="V1" spans="74~83" text="remaining" category="VBG" />
-<VERB id="V2" spans="111~115" text="said" category="VBD" />
-<VERB id="V3" spans="126~131" text="throw" category="VB" />
-<VERB id="V4" spans="198~209" text="accumulated" category="VBN" />
-<VERB id="V5" spans="296~305" text="struggled" category="VBD" />
-<VERB id="V6" spans="309~313" text="gain" category="VB" />
-<VERB id="V7" spans="330~338" text="breaking" category="VBG" />
-<VERB id="V8" spans="385~388" text="won" category="VBD" />
-<VERB id="V9" spans="471~475" text="born" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="remaining" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="throw" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="accumulated" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="been" toID="V5" toText="struggled" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="been" toID="V6" toText="gain" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="been" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="been" toID="V8" toText="won" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="been" toID="V9" toText="born" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="remaining" toID="V2" toText="said" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="remaining" toID="V3" toText="throw" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="remaining" toID="V4" toText="accumulated" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="remaining" toID="V5" toText="struggled" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="remaining" toID="V6" toText="gain" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="remaining" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E15" fromID="V1" fromText="remaining" toID="V8" toText="won" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="remaining" toID="V9" toText="born" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V3" toText="throw" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="said" toID="V4" toText="accumulated" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V5" toText="struggled" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V6" toText="gain" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="said" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="said" toID="V8" toText="won" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="said" toID="V9" toText="born" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="throw" toID="V4" toText="accumulated" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="throw" toID="V5" toText="struggled" />
-<EVENT_ORDER id="E26" fromID="V3" fromText="throw" toID="V6" toText="gain" />
-<EVENT_ORDER id="E27" fromID="V3" fromText="throw" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E28" fromID="V3" fromText="throw" toID="V8" toText="won" />
-<EVENT_ORDER id="E29" fromID="V3" fromText="throw" toID="V9" toText="born" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="accumulated" toID="V5" toText="struggled" />
-<EVENT_ORDER id="E31" fromID="V4" fromText="accumulated" toID="V6" toText="gain" />
-<EVENT_ORDER id="E32" fromID="V4" fromText="accumulated" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E33" fromID="V4" fromText="accumulated" toID="V8" toText="won" />
-<EVENT_ORDER id="E34" fromID="V4" fromText="accumulated" toID="V9" toText="born" />
-<EVENT_ORDER id="E35" fromID="V5" fromText="struggled" toID="V6" toText="gain" />
-<EVENT_ORDER id="E36" fromID="V5" fromText="struggled" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E37" fromID="V5" fromText="struggled" toID="V8" toText="won" />
-<EVENT_ORDER id="E38" fromID="V5" fromText="struggled" toID="V9" toText="born" />
-<EVENT_ORDER id="E39" fromID="V6" fromText="gain" toID="V7" toText="breaking" />
-<EVENT_ORDER id="E40" fromID="V6" fromText="gain" toID="V8" toText="won" />
-<EVENT_ORDER id="E41" fromID="V6" fromText="gain" toID="V9" toText="born" />
-<EVENT_ORDER id="E42" fromID="V7" fromText="breaking" toID="V8" toText="won" />
-<EVENT_ORDER id="E43" fromID="V7" fromText="breaking" toID="V9" toText="born" />
-<EVENT_ORDER id="E44" fromID="V8" fromText="won" toID="V9" toText="born" />
+<VERB id="V0" spans="21~25" text="been" category="VBN"/>
+<VERB id="V1" spans="74~83" text="remaining" category="VBG"/>
+<VERB id="V2" spans="111~115" text="said" category="VBD"/>
+<VERB id="V3" spans="126~131" text="throw" category="VB"/>
+<VERB id="V4" spans="198~209" text="accumulated" category="VBN"/>
+<VERB id="V5" spans="296~305" text="struggled" category="VBD"/>
+<VERB id="V6" spans="309~313" text="gain" category="VB"/>
+<VERB id="V7" spans="330~338" text="breaking" category="VBG"/>
+<VERB id="V8" spans="385~388" text="won" category="VBD"/>
+<VERB id="V9" spans="471~475" text="born" category="VBN"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="been" toID="V1" toText="remaining" relationship="simultaneous"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="been" toID="V2" toText="said" relationship="vague"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="been" toID="V3" toText="throw" relationship="vague"/>
+<EVENT_ORDER id="E3" fromID="V0" fromText="been" toID="V4" toText="accumulated" relationship="simultaneous"/>
+<EVENT_ORDER id="E4" fromID="V0" fromText="been" toID="V5" toText="struggled" relationship="before"/>
+<EVENT_ORDER id="E5" fromID="V0" fromText="been" toID="V6" toText="gain" relationship="vague"/>
+<EVENT_ORDER id="E6" fromID="V0" fromText="been" toID="V7" toText="breaking" relationship="before"/>
+<EVENT_ORDER id="E7" fromID="V0" fromText="been" toID="V8" toText="won" relationship="before"/>
+<EVENT_ORDER id="E8" fromID="V0" fromText="been" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E9" fromID="V1" fromText="remaining" toID="V2" toText="said" relationship="vague"/>
+<EVENT_ORDER id="E10" fromID="V1" fromText="remaining" toID="V3" toText="throw" relationship="vague"/>
+<EVENT_ORDER id="E11" fromID="V1" fromText="remaining" toID="V4" toText="accumulated" relationship="vague"/>
+<EVENT_ORDER id="E12" fromID="V1" fromText="remaining" toID="V5" toText="struggled" relationship="vague"/>
+<EVENT_ORDER id="E13" fromID="V1" fromText="remaining" toID="V6" toText="gain" relationship="vague"/>
+<EVENT_ORDER id="E14" fromID="V1" fromText="remaining" toID="V7" toText="breaking" relationship="vague"/>
+<EVENT_ORDER id="E15" fromID="V1" fromText="remaining" toID="V8" toText="won" relationship="vague"/>
+<EVENT_ORDER id="E16" fromID="V1" fromText="remaining" toID="V9" toText="born" relationship="vague"/>
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V3" toText="throw" relationship="before"/>
+<EVENT_ORDER id="E18" fromID="V2" fromText="said" toID="V4" toText="accumulated" relationship="after"/>
+<EVENT_ORDER id="E19" fromID="V2" fromText="said" toID="V5" toText="struggled" relationship="after"/>
+<EVENT_ORDER id="E20" fromID="V2" fromText="said" toID="V6" toText="gain" relationship="after"/>
+<EVENT_ORDER id="E21" fromID="V2" fromText="said" toID="V7" toText="breaking" relationship="after"/>
+<EVENT_ORDER id="E22" fromID="V2" fromText="said" toID="V8" toText="won" relationship="after"/>
+<EVENT_ORDER id="E23" fromID="V2" fromText="said" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E24" fromID="V3" fromText="throw" toID="V4" toText="accumulated" relationship="after"/>
+<EVENT_ORDER id="E25" fromID="V3" fromText="throw" toID="V5" toText="struggled" relationship="after"/>
+<EVENT_ORDER id="E26" fromID="V3" fromText="throw" toID="V6" toText="gain" relationship="after"/>
+<EVENT_ORDER id="E27" fromID="V3" fromText="throw" toID="V7" toText="breaking" relationship="after"/>
+<EVENT_ORDER id="E28" fromID="V3" fromText="throw" toID="V8" toText="won" relationship="after"/>
+<EVENT_ORDER id="E29" fromID="V3" fromText="throw" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E30" fromID="V4" fromText="accumulated" toID="V5" toText="struggled" relationship="simultaneous"/>
+<EVENT_ORDER id="E31" fromID="V4" fromText="accumulated" toID="V6" toText="gain" relationship="simultaneous"/>
+<EVENT_ORDER id="E32" fromID="V4" fromText="accumulated" toID="V7" toText="breaking" relationship="simultaneous"/>
+<EVENT_ORDER id="E33" fromID="V4" fromText="accumulated" toID="V8" toText="won" relationship="simultaneous"/>
+<EVENT_ORDER id="E34" fromID="V4" fromText="accumulated" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E35" fromID="V5" fromText="struggled" toID="V6" toText="gain" relationship="simultaneous"/>
+<EVENT_ORDER id="E36" fromID="V5" fromText="struggled" toID="V7" toText="breaking" relationship="simultaneous"/>
+<EVENT_ORDER id="E37" fromID="V5" fromText="struggled" toID="V8" toText="won" relationship="simultaneous"/>
+<EVENT_ORDER id="E38" fromID="V5" fromText="struggled" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E39" fromID="V6" fromText="gain" toID="V7" toText="breaking" relationship="simultaneous"/>
+<EVENT_ORDER id="E40" fromID="V6" fromText="gain" toID="V8" toText="won" relationship="simultaneous"/>
+<EVENT_ORDER id="E41" fromID="V6" fromText="gain" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E42" fromID="V7" fromText="breaking" toID="V8" toText="won" relationship="simultaneous"/>
+<EVENT_ORDER id="E43" fromID="V7" fromText="breaking" toID="V9" toText="born" relationship="after"/>
+<EVENT_ORDER id="E44" fromID="V8" fromText="won" toID="V9" toText="born" relationship="after"/>
 </TAGS>
 </TemporalRelationTask>

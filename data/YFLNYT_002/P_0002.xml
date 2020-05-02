@@ -7,11 +7,11 @@
 <VERB id="V1" spans="137~147" text="criticized" category="VBD" />
 <VERB id="V2" spans="149~158" text="announced" category="VBD" />
 <VERB id="V3" spans="184~192" text="dropping" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="ran" toID="V1" toText="criticized" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="ran" toID="V2" toText="announced" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="ran" toID="V3" toText="dropping" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="criticized" toID="V2" toText="announced" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="criticized" toID="V3" toText="dropping" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="announced" toID="V3" toText="dropping" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="ran" toID="V1" toText="criticized" relationship="simultaneous" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="ran" toID="V2" toText="announced" relationship="before" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="ran" toID="V3" toText="dropping" relationship="before" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="criticized" toID="V2" toText="announced" relationship="before" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="criticized" toID="V3" toText="dropping" relationship="before" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="announced" toID="V3" toText="dropping" relationship="before" />
 </TAGS>
 </TemporalRelationTask>

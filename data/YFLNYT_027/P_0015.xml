@@ -5,6 +5,6 @@
 <TAGS>
 <VERB id="V0" spans="50~53" text="win" category="VB" />
 <VERB id="V1" spans="209~213" text="deny" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="win" toID="V1" toText="deny" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="win" toID="V1" toText="deny" relationship="vague" />
 </TAGS>
 </TemporalRelationTask>

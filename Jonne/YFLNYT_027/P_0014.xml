@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[A candidate trailing by 25-plus points needs something more than a win in a relatively good state, like Arizona or Wisconsin. He needs to fundamentally change the race.]]></TEXT>
+<TEXT>A candidate trailing by 25-plus points needs something more than a win in a relatively good state, like Arizona or Wisconsin. He needs to fundamentally change the race.</TEXT>
 <TAGS>
-<VERB id="V0" spans="39~44" text="needs" category="VBZ" />
-<VERB id="V1" spans="129~134" text="needs" category="VBZ" />
-<VERB id="V2" spans="152~158" text="change" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="needs" toID="V1" toText="needs" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="needs" toID="V2" toText="change" />
-<EVENT_ORDER id="E2" fromID="V1" fromText="needs" toID="V2" toText="change" />
+<VERB id="V0" spans="39~44" text="needs" category="VBZ"/>
+<VERB id="V1" spans="129~134" text="needs" category="VBZ"/>
+<VERB id="V2" spans="152~158" text="change" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="needs" toID="V1" toText="needs" relationship="simultaneous"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="needs" toID="V2" toText="change" relationship="before"/>
+<EVENT_ORDER id="E2" fromID="V1" fromText="needs" toID="V2" toText="change" relationship="before"/>
 </TAGS>
 </TemporalRelationTask>

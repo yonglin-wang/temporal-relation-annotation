@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
 <TemporalRelationTask>
-<TEXT><![CDATA[In a race that at its peak included six female candidates, Ms. Gabbard ended up becoming the last woman standing.]]></TEXT>
+<TEXT>In a race that at its peak included six female candidates, Ms. Gabbard ended up becoming the last woman standing.</TEXT>
 <TAGS>
-<VERB id="V0" spans="27~35" text="included" category="VBD" />
-<VERB id="V1" spans="71~76" text="ended" category="VBD" />
-<VERB id="V2" spans="80~88" text="becoming" category="VBG" />
-<VERB id="V3" spans="104~112" text="standing" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="included" toID="V1" toText="ended" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="included" toID="V2" toText="becoming" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="included" toID="V3" toText="standing" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="ended" toID="V2" toText="becoming" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="ended" toID="V3" toText="standing" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="becoming" toID="V3" toText="standing" />
+<VERB id="V0" spans="27~35" text="included" category="VBD"/>
+<VERB id="V1" spans="71~76" text="ended" category="VBD"/>
+<VERB id="V2" spans="80~88" text="becoming" category="VBG"/>
+<VERB id="V3" spans="104~112" text="standing" category="VBG"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="included" toID="V1" toText="ended" relationship="before"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="included" toID="V2" toText="becoming" relationship="before"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="included" toID="V3" toText="standing" relationship="before"/>
+<EVENT_ORDER id="E3" fromID="V1" fromText="ended" toID="V2" toText="becoming" relationship="before"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="ended" toID="V3" toText="standing" relationship="before"/>
+<EVENT_ORDER id="E5" fromID="V2" fromText="becoming" toID="V3" toText="standing" relationship="simultaneous"/>
 </TAGS>
 </TemporalRelationTask>

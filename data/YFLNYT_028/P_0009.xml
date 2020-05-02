@@ -11,33 +11,33 @@
 <VERB id="V5" spans="139~142" text="are" category="VBP" />
 <VERB id="V6" spans="181~185" text="held" category="VBD" />
 <VERB id="V7" spans="269~275" text="taking" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="noted" toID="V1" toText="had" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="noted" toID="V2" toText="run" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="noted" toID="V3" toText="allow" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="noted" toID="V4" toText="make" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="noted" toID="V5" toText="are" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="noted" toID="V6" toText="held" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="noted" toID="V7" toText="taking" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="had" toID="V2" toText="run" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="had" toID="V3" toText="allow" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="had" toID="V4" toText="make" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="had" toID="V5" toText="are" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="had" toID="V6" toText="held" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="had" toID="V7" toText="taking" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="run" toID="V3" toText="allow" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="run" toID="V4" toText="make" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="run" toID="V5" toText="are" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="run" toID="V6" toText="held" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="run" toID="V7" toText="taking" />
-<EVENT_ORDER id="E18" fromID="V3" fromText="allow" toID="V4" toText="make" />
-<EVENT_ORDER id="E19" fromID="V3" fromText="allow" toID="V5" toText="are" />
-<EVENT_ORDER id="E20" fromID="V3" fromText="allow" toID="V6" toText="held" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="allow" toID="V7" toText="taking" />
-<EVENT_ORDER id="E22" fromID="V4" fromText="make" toID="V5" toText="are" />
-<EVENT_ORDER id="E23" fromID="V4" fromText="make" toID="V6" toText="held" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="make" toID="V7" toText="taking" />
-<EVENT_ORDER id="E25" fromID="V5" fromText="are" toID="V6" toText="held" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="are" toID="V7" toText="taking" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="held" toID="V7" toText="taking" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="noted" toID="V1" toText="had" relationship="vague" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="noted" toID="V2" toText="run" relationship="after" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="noted" toID="V3" toText="allow" relationship="vague" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="noted" toID="V4" toText="make" relationship="vague" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="noted" toID="V5" toText="are" relationship="vague" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="noted" toID="V6" toText="held" relationship="vague" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="noted" toID="V7" toText="taking" relationship="simultaneous" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="had" toID="V2" toText="run" relationship="vague" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="had" toID="V3" toText="allow" relationship="simultaneous" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="had" toID="V4" toText="make" relationship="simultaneous" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="had" toID="V5" toText="are" relationship="simultaneous" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="had" toID="V6" toText="held" relationship="vague" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="had" toID="V7" toText="taking" relationship="after" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="run" toID="V3" toText="allow" relationship="vague" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="run" toID="V4" toText="make" relationship="vague" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="run" toID="V5" toText="are" relationship="vague" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="run" toID="V6" toText="held" relationship="vague" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="run" toID="V7" toText="taking" relationship="vague" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="allow" toID="V4" toText="make" relationship="vague" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="allow" toID="V5" toText="are" relationship="before" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="allow" toID="V6" toText="held" relationship="before" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="allow" toID="V7" toText="taking" relationship="vague" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="make" toID="V5" toText="are" relationship="before" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="make" toID="V6" toText="held" relationship="vague" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="make" toID="V7" toText="taking" relationship="after" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="are" toID="V6" toText="held" relationship="vague" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="are" toID="V7" toText="taking" relationship="after" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="held" toID="V7" toText="taking" relationship="after" />
 </TAGS>
 </TemporalRelationTask>
