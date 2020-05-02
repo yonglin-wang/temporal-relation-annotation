@@ -9,7 +9,7 @@
 <VERB id="V3" spans="188~196" text="provides" category="VBZ" />
 <VERB id="V4" spans="220~222" text="do" category="VB" />
 <VERB id="V5" spans="303~309" text="depend" category="VB" />
-<VERB id="V6" spans="337~344" text="deliver" category="VB" />
+<VERB id="V6" spans="337~344" text="deliver" category="VBP" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="surprised" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="introduced" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="provides" />

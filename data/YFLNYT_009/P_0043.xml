@@ -4,7 +4,7 @@
 <TEXT><![CDATA[A sign taped to the Republican side of the clerk’s desk read “SOCIAL DISTANCE” in red block letters, with “please & thank you” written in cursive underneath.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="7~12" text="taped" category="VBN" />
-<VERB id="V1" spans="56~60" text="read" category="VBP" />
+<VERB id="V1" spans="56~60" text="read" category="VBD" />
 <VERB id="V2" spans="127~134" text="written" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="taped" toID="V1" toText="read" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="taped" toID="V2" toText="written" />

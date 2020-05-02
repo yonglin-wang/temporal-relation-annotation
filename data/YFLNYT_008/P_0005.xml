@@ -8,7 +8,6 @@
 <VERB id="V2" spans="37~43" text="risked" category="VBD" />
 <VERB id="V3" spans="77~81" text="seen" category="VBN" />
 <VERB id="V4" spans="85~96" text="obstructing" category="VBG" />
-<VERB id="V5" spans="124~126" text="is" category="VBZ" />
 <VERB id="V6" spans="134~142" text="regarded" category="VBN" />
 <VERB id="V7" spans="157~160" text="aid" category="VB" />
 <VERB id="V8" spans="185~189" text="prop" category="VB" />
@@ -21,7 +20,6 @@
 <EVENT_ORDER id="E1" fromID="V0" fromText="voting" toID="V2" toText="risked" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="voting" toID="V3" toText="seen" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="voting" toID="V4" toText="obstructing" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="voting" toID="V5" toText="is" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="voting" toID="V6" toText="regarded" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="voting" toID="V7" toText="aid" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="voting" toID="V8" toText="prop" />
@@ -33,7 +31,6 @@
 <EVENT_ORDER id="E13" fromID="V1" fromText="block" toID="V2" toText="risked" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="block" toID="V3" toText="seen" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="block" toID="V4" toText="obstructing" />
-<EVENT_ORDER id="E16" fromID="V1" fromText="block" toID="V5" toText="is" />
 <EVENT_ORDER id="E17" fromID="V1" fromText="block" toID="V6" toText="regarded" />
 <EVENT_ORDER id="E18" fromID="V1" fromText="block" toID="V7" toText="aid" />
 <EVENT_ORDER id="E19" fromID="V1" fromText="block" toID="V8" toText="prop" />
@@ -44,7 +41,6 @@
 <EVENT_ORDER id="E24" fromID="V1" fromText="block" toID="V13" toText="creating" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="risked" toID="V3" toText="seen" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="risked" toID="V4" toText="obstructing" />
-<EVENT_ORDER id="E27" fromID="V2" fromText="risked" toID="V5" toText="is" />
 <EVENT_ORDER id="E28" fromID="V2" fromText="risked" toID="V6" toText="regarded" />
 <EVENT_ORDER id="E29" fromID="V2" fromText="risked" toID="V7" toText="aid" />
 <EVENT_ORDER id="E30" fromID="V2" fromText="risked" toID="V8" toText="prop" />
@@ -54,7 +50,6 @@
 <EVENT_ORDER id="E34" fromID="V2" fromText="risked" toID="V12" toText="heaped" />
 <EVENT_ORDER id="E35" fromID="V2" fromText="risked" toID="V13" toText="creating" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="seen" toID="V4" toText="obstructing" />
-<EVENT_ORDER id="E37" fromID="V3" fromText="seen" toID="V5" toText="is" />
 <EVENT_ORDER id="E38" fromID="V3" fromText="seen" toID="V6" toText="regarded" />
 <EVENT_ORDER id="E39" fromID="V3" fromText="seen" toID="V7" toText="aid" />
 <EVENT_ORDER id="E40" fromID="V3" fromText="seen" toID="V8" toText="prop" />
@@ -63,7 +58,6 @@
 <EVENT_ORDER id="E43" fromID="V3" fromText="seen" toID="V11" toText="given" />
 <EVENT_ORDER id="E44" fromID="V3" fromText="seen" toID="V12" toText="heaped" />
 <EVENT_ORDER id="E45" fromID="V3" fromText="seen" toID="V13" toText="creating" />
-<EVENT_ORDER id="E46" fromID="V4" fromText="obstructing" toID="V5" toText="is" />
 <EVENT_ORDER id="E47" fromID="V4" fromText="obstructing" toID="V6" toText="regarded" />
 <EVENT_ORDER id="E48" fromID="V4" fromText="obstructing" toID="V7" toText="aid" />
 <EVENT_ORDER id="E49" fromID="V4" fromText="obstructing" toID="V8" toText="prop" />
@@ -72,14 +66,6 @@
 <EVENT_ORDER id="E52" fromID="V4" fromText="obstructing" toID="V11" toText="given" />
 <EVENT_ORDER id="E53" fromID="V4" fromText="obstructing" toID="V12" toText="heaped" />
 <EVENT_ORDER id="E54" fromID="V4" fromText="obstructing" toID="V13" toText="creating" />
-<EVENT_ORDER id="E55" fromID="V5" fromText="is" toID="V6" toText="regarded" />
-<EVENT_ORDER id="E56" fromID="V5" fromText="is" toID="V7" toText="aid" />
-<EVENT_ORDER id="E57" fromID="V5" fromText="is" toID="V8" toText="prop" />
-<EVENT_ORDER id="E58" fromID="V5" fromText="is" toID="V9" toText="argued" />
-<EVENT_ORDER id="E59" fromID="V5" fromText="is" toID="V10" toText="was" />
-<EVENT_ORDER id="E60" fromID="V5" fromText="is" toID="V11" toText="given" />
-<EVENT_ORDER id="E61" fromID="V5" fromText="is" toID="V12" toText="heaped" />
-<EVENT_ORDER id="E62" fromID="V5" fromText="is" toID="V13" toText="creating" />
 <EVENT_ORDER id="E63" fromID="V6" fromText="regarded" toID="V7" toText="aid" />
 <EVENT_ORDER id="E64" fromID="V6" fromText="regarded" toID="V8" toText="prop" />
 <EVENT_ORDER id="E65" fromID="V6" fromText="regarded" toID="V9" toText="argued" />

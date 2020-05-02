@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[A set of interview talking points used by the campaign to hire field organizers over the last several months, seen by The New York Times, had included mention of “full health, dental and vision benefits” and “employment through November 2020 with Team Bloomberg.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~26" text="talking" category="VBG" />
+<VERB id="V1" spans="34~38" text="used" category="VBN" />
+<VERB id="V2" spans="58~62" text="hire" category="VB" />
+<VERB id="V3" spans="110~114" text="seen" category="VBN" />
+<VERB id="V4" spans="142~150" text="included" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="talking" toID="V1" toText="used" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="talking" toID="V2" toText="hire" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="talking" toID="V3" toText="seen" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="talking" toID="V4" toText="included" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="used" toID="V2" toText="hire" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="used" toID="V3" toText="seen" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="used" toID="V4" toText="included" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="hire" toID="V3" toText="seen" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="hire" toID="V4" toText="included" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="seen" toID="V4" toText="included" />
+</TAGS>
+</TemporalRelationTask>

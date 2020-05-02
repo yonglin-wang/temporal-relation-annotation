@@ -8,7 +8,7 @@
 <VERB id="V2" spans="64~68" text="said" category="VBD" />
 <VERB id="V3" spans="201~205" text="been" category="VBN" />
 <VERB id="V4" spans="228~232" text="have" category="VBP" />
-<VERB id="V5" spans="262~265" text="run" category="VB" />
+<VERB id="V5" spans="262~265" text="run" category="VBN" />
 <VERB id="V6" spans="290~292" text="is" category="VBZ" />
 <VERB id="V7" spans="329~333" text="does" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="got" relationship="vague" />

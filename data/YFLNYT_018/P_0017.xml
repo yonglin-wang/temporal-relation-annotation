@@ -3,10 +3,8 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Mr. Biden’s appearance in New Hampshire was bathed in allusions to the presidency. Speaking before Mr. Biden, New Hampshire’s two senators, Jeanne Shaheen and Maggie Hassan, said they missed having him in the White House. Describing academic centers he has set up since leaving office, Mr. Biden said they housed “the people who literally would be running” the State Department under Hillary Clinton.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="10~11" text="s" category="VBD" />
 <VERB id="V1" spans="44~50" text="bathed" category="VBN" />
 <VERB id="V2" spans="83~91" text="Speaking" category="VBG" />
-<VERB id="V3" spans="118~119" text="s" category="VBD" />
 <VERB id="V4" spans="174~178" text="said" category="VBD" />
 <VERB id="V5" spans="184~190" text="missed" category="VBD" />
 <VERB id="V6" spans="191~197" text="having" category="VBG" />
@@ -16,20 +14,7 @@
 <VERB id="V10" spans="296~300" text="said" category="VBD" />
 <VERB id="V11" spans="306~312" text="housed" category="VBD" />
 <VERB id="V12" spans="348~355" text="running" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="bathed" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="Speaking" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="s" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="said" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="missed" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="having" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="Describing" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="set" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="s" toID="V9" toText="leaving" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="s" toID="V10" toText="said" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="s" toID="V11" toText="housed" />
-<EVENT_ORDER id="E11" fromID="V0" fromText="s" toID="V12" toText="running" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="bathed" toID="V2" toText="Speaking" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="bathed" toID="V3" toText="s" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="bathed" toID="V4" toText="said" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="bathed" toID="V5" toText="missed" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="bathed" toID="V6" toText="having" />
@@ -39,7 +24,6 @@
 <EVENT_ORDER id="E20" fromID="V1" fromText="bathed" toID="V10" toText="said" />
 <EVENT_ORDER id="E21" fromID="V1" fromText="bathed" toID="V11" toText="housed" />
 <EVENT_ORDER id="E22" fromID="V1" fromText="bathed" toID="V12" toText="running" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="Speaking" toID="V3" toText="s" />
 <EVENT_ORDER id="E24" fromID="V2" fromText="Speaking" toID="V4" toText="said" />
 <EVENT_ORDER id="E25" fromID="V2" fromText="Speaking" toID="V5" toText="missed" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="Speaking" toID="V6" toText="having" />
@@ -49,15 +33,6 @@
 <EVENT_ORDER id="E30" fromID="V2" fromText="Speaking" toID="V10" toText="said" />
 <EVENT_ORDER id="E31" fromID="V2" fromText="Speaking" toID="V11" toText="housed" />
 <EVENT_ORDER id="E32" fromID="V2" fromText="Speaking" toID="V12" toText="running" />
-<EVENT_ORDER id="E33" fromID="V3" fromText="s" toID="V4" toText="said" />
-<EVENT_ORDER id="E34" fromID="V3" fromText="s" toID="V5" toText="missed" />
-<EVENT_ORDER id="E35" fromID="V3" fromText="s" toID="V6" toText="having" />
-<EVENT_ORDER id="E36" fromID="V3" fromText="s" toID="V7" toText="Describing" />
-<EVENT_ORDER id="E37" fromID="V3" fromText="s" toID="V8" toText="set" />
-<EVENT_ORDER id="E38" fromID="V3" fromText="s" toID="V9" toText="leaving" />
-<EVENT_ORDER id="E39" fromID="V3" fromText="s" toID="V10" toText="said" />
-<EVENT_ORDER id="E40" fromID="V3" fromText="s" toID="V11" toText="housed" />
-<EVENT_ORDER id="E41" fromID="V3" fromText="s" toID="V12" toText="running" />
 <EVENT_ORDER id="E42" fromID="V4" fromText="said" toID="V5" toText="missed" />
 <EVENT_ORDER id="E43" fromID="V4" fromText="said" toID="V6" toText="having" />
 <EVENT_ORDER id="E44" fromID="V4" fromText="said" toID="V7" toText="Describing" />

@@ -3,17 +3,11 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Still, Ben Tulchin, Mr. Sanders’s pollster during the 2016 campaign, argued that Mr. Cuomo was “not exactly the poster child of clean, good government.” He added that the governor’s reputation as “a corporate Democrat” would require “a significant and consistent effort” to win over many progressives.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="30~31" text="s" category="VBD" />
 <VERB id="V1" spans="69~75" text="argued" category="VBD" />
 <VERB id="V2" spans="91~94" text="was" category="VBD" />
 <VERB id="V3" spans="156~161" text="added" category="VBD" />
 <VERB id="V4" spans="225~232" text="require" category="VB" />
 <VERB id="V5" spans="274~277" text="win" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="argued" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="was" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="added" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="require" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="win" />
 <EVENT_ORDER id="E5" fromID="V1" fromText="argued" toID="V2" toText="was" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="argued" toID="V3" toText="added" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="argued" toID="V4" toText="require" />

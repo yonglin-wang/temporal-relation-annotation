@@ -9,7 +9,7 @@
 <VERB id="V3" spans="80~89" text="requiring" category="VBG" />
 <VERB id="V4" spans="109~114" text="being" category="VBG" />
 <VERB id="V5" spans="115~120" text="flown" category="VBN" />
-<VERB id="V6" spans="257~260" text="say" category="VBP" />
+<VERB id="V6" spans="257~260" text="say" category="VBZ" />
 <VERB id="V7" spans="273~282" text="narrowing" category="VBG" />
 <VERB id="V8" spans="299~308" text="wrenching" category="VBG" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="stay" toID="V1" toText="urged" />

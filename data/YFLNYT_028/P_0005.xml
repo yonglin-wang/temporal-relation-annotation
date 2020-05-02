@@ -11,7 +11,7 @@
 <VERB id="V5" spans="241~250" text="including" category="VBG" />
 <VERB id="V6" spans="303~307" text="owns" category="VBZ" />
 <VERB id="V7" spans="338~341" text="are" category="VBP" />
-<VERB id="V8" spans="353~361" text="required" category="VBD" />
+<VERB id="V8" spans="353~361" text="required" category="VBN" />
 <VERB id="V9" spans="365~371" text="ensure" category="VB" />
 <VERB id="V10" spans="375~379" text="pays" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="did" toID="V1" toText="spent" relationship="simultaneous" />

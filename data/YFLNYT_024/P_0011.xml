@@ -12,7 +12,7 @@
 <VERB id="V6" spans="135~139" text="have" category="VB" />
 <VERB id="V7" spans="200~204" text="owns" category="VBZ" />
 <VERB id="V8" spans="229~237" text="controls" category="VBZ" />
-<VERB id="V9" spans="256~259" text="are" category="VBP" />
+<VERB id="V9" spans="256~259" text="are" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="involved" toID="V1" toText="planning" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="involved" toID="V2" toText="said" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="involved" toID="V3" toText="was" />

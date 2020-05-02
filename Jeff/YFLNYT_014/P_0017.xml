@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Romney’s in isolation?” Mr. Trump said, stretching out the word “gee” before adding, “That’s too bad.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="35~39" text="said" category="VBD" />
+<VERB id="V1" spans="41~51" text="stretching" category="VBG" />
+<VERB id="V2" spans="78~84" text="adding" category="VBG" />
+<VERB id="V3" spans="92~93" text="s" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="stretching" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="adding" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="s" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="stretching" toID="V2" toText="adding" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="stretching" toID="V3" toText="s" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="adding" toID="V3" toText="s" />
+</TAGS>
+</TemporalRelationTask>

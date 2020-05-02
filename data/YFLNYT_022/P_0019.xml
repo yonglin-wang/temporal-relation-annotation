@@ -3,21 +3,13 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[“Ironically, that’s what makes him so fascinating,” Mr. Shnayerson said. “He’s so unlike the rest of the field. And there are moments, still, when he pounds the progressive pulpit, that you hear his father’s voice, and the goose bumps come, and you think, ‘Maybe so.’”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="18~19" text="s" category="VB" />
 <VERB id="V1" spans="25~30" text="makes" category="VBZ" />
 <VERB id="V2" spans="67~71" text="said" category="VBD" />
-<VERB id="V3" spans="122~125" text="are" category="VBP" />
+<VERB id="V3" spans="122~125" text="are" category="VBZ" />
 <VERB id="V4" spans="150~156" text="pounds" category="VBZ" />
 <VERB id="V5" spans="190~194" text="hear" category="VBP" />
 <VERB id="V6" spans="235~239" text="come" category="VBP" />
 <VERB id="V7" spans="249~254" text="think" category="VBP" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="makes" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="are" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="pounds" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="hear" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="come" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="think" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="makes" toID="V2" toText="said" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="makes" toID="V3" toText="are" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="makes" toID="V4" toText="pounds" />

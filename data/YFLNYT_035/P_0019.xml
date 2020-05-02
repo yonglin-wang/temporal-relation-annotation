@@ -4,9 +4,9 @@
 <TEXT><![CDATA[Next up was a stop at a panel discussion titled “Bigger Than the Boomers: Why Millennials Are the Most Important Demographic of 2016,” hosted on the second floor of the Ritz Carlton by Media Matters Action Network, Voto Latino and other liberal groups.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="8~11" text="was" category="VBD" />
-<VERB id="V1" spans="41~47" text="titled" category="VBD" />
+<VERB id="V1" spans="41~47" text="titled" category="VBN" />
 <VERB id="V2" spans="90~93" text="Are" category="VBP" />
-<VERB id="V3" spans="135~141" text="hosted" category="VBD" />
+<VERB id="V3" spans="135~141" text="hosted" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="titled" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="Are" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="hosted" />

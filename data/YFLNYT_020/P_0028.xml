@@ -8,7 +8,7 @@
 <VERB id="V2" spans="170~174" text="said" category="VBD" />
 <VERB id="V3" spans="185~187" text="be" category="VB" />
 <VERB id="V4" spans="210~214" text="have" category="VB" />
-<VERB id="V5" spans="243~249" text="secure" category="VBP" />
+<VERB id="V5" spans="243~249" text="secure" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="was" toID="V1" toText="left" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="said" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="was" toID="V3" toText="be" />

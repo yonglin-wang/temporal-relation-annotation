@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Younger Democratic hopefuls are unlikely to share Ms. Buell’s reservations. In the Senate, Mr. Booker, Ms. Gillibrand and Ms. Klobuchar have been reaching out to national donors and planning travel beyond their home states. Ms. Klobuchar is scheduled to address a Democratic Party dinner in Iowa next weekend.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="28~31" text="are" category="VBP" />
+<VERB id="V0" spans="28~31" text="are" category="VBZ" />
 <VERB id="V1" spans="146~154" text="reaching" category="VBG" />
 <VERB id="V2" spans="182~190" text="planning" category="VBG" />
 <VERB id="V3" spans="241~250" text="scheduled" category="VBN" />

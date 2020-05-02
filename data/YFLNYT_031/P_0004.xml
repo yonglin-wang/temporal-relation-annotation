@@ -6,28 +6,21 @@
 <VERB id="V0" spans="19~26" text="taunted" category="VBN" />
 <VERB id="V1" spans="99~105" text="forced" category="VBD" />
 <VERB id="V2" spans="175~183" text="needling" category="VBG" />
-<VERB id="V3" spans="197~200" text="has" category="VBZ" />
 <VERB id="V4" spans="252~256" text="made" category="VBN" />
 <VERB id="V5" spans="313~317" text="gave" category="VBD" />
 <VERB id="V6" spans="394~398" text="held" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="taunted" toID="V1" toText="forced" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="taunted" toID="V2" toText="needling" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="taunted" toID="V3" toText="has" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="taunted" toID="V4" toText="made" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="taunted" toID="V5" toText="gave" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="taunted" toID="V6" toText="held" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="forced" toID="V2" toText="needling" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="forced" toID="V3" toText="has" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="forced" toID="V4" toText="made" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="forced" toID="V5" toText="gave" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="forced" toID="V6" toText="held" />
-<EVENT_ORDER id="E11" fromID="V2" fromText="needling" toID="V3" toText="has" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="needling" toID="V4" toText="made" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="needling" toID="V5" toText="gave" />
 <EVENT_ORDER id="E14" fromID="V2" fromText="needling" toID="V6" toText="held" />
-<EVENT_ORDER id="E15" fromID="V3" fromText="has" toID="V4" toText="made" />
-<EVENT_ORDER id="E16" fromID="V3" fromText="has" toID="V5" toText="gave" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="has" toID="V6" toText="held" />
 <EVENT_ORDER id="E18" fromID="V4" fromText="made" toID="V5" toText="gave" />
 <EVENT_ORDER id="E19" fromID="V4" fromText="made" toID="V6" toText="held" />
 <EVENT_ORDER id="E20" fromID="V5" fromText="gave" toID="V6" toText="held" />

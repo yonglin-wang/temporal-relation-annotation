@@ -5,7 +5,7 @@
 <TAGS>
 <VERB id="V0" spans="3~7" text="said" category="VBD" />
 <VERB id="V1" spans="27~33" text="taught" category="VBN" />
-<VERB id="V2" spans="67~70" text="are" category="VBP" />
+<VERB id="V2" spans="67~70" text="are" category="VBZ" />
 <VERB id="V3" spans="122~132" text="compressed" category="VBD" />
 <VERB id="V4" spans="148~151" text="led" category="VBN" />
 <VERB id="V5" spans="184~188" text="have" category="VB" />
