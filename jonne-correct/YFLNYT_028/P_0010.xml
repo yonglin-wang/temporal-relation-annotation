@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Trump filed for the 2020 race the day of his inauguration. Filing quickly allowed him to continue to raise money and tap the small donors whose enthusiasm was critical to his campaign, with a heavy dose of email blasts and requests for help against the proverbial Washington establishment.</TEXT>
+<TEXT><![CDATA[Mr. Trump filed for the 2020 race the day of his inauguration. Filing quickly allowed him to continue to raise money and tap the small donors whose enthusiasm was critical to his campaign, with a heavy dose of email blasts and requests for help against the proverbial Washington establishment.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="10~15" text="filed" category="VBD"/>
 <VERB id="V1" spans="63~69" text="Filing" category="VBG"/>

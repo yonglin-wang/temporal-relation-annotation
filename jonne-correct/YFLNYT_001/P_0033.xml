@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>While some may disparage Mr. Trump&#8217;s credentials for the presidency, he did bring to his campaign a level of recognition that will be hard for other executives to replicate, with the possible exception of Ms. Winfrey.</TEXT>
+<TEXT><![CDATA[While some may disparage Mr. Trump’s credentials for the presidency, he did bring to his campaign a level of recognition that will be hard for other executives to replicate, with the possible exception of Ms. Winfrey.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="15~24" text="disparage" category="VB"/>
 <VERB id="V1" spans="76~81" text="bring" category="VB"/>

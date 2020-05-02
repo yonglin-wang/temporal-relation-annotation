@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Ms. Gabbard, 38, announced late last year that she would not seek re-election to Congress in the fall.</TEXT>
+<TEXT><![CDATA[Ms. Gabbard, 38, announced late last year that she would not seek re-election to Congress in the fall.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="17~26" text="announced" category="VBN"/>
 <VERB id="V1" spans="61~65" text="seek" category="VB"/>

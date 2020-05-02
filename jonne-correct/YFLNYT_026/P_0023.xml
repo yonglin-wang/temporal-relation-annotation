@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>&#8220;I don&#8217;t think you can be anti-trade,&#8221; said Gov. John Hickenlooper of Colorado, who is mentioned as a possible 2020 presidential candidate. &#8220;In the modern world, we need consumers overseas for our products as well.&#8221;</TEXT>
+<TEXT><![CDATA[“I don’t think you can be anti-trade,” said Gov. John Hickenlooper of Colorado, who is mentioned as a possible 2020 presidential candidate. “In the modern world, we need consumers overseas for our products as well.”]]></TEXT>
 <TAGS>
 <VERB id="V1" spans="9~14" text="think" category="VB"/>
 <VERB id="V2" spans="23~25" text="be" category="VB"/>

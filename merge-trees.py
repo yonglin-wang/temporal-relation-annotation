@@ -15,10 +15,13 @@ def construct_df(event_order_attribs, cols):
 def get_tree(path):
     with open(path, 'r') as f: tree_str = f.read()
 
-    tree = etree.fromstring(bytes(tree_str, 
-                                  encoding='utf-8'))
+    # tree = etree.fromstring(bytes(tree_str, 
+                                  # encoding="utf-8"), strip_cdata=False)
+    parser = etree.XMLParser(strip_cdata=False)
+    tree = etree.parse(path, parser=parser)
+    root = tree.getroot()
 
-    return tree
+    return tree, root
 
 def get_event_orders(tree):
     eos = tree.cssselect("EVENT_ORDER")
@@ -36,11 +39,11 @@ def get_relationship(joined_df, eid):
 @click.option('--output-path', required=False)
 def main(unannotated_xml_path, annotated_xml_path, output_path):
 
-    unannotated_tree = get_tree(unannotated_xml_path)
-    annotated_tree = get_tree(annotated_xml_path)
+    unannotated_tree, unannotated_root = get_tree(unannotated_xml_path)
+    annotated_tree, annotated_root = get_tree(annotated_xml_path)
 
-    unannotated_event_orders = get_event_orders(unannotated_tree)
-    annotated_event_orders = get_event_orders(annotated_tree)
+    unannotated_event_orders = get_event_orders(unannotated_root)
+    annotated_event_orders = get_event_orders(annotated_root)
 
     cols = ['id', 'fromID', 'fromText', 'toID', 'toText', 'relationship']
     unannotated_df = construct_df(unannotated_event_orders, cols)
@@ -55,10 +58,8 @@ def main(unannotated_xml_path, annotated_xml_path, output_path):
         ueo['relationship'] = r
     
     # maybe the tree is annotated
-    unannotated_tree\
-            .getroottree()\
-            .write(output_path, 
-                   pretty_print=True)
+    unannotated_tree.write(output_path, pretty_print=True, encoding='utf-8')
+    
 
 if __name__ == '__main__':
     main()

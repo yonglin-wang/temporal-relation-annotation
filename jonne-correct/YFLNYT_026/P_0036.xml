@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>In an interview, Ms. Turner made clear that she had an unambiguous, and familiar, focus. &#8220;It&#8217;s the economy, stupid,&#8221; she said.</TEXT>
+<TEXT><![CDATA[In an interview, Ms. Turner made clear that she had an unambiguous, and familiar, focus. “It’s the economy, stupid,” she said.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="28~32" text="made" category="VBD"/>
 <VERB id="V1" spans="48~51" text="had" category="VBD"/>

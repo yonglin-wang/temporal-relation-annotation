@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Bernie Sanders has not yet been mathematically eliminated. And as the coronavirus outbreak causes many states to delay their primaries, it may be months until Mr. Biden wins an outright majority of delegates and becomes the presumptive Democratic nominee for president.</TEXT>
+<TEXT><![CDATA[Bernie Sanders has not yet been mathematically eliminated. And as the coronavirus outbreak causes many states to delay their primaries, it may be months until Mr. Biden wins an outright majority of delegates and becomes the presumptive Democratic nominee for president.]]></TEXT>
 <TAGS>
 <VERB id="V2" spans="47~57" text="eliminated" category="VBN"/>
 <VERB id="V3" spans="91~97" text="causes" category="VBZ"/>

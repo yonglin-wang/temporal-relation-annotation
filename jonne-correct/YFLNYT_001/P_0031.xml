@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>&#8220;That&#8217;s what I thought,&#8221; Ms. Winfrey replied. &#8220;I thought, &#8216;Oh gee, I don&#8217;t have the experience, I don&#8217;t know enough.&#8217; And now I&#8217;m thinking, &#8216;Oh! Oh.&#8217;&#8221;</TEXT>
+<TEXT><![CDATA[“That’s what I thought,” Ms. Winfrey replied. “I thought, ‘Oh gee, I don’t have the experience, I don’t know enough.’ And now I’m thinking, ‘Oh! Oh.’”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="6~7" text="s" category="VBP"/>
 <VERB id="V1" spans="15~22" text="thought" category="VBD"/>

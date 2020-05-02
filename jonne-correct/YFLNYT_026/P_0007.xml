@@ -1,6 +1,6 @@
 <TemporalRelationTask>
-<TEXT>AllofUs, an activist group led by young people, staged a sit-in at Senator Chuck Schumer's office to protest Democratic Party leadership.
-Over President Obama&#8217;s two terms, Democrats have embraced a down-the-line cultural liberalism that energized his coalition of millennials, minorities and college-educated whites.</TEXT>
+<TEXT><![CDATA[AllofUs, an activist group led by young people, staged a sit-in at Senator Chuck Schumer's office to protest Democratic Party leadership.
+Over President Obama’s two terms, Democrats have embraced a down-the-line cultural liberalism that energized his coalition of millennials, minorities and college-educated whites.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="27~30" text="led" category="VBN"/>
 <VERB id="V1" spans="48~54" text="staged" category="VBD"/>

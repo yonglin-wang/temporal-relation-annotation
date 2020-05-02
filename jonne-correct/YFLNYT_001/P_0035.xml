@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Gergen agreed. &#8220;Trump has been a performer for years,&#8221; he said. &#8220;Most chief executives aren&#8217;t performers.&#8221;</TEXT>
+<TEXT><![CDATA[Mr. Gergen agreed. “Trump has been a performer for years,” he said. “Most chief executives aren’t performers.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="11~17" text="agreed" category="VBD"/>
 <VERB id="V1" spans="30~34" text="been" category="VBN"/>

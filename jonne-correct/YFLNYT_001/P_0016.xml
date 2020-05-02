@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Schultz declined to comment.</TEXT>
+<TEXT><![CDATA[Mr. Schultz declined to comment.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="12~20" text="declined" category="VBD"/>
 <VERB id="V1" spans="24~31" text="comment" category="VB"/>

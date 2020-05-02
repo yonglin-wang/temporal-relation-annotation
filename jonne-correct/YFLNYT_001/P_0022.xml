@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Like Mr. Schultz, Mr. Benioff has pursued an ambitious social and philanthropic agenda. He started &#8220;Pledge 1%,&#8221; the Salesforce model of donating 1 percent of their product, 1 percent of their equity and 1 percent of employees&#8217; time to help nonprofits achieve their missions &#8212; a practice that Salesforce says is now followed by 1,400 companies. Mr. Benioff was an outspoken defender of gay and lesbian rights and helped create a network of corporate leaders to oppose bills limiting L.G.B.T. rights in states like Indiana, Georgia and North Carolina.</TEXT>
+<TEXT><![CDATA[Like Mr. Schultz, Mr. Benioff has pursued an ambitious social and philanthropic agenda. He started “Pledge 1%,” the Salesforce model of donating 1 percent of their product, 1 percent of their equity and 1 percent of employees’ time to help nonprofits achieve their missions — a practice that Salesforce says is now followed by 1,400 companies. Mr. Benioff was an outspoken defender of gay and lesbian rights and helped create a network of corporate leaders to oppose bills limiting L.G.B.T. rights in states like Indiana, Georgia and North Carolina.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="34~41" text="pursued" category="VBN"/>
 <VERB id="V1" spans="91~98" text="started" category="VBD"/>

@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>&#8220;Look at Rex Tillerson,&#8221; he added, referring to the Exxon chief turned secretary of state. &#8220;He&#8217;s extremely well regarded in corporate circles, but he&#8217;s having trouble with the press.&#8221;</TEXT>
+<TEXT><![CDATA[“Look at Rex Tillerson,” he added, referring to the Exxon chief turned secretary of state. “He’s extremely well regarded in corporate circles, but he’s having trouble with the press.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="28~33" text="added" category="VBD"/>
 <VERB id="V1" spans="35~44" text="referring" category="VBG"/>

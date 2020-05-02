@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>&#8220;Americans want to hear a stronger economic message from the party,&#8221; said Gov. Dannel P. Malloy of Connecticut, &#8220;but this shouldn&#8217;t be about a revolution, but about fairness.&#8221;</TEXT>
+<TEXT><![CDATA[“Americans want to hear a stronger economic message from the party,” said Gov. Dannel P. Malloy of Connecticut, “but this shouldn’t be about a revolution, but about fairness.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="11~15" text="want" category="VBP"/>
 <VERB id="V1" spans="19~23" text="hear" category="VB"/>

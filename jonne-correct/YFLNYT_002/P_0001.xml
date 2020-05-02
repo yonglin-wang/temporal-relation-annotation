@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>The representative from Hawaii, who often defied her own party, announced the end of her campaign and said she would back Joe Biden.</TEXT>
+<TEXT><![CDATA[The representative from Hawaii, who often defied her own party, announced the end of her campaign and said she would back Joe Biden.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="42~48" text="defied" category="VBD"/>
 <VERB id="V1" spans="64~73" text="announced" category="VBD"/>

@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>The campaign disbursed tens of thousands of dollars to a firm owned by Mr. Trump&#8217;s chief strategist Stephen K. Bannon. The bill was for &#8220;administrative assistant/secretarial&#8221; services.</TEXT>
+<TEXT><![CDATA[The campaign disbursed tens of thousands of dollars to a firm owned by Mr. Trump’s chief strategist Stephen K. Bannon. The bill was for “administrative assistant/secretarial” services.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="13~22" text="disbursed" category="VBD"/>
 <VERB id="V1" spans="62~67" text="owned" category="VBN"/>

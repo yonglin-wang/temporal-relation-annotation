@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Benioff, 52, whose stake in Salesforce alone is worth over $3 billion and who has a net worth estimated by Forbes at over $4 billion, has also written three books, including the best-selling &#8220;Behind the Cloud.&#8221; Still, he&#8217;s hardly a household name, and is best known in business and technology circles.</TEXT>
+<TEXT><![CDATA[Mr. Benioff, 52, whose stake in Salesforce alone is worth over $3 billion and who has a net worth estimated by Forbes at over $4 billion, has also written three books, including the best-selling “Behind the Cloud.” Still, he’s hardly a household name, and is best known in business and technology circles.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="49~51" text="is" category="VBZ"/>
 <VERB id="V1" spans="82~85" text="has" category="VBZ"/>
