@@ -9,7 +9,7 @@
 <VERB id="V3" spans="228~231" text="had" category="VBD" />
 <VERB id="V4" spans="273~277" text="said" category="VBD" />
 <VERB id="V5" spans="313~322" text="switching" category="VBG" />
-<VERB id="V6" spans="375~381" text="shrunk" category="VBZ" />
+<VERB id="V6" spans="375~381" text="shrunk" category="VBD" />
 <VERB id="V7" spans="406~413" text="allowed" category="VBN" />
 <VERB id="V8" spans="458~464" text="raised" category="VBD" />
 <VERB id="V9" spans="513~521" text="continue" category="VB" />

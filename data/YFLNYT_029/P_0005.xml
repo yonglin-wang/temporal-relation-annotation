@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[For months, Biden advisers had said they just needed enough cash to compete, and all the way through the end of February, Mr. Biden was racing to conserve that cash.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="31~35" text="said" category="VBD" />
+<VERB id="V0" spans="31~35" text="said" category="VBN" />
 <VERB id="V1" spans="46~52" text="needed" category="VBD" />
 <VERB id="V2" spans="68~75" text="compete" category="VB" />
 <VERB id="V3" spans="136~142" text="racing" category="VBG" />

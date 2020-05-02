@@ -4,23 +4,16 @@
 <TEXT><![CDATA[The journalist James Fallows noted on Twitter that the cable networks were “repeating the mistake they made w wall-to-wall coverage of rallies in 2015 and 2016. W/o live coverage, Trump will stop showing up; scientists can speak.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="29~34" text="noted" category="VBD" />
-<VERB id="V1" spans="70~74" text="were" category="VBD" />
 <VERB id="V2" spans="76~85" text="repeating" category="VBG" />
 <VERB id="V3" spans="103~107" text="made" category="VBD" />
 <VERB id="V4" spans="191~195" text="stop" category="VB" />
 <VERB id="V5" spans="196~203" text="showing" category="VBG" />
 <VERB id="V6" spans="223~228" text="speak" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="noted" toID="V1" toText="were" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="noted" toID="V2" toText="repeating" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="noted" toID="V3" toText="made" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="noted" toID="V4" toText="stop" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="noted" toID="V5" toText="showing" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="noted" toID="V6" toText="speak" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="were" toID="V2" toText="repeating" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="were" toID="V3" toText="made" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="were" toID="V4" toText="stop" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="were" toID="V5" toText="showing" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="were" toID="V6" toText="speak" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="repeating" toID="V3" toText="made" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="repeating" toID="V4" toText="stop" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="repeating" toID="V5" toText="showing" />

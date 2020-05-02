@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Will any of the low-carbon behaviors that people have adopted persist after the crisis passes? Charles Duhigg, the author of “The Power of Habit” and a former New York Times reporter, said habits built over lifetimes are hard to shake. “As soon as the environment becomes stable again, the habit starts to reassert itself” unless there is a “powerful reward” to the new behavior.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="54~61" text="adopted" category="VBN" />
+<VERB id="V1" spans="184~188" text="said" category="VBD" />
+<VERB id="V2" spans="196~201" text="built" category="VBN" />
+<VERB id="V3" spans="217~220" text="are" category="VBP" />
+<VERB id="V4" spans="229~234" text="shake" category="VB" />
+<VERB id="V5" spans="264~271" text="becomes" category="VBZ" />
+<VERB id="V6" spans="296~302" text="starts" category="VBZ" />
+<VERB id="V7" spans="306~314" text="reassert" category="VB" />
+<VERB id="V8" spans="336~338" text="is" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="adopted" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="adopted" toID="V2" toText="built" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="adopted" toID="V3" toText="are" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="adopted" toID="V4" toText="shake" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="adopted" toID="V5" toText="becomes" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="adopted" toID="V6" toText="starts" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="adopted" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="adopted" toID="V8" toText="is" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="said" toID="V2" toText="built" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="said" toID="V3" toText="are" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V4" toText="shake" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="said" toID="V5" toText="becomes" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="said" toID="V6" toText="starts" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="said" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="said" toID="V8" toText="is" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="built" toID="V3" toText="are" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="built" toID="V4" toText="shake" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="built" toID="V5" toText="becomes" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="built" toID="V6" toText="starts" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="built" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="built" toID="V8" toText="is" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="are" toID="V4" toText="shake" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="are" toID="V5" toText="becomes" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="are" toID="V6" toText="starts" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="are" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="are" toID="V8" toText="is" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="shake" toID="V5" toText="becomes" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="shake" toID="V6" toText="starts" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="shake" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="shake" toID="V8" toText="is" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="becomes" toID="V6" toText="starts" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="becomes" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="becomes" toID="V8" toText="is" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="starts" toID="V7" toText="reassert" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="starts" toID="V8" toText="is" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="reassert" toID="V8" toText="is" />
+</TAGS>
+</TemporalRelationTask>

@@ -3,19 +3,12 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Senior officials in Mr. Paul’s Washington office told their staffs that none of them were at risk, the person said. But the aides remained livid that they were informed of Mr. Paul’s exposure only minutes before their office publicly announced his positive test results.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="15~16" text="s" category="VBD" />
 <VERB id="V1" spans="49~53" text="told" category="VBD" />
 <VERB id="V2" spans="85~89" text="were" category="VBD" />
 <VERB id="V3" spans="110~114" text="said" category="VBD" />
 <VERB id="V4" spans="130~138" text="remained" category="VBD" />
 <VERB id="V5" spans="160~168" text="informed" category="VBN" />
 <VERB id="V6" spans="234~243" text="announced" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="told" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="were" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="said" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="remained" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="informed" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="announced" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="told" toID="V2" toText="were" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="told" toID="V3" toText="said" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="told" toID="V4" toText="remained" />

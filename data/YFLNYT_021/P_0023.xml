@@ -7,7 +7,7 @@
 <VERB id="V1" spans="36~40" text="feel" category="VB" />
 <VERB id="V2" spans="86~96" text="continuing" category="VBG" />
 <VERB id="V3" spans="100~104" text="play" category="VB" />
-<VERB id="V4" spans="145~152" text="enliven" category="VBP" />
+<VERB id="V4" spans="145~152" text="enliven" category="VBZ" />
 <VERB id="V5" spans="177~183" text="lashed" category="VBD" />
 <VERB id="V6" spans="212~220" text="prompted" category="VBN" />
 <VERB id="V7" spans="228~235" text="explain" category="VB" />

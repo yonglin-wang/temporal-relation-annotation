@@ -9,7 +9,7 @@
 <VERB id="V3" spans="141~144" text="try" category="VB" />
 <VERB id="V4" spans="148~153" text="avoid" category="VB" />
 <VERB id="V5" spans="242~249" text="advised" category="VBN" />
-<VERB id="V6" spans="265~271" text="cancel" category="VBP" />
+<VERB id="V6" spans="265~271" text="cancel" category="VB" />
 <VERB id="V7" spans="334~341" text="ordered" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="treat" toID="V1" toText="feel" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="treat" toID="V2" toText="stay" />

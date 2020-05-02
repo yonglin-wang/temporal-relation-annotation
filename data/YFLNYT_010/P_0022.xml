@@ -3,19 +3,12 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Dr. Jain’s days are now filled with all sorts of new precautions: designating clothing just for work, removing his scrubs before coming home, hand sanitizing more often than he already did. It’s an adjustment, he said, to his routine life as a gastrointestinal specialist.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="16~19" text="are" category="VBP" />
 <VERB id="V1" spans="24~30" text="filled" category="VBN" />
 <VERB id="V2" spans="66~77" text="designating" category="VBG" />
 <VERB id="V3" spans="102~110" text="removing" category="VBG" />
 <VERB id="V4" spans="147~157" text="sanitizing" category="VBG" />
 <VERB id="V5" spans="185~188" text="did" category="VBD" />
 <VERB id="V6" spans="213~217" text="said" category="VBD" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="filled" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="designating" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="removing" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="are" toID="V4" toText="sanitizing" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="did" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="are" toID="V6" toText="said" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="filled" toID="V2" toText="designating" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="filled" toID="V3" toText="removing" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="filled" toID="V4" toText="sanitizing" />

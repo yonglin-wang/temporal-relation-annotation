@@ -3,19 +3,12 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The great unknown, of course — and the tremendous risk to Mr. Trump’s political fate, no matter what he says or does — is that the human cost, the economic toll, and the longevity and course of the pandemic are all X factors that will most likely play out for months and could be strongly salient if not severe by the time of the November general election.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="26~27" text="s" category="VB" />
 <VERB id="V1" spans="104~108" text="says" category="VBZ" />
 <VERB id="V2" spans="112~116" text="does" category="VBZ" />
 <VERB id="V3" spans="119~121" text="is" category="VBZ" />
 <VERB id="V4" spans="207~210" text="are" category="VBP" />
 <VERB id="V5" spans="277~279" text="be" category="VB" />
 <VERB id="V6" spans="304~310" text="severe" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="says" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="does" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="is" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="are" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="be" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="severe" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="says" toID="V2" toText="does" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="says" toID="V3" toText="is" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="says" toID="V4" toText="are" />

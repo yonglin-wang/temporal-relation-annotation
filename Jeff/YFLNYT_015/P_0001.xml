@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The former New York mayor, announcing he would donate $18 million to the Democratic National Committee, abandoned a plan to employ his campaign organizers through November.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="27~37" text="announcing" category="VBG" />
+<VERB id="V1" spans="47~53" text="donate" category="VB" />
+<VERB id="V2" spans="104~113" text="abandoned" category="VBD" />
+<VERB id="V3" spans="124~130" text="employ" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="announcing" toID="V1" toText="donate" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="announcing" toID="V2" toText="abandoned" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="announcing" toID="V3" toText="employ" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="donate" toID="V2" toText="abandoned" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="donate" toID="V3" toText="employ" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="abandoned" toID="V3" toText="employ" />
+</TAGS>
+</TemporalRelationTask>

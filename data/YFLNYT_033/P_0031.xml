@@ -5,7 +5,6 @@
 <TAGS>
 <VERB id="V0" spans="37~45" text="choosing" category="VBG" />
 <VERB id="V1" spans="63~65" text="is" category="VBZ" />
-<VERB id="V2" spans="95~104" text="simpatico" category="VBN" />
 <VERB id="V3" spans="133~137" text="want" category="VBP" />
 <VERB id="V4" spans="141~145" text="take" category="VB" />
 <VERB id="V5" spans="163~167" text="said" category="VBD" />
@@ -15,7 +14,6 @@
 <VERB id="V9" spans="242~245" text="was" category="VBD" />
 <VERB id="V10" spans="254~256" text="do" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="choosing" toID="V1" toText="is" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="choosing" toID="V2" toText="simpatico" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="choosing" toID="V3" toText="want" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="choosing" toID="V4" toText="take" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="choosing" toID="V5" toText="said" />
@@ -24,7 +22,6 @@
 <EVENT_ORDER id="E7" fromID="V0" fromText="choosing" toID="V8" toText="do" />
 <EVENT_ORDER id="E8" fromID="V0" fromText="choosing" toID="V9" toText="was" />
 <EVENT_ORDER id="E9" fromID="V0" fromText="choosing" toID="V10" toText="do" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V2" toText="simpatico" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="is" toID="V3" toText="want" />
 <EVENT_ORDER id="E12" fromID="V1" fromText="is" toID="V4" toText="take" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="is" toID="V5" toText="said" />
@@ -33,14 +30,6 @@
 <EVENT_ORDER id="E16" fromID="V1" fromText="is" toID="V8" toText="do" />
 <EVENT_ORDER id="E17" fromID="V1" fromText="is" toID="V9" toText="was" />
 <EVENT_ORDER id="E18" fromID="V1" fromText="is" toID="V10" toText="do" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="simpatico" toID="V3" toText="want" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="simpatico" toID="V4" toText="take" />
-<EVENT_ORDER id="E21" fromID="V2" fromText="simpatico" toID="V5" toText="said" />
-<EVENT_ORDER id="E22" fromID="V2" fromText="simpatico" toID="V6" toText="s" />
-<EVENT_ORDER id="E23" fromID="V2" fromText="simpatico" toID="V7" toText="is" />
-<EVENT_ORDER id="E24" fromID="V2" fromText="simpatico" toID="V8" toText="do" />
-<EVENT_ORDER id="E25" fromID="V2" fromText="simpatico" toID="V9" toText="was" />
-<EVENT_ORDER id="E26" fromID="V2" fromText="simpatico" toID="V10" toText="do" />
 <EVENT_ORDER id="E27" fromID="V3" fromText="want" toID="V4" toText="take" />
 <EVENT_ORDER id="E28" fromID="V3" fromText="want" toID="V5" toText="said" />
 <EVENT_ORDER id="E29" fromID="V3" fromText="want" toID="V6" toText="s" />

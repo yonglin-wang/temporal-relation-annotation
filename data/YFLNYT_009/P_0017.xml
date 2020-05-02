@@ -3,9 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[As the legislation is currently written, Mr. Mnuchin would not have to disclose the recipients until six months after the loans were disbursed. Some Democrats also said the legislation as written could allow Mr. Trump’s real estate empire to take advantage of the federal aid, and after years of being stonewalled by the White House on oversight requests, they worried that the administration would refuse attempts by Congress to keep tabs on the program.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="10~12" text="is" category="VBZ" />
 <VERB id="V1" spans="32~39" text="written" category="VBN" />
-<VERB id="V2" spans="63~67" text="have" category="VB" />
 <VERB id="V3" spans="71~79" text="disclose" category="VB" />
 <VERB id="V4" spans="133~142" text="disbursed" category="VBN" />
 <VERB id="V5" spans="164~168" text="said" category="VBD" />
@@ -17,20 +15,6 @@
 <VERB id="V11" spans="361~368" text="worried" category="VBD" />
 <VERB id="V12" spans="399~405" text="refuse" category="VB" />
 <VERB id="V13" spans="430~434" text="keep" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="written" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="have" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="disclose" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="disbursed" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="said" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="written" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="allow" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="take" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="is" toID="V9" toText="being" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="is" toID="V10" toText="stonewalled" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="is" toID="V11" toText="worried" />
-<EVENT_ORDER id="E11" fromID="V0" fromText="is" toID="V12" toText="refuse" />
-<EVENT_ORDER id="E12" fromID="V0" fromText="is" toID="V13" toText="keep" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="written" toID="V2" toText="have" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="written" toID="V3" toText="disclose" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="written" toID="V4" toText="disbursed" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="written" toID="V5" toText="said" />
@@ -42,17 +26,6 @@
 <EVENT_ORDER id="E22" fromID="V1" fromText="written" toID="V11" toText="worried" />
 <EVENT_ORDER id="E23" fromID="V1" fromText="written" toID="V12" toText="refuse" />
 <EVENT_ORDER id="E24" fromID="V1" fromText="written" toID="V13" toText="keep" />
-<EVENT_ORDER id="E25" fromID="V2" fromText="have" toID="V3" toText="disclose" />
-<EVENT_ORDER id="E26" fromID="V2" fromText="have" toID="V4" toText="disbursed" />
-<EVENT_ORDER id="E27" fromID="V2" fromText="have" toID="V5" toText="said" />
-<EVENT_ORDER id="E28" fromID="V2" fromText="have" toID="V6" toText="written" />
-<EVENT_ORDER id="E29" fromID="V2" fromText="have" toID="V7" toText="allow" />
-<EVENT_ORDER id="E30" fromID="V2" fromText="have" toID="V8" toText="take" />
-<EVENT_ORDER id="E31" fromID="V2" fromText="have" toID="V9" toText="being" />
-<EVENT_ORDER id="E32" fromID="V2" fromText="have" toID="V10" toText="stonewalled" />
-<EVENT_ORDER id="E33" fromID="V2" fromText="have" toID="V11" toText="worried" />
-<EVENT_ORDER id="E34" fromID="V2" fromText="have" toID="V12" toText="refuse" />
-<EVENT_ORDER id="E35" fromID="V2" fromText="have" toID="V13" toText="keep" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="disclose" toID="V4" toText="disbursed" />
 <EVENT_ORDER id="E37" fromID="V3" fromText="disclose" toID="V5" toText="said" />
 <EVENT_ORDER id="E38" fromID="V3" fromText="disclose" toID="V6" toText="written" />

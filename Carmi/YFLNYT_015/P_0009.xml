@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In a conference call Friday, about 1,500 former campaign staff members across the country — including some who had been laid off earlier in the month — were informed of the plans by the campaign’s states director and encouraged to apply to work for the D.N.C., though they were advised that, should they be hired, those jobs would carry different pay and benefits.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="92~101" text="including" category="VBG" />
+<VERB id="V1" spans="120~124" text="laid" category="VBN" />
+<VERB id="V2" spans="157~165" text="informed" category="VBN" />
+<VERB id="V3" spans="217~227" text="encouraged" category="VBD" />
+<VERB id="V4" spans="231~236" text="apply" category="VB" />
+<VERB id="V5" spans="240~244" text="work" category="VB" />
+<VERB id="V6" spans="278~285" text="advised" category="VBN" />
+<VERB id="V7" spans="307~312" text="hired" category="VBN" />
+<VERB id="V8" spans="331~336" text="carry" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="including" toID="V1" toText="laid" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="including" toID="V2" toText="informed" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="including" toID="V3" toText="encouraged" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="including" toID="V4" toText="apply" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="including" toID="V5" toText="work" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="including" toID="V6" toText="advised" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="including" toID="V7" toText="hired" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="including" toID="V8" toText="carry" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="laid" toID="V2" toText="informed" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="laid" toID="V3" toText="encouraged" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="laid" toID="V4" toText="apply" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="laid" toID="V5" toText="work" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="laid" toID="V6" toText="advised" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="laid" toID="V7" toText="hired" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="laid" toID="V8" toText="carry" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="informed" toID="V3" toText="encouraged" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="informed" toID="V4" toText="apply" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="informed" toID="V5" toText="work" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="informed" toID="V6" toText="advised" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="informed" toID="V7" toText="hired" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="informed" toID="V8" toText="carry" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="encouraged" toID="V4" toText="apply" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="encouraged" toID="V5" toText="work" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="encouraged" toID="V6" toText="advised" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="encouraged" toID="V7" toText="hired" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="encouraged" toID="V8" toText="carry" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="apply" toID="V5" toText="work" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="apply" toID="V6" toText="advised" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="apply" toID="V7" toText="hired" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="apply" toID="V8" toText="carry" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="work" toID="V6" toText="advised" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="work" toID="V7" toText="hired" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="work" toID="V8" toText="carry" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="advised" toID="V7" toText="hired" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="advised" toID="V8" toText="carry" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="hired" toID="V8" toText="carry" />
+</TAGS>
+</TemporalRelationTask>

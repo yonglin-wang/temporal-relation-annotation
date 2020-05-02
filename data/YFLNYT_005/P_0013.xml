@@ -3,7 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[So far Mr. Trump’s campaign stands alone in trying to create his own virtual reality, mostly ignoring the virus (with the exception of one email and text message a week ago linking to C.D.C. guidance), belittling Democrats and bashing the media even as the outbreak has upended almost every facet of American life.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="17~18" text="s" category="VBD" />
 <VERB id="V1" spans="28~34" text="stands" category="VBZ" />
 <VERB id="V2" spans="44~50" text="trying" category="VBG" />
 <VERB id="V3" spans="54~60" text="create" category="VB" />
@@ -12,14 +11,6 @@
 <VERB id="V6" spans="202~212" text="belittling" category="VBG" />
 <VERB id="V7" spans="227~234" text="bashing" category="VBG" />
 <VERB id="V8" spans="270~277" text="upended" category="VBN" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="stands" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="trying" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="create" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="ignoring" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="linking" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="belittling" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="bashing" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="upended" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="stands" toID="V2" toText="trying" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="stands" toID="V3" toText="create" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="stands" toID="V4" toText="ignoring" />

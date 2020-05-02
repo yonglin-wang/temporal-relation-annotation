@@ -7,7 +7,7 @@
 <VERB id="V1" spans="25~35" text="cultivated" category="VBN" />
 <VERB id="V2" spans="71~78" text="visited" category="VBD" />
 <VERB id="V3" spans="103~108" text="raise" category="VB" />
-<VERB id="V4" spans="119~126" text="collect" category="VBP" />
+<VERB id="V4" spans="119~126" text="collect" category="VB" />
 <VERB id="V5" spans="258~262" text="said" category="VBD" />
 <VERB id="V6" spans="274~277" text="had" category="VBD" />
 <VERB id="V7" spans="288~297" text="indicated" category="VBN" />

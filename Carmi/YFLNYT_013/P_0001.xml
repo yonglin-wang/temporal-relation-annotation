@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[As the nation shifts abruptly into the fight against coronavirus, a question arises: could social isolation help reduce an individual’s production of greenhouse gases and end up having unexpected consequences for climate change?]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="14~20" text="shifts" category="VBZ" />
+<VERB id="V1" spans="113~119" text="reduce" category="VB" />
+<VERB id="V2" spans="171~174" text="end" category="VB" />
+<VERB id="V3" spans="178~184" text="having" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="shifts" toID="V1" toText="reduce" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="shifts" toID="V2" toText="end" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="shifts" toID="V3" toText="having" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="reduce" toID="V2" toText="end" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="reduce" toID="V3" toText="having" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="end" toID="V3" toText="having" />
+</TAGS>
+</TemporalRelationTask>

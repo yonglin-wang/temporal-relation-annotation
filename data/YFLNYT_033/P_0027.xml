@@ -4,7 +4,7 @@
 <TEXT><![CDATA[“The first and most important criteria is, can this person help you win in November and will they at least not hurt you in November,” said Mr. Podesta.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="39~41" text="is" category="VBZ" />
-<VERB id="V1" spans="68~71" text="win" category="VBP" />
+<VERB id="V1" spans="68~71" text="win" category="VB" />
 <VERB id="V2" spans="111~115" text="hurt" category="VB" />
 <VERB id="V3" spans="134~138" text="said" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="win" />

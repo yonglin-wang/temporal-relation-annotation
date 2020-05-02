@@ -3,33 +3,20 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[President Trump has yet to nominate a new ambassador to replace John R. Bass, who left the embassy in Kabul in January. Instead, the State Department appointed a skilled but retired place-holder, Ross Wilson, to serve as the embassy’s chargé d’affaires.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="16~19" text="has" category="VBZ" />
 <VERB id="V1" spans="27~35" text="nominate" category="VB" />
 <VERB id="V2" spans="56~63" text="replace" category="VB" />
 <VERB id="V3" spans="82~86" text="left" category="VBD" />
 <VERB id="V4" spans="150~159" text="appointed" category="VBD" />
 <VERB id="V5" spans="212~217" text="serve" category="VB" />
-<VERB id="V6" spans="244~252" text="affaires" category="VBZ" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="has" toID="V1" toText="nominate" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="replace" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="left" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="appointed" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="serve" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="has" toID="V6" toText="affaires" />
 <EVENT_ORDER id="E6" fromID="V1" fromText="nominate" toID="V2" toText="replace" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="nominate" toID="V3" toText="left" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="nominate" toID="V4" toText="appointed" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="nominate" toID="V5" toText="serve" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="nominate" toID="V6" toText="affaires" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="replace" toID="V3" toText="left" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="replace" toID="V4" toText="appointed" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="replace" toID="V5" toText="serve" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="replace" toID="V6" toText="affaires" />
 <EVENT_ORDER id="E15" fromID="V3" fromText="left" toID="V4" toText="appointed" />
 <EVENT_ORDER id="E16" fromID="V3" fromText="left" toID="V5" toText="serve" />
-<EVENT_ORDER id="E17" fromID="V3" fromText="left" toID="V6" toText="affaires" />
 <EVENT_ORDER id="E18" fromID="V4" fromText="appointed" toID="V5" toText="serve" />
-<EVENT_ORDER id="E19" fromID="V4" fromText="appointed" toID="V6" toText="affaires" />
-<EVENT_ORDER id="E20" fromID="V5" fromText="serve" toID="V6" toText="affaires" />
 </TAGS>
 </TemporalRelationTask>

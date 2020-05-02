@@ -5,39 +5,24 @@
 <TAGS>
 <VERB id="V0" spans="10~17" text="thought" category="VBD" />
 <VERB id="V1" spans="50~59" text="stretches" category="VBZ" />
-<VERB id="V2" spans="60~61" text="s" category="VBD" />
-<VERB id="V3" spans="129~135" text="needed" category="VBN" />
+<VERB id="V3" spans="129~135" text="needed" category="VBD" />
 <VERB id="V4" spans="139~142" text="act" category="VB" />
 <VERB id="V5" spans="154~159" text="blunt" category="VB" />
 <VERB id="V6" spans="197~204" text="protect" category="VB" />
-<VERB id="V7" spans="214~215" text="s" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="thought" toID="V1" toText="stretches" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="thought" toID="V2" toText="s" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="thought" toID="V3" toText="needed" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="thought" toID="V4" toText="act" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="thought" toID="V5" toText="blunt" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="thought" toID="V6" toText="protect" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="thought" toID="V7" toText="s" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="stretches" toID="V2" toText="s" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="stretches" toID="V3" toText="needed" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="stretches" toID="V4" toText="act" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="stretches" toID="V5" toText="blunt" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="stretches" toID="V6" toText="protect" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="stretches" toID="V7" toText="s" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="s" toID="V3" toText="needed" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="s" toID="V4" toText="act" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="s" toID="V5" toText="blunt" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="s" toID="V6" toText="protect" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="s" toID="V7" toText="s" />
 <EVENT_ORDER id="E18" fromID="V3" fromText="needed" toID="V4" toText="act" />
 <EVENT_ORDER id="E19" fromID="V3" fromText="needed" toID="V5" toText="blunt" />
 <EVENT_ORDER id="E20" fromID="V3" fromText="needed" toID="V6" toText="protect" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="needed" toID="V7" toText="s" />
 <EVENT_ORDER id="E22" fromID="V4" fromText="act" toID="V5" toText="blunt" />
 <EVENT_ORDER id="E23" fromID="V4" fromText="act" toID="V6" toText="protect" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="act" toID="V7" toText="s" />
 <EVENT_ORDER id="E25" fromID="V5" fromText="blunt" toID="V6" toText="protect" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="blunt" toID="V7" toText="s" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="protect" toID="V7" toText="s" />
 </TAGS>
 </TemporalRelationTask>

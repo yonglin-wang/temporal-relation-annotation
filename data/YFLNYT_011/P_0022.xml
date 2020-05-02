@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The United States government has said that no more than 10 people should gather in one place. Switzerland says people in groups of fewer than five must stay at least two meters (six and a half feet) apart, of face a fine. Austria’s chancellor, too, announced major restrictions on movement in public places, banning gatherings of more than five people.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="33~37" text="said" category="VBD" />
+<VERB id="V0" spans="33~37" text="said" category="VBN" />
 <VERB id="V1" spans="73~79" text="gather" category="VB" />
 <VERB id="V2" spans="106~110" text="says" category="VBZ" />
 <VERB id="V3" spans="152~156" text="stay" category="VB" />

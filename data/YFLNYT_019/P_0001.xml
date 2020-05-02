@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Even as new coronavirus infections appear to slow, a backlog is forcing doctors to make increasingly tough choices about treatment.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="35~41" text="appear" category="VBP" />
+<VERB id="V0" spans="35~41" text="appear" category="VBZ" />
 <VERB id="V1" spans="45~49" text="slow" category="VB" />
 <VERB id="V2" spans="64~71" text="forcing" category="VBG" />
 <VERB id="V3" spans="83~87" text="make" category="VB" />

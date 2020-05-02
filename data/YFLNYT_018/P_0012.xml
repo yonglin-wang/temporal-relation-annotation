@@ -5,7 +5,7 @@
 <TAGS>
 <VERB id="V0" spans="81~88" text="thought" category="VBN" />
 <VERB id="V1" spans="95~101" text="giving" category="VBG" />
-<VERB id="V2" spans="293~296" text="are" category="VBP" />
+<VERB id="V2" spans="293~296" text="are" category="VBZ" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="thought" toID="V1" toText="giving" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="thought" toID="V2" toText="are" />
 <EVENT_ORDER id="E2" fromID="V1" fromText="giving" toID="V2" toText="are" />

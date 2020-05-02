@@ -4,20 +4,14 @@
 <TEXT><![CDATA[On Tuesday, Ms. Harris began her day with an early-morning appearance on MSNBC’s “Morning Joe,” where she gushed about Mrs. Clinton and tried to express understanding for the still-frustrated supporters of Mr. Sanders.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="23~28" text="began" category="VBD" />
-<VERB id="V1" spans="79~80" text="s" category="VBD" />
 <VERB id="V2" spans="106~112" text="gushed" category="VBD" />
 <VERB id="V3" spans="136~141" text="tried" category="VBD" />
 <VERB id="V4" spans="145~152" text="express" category="VB" />
 <VERB id="V5" spans="153~166" text="understanding" category="VBG" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="began" toID="V1" toText="s" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="began" toID="V2" toText="gushed" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="began" toID="V3" toText="tried" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="began" toID="V4" toText="express" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="began" toID="V5" toText="understanding" />
-<EVENT_ORDER id="E5" fromID="V1" fromText="s" toID="V2" toText="gushed" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="s" toID="V3" toText="tried" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="s" toID="V4" toText="express" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="s" toID="V5" toText="understanding" />
 <EVENT_ORDER id="E9" fromID="V2" fromText="gushed" toID="V3" toText="tried" />
 <EVENT_ORDER id="E10" fromID="V2" fromText="gushed" toID="V4" toText="express" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="gushed" toID="V5" toText="understanding" />

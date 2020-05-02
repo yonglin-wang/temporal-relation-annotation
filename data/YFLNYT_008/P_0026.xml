@@ -3,7 +3,6 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[They were also pressing for additional safeguards to prevent companies from taking federal funds and then laying off workers. Democrats have proposed restricting eligibility for the government aid to companies that promise to maintain 90 percent of their staff.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="5~9" text="were" category="VBD" />
 <VERB id="V1" spans="15~23" text="pressing" category="VBG" />
 <VERB id="V2" spans="53~60" text="prevent" category="VB" />
 <VERB id="V3" spans="76~82" text="taking" category="VBG" />
@@ -11,13 +10,6 @@
 <VERB id="V5" spans="141~149" text="proposed" category="VBN" />
 <VERB id="V6" spans="215~222" text="promise" category="VBP" />
 <VERB id="V7" spans="226~234" text="maintain" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="were" toID="V1" toText="pressing" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="were" toID="V2" toText="prevent" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="were" toID="V3" toText="taking" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="were" toID="V4" toText="laying" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="were" toID="V5" toText="proposed" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="were" toID="V6" toText="promise" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="were" toID="V7" toText="maintain" />
 <EVENT_ORDER id="E7" fromID="V1" fromText="pressing" toID="V2" toText="prevent" />
 <EVENT_ORDER id="E8" fromID="V1" fromText="pressing" toID="V3" toText="taking" />
 <EVENT_ORDER id="E9" fromID="V1" fromText="pressing" toID="V4" toText="laying" />

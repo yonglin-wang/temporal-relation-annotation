@@ -3,41 +3,23 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[Trump’s path to the Republican nomination has gone from virtually assured to virtually guaranteed. There’s a difference! And its name is Bill Weld, the former Massachusetts governor, who was Trump’s last challenger until he dropped out of the race on Wednesday. In a statement announcing the end of his campaign, Weld didn’t name Trump directly but said that “we will truly have lost our compass” as a nation if the president refuses to abide by “the rule of law under our Constitution.”]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="6~7" text="s" category="VBD" />
 <VERB id="V1" spans="46~50" text="gone" category="VBN" />
 <VERB id="V2" spans="66~73" text="assured" category="VBN" />
 <VERB id="V3" spans="87~97" text="guaranteed" category="VB" />
 <VERB id="V4" spans="134~136" text="is" category="VBZ" />
 <VERB id="V5" spans="187~190" text="was" category="VBD" />
-<VERB id="V6" spans="197~198" text="s" category="VBD" />
 <VERB id="V7" spans="224~231" text="dropped" category="VBD" />
 <VERB id="V8" spans="277~287" text="announcing" category="VBG" />
-<VERB id="V9" spans="318~322" text="didn" category="VBZ" />
 <VERB id="V10" spans="349~353" text="said" category="VBD" />
 <VERB id="V11" spans="379~383" text="lost" category="VBN" />
 <VERB id="V12" spans="426~433" text="refuses" category="VBZ" />
 <VERB id="V13" spans="437~442" text="abide" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="s" toID="V1" toText="gone" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="assured" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="s" toID="V3" toText="guaranteed" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="s" toID="V4" toText="is" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="was" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="s" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="dropped" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="s" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E8" fromID="V0" fromText="s" toID="V9" toText="didn" />
-<EVENT_ORDER id="E9" fromID="V0" fromText="s" toID="V10" toText="said" />
-<EVENT_ORDER id="E10" fromID="V0" fromText="s" toID="V11" toText="lost" />
-<EVENT_ORDER id="E11" fromID="V0" fromText="s" toID="V12" toText="refuses" />
-<EVENT_ORDER id="E12" fromID="V0" fromText="s" toID="V13" toText="abide" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="gone" toID="V2" toText="assured" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="gone" toID="V3" toText="guaranteed" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="gone" toID="V4" toText="is" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="gone" toID="V5" toText="was" />
-<EVENT_ORDER id="E17" fromID="V1" fromText="gone" toID="V6" toText="s" />
 <EVENT_ORDER id="E18" fromID="V1" fromText="gone" toID="V7" toText="dropped" />
 <EVENT_ORDER id="E19" fromID="V1" fromText="gone" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E20" fromID="V1" fromText="gone" toID="V9" toText="didn" />
 <EVENT_ORDER id="E21" fromID="V1" fromText="gone" toID="V10" toText="said" />
 <EVENT_ORDER id="E22" fromID="V1" fromText="gone" toID="V11" toText="lost" />
 <EVENT_ORDER id="E23" fromID="V1" fromText="gone" toID="V12" toText="refuses" />
@@ -45,63 +27,42 @@
 <EVENT_ORDER id="E25" fromID="V2" fromText="assured" toID="V3" toText="guaranteed" />
 <EVENT_ORDER id="E26" fromID="V2" fromText="assured" toID="V4" toText="is" />
 <EVENT_ORDER id="E27" fromID="V2" fromText="assured" toID="V5" toText="was" />
-<EVENT_ORDER id="E28" fromID="V2" fromText="assured" toID="V6" toText="s" />
 <EVENT_ORDER id="E29" fromID="V2" fromText="assured" toID="V7" toText="dropped" />
 <EVENT_ORDER id="E30" fromID="V2" fromText="assured" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E31" fromID="V2" fromText="assured" toID="V9" toText="didn" />
 <EVENT_ORDER id="E32" fromID="V2" fromText="assured" toID="V10" toText="said" />
 <EVENT_ORDER id="E33" fromID="V2" fromText="assured" toID="V11" toText="lost" />
 <EVENT_ORDER id="E34" fromID="V2" fromText="assured" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E35" fromID="V2" fromText="assured" toID="V13" toText="abide" />
 <EVENT_ORDER id="E36" fromID="V3" fromText="guaranteed" toID="V4" toText="is" />
 <EVENT_ORDER id="E37" fromID="V3" fromText="guaranteed" toID="V5" toText="was" />
-<EVENT_ORDER id="E38" fromID="V3" fromText="guaranteed" toID="V6" toText="s" />
 <EVENT_ORDER id="E39" fromID="V3" fromText="guaranteed" toID="V7" toText="dropped" />
 <EVENT_ORDER id="E40" fromID="V3" fromText="guaranteed" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E41" fromID="V3" fromText="guaranteed" toID="V9" toText="didn" />
 <EVENT_ORDER id="E42" fromID="V3" fromText="guaranteed" toID="V10" toText="said" />
 <EVENT_ORDER id="E43" fromID="V3" fromText="guaranteed" toID="V11" toText="lost" />
 <EVENT_ORDER id="E44" fromID="V3" fromText="guaranteed" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E45" fromID="V3" fromText="guaranteed" toID="V13" toText="abide" />
 <EVENT_ORDER id="E46" fromID="V4" fromText="is" toID="V5" toText="was" />
-<EVENT_ORDER id="E47" fromID="V4" fromText="is" toID="V6" toText="s" />
 <EVENT_ORDER id="E48" fromID="V4" fromText="is" toID="V7" toText="dropped" />
 <EVENT_ORDER id="E49" fromID="V4" fromText="is" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E50" fromID="V4" fromText="is" toID="V9" toText="didn" />
 <EVENT_ORDER id="E51" fromID="V4" fromText="is" toID="V10" toText="said" />
 <EVENT_ORDER id="E52" fromID="V4" fromText="is" toID="V11" toText="lost" />
 <EVENT_ORDER id="E53" fromID="V4" fromText="is" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E54" fromID="V4" fromText="is" toID="V13" toText="abide" />
-<EVENT_ORDER id="E55" fromID="V5" fromText="was" toID="V6" toText="s" />
 <EVENT_ORDER id="E56" fromID="V5" fromText="was" toID="V7" toText="dropped" />
 <EVENT_ORDER id="E57" fromID="V5" fromText="was" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E58" fromID="V5" fromText="was" toID="V9" toText="didn" />
 <EVENT_ORDER id="E59" fromID="V5" fromText="was" toID="V10" toText="said" />
 <EVENT_ORDER id="E60" fromID="V5" fromText="was" toID="V11" toText="lost" />
 <EVENT_ORDER id="E61" fromID="V5" fromText="was" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E62" fromID="V5" fromText="was" toID="V13" toText="abide" />
-<EVENT_ORDER id="E63" fromID="V6" fromText="s" toID="V7" toText="dropped" />
-<EVENT_ORDER id="E64" fromID="V6" fromText="s" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E65" fromID="V6" fromText="s" toID="V9" toText="didn" />
-<EVENT_ORDER id="E66" fromID="V6" fromText="s" toID="V10" toText="said" />
-<EVENT_ORDER id="E67" fromID="V6" fromText="s" toID="V11" toText="lost" />
-<EVENT_ORDER id="E68" fromID="V6" fromText="s" toID="V12" toText="refuses" />
-<EVENT_ORDER id="E69" fromID="V6" fromText="s" toID="V13" toText="abide" />
 <EVENT_ORDER id="E70" fromID="V7" fromText="dropped" toID="V8" toText="announcing" />
-<EVENT_ORDER id="E71" fromID="V7" fromText="dropped" toID="V9" toText="didn" />
 <EVENT_ORDER id="E72" fromID="V7" fromText="dropped" toID="V10" toText="said" />
 <EVENT_ORDER id="E73" fromID="V7" fromText="dropped" toID="V11" toText="lost" />
 <EVENT_ORDER id="E74" fromID="V7" fromText="dropped" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E75" fromID="V7" fromText="dropped" toID="V13" toText="abide" />
-<EVENT_ORDER id="E76" fromID="V8" fromText="announcing" toID="V9" toText="didn" />
 <EVENT_ORDER id="E77" fromID="V8" fromText="announcing" toID="V10" toText="said" />
 <EVENT_ORDER id="E78" fromID="V8" fromText="announcing" toID="V11" toText="lost" />
 <EVENT_ORDER id="E79" fromID="V8" fromText="announcing" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E80" fromID="V8" fromText="announcing" toID="V13" toText="abide" />
-<EVENT_ORDER id="E81" fromID="V9" fromText="didn" toID="V10" toText="said" />
-<EVENT_ORDER id="E82" fromID="V9" fromText="didn" toID="V11" toText="lost" />
-<EVENT_ORDER id="E83" fromID="V9" fromText="didn" toID="V12" toText="refuses" />
-<EVENT_ORDER id="E84" fromID="V9" fromText="didn" toID="V13" toText="abide" />
 <EVENT_ORDER id="E85" fromID="V10" fromText="said" toID="V11" toText="lost" />
 <EVENT_ORDER id="E86" fromID="V10" fromText="said" toID="V12" toText="refuses" />
 <EVENT_ORDER id="E87" fromID="V10" fromText="said" toID="V13" toText="abide" />

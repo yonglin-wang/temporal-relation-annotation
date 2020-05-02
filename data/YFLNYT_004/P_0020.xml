@@ -10,7 +10,7 @@
 <VERB id="V4" spans="130~134" text="left" category="VBD" />
 <VERB id="V5" spans="153~161" text="attracts" category="VBZ" />
 <VERB id="V6" spans="230~237" text="ordered" category="VBD" />
-<VERB id="V7" spans="246~252" text="closed" category="VBD" />
+<VERB id="V7" spans="246~252" text="closed" category="VBN" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="announced" toID="V1" toText="including" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="announced" toID="V2" toText="paid" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="announced" toID="V3" toText="closed" />

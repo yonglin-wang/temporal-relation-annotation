@@ -7,7 +7,7 @@
 <VERB id="V1" spans="140~146" text="anoint" category="VB" />
 <VERB id="V2" spans="170~177" text="prepare" category="VB" />
 <VERB id="V3" spans="214~219" text="Asked" category="VBN" />
-<VERB id="V4" spans="284~292" text="demurred" category="VBN" />
+<VERB id="V4" spans="284~292" text="demurred" category="VBD" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="anoint" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="are" toID="V2" toText="prepare" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="Asked" />

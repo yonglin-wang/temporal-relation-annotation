@@ -8,7 +8,6 @@
 <VERB id="V2" spans="114~121" text="written" category="VBN" />
 <VERB id="V3" spans="160~170" text="succumbing" category="VBG" />
 <VERB id="V4" spans="215~220" text="offer" category="VB" />
-<VERB id="V5" spans="236~237" text="s" category="VBZ" />
 <VERB id="V6" spans="258~268" text="fulfilling" category="VBG" />
 <VERB id="V7" spans="289~301" text="contemplated" category="VBN" />
 <VERB id="V8" spans="313~321" text="executed" category="VBN" />
@@ -17,7 +16,6 @@
 <EVENT_ORDER id="E1" fromID="V0" fromText="ran" toID="V2" toText="written" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="ran" toID="V3" toText="succumbing" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="ran" toID="V4" toText="offer" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="ran" toID="V5" toText="s" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="ran" toID="V6" toText="fulfilling" />
 <EVENT_ORDER id="E6" fromID="V0" fromText="ran" toID="V7" toText="contemplated" />
 <EVENT_ORDER id="E7" fromID="V0" fromText="ran" toID="V8" toText="executed" />
@@ -25,33 +23,25 @@
 <EVENT_ORDER id="E9" fromID="V1" fromText="be" toID="V2" toText="written" />
 <EVENT_ORDER id="E10" fromID="V1" fromText="be" toID="V3" toText="succumbing" />
 <EVENT_ORDER id="E11" fromID="V1" fromText="be" toID="V4" toText="offer" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="be" toID="V5" toText="s" />
 <EVENT_ORDER id="E13" fromID="V1" fromText="be" toID="V6" toText="fulfilling" />
 <EVENT_ORDER id="E14" fromID="V1" fromText="be" toID="V7" toText="contemplated" />
 <EVENT_ORDER id="E15" fromID="V1" fromText="be" toID="V8" toText="executed" />
 <EVENT_ORDER id="E16" fromID="V1" fromText="be" toID="V9" toText="was" />
 <EVENT_ORDER id="E17" fromID="V2" fromText="written" toID="V3" toText="succumbing" />
 <EVENT_ORDER id="E18" fromID="V2" fromText="written" toID="V4" toText="offer" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="written" toID="V5" toText="s" />
 <EVENT_ORDER id="E20" fromID="V2" fromText="written" toID="V6" toText="fulfilling" />
 <EVENT_ORDER id="E21" fromID="V2" fromText="written" toID="V7" toText="contemplated" />
 <EVENT_ORDER id="E22" fromID="V2" fromText="written" toID="V8" toText="executed" />
 <EVENT_ORDER id="E23" fromID="V2" fromText="written" toID="V9" toText="was" />
 <EVENT_ORDER id="E24" fromID="V3" fromText="succumbing" toID="V4" toText="offer" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="succumbing" toID="V5" toText="s" />
 <EVENT_ORDER id="E26" fromID="V3" fromText="succumbing" toID="V6" toText="fulfilling" />
 <EVENT_ORDER id="E27" fromID="V3" fromText="succumbing" toID="V7" toText="contemplated" />
 <EVENT_ORDER id="E28" fromID="V3" fromText="succumbing" toID="V8" toText="executed" />
 <EVENT_ORDER id="E29" fromID="V3" fromText="succumbing" toID="V9" toText="was" />
-<EVENT_ORDER id="E30" fromID="V4" fromText="offer" toID="V5" toText="s" />
 <EVENT_ORDER id="E31" fromID="V4" fromText="offer" toID="V6" toText="fulfilling" />
 <EVENT_ORDER id="E32" fromID="V4" fromText="offer" toID="V7" toText="contemplated" />
 <EVENT_ORDER id="E33" fromID="V4" fromText="offer" toID="V8" toText="executed" />
 <EVENT_ORDER id="E34" fromID="V4" fromText="offer" toID="V9" toText="was" />
-<EVENT_ORDER id="E35" fromID="V5" fromText="s" toID="V6" toText="fulfilling" />
-<EVENT_ORDER id="E36" fromID="V5" fromText="s" toID="V7" toText="contemplated" />
-<EVENT_ORDER id="E37" fromID="V5" fromText="s" toID="V8" toText="executed" />
-<EVENT_ORDER id="E38" fromID="V5" fromText="s" toID="V9" toText="was" />
 <EVENT_ORDER id="E39" fromID="V6" fromText="fulfilling" toID="V7" toText="contemplated" />
 <EVENT_ORDER id="E40" fromID="V6" fromText="fulfilling" toID="V8" toText="executed" />
 <EVENT_ORDER id="E41" fromID="V6" fromText="fulfilling" toID="V9" toText="was" />

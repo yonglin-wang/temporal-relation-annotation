@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[After Mr. Moran reported his Sunday morning encounter with the senator, Mr. Paul’s staff posted on Twitter that he had “left the Senate IMMEDIATELY upon learning of his diagnosis.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~24" text="reported" category="VBD" />
+<VERB id="V1" spans="89~95" text="posted" category="VBN" />
+<VERB id="V2" spans="120~124" text="left" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="reported" toID="V1" toText="posted" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="reported" toID="V2" toText="left" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="posted" toID="V2" toText="left" />
+</TAGS>
+</TemporalRelationTask>

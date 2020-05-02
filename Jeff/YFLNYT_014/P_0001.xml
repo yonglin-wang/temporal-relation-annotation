@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The Kentucky Republican is the first senator to be diagnosed with the novel coronavirus. He went about his routine for days after being tested, potentially exposing many colleagues.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~26" text="is" category="VBZ" />
+<VERB id="V1" spans="51~60" text="diagnosed" category="VBN" />
+<VERB id="V2" spans="92~96" text="went" category="VBD" />
+<VERB id="V3" spans="130~135" text="being" category="VBG" />
+<VERB id="V4" spans="136~142" text="tested" category="VBN" />
+<VERB id="V5" spans="156~164" text="exposing" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="diagnosed" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="went" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="being" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="tested" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="exposing" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="diagnosed" toID="V2" toText="went" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="diagnosed" toID="V3" toText="being" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="diagnosed" toID="V4" toText="tested" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="diagnosed" toID="V5" toText="exposing" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="went" toID="V3" toText="being" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="went" toID="V4" toText="tested" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="went" toID="V5" toText="exposing" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="being" toID="V4" toText="tested" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="being" toID="V5" toText="exposing" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="tested" toID="V5" toText="exposing" />
+</TAGS>
+</TemporalRelationTask>

@@ -3,7 +3,7 @@
 <TemporalRelationTask>
 <TEXT><![CDATA[The chancellor paid by card, joining those Germans dispensing with a time-honored tradition: paying cash. Many stores have become averse to exchanging coins and notes during the outbreak.]]></TEXT>
 <TAGS>
-<VERB id="V0" spans="15~19" text="paid" category="VBN" />
+<VERB id="V0" spans="15~19" text="paid" category="VBD" />
 <VERB id="V1" spans="29~36" text="joining" category="VBG" />
 <VERB id="V2" spans="51~61" text="dispensing" category="VBG" />
 <VERB id="V3" spans="93~99" text="paying" category="VBG" />

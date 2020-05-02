@@ -6,9 +6,9 @@
 <VERB id="V0" spans="141~144" text="led" category="VBN" />
 <VERB id="V1" spans="161~165" text="urge" category="VB" />
 <VERB id="V2" spans="178~182" text="stay" category="VB" />
-<VERB id="V3" spans="194~199" text="argue" category="VBP" />
+<VERB id="V3" spans="194~199" text="argue" category="VBZ" />
 <VERB id="V4" spans="205~215" text="overloaded" category="VBD" />
-<VERB id="V5" spans="239~243" text="seem" category="VBP" />
+<VERB id="V5" spans="239~243" text="seem" category="VBZ" />
 <VERB id="V6" spans="247~249" text="be" category="VB" />
 <VERB id="V7" spans="281~289" text="infected" category="VBD" />
 <VERB id="V8" spans="325~329" text="sent" category="VBD" />

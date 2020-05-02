@@ -4,23 +4,16 @@
 <TEXT><![CDATA[Kate Bedingfield, a deputy campaign manager for Mr. Biden, said the campaign was “balancing twin imperatives” of directing people to proper public health guidance and highlighting the need for the democratic process to continue.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="59~63" text="said" category="VBD" />
-<VERB id="V1" spans="77~80" text="was" category="VBD" />
 <VERB id="V2" spans="82~91" text="balancing" category="VBG" />
 <VERB id="V3" spans="113~122" text="directing" category="VBG" />
 <VERB id="V4" spans="133~139" text="proper" category="VB" />
 <VERB id="V5" spans="167~179" text="highlighting" category="VBG" />
 <VERB id="V6" spans="219~227" text="continue" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="was" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="balancing" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="said" toID="V3" toText="directing" />
 <EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="proper" />
 <EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="highlighting" />
 <EVENT_ORDER id="E5" fromID="V0" fromText="said" toID="V6" toText="continue" />
-<EVENT_ORDER id="E6" fromID="V1" fromText="was" toID="V2" toText="balancing" />
-<EVENT_ORDER id="E7" fromID="V1" fromText="was" toID="V3" toText="directing" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="was" toID="V4" toText="proper" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="was" toID="V5" toText="highlighting" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="was" toID="V6" toText="continue" />
 <EVENT_ORDER id="E11" fromID="V2" fromText="balancing" toID="V3" toText="directing" />
 <EVENT_ORDER id="E12" fromID="V2" fromText="balancing" toID="V4" toText="proper" />
 <EVENT_ORDER id="E13" fromID="V2" fromText="balancing" toID="V5" toText="highlighting" />

@@ -10,6 +10,8 @@
 <VERB id="V4" spans="182~186" text="meet" category="VB" />
 <VERB id="V5" spans="246~252" text="worked" category="VBD" />
 <VERB id="V6" spans="268~277" text="negotiate" category="VB" />
+<VERB id="V7" spans="188~192" text="spar" category="VB" />
+<VERB id="V8" spans="197~201" text="vote" category="VB" />
 <EVENT_ORDER id="E0" fromID="V0" fromText="tested" toID="V1" toText="did" />
 <EVENT_ORDER id="E1" fromID="V0" fromText="tested" toID="V2" toText="alter" />
 <EVENT_ORDER id="E2" fromID="V0" fromText="tested" toID="V3" toText="continued" />

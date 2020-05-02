@@ -6,8 +6,8 @@
 <VERB id="V0" spans="36~38" text="is" category="VBZ" />
 <VERB id="V1" spans="144~152" text="sounding" category="VBG" />
 <VERB id="V2" spans="209~218" text="neglected" category="VBD" />
-<VERB id="V3" spans="220~229" text="minimized" category="VBN" />
-<VERB id="V4" spans="234~238" text="lied" category="VBN" />
+<VERB id="V3" spans="220~229" text="minimized" category="VBD" />
+<VERB id="V4" spans="234~238" text="lied" category="VBD" />
 <VERB id="V5" spans="268~272" text="said" category="VBD" />
 <VERB id="V6" spans="293~299" text="failed" category="VBD" />
 <VERB id="V7" spans="317~320" text="get" category="VB" />
