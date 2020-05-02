@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[More worrisome to a range of Democrats is that they are struggling in states with significant rural populations, where some of the most competitive Senate races in two years will take place: North Dakota, Missouri, Montana and West Virginia.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="56~66" text="struggling" category="VBG" />
+<VERB id="V2" spans="179~183" text="take" category="VB" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="struggling" toID="V2" toText="take" />
+</TAGS>
+</TemporalRelationTask>

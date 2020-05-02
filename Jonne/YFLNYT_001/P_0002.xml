@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[After Donald J. Trump, the answer may well be a run for the White House.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="43~45" text="be" category="VB" />
+</TAGS>
+</TemporalRelationTask>

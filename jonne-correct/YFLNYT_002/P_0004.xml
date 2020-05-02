@@ -1,0 +1,15 @@
+<TemporalRelationTask>
+<TEXT>In a video posted to social media on Thursday, Ms. Gabbard said she felt she could better serve the country in the midst of the coronavirus pandemic in her capacity as a major in the Hawaii Army National Guard.</TEXT>
+<TAGS>
+<VERB id="V0" spans="11~17" text="posted" category="VBN"/>
+<VERB id="V1" spans="59~63" text="said" category="VBD"/>
+<VERB id="V2" spans="68~72" text="felt" category="VBD"/>
+<VERB id="V3" spans="90~95" text="serve" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="posted" toID="V1" toText="said" relationship="after"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="posted" toID="V2" toText="felt" relationship="after"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="posted" toID="V3" toText="serve" relationship="before"/>
+<EVENT_ORDER id="E3" fromID="V1" fromText="said" toID="V2" toText="felt" relationship="simultaneous"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="said" toID="V3" toText="serve" relationship="before"/>
+<EVENT_ORDER id="E5" fromID="V2" fromText="felt" toID="V3" toText="serve" relationship="before"/>
+</TAGS>
+</TemporalRelationTask>

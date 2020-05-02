@@ -1,0 +1,15 @@
+<TemporalRelationTask>
+<TEXT>&#8220;Social issues now have become central, rather than class issues,&#8221; said Ms. Weingarten, who recommended what she called a &#8220;both/and&#8221; approach.</TEXT>
+<TAGS>
+<VERB id="V0" spans="24~30" text="become" category="VBN"/>
+<VERB id="V1" spans="67~71" text="said" category="VBD"/>
+<VERB id="V2" spans="92~103" text="recommended" category="VBD"/>
+<VERB id="V3" spans="113~119" text="called" category="VBD"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="become" toID="V1" toText="said" relationship="vague"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="become" toID="V2" toText="recommended" relationship="vague"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="become" toID="V3" toText="called" relationship="vague"/>
+<EVENT_ORDER id="E3" fromID="V1" fromText="said" toID="V2" toText="recommended" relationship="before"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="said" toID="V3" toText="called" relationship="simultaneous"/>
+<EVENT_ORDER id="E5" fromID="V2" fromText="recommended" toID="V3" toText="called" relationship="after"/>
+</TAGS>
+</TemporalRelationTask>

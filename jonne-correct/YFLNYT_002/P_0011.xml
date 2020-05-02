@@ -1,0 +1,20 @@
+<TemporalRelationTask>
+<TEXT>&#8220;We should be coming to other leaders in other countries with respect, building a relationship based on cooperation rather than with, you know, a police baton,&#8221; she said last year.</TEXT>
+<TAGS>
+<VERB id="V0" spans="14~20" text="coming" category="VBG"/>
+<VERB id="V1" spans="71~79" text="building" category="VBG"/>
+<VERB id="V2" spans="95~100" text="based" category="VBN"/>
+<VERB id="V3" spans="138~142" text="know" category="VBP"/>
+<VERB id="V4" spans="165~169" text="said" category="VBD"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="coming" toID="V1" toText="building" relationship="before"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="coming" toID="V2" toText="based" relationship="vague"/>
+<EVENT_ORDER id="E2" fromID="V0" fromText="coming" toID="V3" toText="know" relationship="after"/>
+<EVENT_ORDER id="E3" fromID="V0" fromText="coming" toID="V4" toText="said" relationship="after"/>
+<EVENT_ORDER id="E4" fromID="V1" fromText="building" toID="V2" toText="based" relationship="vague"/>
+<EVENT_ORDER id="E5" fromID="V1" fromText="building" toID="V3" toText="know" relationship="after"/>
+<EVENT_ORDER id="E6" fromID="V1" fromText="building" toID="V4" toText="said" relationship="after"/>
+<EVENT_ORDER id="E7" fromID="V2" fromText="based" toID="V3" toText="know" relationship="vague"/>
+<EVENT_ORDER id="E8" fromID="V2" fromText="based" toID="V4" toText="said" relationship="vague"/>
+<EVENT_ORDER id="E9" fromID="V3" fromText="know" toID="V4" toText="said" relationship="before"/>
+</TAGS>
+</TemporalRelationTask>

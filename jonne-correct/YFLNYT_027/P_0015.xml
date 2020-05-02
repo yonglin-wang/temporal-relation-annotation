@@ -1,0 +1,8 @@
+<TemporalRelationTask>
+<TEXT>In theory, it&#8217;s not impossible for Mr. Sanders to win delegates by around 20 percentage points the rest of the way. For that matter, it&#8217;s not impossible for Michael Bloomberg to re-enter the race tomorrow and deny Mr. Biden a delegate majority. It&#8217;s just not realistic.</TEXT>
+<TAGS>
+<VERB id="V0" spans="50~53" text="win" category="VB"/>
+<VERB id="V1" spans="209~213" text="deny" category="VB"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="win" toID="V1" toText="deny" relationship="vague"/>
+</TAGS>
+</TemporalRelationTask>

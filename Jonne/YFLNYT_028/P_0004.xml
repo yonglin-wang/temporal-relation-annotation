@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Trump’s campaign committee spent $6.3 million from January through March, including $1.2 million on merchandise and “Make America Great Again” hats, sales of which helped his fund-raising.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="31~36" text="spent" category="VBD" />
+<VERB id="V2" spans="78~87" text="including" category="VBG" />
+<VERB id="V3" spans="168~174" text="helped" category="VBD" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="spent" toID="V2" toText="including" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="spent" toID="V3" toText="helped" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="including" toID="V3" toText="helped" />
+</TAGS>
+</TemporalRelationTask>

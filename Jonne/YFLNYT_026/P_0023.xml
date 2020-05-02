@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I don’t think you can be anti-trade,” said Gov. John Hickenlooper of Colorado, who is mentioned as a possible 2020 presidential candidate. “In the modern world, we need consumers overseas for our products as well.”]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="9~14" text="think" category="VB" />
+<VERB id="V2" spans="23~25" text="be" category="VB" />
+<VERB id="V3" spans="39~43" text="said" category="VBD" />
+<VERB id="V4" spans="87~96" text="mentioned" category="VBN" />
+<VERB id="V5" spans="165~169" text="need" category="VBP" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="think" toID="V2" toText="be" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="think" toID="V3" toText="said" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="think" toID="V4" toText="mentioned" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="think" toID="V5" toText="need" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="be" toID="V3" toText="said" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="be" toID="V4" toText="mentioned" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="be" toID="V5" toText="need" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="said" toID="V4" toText="mentioned" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="said" toID="V5" toText="need" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="mentioned" toID="V5" toText="need" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“They know the Democrats are already raising a lot of money by people who may not have liked Hillary or were not engaged, but have become engaged because of their reaction to the president,” Ms. McGehee said.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="6~10" text="know" category="VBP" />
+<VERB id="V2" spans="37~44" text="raising" category="VBG" />
+<VERB id="V3" spans="87~92" text="liked" category="VBN" />
+<VERB id="V5" spans="113~120" text="engaged" category="VBN" />
+<VERB id="V6" spans="131~137" text="become" category="VBN" />
+<VERB id="V7" spans="138~145" text="engaged" category="VBN" />
+<VERB id="V8" spans="203~207" text="said" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="know" toID="V2" toText="raising" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="know" toID="V3" toText="liked" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="know" toID="V5" toText="engaged" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="know" toID="V6" toText="become" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="know" toID="V7" toText="engaged" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="know" toID="V8" toText="said" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="raising" toID="V3" toText="liked" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="raising" toID="V5" toText="engaged" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="raising" toID="V6" toText="become" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="raising" toID="V7" toText="engaged" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="raising" toID="V8" toText="said" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="liked" toID="V5" toText="engaged" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="liked" toID="V6" toText="become" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="liked" toID="V7" toText="engaged" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="liked" toID="V8" toText="said" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="engaged" toID="V6" toText="become" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="engaged" toID="V7" toText="engaged" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="engaged" toID="V8" toText="said" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="become" toID="V7" toText="engaged" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="become" toID="V8" toText="said" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="engaged" toID="V8" toText="said" />
+</TAGS>
+</TemporalRelationTask>

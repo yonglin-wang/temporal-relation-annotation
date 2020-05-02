@@ -1,0 +1,11 @@
+<TemporalRelationTask>
+<TEXT>The campaign disbursed tens of thousands of dollars to a firm owned by Mr. Trump&#8217;s chief strategist Stephen K. Bannon. The bill was for &#8220;administrative assistant/secretarial&#8221; services.</TEXT>
+<TAGS>
+<VERB id="V0" spans="13~22" text="disbursed" category="VBD"/>
+<VERB id="V1" spans="62~67" text="owned" category="VBN"/>
+<VERB id="V2" spans="128~131" text="was" category="VBD"/>
+<EVENT_ORDER id="E0" fromID="V0" fromText="disbursed" toID="V1" toText="owned" relationship="vague"/>
+<EVENT_ORDER id="E1" fromID="V0" fromText="disbursed" toID="V2" toText="was" relationship="simultaneous"/>
+<EVENT_ORDER id="E2" fromID="V1" fromText="owned" toID="V2" toText="was" relationship="before"/>
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Howard Schultz is definitely being pursued,” Mr. Gergen said. “He has a powerful social conscience. He comes from a very different place than the kind of chief executive with a big ego who wants the trappings of presidential power.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="16~18" text="is" category="VBZ" />
+<VERB id="V2" spans="36~43" text="pursued" category="VBN" />
+<VERB id="V3" spans="57~61" text="said" category="VBD" />
+<VERB id="V4" spans="67~70" text="has" category="VBZ" />
+<VERB id="V5" spans="104~109" text="comes" category="VBZ" />
+<VERB id="V6" spans="190~195" text="wants" category="VBZ" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="pursued" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="is" toID="V3" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="has" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="comes" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="wants" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="pursued" toID="V3" toText="said" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="pursued" toID="V4" toText="has" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="pursued" toID="V5" toText="comes" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="pursued" toID="V6" toText="wants" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="said" toID="V4" toText="has" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="said" toID="V5" toText="comes" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="said" toID="V6" toText="wants" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="has" toID="V5" toText="comes" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="has" toID="V6" toText="wants" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="comes" toID="V6" toText="wants" />
+</TAGS>
+</TemporalRelationTask>

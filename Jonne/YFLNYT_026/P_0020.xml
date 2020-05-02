@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Yet while Mr. Sanders’s brand of confrontational populism — characterized by his fierce attacks on international trade and Wall Street — may be favored by many liberal activists, it does not sit well with party leaders who fear that his call for an economic “revolution” may turn off moderate voters.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="60~73" text="characterized" category="VBN" />
+<VERB id="V2" spans="144~151" text="favored" category="VBN" />
+<VERB id="V4" spans="191~194" text="sit" category="VB" />
+<VERB id="V5" spans="223~227" text="fear" category="VBP" />
+<VERB id="V6" spans="275~279" text="turn" category="VB" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="characterized" toID="V2" toText="favored" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="characterized" toID="V4" toText="sit" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="characterized" toID="V5" toText="fear" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="characterized" toID="V6" toText="turn" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="favored" toID="V4" toText="sit" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="favored" toID="V5" toText="fear" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="favored" toID="V6" toText="turn" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="sit" toID="V5" toText="fear" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="sit" toID="V6" toText="turn" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="fear" toID="V6" toText="turn" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Benioff, 52, whose stake in Salesforce alone is worth over $3 billion and who has a net worth estimated by Forbes at over $4 billion, has also written three books, including the best-selling “Behind the Cloud.” Still, he’s hardly a household name, and is best known in business and technology circles.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="49~51" text="is" category="VBZ" />
+<VERB id="V1" spans="82~85" text="has" category="VBZ" />
+<VERB id="V2" spans="98~107" text="estimated" category="VBN" />
+<VERB id="V4" spans="147~154" text="written" category="VBN" />
+<VERB id="V5" spans="168~177" text="including" category="VBG" />
+<VERB id="V6" spans="256~258" text="is" category="VBZ" />
+<VERB id="V7" spans="264~269" text="known" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="has" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="estimated" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="is" toID="V4" toText="written" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="is" toID="V5" toText="including" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="is" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="is" toID="V7" toText="known" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="has" toID="V2" toText="estimated" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="has" toID="V4" toText="written" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="has" toID="V5" toText="including" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="has" toID="V6" toText="is" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="has" toID="V7" toText="known" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="estimated" toID="V4" toText="written" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="estimated" toID="V5" toText="including" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="estimated" toID="V6" toText="is" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="estimated" toID="V7" toText="known" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="written" toID="V5" toText="including" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="written" toID="V6" toText="is" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="written" toID="V7" toText="known" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="including" toID="V6" toText="is" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="including" toID="V7" toText="known" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="is" toID="V7" toText="known" />
+</TAGS>
+</TemporalRelationTask>
