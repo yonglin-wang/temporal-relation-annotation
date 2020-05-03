@@ -4,8 +4,10 @@ event object for representing a verb
 """
 
 import nltk
+# nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet 
+
 
 class Event:
 
