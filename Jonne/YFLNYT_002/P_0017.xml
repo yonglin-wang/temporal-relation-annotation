@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>In a race that at its peak included six female candidates, Ms. Gabbard ended up becoming the last woman standing.</TEXT>
+<TEXT><![CDATA[In a race that at its peak included six female candidates, Ms. Gabbard ended up becoming the last woman standing.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="27~35" text="included" category="VBD"/>
 <VERB id="V1" spans="71~76" text="ended" category="VBD"/>

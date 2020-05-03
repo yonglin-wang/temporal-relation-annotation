@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Of course, news organizations do not project the winner of nominating contests until a candidate amasses a majority of pledged delegates. Anything can happen.</TEXT>
+<TEXT><![CDATA[Of course, news organizations do not project the winner of nominating contests until a candidate amasses a majority of pledged delegates. Anything can happen.]]></TEXT>
 <TAGS>
 <VERB id="V1" spans="37~44" text="project" category="VB"/>
 <VERB id="V2" spans="59~69" text="nominating" category="VBG"/>

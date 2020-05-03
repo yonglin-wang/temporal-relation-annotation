@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Trump&#8217;s campaign committee spent $6.3 million from January through March, including $1.2 million on merchandise and &#8220;Make America Great Again&#8221; hats, sales of which helped his fund-raising.</TEXT>
+<TEXT><![CDATA[Mr. Trump’s campaign committee spent $6.3 million from January through March, including $1.2 million on merchandise and “Make America Great Again” hats, sales of which helped his fund-raising.]]></TEXT>
 <TAGS>
 <VERB id="V1" spans="31~36" text="spent" category="VBD"/>
 <VERB id="V2" spans="78~87" text="including" category="VBG"/>

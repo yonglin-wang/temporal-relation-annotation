@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>President Trump is raising money toward a bid for a second term earlier than any incumbent president in recent history, pulling in tens of millions of dollars in the months after his election and through his inauguration.</TEXT>
+<TEXT><![CDATA[President Trump is raising money toward a bid for a second term earlier than any incumbent president in recent history, pulling in tens of millions of dollars in the months after his election and through his inauguration.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="19~26" text="raising" category="VBG"/>
 <VERB id="V1" spans="120~127" text="pulling" category="VBG"/>

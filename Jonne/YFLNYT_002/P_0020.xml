@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>President Trump&#8217;s re-election campaign seized on that remark, clipping the first sentence and blasting it out on Twitter before the debate had even ended.</TEXT>
+<TEXT><![CDATA[President Trump’s re-election campaign seized on that remark, clipping the first sentence and blasting it out on Twitter before the debate had even ended.]]></TEXT>
 <TAGS>
 <VERB id="V1" spans="39~45" text="seized" category="VBN"/>
 <VERB id="V2" spans="62~70" text="clipping" category="VBG"/>

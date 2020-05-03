@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Loeser now runs his own strategic consulting firm, and told me he has clients who are business executives considering a run for high public office. &#8220;I can&#8217;t tell you their names, obviously,&#8221; he said.</TEXT>
+<TEXT><![CDATA[Mr. Loeser now runs his own strategic consulting firm, and told me he has clients who are business executives considering a run for high public office. “I can’t tell you their names, obviously,” he said.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="15~19" text="runs" category="VBZ"/>
 <VERB id="V1" spans="59~63" text="told" category="VBD"/>

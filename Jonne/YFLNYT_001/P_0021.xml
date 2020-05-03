@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Campaign buttons emblazoned with &#8220;Vote for Benioff&#8221; and &#8220;Marc Benioff for President&#8221; circulated two years ago at Salesforce&#8217;s annual Dreamforce conference in San Francisco, which draws hundreds of thousands of participants and has been viewed by some as a likely launching pad for any Benioff campaign.</TEXT>
+<TEXT><![CDATA[Campaign buttons emblazoned with “Vote for Benioff” and “Marc Benioff for President” circulated two years ago at Salesforce’s annual Dreamforce conference in San Francisco, which draws hundreds of thousands of participants and has been viewed by some as a likely launching pad for any Benioff campaign.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="17~27" text="emblazoned" category="VBD"/>
 <VERB id="V1" spans="85~95" text="circulated" category="VBD"/>

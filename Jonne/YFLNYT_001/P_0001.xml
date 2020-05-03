@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Having reached the top of a major corporation and amassed a fortune, chief executives often wonder: What&#8217;s next?</TEXT>
+<TEXT><![CDATA[Having reached the top of a major corporation and amassed a fortune, chief executives often wonder: What’s next?]]></TEXT>
 <TAGS>
 <VERB id="V1" spans="7~14" text="reached" category="VBN"/>
 <VERB id="V2" spans="50~57" text="amassed" category="VBN"/>

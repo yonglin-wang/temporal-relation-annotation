@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>&#8220;Trump spent decades building his brand and his image as a successful businessman,&#8221; Mr. Loeser said. &#8220;He was the star of one of the most-watched television shows in America. If you landed at La Guardia, you saw the Trump jet. If you went to Las Vegas, the tallest building in town has Trump&#8217;s name emblazoned on it.&#8221;</TEXT>
+<TEXT><![CDATA[“Trump spent decades building his brand and his image as a successful businessman,” Mr. Loeser said. “He was the star of one of the most-watched television shows in America. If you landed at La Guardia, you saw the Trump jet. If you went to Las Vegas, the tallest building in town has Trump’s name emblazoned on it.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="21~29" text="building" category="VBG"/>
 <VERB id="V1" spans="95~99" text="said" category="VBD"/>

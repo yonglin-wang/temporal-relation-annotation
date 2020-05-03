@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Both Mr. Iger and Mr. Bloomberg declined to comment.</TEXT>
+<TEXT><![CDATA[Both Mr. Iger and Mr. Bloomberg declined to comment.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="32~40" text="declined" category="VBD"/>
 <VERB id="V1" spans="44~51" text="comment" category="VB"/>

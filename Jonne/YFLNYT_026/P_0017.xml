@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>&#8220;The Democratic Party can no longer be led by the liberal elite,&#8221; said Senator Bernie Sanders of Vermont, calling for a party &#8220;prepared to stand up to Wall Street and the greed of corporate America.&#8221;</TEXT>
+<TEXT><![CDATA[“The Democratic Party can no longer be led by the liberal elite,” said Senator Bernie Sanders of Vermont, calling for a party “prepared to stand up to Wall Street and the greed of corporate America.”]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="39~42" text="led" category="VBN"/>
 <VERB id="V1" spans="66~70" text="said" category="VBD"/>

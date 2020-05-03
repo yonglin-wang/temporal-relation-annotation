@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Ms. Gabbard was once seen as a rising star in the Democratic Party, even as she sometimes defied it.</TEXT>
+<TEXT><![CDATA[Ms. Gabbard was once seen as a rising star in the Democratic Party, even as she sometimes defied it.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="12~15" text="was" category="VBD"/>
 <VERB id="V1" spans="21~25" text="seen" category="VBN"/>

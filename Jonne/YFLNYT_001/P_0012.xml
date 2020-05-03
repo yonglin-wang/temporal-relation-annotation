@@ -1,5 +1,5 @@
 <TemporalRelationTask>
-<TEXT>Mr. Schultz, 63, with a fortune estimated by Forbes at $3 billion, came close to making a bid last year, but backed out after concluding it would be very difficult to defeat Mrs. Clinton, who seemed to have the Democratic nomination all but locked up and at the time seemed likely to win the presidency.</TEXT>
+<TEXT><![CDATA[Mr. Schultz, 63, with a fortune estimated by Forbes at $3 billion, came close to making a bid last year, but backed out after concluding it would be very difficult to defeat Mrs. Clinton, who seemed to have the Democratic nomination all but locked up and at the time seemed likely to win the presidency.]]></TEXT>
 <TAGS>
 <VERB id="V0" spans="32~41" text="estimated" category="VBN"/>
 <VERB id="V1" spans="67~71" text="came" category="VBD"/>
