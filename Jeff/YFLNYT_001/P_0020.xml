@@ -12,41 +12,41 @@
 <VERB id="V6" spans="208~211" text="was" category="VBD" />
 <VERB id="V7" spans="223~229" text="extend" category="VB" />
 <VERB id="V8" spans="256~265" text="eliminate" category="VB" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="including" toID="V1" toText="be" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="including" toID="V2" toText="being" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="including" toID="V3" toText="remains" />
-<EVENT_ORDER id="E3" fromID="V0" fromText="including" toID="V4" toText="announcing" />
-<EVENT_ORDER id="E4" fromID="V0" fromText="including" toID="V5" toText="said" />
-<EVENT_ORDER id="E5" fromID="V0" fromText="including" toID="V6" toText="was" />
-<EVENT_ORDER id="E6" fromID="V0" fromText="including" toID="V7" toText="extend" />
-<EVENT_ORDER id="E7" fromID="V0" fromText="including" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E8" fromID="V1" fromText="be" toID="V2" toText="being" />
-<EVENT_ORDER id="E9" fromID="V1" fromText="be" toID="V3" toText="remains" />
-<EVENT_ORDER id="E10" fromID="V1" fromText="be" toID="V4" toText="announcing" />
-<EVENT_ORDER id="E11" fromID="V1" fromText="be" toID="V5" toText="said" />
-<EVENT_ORDER id="E12" fromID="V1" fromText="be" toID="V6" toText="was" />
-<EVENT_ORDER id="E13" fromID="V1" fromText="be" toID="V7" toText="extend" />
-<EVENT_ORDER id="E14" fromID="V1" fromText="be" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="being" toID="V3" toText="remains" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="being" toID="V4" toText="announcing" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="being" toID="V5" toText="said" />
-<EVENT_ORDER id="E18" fromID="V2" fromText="being" toID="V6" toText="was" />
-<EVENT_ORDER id="E19" fromID="V2" fromText="being" toID="V7" toText="extend" />
-<EVENT_ORDER id="E20" fromID="V2" fromText="being" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="remains" toID="V4" toText="announcing" />
-<EVENT_ORDER id="E22" fromID="V3" fromText="remains" toID="V5" toText="said" />
-<EVENT_ORDER id="E23" fromID="V3" fromText="remains" toID="V6" toText="was" />
-<EVENT_ORDER id="E24" fromID="V3" fromText="remains" toID="V7" toText="extend" />
-<EVENT_ORDER id="E25" fromID="V3" fromText="remains" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E26" fromID="V4" fromText="announcing" toID="V5" toText="said" />
-<EVENT_ORDER id="E27" fromID="V4" fromText="announcing" toID="V6" toText="was" />
-<EVENT_ORDER id="E28" fromID="V4" fromText="announcing" toID="V7" toText="extend" />
-<EVENT_ORDER id="E29" fromID="V4" fromText="announcing" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E30" fromID="V5" fromText="said" toID="V6" toText="was" />
-<EVENT_ORDER id="E31" fromID="V5" fromText="said" toID="V7" toText="extend" />
-<EVENT_ORDER id="E32" fromID="V5" fromText="said" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E33" fromID="V6" fromText="was" toID="V7" toText="extend" />
-<EVENT_ORDER id="E34" fromID="V6" fromText="was" toID="V8" toText="eliminate" />
-<EVENT_ORDER id="E35" fromID="V7" fromText="extend" toID="V8" toText="eliminate" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="including" toID="V1" toText="be" relationship="vague" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="including" toID="V2" toText="being" relationship="vague" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="including" toID="V3" toText="remains" relationship="vague" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="including" toID="V4" toText="announcing" relationship="vague" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="including" toID="V5" toText="said" relationship="vague" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="including" toID="V6" toText="was" relationship="vague" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="including" toID="V7" toText="extend" relationship="vague" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="including" toID="V8" toText="eliminate" relationship="vague" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="be" toID="V2" toText="being" relationship="vague" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="be" toID="V3" toText="remains" relationship="vague" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="be" toID="V4" toText="announcing" relationship="vague" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="be" toID="V5" toText="said" relationship="vague" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="be" toID="V6" toText="was" relationship="vague" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="be" toID="V7" toText="extend" relationship="vague" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="be" toID="V8" toText="eliminate" relationship="vague" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="being" toID="V3" toText="remains" relationship="vague" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="being" toID="V4" toText="announcing" relationship="vague" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="being" toID="V5" toText="said" relationship="vague" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="being" toID="V6" toText="was" relationship="vague" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="being" toID="V7" toText="extend" relationship="vague" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="being" toID="V8" toText="eliminate" relationship="vague" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="remains" toID="V4" toText="announcing" relationship="after" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="remains" toID="V5" toText="said" relationship="after" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="remains" toID="V6" toText="was" relationship="after" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="remains" toID="V7" toText="extend" relationship="vague" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="remains" toID="V8" toText="eliminate" relationship="vague" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="announcing" toID="V5" toText="said" relationship="before" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="announcing" toID="V6" toText="was" relationship="before" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="announcing" toID="V7" toText="extend" relationship="before" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="announcing" toID="V8" toText="eliminate" relationship="before" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="said" toID="V6" toText="was" relationship="simultaneous" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="said" toID="V7" toText="extend" relationship="before" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="said" toID="V8" toText="eliminate" relationship="before" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="was" toID="V7" toText="extend" relationship="before" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="was" toID="V8" toText="eliminate" relationship="before" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="extend" toID="V8" toText="eliminate" relationship="before" />
 </TAGS>
 </TemporalRelationTask>
