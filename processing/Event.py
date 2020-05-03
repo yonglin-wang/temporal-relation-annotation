@@ -36,14 +36,12 @@ class Event:
         return self.pos
 
     def get_synset(self):
-        # TODO get synset from self.text
         return self.synset
 
     def get_derivational_form(self):
-        # TODO get der form from self.text
         return self.derivational_form
 
-    def set_synset(self):
+    def set_synset(self, word):
         self.synset = set(l.name() for syn in wordnet.synsets(word) for l in syn.lemmas())
 
     def set_derivational_form(self, word):
