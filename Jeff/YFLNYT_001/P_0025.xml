@@ -10,20 +10,20 @@
 <VERB id="V6" spans="211~217" text="fueled" category="VBN" />
 <VERB id="V7" spans="282~284" text="be" category="VB" />
 <VERB id="V8" spans="66~77" text="co-authored" category="VBD" />
-<EVENT_ORDER id="E13" fromID="V2" fromText="promote" toID="V3" toText="describes" />
-<EVENT_ORDER id="E14" fromID="V2" fromText="promote" toID="V4" toText="coming" />
-<EVENT_ORDER id="E15" fromID="V2" fromText="promote" toID="V5" toText="coping" />
-<EVENT_ORDER id="E16" fromID="V2" fromText="promote" toID="V6" toText="fueled" />
-<EVENT_ORDER id="E17" fromID="V2" fromText="promote" toID="V7" toText="be" />
-<EVENT_ORDER id="E18" fromID="V3" fromText="describes" toID="V4" toText="coming" />
-<EVENT_ORDER id="E19" fromID="V3" fromText="describes" toID="V5" toText="coping" />
-<EVENT_ORDER id="E20" fromID="V3" fromText="describes" toID="V6" toText="fueled" />
-<EVENT_ORDER id="E21" fromID="V3" fromText="describes" toID="V7" toText="be" />
-<EVENT_ORDER id="E22" fromID="V4" fromText="coming" toID="V5" toText="coping" />
-<EVENT_ORDER id="E23" fromID="V4" fromText="coming" toID="V6" toText="fueled" />
-<EVENT_ORDER id="E24" fromID="V4" fromText="coming" toID="V7" toText="be" />
-<EVENT_ORDER id="E25" fromID="V5" fromText="coping" toID="V6" toText="fueled" />
-<EVENT_ORDER id="E26" fromID="V5" fromText="coping" toID="V7" toText="be" />
-<EVENT_ORDER id="E27" fromID="V6" fromText="fueled" toID="V7" toText="be" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="promote" toID="V3" toText="describes" relationship="vague" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="promote" toID="V4" toText="coming" relationship="after" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="promote" toID="V5" toText="coping" relationship="after" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="promote" toID="V6" toText="fueled" relationship="after" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="promote" toID="V7" toText="be" relationship="vague" />
+<EVENT_ORDER id="E18" fromID="V3" fromText="describes" toID="V4" toText="coming" relationship="vague" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="describes" toID="V5" toText="coping" relationship="vague" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="describes" toID="V6" toText="fueled" relationship="vague" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="describes" toID="V7" toText="be" relationship="before" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="coming" toID="V5" toText="coping" relationship="vague" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="coming" toID="V6" toText="fueled" relationship="before" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="coming" toID="V7" toText="be" relationship="vague" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="coping" toID="V6" toText="fueled" relationship="before" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="coping" toID="V7" toText="be" relationship="vague" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="fueled" toID="V7" toText="be" relationship="vague" />
 </TAGS>
 </TemporalRelationTask>

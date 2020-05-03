@@ -7,11 +7,11 @@
 <VERB id="V1" spans="30~34" text="been" category="VBN" />
 <VERB id="V2" spans="62~66" text="said" category="VBD" />
 <VERB id="V3" spans="91~95" text="aren" category="VBP" />
-<EVENT_ORDER id="E0" fromID="V0" fromText="agreed" toID="V1" toText="been" />
-<EVENT_ORDER id="E1" fromID="V0" fromText="agreed" toID="V2" toText="said" />
-<EVENT_ORDER id="E2" fromID="V0" fromText="agreed" toID="V3" toText="aren" />
-<EVENT_ORDER id="E3" fromID="V1" fromText="been" toID="V2" toText="said" />
-<EVENT_ORDER id="E4" fromID="V1" fromText="been" toID="V3" toText="aren" />
-<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="aren" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="agreed" toID="V1" toText="been" relationship="vague" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="agreed" toID="V2" toText="said" relationship="simultaneous" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="agreed" toID="V3" toText="aren" relationship="vague" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="been" toID="V2" toText="said" relationship="vague" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="been" toID="V3" toText="aren" relationship="vague" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="aren" relationship="vague" />
 </TAGS>
 </TemporalRelationTask>
