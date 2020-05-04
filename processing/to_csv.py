@@ -1,6 +1,3 @@
-'''
-Fiona
-'''
 import os
 from collections import defaultdict
 import csv
@@ -23,14 +20,14 @@ def to_csv(input):
             file_path = os.path.join(root, file)
             with open(file_path, "r") as f:
                 line = f.readline()
+                verbs = defaultdict(list)
                 while line:
                     if line.startswith("<TEXT>"):
                         text = line.replace("<TEXT><![CDATA[", "").replace("]]></TEXT>", "")
                     if line.startswith("<VERB"):
-                        line = line.replace("<VERB ", "").replace(" />", "")
+                        line = line.replace("<VERB ", "").replace(" />", "").strip()
                         pairs = line.split()
                         id = pairs[0].split("=")[1].replace("\"", "")
-                        verbs = {id: []}
                         for pair in pairs[1:]:
                             words = pair.split("=")
                             verbs[id].append(words[1].replace("\"", ""))
@@ -38,6 +35,8 @@ def to_csv(input):
                         writeline = [root, file, text]
                         line = line.replace("<EVENT_ORDER ", "").replace("/>", "").strip()
                         pairs = line.split()
+                        if len(pairs) != 6:
+                            continue
                         for pair in pairs:
                             words = pair.split("=")
                             writeline.append(words[1].replace("\"", ""))
@@ -53,6 +52,7 @@ def to_csv(input):
                             writeline.extend([" "]*3)
                         writelines.append(writeline)
                     line = f.readline()
+                # print(verbs)
     # print(verb_dict)
     with open(input+".csv", "w") as f:
         writer = csv.writer(f)
