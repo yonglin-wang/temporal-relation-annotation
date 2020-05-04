@@ -2,14 +2,28 @@
 Author Loewi, Yonglin
 extract 6 features from a given text string and two verbs
 """
+# columns = ["article", "paragraph", "text", "E_id", "fromID", "fromText", "toID", "toText", "relationship",
+#           "fromSpan", "fromVerb", "fromPOS", "toSpan", "toVerb", "toPOS"]
+import pandas as pd
+from nltk.tokenize import word_tokenize 
+from nltk import pos_tag
+from Event import Event
 
-
+# Event(span, verb, pos, text)
 
 def extract_pos_tag(text, e1, e2):
     """
     return a list of part-of-speech (POS) tags from each individual verb and from its neighboring three words.
     """
-    pass
+    tokens = word_tokenize(text)
+    tagged_words = pos_tag(tokens)
+    idx1, idx2 = e1.get_index(), e2.get_index()
+    pos_list = []
+    for idx in [idx1, idx2]:
+        pos_list.append(tagged_words[idx-3 if idx-3 >=0 else 0 : idx]) # before the verb
+        pos_list.append(tagged_words[idx+1 : idx+4 if idx+4<len(tokens) else len(tokens)]) # after the verb
+
+    return pos_list
 
 def extract_str_distance(text, e1, e2):
     """
