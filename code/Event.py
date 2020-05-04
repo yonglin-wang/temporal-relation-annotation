@@ -1,5 +1,5 @@
 """
-Author Yonglin
+Author Yonglin Loewi
 event object for representing a verb
 """
 
@@ -7,18 +7,20 @@ import nltk
 # nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
+from nltk.tokenize import word_tokenize 
 
 # valid_pos = {"VB", "VBD", "VBG", "VBN", "VBP", "VBZ"} # for validation if needed
 
 class Event:
 
-    def __init__(self, verb_id, start, text, pos):
+    def __init__(self, verb_id, span, verb, pos, text):
         """
         inputs are all text strings
         """
-        self.verb_id, self.start, self.text, self.pos = verb_id, int(start), text, pos
-        self.synset = self.set_synset(text)
-        self.derivational_form = self.set_derivational_form(text)
+        self.verb_id, self.start, self.verb, self.pos = verb_id, int(span.split('~')[0]), verb, pos
+        self.index = self.set_idex(self.start, text)
+        self.synset = self.set_synset(verb)
+        self.derivational_form = self.set_derivational_form(verb)
 
     def get_verb_id(self):
         return self.verb_id
@@ -29,8 +31,14 @@ class Event:
     def get_end_position(self):
         return int(self.start) + len(self.text)
 
-    def get_verb_text(self):
-        return self.text
+    def get_index(self):
+        return self.index
+    
+    def set_idex(self, start, text):
+        return len(word_tokenize(text[:start]))
+    
+    def get_verb(self):
+        return self.verb
 
     def get_verb_category(self):
         return self.pos
@@ -52,12 +60,12 @@ class Event:
 if __name__ == "__main__":
 
     test_words = {
-                    "find",
-                    "asefajiog"
+                    "said",
+                    "he"
                   }  # change this set to see how diff words perform
-
+    text = 'Mr. Loeser said he was helping clients assess the kind of attacks they could expect in a hard-fought campaign.'
     for w in test_words:
-        e = Event("V3", "2", w, "VBG")
-        print("Synsets for word \'%s\': " % e.get_verb_text())
+        e = Event("V3", "11~15", w, "VBG",text)
+        print("Synsets for word \'%s\': " % e.get_verb())
         print(e.get_synset())
-        print("Derivational form for word \'%s\': %s" % (e.get_verb_text(), e.get_derivational_form()))
+        print("Derivational form for word \'%s\': %s" % (e.get_verb(), e.get_derivational_form()))
