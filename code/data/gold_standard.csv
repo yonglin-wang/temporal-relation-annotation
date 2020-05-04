@@ -1,3 +1,4 @@
+article,paragraph,text,E_id,fromID,fromText,toID,toText,relationship,fromSpan,fromVerb,fromPOS,toSpan,toVerb,toPOS
 /Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/Jeff/YFLNYT_001,P_0038.xml,"Mr. Loeser said he was helping clients assess the kind of attacks they could expect in a hard-fought campaign.
 ",E0,V0,said,V1,helping,after,11~15,said,VBD,23~30,helping,VBG
 /Users/loewi/Documents/GitHub/cs140-groupB-annotation-files/Jeff/YFLNYT_001,P_0004.xml,"“There is this sense that if Trump got it, why shouldn’t they?” said David Gergen, co-director of the Center for Public Leadership at Harvard Kennedy School and an adviser to four presidents. “They’ve been more successful, they have more experience, and they’ve run a public company, which is more equivalent to what a president does than a private company” like the Trump Organization.
