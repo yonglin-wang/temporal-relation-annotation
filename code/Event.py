@@ -34,9 +34,6 @@ class Event:
     def get_index(self):
         return self.index
     
-    def set_idex(self, start, text):
-        return len(word_tokenize(text[:start]))
-    
     def get_verb(self):
         return self.verb
 
@@ -48,6 +45,9 @@ class Event:
 
     def get_derivational_form(self):
         return self.derivational_form
+    
+    def set_idex(self, start, text):
+        return len(word_tokenize(text[:start]))
 
     def set_synset(self, word):
         return set(l.name() for syn in wn.synsets(word) for l in syn.lemmas())  # return set() or None if empty?
