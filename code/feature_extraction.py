@@ -3,6 +3,8 @@ Author Loewi, Yonglin
 extract 6 features from a given text string and two verbs
 """
 
+
+
 def extract_pos_tag(text, e1, e2):
     """
     return a list of part-of-speech (POS) tags from each individual verb and from its neighboring three words.
