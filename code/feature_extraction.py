@@ -28,25 +28,28 @@ for i, temp in enumerate(TEMPS):
 TEMPS_LEN = len(TEMPS)
 
 def extract_pos_tag(text, e1, e2):
+    return e1.get_verb_category(), e2.get_verb_category()
+    
+def extract_context_pos_tag(text, e1, e2):
     """
     return count vector of a list of part-of-speech (POS) tags from each individual verb and from its neighboring three words.
     """
     tokens = word_tokenize(text)
     tagged_words = pos_tag(tokens)
     idx1, idx2 = e1.get_index(), e2.get_index()
-    pos_list = []
+    before_1, after_1, before_2, after_2 = [], [], [], []
     for idx in [idx1, idx2]:
-        tags_before = tagged_words[idx-3 if idx-3 >=0 else 0 : idx]
-        tags_after = tagged_words[idx+1 : idx+4 if idx+4<len(tokens) else len(tokens)]
-        pos_list.extend([tag for _, tag in tags_before]) # tags before the verb
-        pos_list.extend([tag for _, tag in tags_after]) # tags after the verb
+        tags_before = tagged_words[idx-1 if idx-1 >=0 else 0 : idx]
+        tags_after = tagged_words[idx+1 : idx+2 if idx+2<len(tokens) else len(tokens)]
+        if idx == idx1:
+            before_1 = [tag for _, tag in tags_before][0] if [tag for _, tag in tags_before] else '<S>'# tags before the verb
+            after_1 = [tag for _, tag in tags_after][0] # tags after the verb
+        else:
+            before_2 = [tag for _, tag in tags_before][0]# tags before the verb
+            after_2 = [tag for _, tag in tags_after][0]# tags after the verb    
+
     
-    res = np.zeros((1,TAGS_LEN))
-    counter = collections.Counter(pos_list)
-    for pos in pos_list:
-        idx = TAGS_INDEX[pos]
-        res[0, idx] = counter[pos]
-    return res[0]
+    return before_1, after_1, before_2, after_2
 
 def extract_str_distance(text, e1, e2):
     """
@@ -56,22 +59,16 @@ def extract_str_distance(text, e1, e2):
 
 def extract_modal_verbs(text, e1, e2):
     """
-    return count vector of a list of the modal verbs between the event mention (i.e., will, would, can, could, may and might).
+    return count of the modal verbs between the event mention (i.e., will, would, can, could, may and might).
     """
-    tmp = []
+    count=0
     modals = set(MODALS)
     tokens = word_tokenize(text)
     intervals = tokens[e1.get_index()+1: e2.get_index()]
     for word in intervals:
         if word in modals:
-            tmp.append(word)
-            
-    res = np.zeros((1,MODALS_LEN))
-    counter = collections.Counter(tmp)
-    for mod in tmp:
-        idx = MODALS_INDEX[mod]
-        res[0, idx] = counter[mod]
-    return res[0]
+            count+=1
+    return count
 
 def extract_temp_connectives(text, e1, e2):
     """
@@ -90,7 +87,8 @@ def extract_temp_connectives(text, e1, e2):
     for t in tmp:
         idx = TEMPS_INDEX[t]
         res[0, idx] = counter[t]
-    return res[0]
+    before, after, since = res[0][0], res[0][1], res[0][2]
+    return before, after, since
 
 def have_common_syn(e1, e2):
     """
@@ -111,9 +109,9 @@ if __name__ == "__main__":
     data = pd.read_csv('./data/gold_standard.csv')
     print(len(data))
     df = pd.DataFrame(data, columns= ['text',"fromSpan","fromVerb", "fromPOS", "toSpan", "toVerb","toPOS"])
-    row = 0
+    row = 75
     text = df.loc[row,'text']
     e1 = Event(df.loc[row,'fromSpan'], df.loc[row,'fromVerb'], df.loc[row,'fromPOS'], text)
     e2 = Event(df.loc[row,'toSpan'], df.loc[row,'toVerb'], df.loc[row,'toPOS'], text)
-    print(extract_temp_connectives(text, e1, e2))
+    print(extract_pos_tag(text, e1, e2))
     print(have_common_der_form(e1, e2))
