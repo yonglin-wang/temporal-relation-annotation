@@ -1,18 +1,18 @@
-# Information for Annotators
-
-## Informtion for Grader
+# Informtion for Grader
 
 Hello! This is Group B and welcome to our GitHub Repository. 
 
 You can find the required submissions by clicking on the following links:
 
-- [The Gold Standard Corpus](/code/features_gold.csv)
+- [Final written report](/submissions/GroupB_FinalProjectWriteUp_COSI140B)
+- [Final presentation slides](/submissions/COSI140B.GroupB.FinalAnnotationProjectPresentation.pdf)
+- [The Gold Standard Corpus](/code/data/features_gold.csv) and [features extracted from the Gold Standard](/code/features_gold.csv)
 
-- The features extracted from the Gold Standard can be found in /code/data/gold_standard.csv
+- [A folder of code for the machine learning models](/code/models/)
 
-- Code for the models can be found under /code/models/.
+----
 
-- Presentation slides and the written report can be found under /submission. 
+# Information for Annotators
 
 ## Getting Started
 
