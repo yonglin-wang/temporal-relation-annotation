@@ -1,4 +1,4 @@
-# Informtion for Grader
+# Information for Grader
 
 Hello! This is Group B and welcome to our GitHub Repository. 
 
