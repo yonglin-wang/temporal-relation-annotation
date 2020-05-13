@@ -1,5 +1,19 @@
 # Information for Annotators
 
+## Informtion for Grader
+
+Hello! This is Group B and welcome to our GitHub Repository. 
+
+You can find the required submissions by clicking on the following links:
+
+- [The Gold Standard Corpus](/code/features_gold.csv)
+
+- The features extracted from the Gold Standard can be found in /code/data/gold_standard.csv
+
+- Code for the models can be found under /code/models/.
+
+- Presentation slides and the written report can be found under /submission. 
+
 ## Getting Started
 
 First, thank you for helping us with the annotation. Our fate is somewhat in your hands now (and vice versa). Go team!
