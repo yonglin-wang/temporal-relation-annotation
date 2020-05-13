@@ -4,7 +4,7 @@ Hello! This is Group B and welcome to our GitHub Repository.
 
 You can find the required submissions by clicking on the following links:
 
-- [Final written report](/submissions/GroupB_FinalProjectWriteUp_COSI140B)
+- [Final written report](/submissions/GroupB_FinalProjectWriteUp_COSI140B.pdf)
 - [Final presentation slides](/submissions/COSI140B.GroupB.FinalAnnotationProjectPresentation.pdf)
 - [The Gold Standard Corpus](/code/data/features_gold.csv) and [features extracted from the Gold Standard](/code/features_gold.csv)
 
