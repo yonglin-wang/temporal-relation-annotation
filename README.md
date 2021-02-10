@@ -1,4 +1,4 @@
-# Information for Grader
+# Information for Graders and Visitors
 
 Hello! This is Group B and welcome to our GitHub Repository. 
 
